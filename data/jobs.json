@@ -1,8 +1,64 @@
 {
-  "updatedAt": "2026-07-14T13:23:06.141Z",
-  "total": 8,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-07-14T19:11:54.600Z",
+  "total": 10,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-frontend-engineer-munich-438244",
+      "title": "Frontend Engineer (m/w/d)",
+      "company": "MediPulse",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/medipulse/frontend-engineer-munich-438244",
+      "description": "Du liebst sauberen Code, denkst in Komponenten und willst Interfaces bauen, die echten Impact haben? Dann komm zu MediPulse!\nHealthcare is broken. Das wollen wir ändern, und dafür suchen wir Dich!\nAls Frontend Engineer baust du die Oberfläche, mit der Ärzt:innen und Praxismanager:innen ihren Praxisa",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-14T17:30:25.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-it-consultant-insurance-nuremberg-195101",
+      "title": "IT-Consultant / Insurance (m/w/d)",
+      "company": "RGI S.p.A.",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/rgi-spa/it-consultant-insurance-nuremberg-195101",
+      "description": "Backend Developer – IT-Consultant (m/w/d)\nWer sind wir?\nNovum-RGI entwickelt innovative Softwarelösungen für den internationalen Versicherungsmarkt, mit Fokus auf Zentraleuropa und dem Qualitätsanspruch „Made in Germany“.\nMit 30 Jahren Erfahrung in der IT-Entwicklung bieten wir bewährte Methoden für",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-14T16:30:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-dozentin-fur-fachinformatik-anwendungsentwicklung-systemintegration-fur-edtech-startup-hamburg-48272",
+      "title": "Dozent*in für Fachinformatik (Anwendungsentwicklung / Systemintegration) für EdTech Startup",
+      "company": "Syntax Institut",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/dozentin-fur-fachinformatik-anwendungsentwicklung-systemintegration-fur-edtech-startup-hamburg-48272",
+      "description": "ÜBER DAS SYNTAX INSTITUT\nDas Syntax Institut ist ein schnell wachsendes EdTech-Unternehmen aus Berlin, das von erfolgreichen Unternehmern gegründet wurde. Unsere Mission ist es, Menschen praxisnah für gefragte Berufe in der Tech-Branche zu qualifizieren und sie erfolgreich in den Arbeitsmarkt zu int",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-14T15:00:24.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-146122",
+      "title": "Python & React Engineer with AI (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
+      "description": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and vert",
+      "tags": [
+        "Programming"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-14T12:55:07+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-full-stack-platform-engineer-munich-39238",
       "title": "Full Stack Platform Engineer (m/f/d)",
@@ -15,32 +71,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-14T09:03:17.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-android-engineer-berlin-241655",
-      "title": "Android Engineer",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/android-engineer-berlin-241655",
-      "description": "About the role\nAs an Android Engineer in SumUp's Hardware Tribe, you will be part of one of our small and highly skilled cross-functional teams and work together with Product Managers, Backend Engineers, iOS Engineers, Product Designers, and more. You will also be part of and collaborate on a global",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-07-13T23:45:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-developer-e-commerce-hamburg-211075",
-      "title": "Frontend Developer E-Commerce (w/m/d)",
-      "company": "Nordason",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/nordason/frontend-developer-e-commerce-hamburg-211075",
-      "description": "Nordason steht für durchdachtes Design, klare Linien und Qualität.\nUnser Webshop ist der zentrale Teil unseres Geschäftsmodells. Deshalb entwickeln wir ihn nicht über isolierte Features weiter, sondern betrachten das Frontend ganzheitlich - von Performance und Nutzerführung über Produktdarstellung u",
-      "tags": [
-        "Web Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-13T16:00:27.000Z",
       "source": "Arbeitnow"
     },
     {
