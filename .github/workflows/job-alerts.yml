@@ -1,0 +1,50 @@
+name: Job Alerts
+
+on:
+  # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+  schedule:
+    - cron: '0 */6 * * *'
+  # Also let you trigger it manually from the Actions tab
+  workflow_dispatch:
+
+# Give the workflow permission to commit updated jobs.json back to the repo
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: npm ci
+
+      - name: Run scraper
+        working-directory: scraper
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+        run: node index.js
+
+      - name: Commit updated jobs
+        run: |
+          git config user.name  "job-alerts-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update jobs $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
