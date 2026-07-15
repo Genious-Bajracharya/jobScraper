@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-07-15T07:59:29.291Z",
-  "total": 9,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-07-15T13:26:18.665Z",
+  "total": 10,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-software-engineer-software-systems-munich-256310",
+      "title": "Full Stack Software Engineer (m/w/x) Software Systems",
+      "company": "K-tronik GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/full-stack-software-engineer-software-systems-munich-256310",
+      "description": "Projektbeschreibung:\nTechnologie begeistert Sie? Uns auch! Zur Verstärkung unseres Expertenteams bei unserem Kunden aus der Funk- und Kommunikationsbranche suchen wir einen Full Stack Software Engineer (m/w/x) Software Systems in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie persönlich ken",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-15T11:30:51.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-referent-digitale-transformation-frankfurt-am-main-213478",
+      "title": "Referent Digitale Transformation (m/w/d)",
+      "company": "Nau Steuerberater Partnerschaft mbB",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/nau-steuerberater-partnerschaft-mbb/referent-digitale-transformation-frankfurt-am-main-213478",
+      "description": "Sie kümmern sich um unsere Mandanten. Wir kümmern uns um Sie.\nKlingt nach einem guten Deal? Dann sollten wir uns kennenlernen.\nReferent Digitale Transformation (m/w/d) gesucht.\nWer wir sind.\nKompetente Beratung, neu und „NAU“ gedacht. Getreu unserem Grundsatz beraten wir sowohl national als auch int",
+      "tags": [
+        "Finance"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-15T08:00:32.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-frontend-engineer-munich-438244",
       "title": "Frontend Engineer (m/w/d)",
@@ -58,20 +86,6 @@
       "salary": null,
       "postedAt": "2026-07-14T12:55:07+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-full-stack-platform-engineer-munich-39238",
-      "title": "Full Stack Platform Engineer (m/f/d)",
-      "company": "Nomadic GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/nomadic-gmbh/full-stack-platform-engineer-munich-39238",
-      "description": "At Nomadic we build autonomous drones that land and recharge on high-voltage power lines. Our drones sit on live 380kV lines today, harvest energy from the grid, and deliver continuous monitoring data to grid operators across Europe and America. As Full Stack Platform Engineer you turn that sensor d",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-14T09:03:17.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-149243",
