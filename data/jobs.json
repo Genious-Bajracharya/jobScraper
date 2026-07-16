@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-16T02:08:04.699Z",
-  "total": 12,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-07-16T08:04:45.295Z",
+  "total": 13,
+  "newSinceLastRun": 1,
   "jobs": [
     {
       "id": "arbeitnow-pflichtpraktikum-backend-softwareentwicklung-ki-python-apis-medtech-berlin-247930",
@@ -30,6 +30,30 @@
       "salary": null,
       "postedAt": "2026-07-15T11:30:51.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1134841",
+      "title": "Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto",
+      "company": "Nibo",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841",
+      "description": "Anunciada 00:00:00. Programa de EstÃ¡gio - FormaÃ§Ã£o em Vendas - 100% RemotoO Programa de formaÃ§Ã£o em vendas do Nibo temâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **SOUNDLY** and tag RMTcyLjIxNS4yMDkuMjQw when applying to show you read the job post completely (#",
+      "tags": [
+        "exec",
+        "front end",
+        "design",
+        "react",
+        "react.js",
+        "backend",
+        "javascript",
+        "c",
+        "git",
+        "digital nomad",
+        "dev"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-15T02:11:35+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1134878",
