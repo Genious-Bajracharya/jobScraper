@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-17T02:11:19.015Z",
-  "total": 22,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-07-17T08:01:40.305Z",
+  "total": 21,
+  "newSinceLastRun": 1,
   "jobs": [
     {
       "id": "jobicy-142198",
@@ -32,18 +32,22 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-referentin-fur-social-media-marketing-in-teilzeit-20-25-stunden-bonn-15980",
-      "title": "Referent:in für Social Media & Marketing in Teilzeit (20-25 Stunden)",
-      "company": "Wohnen im Eigentum e.V.",
-      "location": "Bonn",
-      "url": "https://www.arbeitnow.com/jobs/companies/wohnen-im-eigentum-ev/referentin-fur-social-media-marketing-in-teilzeit-20-25-stunden-bonn-15980",
-      "description": "Wohnen im Eigentum (WiE) ist ein bundesweiter Verbraucherschutzverband mit über 16.500 Mitgliedern und Sitz in Bonn. Der Verband tritt für die Interessen und Rechte von privaten Immobilieneigentümern, insbesondere von Wohnungseigentümern und Wohnungseigentümergemeinschaften ein. WiE fordert mehr Ver",
+      "id": "remoteok-1134947",
+      "title": "COURIER",
+      "company": "Doctors Hospital",
+      "location": "Nassau, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
+      "description": "Job Summary:The Clinical Courierâs primary responsibility is to affect efficient delivery and collection of Doctors Hospital resources whether of a clinical, logistical support or human resources nature. This Associate must act as an active member of the Transport Team.Responsibilities:Receive med",
       "tags": [
-        "Social Media Manager"
+        "react",
+        "customer support",
+        "math",
+        "medical",
+        "non tech"
       ],
       "salary": null,
-      "postedAt": "2026-07-16T09:00:26.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-16T00:00:00+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1134879",
@@ -51,7 +55,7 @@
       "company": "Yukon-Kuskokwim Health Corporation",
       "location": "Alaska, ",
       "url": "https://remoteOK.com/remote-jobs/remote-medical-support-technician-scheduler-outpatient-yukon-kuskokwim-health-corporation-1134879",
-      "description": "Posted 4:45:51 PM. REMOTE* , AlaskaWe are working together to achieve excellent health. Come join us!Theâ¦See this and similar jobs on LinkedIn.Please mention the word **ADORINGLY** and tag RMTcyLjE4My4xNTcuMTgz when applying to show you read the job post completely (#RMTcyLjE4My4xNTcuMTgz). This i",
+      "description": "Posted 4:45:51 PM. REMOTE* , AlaskaWe are working together to achieve excellent health. Come join us!Theâ¦See this and similar jobs on LinkedIn.Please mention the word **ADORINGLY** and tag RMTcyLjIwOC4xNTIuMjEy when applying to show you read the job post completely (#RMTcyLjIwOC4xNTIuMjEy). This i",
       "tags": [
         "design",
         "marketing",
@@ -137,7 +141,7 @@
       "company": "Empire Life",
       "location": "Remote",
       "url": "https://remoteOK.com/remote-jobs/remote-project-manager-empire-life-1134867",
-      "description": "Posted 1:21:26 PM. Project ManagerLocation: Remote, Canada Empire life is looking to hire a Project Manager to joinâ¦See this and similar jobs on LinkedIn.Please mention the word **COMELY** and tag RMTcyLjE4My4xNTcuMTgz when applying to show you read the job post completely (#RMTcyLjE4My4xNTcuMTgz)",
+      "description": "Posted 1:21:26 PM. Project ManagerLocation: Remote, Canada Empire life is looking to hire a Project Manager to joinâ¦See this and similar jobs on LinkedIn.Please mention the word **COMELY** and tag RMTcyLjIwOC4xNTIuMjEy when applying to show you read the job post completely (#RMTcyLjIwOC4xNTIuMjEy)",
       "tags": [
         "speech",
         "exec",
@@ -234,7 +238,7 @@
       "company": "Nibo",
       "location": "Brasil, ",
       "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841",
-      "description": "Anunciada 00:00:00. Programa de EstÃ¡gio - FormaÃ§Ã£o em Vendas - 100% RemotoO Programa de formaÃ§Ã£o em vendas do Nibo temâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **SOUNDLY** and tag RMTcyLjE4My4xNTcuMTgz when applying to show you read the job post completely (#",
+      "description": "Anunciada 00:00:00. Programa de EstÃ¡gio - FormaÃ§Ã£o em Vendas - 100% RemotoO Programa de formaÃ§Ã£o em vendas do Nibo temâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **SOUNDLY** and tag RMTcyLjIwOC4xNTIuMjEy when applying to show you read the job post completely (#",
       "tags": [
         "exec",
         "front end",
@@ -653,55 +657,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-13T16:13:23+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1134926",
-      "title": "Business Intelligence Developer",
-      "company": "Base.com",
-      "location": "GdaÅsk, GdaÅsk, Woj. Pomorskie, Polska",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-intelligence-developer-base-com-1134926",
-      "description": "At Base, our mission is to empower entrepreneurs to succeed in the global e-commerce landscape. We provide a technology platform that revolutionizes their online sales operations.Our international team, spanning from Europe to the Americas, delivers a comprehensive, all-in-one solution to thousands ",
-      "tags": [
-        "mobile",
-        "engineer",
-        "exec",
-        "dev",
-        "junior",
-        "digital nomad",
-        "analyst",
-        "customer support",
-        "marketing",
-        "ops",
-        "excel",
-        "stats",
-        "sales",
-        "python",
-        "consulting",
-        "defi",
-        "react",
-        "react.js",
-        "technical",
-        "web dev",
-        "speech",
-        "javascript",
-        "finance",
-        "content writing",
-        "bus dev",
-        "medical",
-        "full time",
-        "part time",
-        "designer",
-        "design",
-        "amazon",
-        "cloud",
-        "git",
-        "microsoft",
-        "ecommerce",
-        "shopify"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-13T14:45:36+00:00",
       "source": "RemoteOK"
     },
     {
