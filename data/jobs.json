@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-19T13:06:17.579Z",
-  "total": 18,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-07-19T18:59:21.697Z",
+  "total": 17,
+  "newSinceLastRun": 0,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
+      "title": "Junior Fullstack Engineer (m/w/d) - Festanstellung, Vollzeit München",
+      "company": "ticketbro",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/ticketbro/junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
+      "description": "Wir bauen die intuitivste mobile Buchungsplattform, die Einzelpersonen, kleine Unternehmen und Konzerne mit ihren Kunden verbindet. Unser Ziel: In 5 Minuten online — für jeden, überall.\nDie cloudbasierte, mobile-first Buchungs- und Ticketing-Plattform von ticketbro bietet digital getriebenen Unterne",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-19T12:29:02.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "remoteok-1135019",
       "title": "Expression Of Interest",
@@ -62,20 +76,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-17T22:00:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
-      "title": "Junior Fullstack Engineer (m/w/d) - Festanstellung, Vollzeit München",
-      "company": "ticketbro",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ticketbro/junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
-      "description": "Wir bauen die intuitivste mobile Buchungsplattform, die Einzelpersonen, kleine Unternehmen und Konzerne mit ihren Kunden verbindet. Unser Ziel: In 5 Minuten online — für jeden, überall.\nDie cloudbasierte, mobile-first Buchungs- und Ticketing-Plattform von ticketbro bietet digital getriebenen Unterne",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-17T18:00:25.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -273,7 +273,7 @@
       "company": "YouFibre",
       "location": "Remote, ",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
-      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuMTA5Ljk1LjEwMQ== when applying to show you read the job post completely (#RMjAuMTA5Ljk1LjEwMQ==). This is a bet",
+      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMTcyLjIxMi4xNzIuMjQ1 when applying to show you read the job post completely (#RMTcyLjIxMi4xNzIuMjQ1). This is a bet",
       "tags": [
         "mobile",
         "engineer",
@@ -350,24 +350,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-16T12:42:32+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1134947",
-      "title": "COURIER",
-      "company": "Doctors Hospital",
-      "location": "Nassau, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
-      "description": "Job Summary:The Clinical Courierâs primary responsibility is to affect efficient delivery and collection of Doctors Hospital resources whether of a clinical, logistical support or human resources nature. This Associate must act as an active member of the Transport Team.Responsibilities:Receive med",
-      "tags": [
-        "react",
-        "customer support",
-        "math",
-        "medical",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-16T00:00:00+00:00",
       "source": "RemoteOK"
     },
     {
