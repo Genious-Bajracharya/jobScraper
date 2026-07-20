@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-07-19T18:59:21.697Z",
-  "total": 17,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-07-20T02:32:20.815Z",
+  "total": 18,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-software-developer-munchen-452436",
+      "title": "Junior Software Developer - (m/w/d)",
+      "company": "HanseSecure GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-452436",
+      "description": "Backend, APIs, Automatisierung &amp; interne ToolsWir entwickeln interne Tools, API-Integrationen und Automatisierungen für IT-Security- und Beratungsprozesse.Dabei geht es nicht um Demo-Projekte oder Software für die Schublade, sondern um Lösungen, die im Alltag funktionieren: Daten verarbeiten, Sy",
+      "tags": [
+        "Internet and software",
+        "high school or equivalent"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-19T21:20:11.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
       "title": "Junior Fullstack Engineer (m/w/d) - Festanstellung, Vollzeit München",
@@ -273,7 +288,7 @@
       "company": "YouFibre",
       "location": "Remote, ",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
-      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMTcyLjIxMi4xNzIuMjQ1 when applying to show you read the job post completely (#RMTcyLjIxMi4xNzIuMjQ1). This is a bet",
+      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuMTI3LjIxNS4xODg= when applying to show you read the job post completely (#RMjAuMTI3LjIxNS4xODg=). This is a bet",
       "tags": [
         "mobile",
         "engineer",
