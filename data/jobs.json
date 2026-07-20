@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-20T02:32:20.815Z",
+  "updatedAt": "2026-07-20T08:49:53.147Z",
   "total": 18,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "jobicy-144179",
+      "title": "Golang Engineer",
+      "company": "Plain Concepts",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/144179-golang-engineer",
+      "description": "We are seeking a Senior Golang Engineer with strong expertise in event-driven architectures, distributed systems, and modern AI-assisted software engineering practices. The ideal candidate has deep hands-on experience with Apache Kafka, high-performance backend engineering, and the ability to design",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T03:10:05+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-junior-software-developer-munchen-452436",
       "title": "Junior Software Developer - (m/w/d)",
@@ -288,7 +302,7 @@
       "company": "YouFibre",
       "location": "Remote, ",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
-      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuMTI3LjIxNS4xODg= when applying to show you read the job post completely (#RMjAuMTI3LjIxNS4xODg=). This is a bet",
+      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuNTcuMTk4LjIyNA== when applying to show you read the job post completely (#RMjAuNTcuMTk4LjIyNA==). This is a bet",
       "tags": [
         "mobile",
         "engineer",
@@ -379,20 +393,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-14T12:55:07+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-149243",
-      "title": "Freelance Mobile App Developer (iOS / Android)",
-      "company": "Mindrift",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/149243-freelance-mobile-app-developer-ios-android-2",
-      "description": "Mindrift is looking for skilled Mobile App Developers (React Native, Flutter, Swift, or Kotlin) to join the Tendem project (https://tendem.ai/) and build native and cross-platform mobile applications within our hybrid AI + human environment. In this role, as an AI Pilot – that's how we refer to this",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-13T14:26:05+00:00",
       "source": "Jobicy"
     },
     {
