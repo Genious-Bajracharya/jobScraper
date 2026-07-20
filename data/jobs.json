@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-20T13:55:41.899Z",
-  "total": 19,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-07-20T19:38:44.298Z",
+  "total": 18,
+  "newSinceLastRun": 1,
   "jobs": [
     {
       "id": "arbeitnow-frontend-softwareentwickler-braunschweig-186839",
@@ -76,19 +76,30 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-junior-software-developer-munchen-452436",
-      "title": "Junior Software Developer - (m/w/d)",
-      "company": "HanseSecure GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-452436",
-      "description": "Backend, APIs, Automatisierung &amp; interne ToolsWir entwickeln interne Tools, API-Integrationen und Automatisierungen für IT-Security- und Beratungsprozesse.Dabei geht es nicht um Demo-Projekte oder Software für die Schublade, sondern um Lösungen, die im Alltag funktionieren: Daten verarbeiten, Sy",
+      "id": "remoteok-1135061",
+      "title": "Applied AI Product Strategy & Revenue Lead",
+      "company": "Prime Intellect",
+      "location": "San Francisco",
+      "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
+      "description": "Applied AI Product Strategy &amp; Revenue LeadOwn Your IntelligencePrime Intellect is building the open superintelligence stack: the infrastructure frontier AI labs build internally, made available to every ambitious AI team. Our platform, Lab, unifies compute, environments, evaluations, secure sand",
       "tags": [
-        "Internet and software",
-        "high school or equivalent"
+        "sys admin",
+        "education",
+        "full stack",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "finance",
+        "legal",
+        "sales",
+        "golang",
+        "engineer",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-07-19T21:20:11.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-19T16:00:03+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135019",
@@ -317,7 +328,7 @@
       "company": "YouFibre",
       "location": "Remote, ",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
-      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuMTg2LjIzOC4zMw== when applying to show you read the job post completely (#RMjAuMTg2LjIzOC4zMw==). This is a bet",
+      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuMTY4Ljk0LjY1 when applying to show you read the job post completely (#RMjAuMTY4Ljk0LjY1). This is a beta featur",
       "tags": [
         "mobile",
         "engineer",
@@ -366,35 +377,6 @@
       "salary": null,
       "postedAt": "2026-07-16T15:00:03+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "remoteok-1134950",
-      "title": "Exuma Operator",
-      "company": "Seven Seas Water Group",
-      "location": "Exuma, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-exuma-operator-seven-seas-water-group-1134950",
-      "description": "DescriptionSeven Seas Water GroupSeven Seas Water Group (www.sevenseaswater.com) is a portfolio company owned by investment funds managed by EQT. Headquartered in Tampa, with operations across the U.S., Caribbean, and Latin America, Seven Seas Water Group (SSWG) delivers annually over 20 billion gal",
-      "tags": [
-        "react",
-        "customer support",
-        "math",
-        "medical",
-        "non tech",
-        "education",
-        "technical",
-        "finance",
-        "ops",
-        "legal",
-        "hr",
-        "sys admin",
-        "supervisor",
-        "exec",
-        "senior",
-        "excel"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-16T12:42:32+00:00",
-      "source": "RemoteOK"
     },
     {
       "id": "jobicy-146122",
