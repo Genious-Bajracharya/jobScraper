@@ -1,8 +1,66 @@
 {
-  "updatedAt": "2026-07-20T08:49:53.147Z",
-  "total": 18,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-07-20T13:55:41.899Z",
+  "total": 19,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-186839",
+      "title": "Frontend Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-186839",
+      "description": "Begeisterst du dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in deiner Karriere.\nAls vorausschauend agierender IT-Dienstleister realisieren wir bundesweit anspruchsvolle Projekt",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T12:01:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-456113",
+      "title": "Fullstack Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-456113",
+      "description": "Du willst an zeitgemäßen Softwarelösungen mitwirken – von der Backend-Logik über Schnittstellen bis zur Benutzeroberfläche? Du bewegst dich sicher in skalierbaren Systemlandschaften und agilen Teamstrukturen? Dann bist du bei TecFox richtig aufgehoben.\nAls innovativer IT-Dienstleister mit Sitz in de",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T12:01:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-mobile-engineer-react-native-berlin-187747",
+      "title": "Founding Mobile Engineer (React Native)",
+      "company": "acemate.ai",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/founding-mobile-engineer-react-native-berlin-187747",
+      "description": "acemate is building an AI learning &#x26; teaching platform for higher and further education institutions. We have strong traction, secured funding and are entering an exciting growth phase. We're looking for a passionate Founding Mobile Engineer (React Native) to drive our product forward and help ",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T11:30:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999",
+      "title": "Backend Developer Kotlin & Java (m/w/d) | bis 85.000 €",
+      "company": "buesken strategy & consulting",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999",
+      "description": "Für ein wachsendes Technologieunternehmen in Düsseldorf suche ich einen Kotlin Backend Developer (m/w/d), der moderne Softwarelösungen mitgestalten und sich langfristig in einem zukunftsorientierten Umfeld weiterentwickeln möchte.\nDich erwartet ein junges, dynamisches Team mit kurzen Entscheidungswe",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T09:30:40.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-144179",
       "title": "Golang Engineer",
@@ -30,20 +88,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-19T21:20:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
-      "title": "Junior Fullstack Engineer (m/w/d) - Festanstellung, Vollzeit München",
-      "company": "ticketbro",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ticketbro/junior-fullstack-engineer-festanstellung-vollzeit-munchen-munich-18468",
-      "description": "Wir bauen die intuitivste mobile Buchungsplattform, die Einzelpersonen, kleine Unternehmen und Konzerne mit ihren Kunden verbindet. Unser Ziel: In 5 Minuten online — für jeden, überall.\nDie cloudbasierte, mobile-first Buchungs- und Ticketing-Plattform von ticketbro bietet digital getriebenen Unterne",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-19T12:29:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -77,35 +121,6 @@
       "salary": "$60000-$80000",
       "postedAt": "2026-07-18T08:05:08+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "arbeitnow-backend-developer-php-postgresql-hamburg-472726",
-      "title": "Backend Developer (m/w/d)  PHP  PostgreSQL",
-      "company": "Pakajo GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/pakajo-gmbh/backend-developer-php-postgresql-hamburg-472726",
-      "description": "Die Welt versendet – und wir machen es einfach.\nPakajo digitalisiert den grenzüberschreitenden Paketversand. Mit unserem „Glocal“-Modell verbinden wir nationale Postgesellschaften in 23 Ländern über 441 Korridore, betreiben eigene konsolidierte Linehauls und übermitteln Zolldaten vollelektronisch üb",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-18T07:30:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-developer-intern-unpaid-puchheim-124552",
-      "title": "Frontend Developer Intern (Unpaid)",
-      "company": "HOPn UG",
-      "location": "Puchheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/hopn-ug/frontend-developer-intern-unpaid-puchheim-124552",
-      "description": "We are looking for a motivated Frontend Developer Intern to join our team. This is an unpaid internship for candidates who want to gain real-world experience working on modern web applications.\n\nLocation: Remote\nCompensation: Unpaid Internship\n\nTasks\nResponsibilities\n\nBuild and maintain responsive f",
-      "tags": [
-        "Remote",
-        "Web Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-17T22:00:22.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1134989",
@@ -302,7 +317,7 @@
       "company": "YouFibre",
       "location": "Remote, ",
       "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925",
-      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuNTcuMTk4LjIyNA== when applying to show you read the job post completely (#RMjAuNTcuMTk4LjIyNA==). This is a bet",
+      "description": "Department: Marketing\nLocation: Remote\nCompensation: Â£35,000 - Â£40,000 / year\nDescription\nGraphicâ¦See this and similar jobs on LinkedIn.Please mention the word **PRECISE** and tag RMjAuMTg2LjIzOC4zMw== when applying to show you read the job post completely (#RMjAuMTg2LjIzOC4zMw==). This is a bet",
       "tags": [
         "mobile",
         "engineer",
