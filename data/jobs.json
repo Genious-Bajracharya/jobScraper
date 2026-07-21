@@ -1,64 +1,20 @@
 {
-  "updatedAt": "2026-07-21T08:19:20.207Z",
-  "total": 16,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-07-21T13:28:15.206Z",
+  "total": 12,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-186839",
-      "title": "Frontend Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-186839",
-      "description": "Begeisterst du dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in deiner Karriere.\nAls vorausschauend agierender IT-Dienstleister realisieren wir bundesweit anspruchsvolle Projekt",
+      "id": "arbeitnow-full-stack-software-engineer-software-systems-munich-243719",
+      "title": "Full Stack Software Engineer (m/w/d) Software Systems",
+      "company": "citema systems GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/full-stack-software-engineer-software-systems-munich-243719",
+      "description": "Driving Digital Technologies\nDen digitalen Wandel begleiten und aktiv mitgestalten – unsere Mission bei citema. Mit unseren innovativen Ansätzen beraten und unterstützen wir unsere Kunden in den Technologiefeldern Cyber Security, KI und Blockchain. Ebenso gehört die Umsetzung system- und sicherheits",
       "tags": [
-        "Remote",
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-07-20T12:01:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-456113",
-      "title": "Fullstack Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-456113",
-      "description": "Du willst an zeitgemäßen Softwarelösungen mitwirken – von der Backend-Logik über Schnittstellen bis zur Benutzeroberfläche? Du bewegst dich sicher in skalierbaren Systemlandschaften und agilen Teamstrukturen? Dann bist du bei TecFox richtig aufgehoben.\nAls innovativer IT-Dienstleister mit Sitz in de",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-20T12:01:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-mobile-engineer-react-native-berlin-187747",
-      "title": "Founding Mobile Engineer (React Native)",
-      "company": "acemate.ai",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/acemateai/founding-mobile-engineer-react-native-berlin-187747",
-      "description": "acemate is building an AI learning &#x26; teaching platform for higher and further education institutions. We have strong traction, secured funding and are entering an exciting growth phase. We're looking for a passionate Founding Mobile Engineer (React Native) to drive our product forward and help ",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-20T11:30:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999",
-      "title": "Backend Developer Kotlin & Java (m/w/d) | bis 85.000 €",
-      "company": "buesken strategy & consulting",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/buesken-strategy-consulting/backend-developer-kotlin-java-bis-85000-eur-dusseldorf-320999",
-      "description": "Für ein wachsendes Technologieunternehmen in Düsseldorf suche ich einen Kotlin Backend Developer (m/w/d), der moderne Softwarelösungen mitgestalten und sich langfristig in einem zukunftsorientierten Umfeld weiterentwickeln möchte.\nDich erwartet ein junges, dynamisches Team mit kurzen Entscheidungswe",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-20T09:30:40.000Z",
+      "postedAt": "2026-07-21T09:00:30.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -273,30 +229,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-16T20:10:03+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1134949",
-      "title": "Merchandiser",
-      "company": "Brydens Antigua",
-      "location": "St. John's, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-merchandiser-brydens-antigua-1134949",
-      "description": "CAREER OPPORTUNITYA unique opportunity with a distributor in Antigua for a suitably qualified:MERCHANDISERThe successful candidate MUST possess the following:Â·&nbsp;&nbsp;Must have completed secondary education with 5 CXC passes including English and Math. &nbsp;Â·&nbsp;&nbsp;Excellent communicatio",
-      "tags": [
-        "react",
-        "customer support",
-        "math",
-        "medical",
-        "non tech",
-        "education",
-        "technical",
-        "finance",
-        "ops",
-        "legal",
-        "hr"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-16T18:28:37+00:00",
       "source": "RemoteOK"
     },
     {
