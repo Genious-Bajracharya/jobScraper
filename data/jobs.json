@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-07-21T19:13:07.265Z",
+  "updatedAt": "2026-07-22T02:08:44.045Z",
   "total": 11,
-  "newSinceLastRun": 1,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
+      "title": "SEO Manager / SEA-Manager - Schwerpunkt SEO (w/m/d)",
+      "company": "Stecker Express GmbH",
+      "location": "Reutlingen",
+      "url": "https://www.arbeitnow.com/jobs/companies/stecker-express-gmbh/seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
+      "description": "Wir sind Top Company 2022, 2023, 2024, 2025 und 2026 und zählen damit weiterhin zu den beliebtesten fünf Prozent der Arbeitgeber in Deutschland, Österreich und der Schweiz.\nDie Stecker Express GmbH ist ein Familienunternehmen in zweiter Generation. Seit 1995 beliefern wir über 10.000 Kunden aus der ",
+      "tags": [
+        "Online Marketing"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-21T18:00:58.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-149527",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-21T16:19:31+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-full-stack-software-engineer-software-systems-munich-243719",
       "title": "Full Stack Software Engineer (m/w/d) Software Systems",
@@ -16,6 +44,21 @@
       "salary": null,
       "postedAt": "2026-07-21T09:00:30.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1135124",
+      "title": "Leeds",
+      "company": "Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸",
+      "location": "Wideopen, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-leeds-suzuki-garphyttan-wire-suzhou-co-ltd-1135124",
+      "description": "Open applicationAre you interested in working with us?Suzuki Garphyttan site Leeds is constantly looking for driven and committed employees with industrial experience or a technical background. We offer opportunities both in production and in white-collar roles.We regularly receive expressions of in",
+      "tags": [
+        "technical",
+        "recruiter"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T23:33:09+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135102",
@@ -106,87 +149,6 @@
       "salary": "$60000-$80000",
       "postedAt": "2026-07-18T08:05:08+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1134989",
-      "title": "Digital Media Specialist",
-      "company": "Rose, Klein &amp; Marias",
-      "location": "Sacramento, Sacramento, California, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-digital-media-specialist-rose-klein-amp-marias-1134989",
-      "description": "DescriptionTerm of Employment: Full-Time, ExemptReports To: Digital Media ManagerUnion: Bargaining Unit Position, Nonprofit Professional Employees Union (NPEU)Location: Remote (U.S. Based)Who We AreThe Animal Legal Defense Fundâs mission is to protect the lives and advance the interests of animals",
-      "tags": [
-        "part time",
-        "hr",
-        "medical",
-        "exec",
-        "design",
-        "salesforce",
-        "customer support",
-        "dev",
-        "copywriting",
-        "testing",
-        "travel",
-        "speech",
-        "video",
-        "content writing",
-        "marketing",
-        "stats",
-        "sales",
-        "social media",
-        "digital nomad",
-        "recruiter",
-        "finance",
-        "microsoft",
-        "excel",
-        "education",
-        "art direction",
-        "ops",
-        "full time",
-        "sys admin",
-        "wordpress",
-        "teaching",
-        "web dev",
-        "javascript",
-        "c",
-        "css",
-        "html",
-        "drupal",
-        "seo",
-        "ads",
-        "mobile",
-        "legal"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-17T07:51:58+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-142198",
-      "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
-      "company": "Binance",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
-      "description": "Binance is the leading global blockchain ecosystem and cryptocurrency infrastructure provider whose suite of financial products includes the world’s largest digital-asset exchange.Our mission is to accelerate cryptocurrency adoption and increase the freedom of money. If you’re looking for a fast-pac",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-16T15:00:03+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-146122",
-      "title": "Python & React Engineer with AI (Remote, Latam)",
-      "company": "Kubikware",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2",
-      "description": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and vert",
-      "tags": [
-        "Programming"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-14T12:55:07+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remotive-1680495",
