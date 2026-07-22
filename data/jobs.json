@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-22T08:20:19.167Z",
-  "total": 12,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-07-22T13:40:16.597Z",
+  "total": 11,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-backend-engineer-pos-berlin-431352",
@@ -13,20 +13,6 @@
       "tags": [],
       "salary": null,
       "postedAt": "2026-07-22T06:45:21.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
-      "title": "SEO Manager / SEA-Manager - Schwerpunkt SEO (w/m/d)",
-      "company": "Stecker Express GmbH",
-      "location": "Reutlingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/stecker-express-gmbh/seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
-      "description": "Wir sind Top Company 2022, 2023, 2024, 2025 und 2026 und zählen damit weiterhin zu den beliebtesten fünf Prozent der Arbeitgeber in Deutschland, Österreich und der Schweiz.\nDie Stecker Express GmbH ist ein Familienunternehmen in zweiter Generation. Seit 1995 beliefern wir über 10.000 Kunden aus der ",
-      "tags": [
-        "Online Marketing"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-21T18:00:58.000Z",
       "source": "Arbeitnow"
     },
     {
