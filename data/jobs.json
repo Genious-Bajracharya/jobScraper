@@ -1,18 +1,48 @@
 {
-  "updatedAt": "2026-07-22T13:40:16.597Z",
+  "updatedAt": "2026-07-22T19:06:50.535Z",
   "total": 11,
-  "newSinceLastRun": 0,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-pos-berlin-431352",
-      "title": "Backend Engineer - POS",
-      "company": "SumUp",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-pos-berlin-431352",
-      "description": "SumUp's Point-of-Sale (POS) solution empowers cafes, shops, bars, hair salons, and other businesses to operate efficiently and grow. It offers a wide range of features, including product catalogs, inventory management, business analytics, compliance support, and loyalty tools.\nAs a Backend Engineer ",
-      "tags": [],
+      "id": "arbeitnow-werkstudentin-fur-social-media-marketing-kiel-184319",
+      "title": "Werkstudent:in (m/w/d) für (Social-Media-) Marketing",
+      "company": "Michelsen Gebäude- und Liegenschaftsmanagement GmbH",
+      "location": "Kiel",
+      "url": "https://www.arbeitnow.com/jobs/companies/michelsen-gebaude-und-liegenschaftsmanagement-gmbh/werkstudentin-fur-social-media-marketing-kiel-184319",
+      "description": "Du hast Lust, nicht nur Content zu posten, sondern eine Marke aktiv mit aufzubauen? Dann bist du bei uns genau richtig!\nWir sind die Michelsen Gebäude- und Liegenschaftsmanagement GmbH, ein inhabergeführtes Familienunternehmen aus Kiel und kümmern uns täglich darum, Immobilien sauber, gepflegt und s",
+      "tags": [
+        "Marketing and Communication"
+      ],
       "salary": null,
-      "postedAt": "2026-07-22T06:45:21.000Z",
+      "postedAt": "2026-07-22T13:00:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-oder-praxissemester-als-full-stack-developer-augsburg-428414",
+      "title": "Werkstudent oder Praxissemester als Full Stack Developer  (m/w/d)",
+      "company": "uniqbit AG",
+      "location": "Augsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/uniqbit-ag/werkstudent-oder-praxissemester-als-full-stack-developer-augsburg-428414",
+      "description": "Bei UNIQBIT entwickeln wir intuitive Apps, passgenaue Plattformen und performante Weblösungen. Wir automatisieren Prozesse mit maßgeschneiderten BI-Anwendungen, implementieren innovative eCommerce-Lösungen, optimieren IT-Infrastrukturen und beraten Unternehmen strategisch auf ihrem Weg zur digitalen",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-22T12:00:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-augsburg-148333",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "uniqbit AG",
+      "location": "Augsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/uniqbit-ag/full-stack-developer-augsburg-148333",
+      "description": "Bei UNIQBIT entwickeln wir intuitive Apps, passgenaue Plattformen und performante Weblösungen. Wir automatisieren Prozesse mit maßgeschneiderten BI-Anwendungen, implementieren innovative eCommerce-Lösungen, optimieren IT-Infrastrukturen und beraten Unternehmen strategisch auf ihrem Weg zur digitalen",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-22T12:00:32.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -121,38 +151,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-19T16:00:03+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135019",
-      "title": "Expression Of Interest",
-      "company": "White Peak Digital",
-      "location": "High Peak, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-white-peak-digital-1135019",
-      "description": "Weâre always looking for great people to join our young and growing at White Peak Digital so if youâre interested weâd love to hear from you.If youâd like to find out more about our current Australian team, you can do so here.Ready to join our cast?Please mention the word **LUXURIATE** and t",
-      "tags": [
-        "engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-18T09:08:18+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135014",
-      "title": "React Native Engineer",
-      "company": "HelpBnk",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
-      "description": "About usAt HelpBnk, we donât just build software; we build infrastructure for a future where everyone has the agency to follow their dreams. Co-founded by Simon Squibb, we are on a mission to Free Humanity from the trap of unfulfilling work and the looming challenges of AI-driven automation.We are",
-      "tags": [
-        "dev",
-        "react native",
-        "mobile",
-        "iOS",
-        "android"
-      ],
-      "salary": "$60000-$80000",
-      "postedAt": "2026-07-18T08:05:08+00:00",
       "source": "RemoteOK"
     },
     {
