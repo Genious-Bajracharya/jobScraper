@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-07-22T02:08:44.045Z",
-  "total": 11,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-07-22T08:20:19.167Z",
+  "total": 12,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-pos-berlin-431352",
+      "title": "Backend Engineer - POS",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-pos-berlin-431352",
+      "description": "SumUp's Point-of-Sale (POS) solution empowers cafes, shops, bars, hair salons, and other businesses to operate efficiently and grow. It offers a wide range of features, including product catalogs, inventory management, business analytics, compliance support, and loyalty tools.\nAs a Backend Engineer ",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-07-22T06:45:21.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-seo-manager-sea-manager-schwerpunkt-seo-reutlingen-362330",
       "title": "SEO Manager / SEA-Manager - Schwerpunkt SEO (w/m/d)",
@@ -32,18 +44,25 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-software-systems-munich-243719",
-      "title": "Full Stack Software Engineer (m/w/d) Software Systems",
-      "company": "citema systems GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/citema-systems-gmbh/full-stack-software-engineer-software-systems-munich-243719",
-      "description": "Driving Digital Technologies\nDen digitalen Wandel begleiten und aktiv mitgestalten – unsere Mission bei citema. Mit unseren innovativen Ansätzen beraten und unterstützen wir unsere Kunden in den Technologiefeldern Cyber Security, KI und Blockchain. Ebenso gehört die Umsetzung system- und sicherheits",
+      "id": "remoteok-1135165",
+      "title": "Designer Residential",
+      "company": "NORR",
+      "location": "Edmonton, Edmonton, Alberta, Canada",
+      "url": "https://remoteOK.com/remote-jobs/remote-designer-residential-norr-1135165",
+      "description": "NORR is a global team of 800 architects, engineers, planners, and interior designers creating design strategies and solutions that express the unique vision of every project. Driven by a common purpose with our clients and partners, we share ideas to create and innovate, bringing people, design, and",
       "tags": [
-        "Software Development"
+        "design",
+        "designer",
+        "dev",
+        "marketing",
+        "education",
+        "photoshop",
+        "engineer",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-07-21T09:00:30.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-21T06:03:24+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135124",
