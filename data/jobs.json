@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-22T19:06:50.535Z",
-  "total": 11,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-07-23T02:15:29.386Z",
+  "total": 16,
+  "newSinceLastRun": 5,
   "jobs": [
     {
       "id": "arbeitnow-werkstudentin-fur-social-media-marketing-kiel-184319",
@@ -44,6 +44,108 @@
       "salary": null,
       "postedAt": "2026-07-22T12:00:32.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1135240",
+      "title": "Office Admin",
+      "company": "TruBlue of The Woodlands",
+      "location": "Delaware, Delaware, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-office-admin-trublue-of-the-woodlands-1135240",
+      "description": "Customer Care &amp; Administrative Coordinator (Remote)TruBlue of Delmarva is seeking an organized, energetic, and customer-focused Customer Care &amp; Administrative Coordinator to join our growing team. This position plays a vital role in ensuring every customer receives exceptional service from t",
+      "tags": [
+        "exec",
+        "travel",
+        "full time",
+        "design",
+        "salesforce",
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "speech",
+        "quality assurance",
+        "finance",
+        "cloud",
+        "ops",
+        "legal",
+        "sales",
+        "medical",
+        "engineer",
+        "backend",
+        "digital nomad",
+        "coordinator",
+        "dev",
+        "web dev",
+        "admin",
+        "microsoft",
+        "content writing"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-22T00:00:00+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1135234",
+      "title": "â",
+      "company": "GuideMe Maldives",
+      "location": "MalÃ©, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-ae-guideme-maldives-1135234",
+      "description": "The tourism sector in the Maldives is drawing increasing international attention as one of the few industries outside the United States and its affiliated regions [â¦]Please mention the word **EXAMPLAR** and tag RMTMuODMuMTYxLjg4 when applying to show you read the job post completely (#RMTMuODMuMTY",
+      "tags": [
+        "technical",
+        "javascript",
+        "c",
+        "engineer",
+        "education",
+        "exec"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-21T22:12:06+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1135231",
+      "title": "Technical Crew",
+      "company": "EVEREST GROUP - MARITIME SERVICES &amp; SHIP SUPPLIES",
+      "location": "Vijayawada East, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-crew-everest-group-maritime-services-amp-ship-supplies-1135231",
+      "description": "\" data-close-icon=\"\" data-full-width=\"yes\"&gt;Home About Us Everest Group OverviewEverest Maritime Agency &amp; Marine Service (Egypt)Everest International Ship Supplies &amp; Transit Trade (Greece)The Heavy Industrial Workshop (Portsaid) Services Maritime &amp; Port Agency Logistics ServicesShip Ch",
+      "tags": [
+        "technical",
+        "javascript",
+        "c",
+        "engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-21T22:10:40+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1135236",
+      "title": "TELL ME YOURSELF SAMPLE ANSWERS",
+      "company": "Arvind Enterprises Group",
+      "location": "Shyampur-I, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-tell-me-yourself-sample-answers-arvind-enterprises-group-1135236",
+      "description": "Sample answers-I grew up in a village of uttar pardesh india I was a good student since my childhood i always love to compete with organizations and companies I Love to work with team, makes good decision ,to stay in collaboration and lead an organization to reach out this position i worked many oth",
+      "tags": [
+        "technical",
+        "javascript",
+        "c",
+        "engineer",
+        "education",
+        "exec",
+        "game dev",
+        "travel",
+        "finance",
+        "content writing",
+        "medical",
+        "supervisor",
+        "microsoft",
+        "excel"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-21T18:37:48+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-149527",
@@ -111,6 +213,30 @@
       ],
       "salary": null,
       "postedAt": "2026-07-20T14:08:24+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1135235",
+      "title": "Mid Level",
+      "company": "Centrum Direct Limited",
+      "location": "Jatani, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-mid-level-centrum-direct-limited-1135235",
+      "description": "Skip to main contentBusinessesBankingUnity Small Finance BankWealth, Broking &amp; InsuranceWealthOverviewProductsDistribution ServicesFamily OfficeCorporate TreasuryStock BrokingOverviewProductsFor InvestorsFor TradersPartner with UsInsuranceOverviewProductsLife InsuranceGeneral InsuranceHealth Ins",
+      "tags": [
+        "technical",
+        "javascript",
+        "c",
+        "engineer",
+        "education",
+        "exec",
+        "game dev",
+        "travel",
+        "finance",
+        "content writing",
+        "medical"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-20T05:56:57+00:00",
       "source": "RemoteOK"
     },
     {
