@@ -1,39 +1,93 @@
 {
-  "updatedAt": "2026-07-27T09:41:06.331Z",
-  "total": 18,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-07-27T14:21:48.976Z",
+  "total": 21,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-it-backend-architect-berlin-233422",
-      "title": "IT Backend Architect (M/W/D)",
-      "company": "Bitgrip Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitgrip-gmbh/it-backend-architect-berlin-233422",
-      "description": "Deine AufgabenDu gestaltest die technische Architektur unserer Enterprise-Lösungen und nutzt dabei AI-driven Development als strategisches Werkzeug: Du designst als IT Backend Architekt Systeme mit modernen KI-Tools, triffst durchdachte Tech-Entscheidungen und begleitest Kunden zudem als IT Consulta",
+      "id": "arbeitnow-frontend-engineer-cloud-solutions-gilching-240110",
+      "title": "Frontend Engineer – Cloud Solutions (m/f/d)",
+      "company": "Quantum-Systems GmbH",
+      "location": "Gilching",
+      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/frontend-engineer-cloud-solutions-gilching-240110",
+      "description": "We are looking for a passionate Frontend Engineer who enjoys working with modern web technologies, values clean architecture, and can translate complex requirements into elegant, responsive, and user-friendly solutions. You’ll collaborate with cross-functional teams to deliver products that shape th",
       "tags": [
-        "Senior",
-        "Backend Architect",
-        "Enterprise Solutions",
-        "Java",
-        "Tech Lead",
-        "AI-driven Development"
+        "Internet and software",
+        "professional"
       ],
       "salary": null,
-      "postedAt": "2026-07-26T23:09:45.000Z",
+      "postedAt": "2026-07-27T13:20:16.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudentin-pr-externe-kommunikation-all-genders-munchen-276428",
-      "title": "Werkstudent:in PR & Externe Kommunikation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/werkstudentin-pr-externe-kommunikation-all-genders-munchen-276428",
-      "description": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin wo du die meiste Zeit verbringst - denn wir haben uns zum Ziel gesetzt über 10 Millionen Arbeitnehmern en",
+      "id": "arbeitnow-buchhalter-hockenheim-189824",
+      "title": "Buchhalter (m/w/d)",
+      "company": "Teaching Socials",
+      "location": "Hockenheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/buchhalter-hockenheim-189824",
+      "description": "Jobbeschreibung\nÜber Teaching Socials\nIm DACH-Raum sind wir die Nummer eins, wenn es um Unternehmensberatung für Personal Brands im Finanz- und Immobiliensektor geht. Hinter Teaching Socials steht ein Team aus 25 High-Performern, das in nur zwei Jahren ein stabiles Monatswachstum von über 750.000 € ",
       "tags": [
-        "Marketing"
+        "Remote",
+        "Finance"
       ],
       "salary": null,
-      "postedAt": "2026-07-26T20:30:07.000Z",
+      "postedAt": "2026-07-27T13:01:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-content-producer-hockenheim-97584",
+      "title": "Content Producer (m/w/d)",
+      "company": "Teaching Socials",
+      "location": "Hockenheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/content-producer-hockenheim-97584",
+      "description": "Jobbeschreibung\nÜber Teaching Socials\nDie führende Unternehmensberatung für Personal Brands im deutschsprachigen Raum\nTeam aus 25 High-Performern\nInnerhalb von 2 Jahren von 0 auf konstant >750.000 € Monatsumsatz gewachsen\nWir helfen Immobilien- und Finanz-Unternehmern, ihre Personenmarke sichtbar zu",
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-27T13:01:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-mit-ki-affinitat-in-vollzeit-rottenburg-420509",
+      "title": "Fullstack-Entwickler (m/w/d) mit KI-Affinität in Vollzeit",
+      "company": "Kopp Verlag e.K.",
+      "location": "Rottenburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/kopp-verlag-ek/fullstack-entwickler-mit-ki-affinitat-in-vollzeit-rottenburg-420509",
+      "description": "Beim Kopp Verlag arbeiten Menschen, die auf ihre Art und Weise einzigartig sind und sich nicht mit den Informationen begnügen, die ihnen Tagesschau und Tageszeitung liefern. Bei uns werden mit Mut, Neugier und Leidenschaft politisch korrekte Denkbarrieren durchbrochen und so die Zukunft der Medienwe",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-27T12:00:52.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-developerin-rostock-69808",
+      "title": "Frontend-Developer:in (m/w/d)",
+      "company": "B_I MEDIEN GmbH",
+      "location": "Rostock",
+      "url": "https://www.arbeitnow.com/jobs/companies/b-i-medien-gmbh/frontend-developerin-rostock-69808",
+      "description": "Als B_I MEDIEN haben wir die Mission, die öffentliche Beschaffung in Deutschland zu digitalisieren – und dafür brauchen wir Dich! Wir suchen ab 01.10.2026 oder nach Absprache ein:e Frontend-Developer:in (30+ Stunden) am Standort Rostock oder deutschlandweit im Home-Office.\nAufgaben\nDeine Aufgaben\nAl",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-27T11:00:35.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-typescript-full-stack-developer-munster-115439",
+      "title": "TypeScript Full Stack Developer (m/w/d)",
+      "company": "MedNet EC-REP GmbH",
+      "location": "Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/mednet-ec-rep-gmbh/typescript-full-stack-developer-munster-115439",
+      "description": "Die MedNet EC-REP GmbH mit Hauptsitz in Münster ist ein führender Dienstleister für regulatorische Vertretung und Marktzugang in Europa. Als European Authorized Representative, UK Responsible Person und Swiss Authorized Representative unterstützt MedNet EC-REP aktuell ca. 700 Hersteller aus dem Nich",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-27T10:30:33.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -92,7 +146,7 @@
       "company": "Melhor Envio",
       "location": "Brasil, ",
       "url": "https://remoteOK.com/remote-jobs/remote-analista-de-infraestrutura-pleno-devops-melhor-envio-1135334",
-      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **REFORMING** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completely (#",
+      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **REFORMING** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completely (#",
       "tags": [
         "python",
         "docker",
@@ -111,7 +165,7 @@
       "company": "TOTVS",
       "location": "Brasil, ",
       "url": "https://remoteOK.com/remote-jobs/remote-advpl-junior-totvs-1135333",
-      "description": "Anunciada 17:46:55. Se vocÃª Ã© uma pessoa que Ã© gente boa, gosta de aprender e Ã© apaixonada por resultados, vocÃª estÃ¡ noâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **CONCILIATE** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post complete",
+      "description": "Anunciada 17:46:55. Se vocÃª Ã© uma pessoa que Ã© gente boa, gosta de aprender e Ã© apaixonada por resultados, vocÃª estÃ¡ noâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **CONCILIATE** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post complete",
       "tags": [
         "python",
         "docker",
@@ -129,7 +183,7 @@
       "company": "Spread Tecnologia",
       "location": "Brasil, ",
       "url": "https://remoteOK.com/remote-jobs/remote-suporte-n1-remoto-spread-tecnologia-1135332",
-      "description": "Anunciada 22:37:50. Venha fazer parte de uma empresa que ama transformar com tecnologia e abraÃ§a a diversidade em todasâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **EXHILARATINGLY** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completel",
+      "description": "Anunciada 22:37:50. Venha fazer parte de uma empresa que ama transformar com tecnologia e abraÃ§a a diversidade em todasâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **EXHILARATINGLY** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completel",
       "tags": [
         "python",
         "docker",
@@ -147,7 +201,7 @@
       "company": "UBQ.io",
       "location": "EspaÃ±a, ",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-procurement-specialist-ubq-io-1135329",
-      "description": "About UBQ.ioUBQ.io is a global technology service provider dedicated to building a moreâ¦Please mention the word **PRICELESS** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuOA==). This is a beta feature to avoid spam applicants. Companies ca",
+      "description": "About UBQ.ioUBQ.io is a global technology service provider dedicated to building a moreâ¦Please mention the word **PRICELESS** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDQuMTI=). This is a beta feature to avoid spam applicants. Companies ca",
       "tags": [
         "design",
         "designer",
@@ -206,7 +260,7 @@
       "company": "Work Force Nexus",
       "location": "United Kingdom, ",
       "url": "https://remoteOK.com/remote-jobs/remote-compliance-administrator-work-force-nexus-1135325",
-      "description": "Posted 11:58:25 AM. Job Type: Full-TimeWork Mode: Remote (United Kingdom)Experience: 0â2 YearsIndustry: Compliance |â¦See this and similar jobs on LinkedIn.Please mention the word **SMITTEN** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuO",
+      "description": "Posted 11:58:25 AM. Job Type: Full-TimeWork Mode: Remote (United Kingdom)Experience: 0â2 YearsIndustry: Compliance |â¦See this and similar jobs on LinkedIn.Please mention the word **SMITTEN** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDQuM",
       "tags": [
         "design",
         "designer",
@@ -252,7 +306,7 @@
       "company": "Get In Good Nick",
       "location": "UK",
       "url": "https://remoteOK.com/remote-jobs/remote-performance-marketing-lead-get-in-good-nick-1135323",
-      "description": "Posted 1:17:30 PM. Location: Remote (UK)Full-timeReports directly to the FounderAbout Get In Good NickWe're buildingâ¦See this and similar jobs on LinkedIn.Please mention the word **CREDIBLE** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuOA",
+      "description": "Posted 1:17:30 PM. Location: Remote (UK)Full-timeReports directly to the FounderAbout Get In Good NickWe're buildingâ¦See this and similar jobs on LinkedIn.Please mention the word **CREDIBLE** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDQuMT",
       "tags": [
         "design",
         "designer",
@@ -312,7 +366,7 @@
       "company": "Augustus Gelatery",
       "location": "Wagga Wagga, ",
       "url": "https://remoteOK.com/remote-jobs/remote-front-of-house-scoopers-wagga-wagga-augustus-gelatery-1135312",
-      "description": "APPLY TODAYFill in your details to apply belowCareers Application Form\"*\" indicates required fieldsFirst*Last*Email*Phone*Store LocationPositionAttach Your CV*Accepted file types: pdf, Max. file size: 8 MB.RequiredPlease mention the word **EFFUSIVENESS** and tag RMTcyLjE3NC4xNjUuOA== when applying t",
+      "description": "APPLY TODAYFill in your details to apply belowCareers Application Form\"*\" indicates required fieldsFirst*Last*Email*Phone*Store LocationPositionAttach Your CV*Accepted file types: pdf, Max. file size: 8 MB.RequiredPlease mention the word **EFFUSIVENESS** and tag RMTcyLjE4Mi4yNDQuMTI= when applying t",
       "tags": [
         "sys admin",
         "infosec",
@@ -382,7 +436,7 @@
       "company": "Temu",
       "location": "Remote",
       "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-temu-1135291",
-      "description": "Role Description: This is a full-time remote role for Business Development ManagerResponsibility:1.â¦Please mention the word **THRILL** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuOA==). This is a beta feature to avoid spam applicants. Com",
+      "description": "Role Description: This is a full-time remote role for Business Development ManagerResponsibility:1.â¦Please mention the word **THRILL** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDQuMTI=). This is a beta feature to avoid spam applicants. Com",
       "tags": [
         "react",
         "dev",
@@ -447,7 +501,7 @@
       "company": "Outsource Access Careers",
       "location": "Remote",
       "url": "https://remoteOK.com/remote-jobs/remote-business-development-executive-outsource-access-careers-1135287",
-      "description": "This is a remote position.What We DoAt Outsource Access, we help HR professionals and businessâ¦Please mention the word **CLEAN** and tag RMTcyLjE3NC4xNjUuOA== when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuOA==). This is a beta feature to avoid spam applicants. Companies",
+      "description": "This is a remote position.What We DoAt Outsource Access, we help HR professionals and businessâ¦Please mention the word **CLEAN** and tag RMTcyLjE4Mi4yNDQuMTI= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDQuMTI=). This is a beta feature to avoid spam applicants. Companies",
       "tags": [
         "react",
         "dev",
@@ -489,53 +543,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-23T16:05:24+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135352",
-      "title": "Gestionnaire administratif et financier F H",
-      "company": "UniversitÃ© de Bordeaux",
-      "location": "Gironde, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-gestionnaire-administratif-et-financier-f-h-universite-de-bordeaux-1135352",
-      "description": "AccueilOffres d'emploiGestionnaire administratif et financier F/H TÃ©lÃ©chargerPDF â 27.2Ko Gestionnaire administratif et financier F/HPartager la pageVeuillez pour partager sur Facebook, Twitter et LinkedIn.Partager sur Facebook Partager sur X (anciennement Twitter) - nouvelle fenÃªtrePartager su",
-      "tags": [
-        "analyst",
-        "design",
-        "embedded",
-        "infosec",
-        "technical",
-        "customer support",
-        "testing",
-        "dev",
-        "scheme",
-        "exec",
-        "content writing",
-        "ops",
-        "stats",
-        "recruiter",
-        "digital nomad",
-        "c",
-        "vfx",
-        "jira",
-        "marketing",
-        "web dev",
-        "scrum",
-        "quality assurance",
-        "javascript",
-        "finance",
-        "css",
-        "html",
-        "api",
-        "mobile",
-        "sys admin",
-        "golang",
-        "engineer",
-        "virtual assistant",
-        "video",
-        "excel"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-23T14:13:56+00:00",
       "source": "RemoteOK"
     },
     {
