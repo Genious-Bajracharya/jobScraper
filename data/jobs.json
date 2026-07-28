@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-28T13:53:34.274Z",
+  "updatedAt": "2026-07-28T19:15:50.532Z",
   "total": 11,
-  "newSinceLastRun": 4,
+  "newSinceLastRun": 3,
   "jobs": [
     {
       "id": "arbeitnow-full-stack-software-engineer-dresden-498979",
@@ -32,36 +32,55 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fachplanerin-hlks-burghaun-409408",
-      "title": "Fachplaner*in HLKS (m/w/x)",
-      "company": "rauschenberg ingenieure gmbh",
-      "location": "Burghaun",
-      "url": "https://www.arbeitnow.com/jobs/companies/rauschenberg-ingenieure-gmbh/fachplanerin-hlks-burghaun-409408",
-      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Termin:\nFACHPLANER für den Bereich HLKS (M/W/X)\nIN VOLLZEIT\nAm Standort: Burghaun\nrauschenberg ingenieure gmbh ist seit 1994 ein visionäres Ingenieurbüro mit drei Standorten in Burghaun bei Fulda, Hagen-Hohenlimburg und Mechernich-Kommern.",
+      "id": "jobicy-142139",
+      "title": "Solidity Compiler Frontend Engineer",
+      "company": "CertiK",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
+      "description": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading pr",
       "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-07-28T10:00:48.000Z",
+      "postedAt": "2026-07-28T12:05:05+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-blockchain-london-452383",
+      "title": "Full Stack Engineer, Blockchain",
+      "company": "Fireblocks",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/full-stack-engineer-blockchain-london-452383",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks’ platform and network provide the simplest and most secure way for companies to work with digita",
+      "tags": [
+        "R&D"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-28T11:57:10.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-gebaudetechniker-hausmeister-fur-gewerbeflachen-und-wohnanlagen-bad-oeynhausen-281997",
-      "title": "Gebäudetechniker / Hausmeister für Gewerbeflächen und Wohnanlagen (m/w/d)",
-      "company": "Kögel Bau GmbH & Co. KG",
-      "location": "Bad Oeynhausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/kogel-bau-gmbh-co-kg/gebaudetechniker-hausmeister-fur-gewerbeflachen-und-wohnanlagen-bad-oeynhausen-281997",
-      "description": "Immobilienexpertise und feste Ansprechpartner für jeden Kunden\nSeit 2022 gehört die Tectum Facility Management GmbH zur KÖGEL Unternehmensgruppe. Mit jeder Menge Branchenerfahrung und einer ordentlichen Portion Hands-On-Mentalität kümmern sich unsere Experten um den Gesamteindruck von unterschiedlic",
+      "id": "remoteok-1135486",
+      "title": "Android Developer",
+      "company": "Bjak ",
+      "location": "Austria",
+      "url": "https://remoteOK.com/remote-jobs/remote-android-developer-bjak-1135486",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
       "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
+        "dev",
+        "design",
+        "sys admin",
+        "exec",
+        "finance",
+        "mobile",
+        "android",
+        "stats",
+        "backend",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-07-28T10:00:47.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-27T16:00:13+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135553",
@@ -88,7 +107,7 @@
       "company": "AdConversion",
       "location": "Lazy L, ",
       "url": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
-      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RNTIuMTg4Ljg3LjE4 when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjE4). This is a beta feature to avoi",
+      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RNC4yNDYuMTM1LjQ= when applying to show you read the job post completely (#RNC4yNDYuMTM1LjQ=). This is a beta feature to avoi",
       "tags": [
         "admin",
         "exec"
@@ -146,20 +165,6 @@
       "salary": null,
       "postedAt": "2026-07-25T23:55:24+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-147333",
-      "title": "Sr. Software Engineer II - Catalog",
-      "company": "iHerb",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/147333-sr-software-engineer-ii-catalog",
-      "description": "Job Summary: The Sr. Software Engineer II - Catalog will build and modernize iHerb's product catalog, one of the most business-critical platforms in the company. You will work across the full stack: backend services, React frontend, and relational data layers. Our current backend is .NET/C#; we also",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-23T20:20:07+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remotive-1680495",
