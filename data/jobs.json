@@ -1,57 +1,66 @@
 {
-  "updatedAt": "2026-07-28T08:25:46.044Z",
-  "total": 10,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-07-28T13:53:34.274Z",
+  "total": 11,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-developer-react-nextjs-tailwind-postgresql-supabase-all-genders-munich-459347",
-      "title": "Full-Stack Developer | React/Nextjs, Tailwind, PostgreSQL/Supabase! (all genders)",
-      "company": "ECENT GmbH",
+      "id": "arbeitnow-full-stack-software-engineer-dresden-498979",
+      "title": "Full Stack Software Engineer (m/w/d)",
+      "company": "esveo GmbH",
+      "location": "Dresden",
+      "url": "https://www.arbeitnow.com/jobs/companies/esveo-gmbh/full-stack-software-engineer-dresden-498979",
+      "description": "Du bist Softwareentwickler:in, möchtest aber mehr als vorgegebene Tickets umsetzen? Bei uns verbindest du Full-Stack-Entwicklung mit fachlichem Verständnis und gestaltest digitale Lösungen vom Problem bis zum produktiven Einsatz.\nBei esveo arbeitest du an der Schnittstelle von Fachbereich, Software ",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-28T12:30:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
+      "title": "Software Developer (Junior) - Java, Groovy, ScriptRunner, JavaScript/TypeScript, Forge (m/w/d)",
+      "company": "MESKRU GmbH",
       "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecent-gmbh/full-stack-developer-react-nextjs-tailwind-postgresql-supabase-all-genders-munich-459347",
-      "description": "\nSei dabei, ERADIANT von 75k ARR auf 300k ARR zu bringen und baue eine Architektur, die mit unseren Kunden mitwächst\nKomplexe Systeme vereinen: Entwickle Features, die so intuitiv sind, dass unsere Nutzer keine anderen Tools mehr brauchen – egal ob es um Echtzeit-Synchronisation von Eventprogrammen,",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
+      "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen. Wenn du Java, Git, REST, ScriptRunner wirklich beherrschst und",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-07-28T00:00:37.000Z",
+      "postedAt": "2026-07-28T12:30:26.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-221124",
-      "title": "Werkstudent*in im Projektmanagement",
-      "company": "Doo",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-221124",
-      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "id": "arbeitnow-fachplanerin-hlks-burghaun-409408",
+      "title": "Fachplaner*in HLKS (m/w/x)",
+      "company": "rauschenberg ingenieure gmbh",
+      "location": "Burghaun",
+      "url": "https://www.arbeitnow.com/jobs/companies/rauschenberg-ingenieure-gmbh/fachplanerin-hlks-burghaun-409408",
+      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Termin:\nFACHPLANER für den Bereich HLKS (M/W/X)\nIN VOLLZEIT\nAm Standort: Burghaun\nrauschenberg ingenieure gmbh ist seit 1994 ein visionäres Ingenieurbüro mit drei Standorten in Burghaun bei Fulda, Hagen-Hohenlimburg und Mechernich-Kommern.",
       "tags": [
-        "Projektmanagement",
-        "CSS",
-        "HTML",
-        "Werkstudent",
-        "Product Consulting",
-        "JavaScript",
-        "Engineering",
-        "Make",
-        "Webentwicklung"
+        "Building",
+        "Supply",
+        "Safety Services Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-07-27T17:09:18.000Z",
+      "postedAt": "2026-07-28T10:00:48.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-entwickler-java-brandenburg-44893",
-      "title": "Fullstack-Entwickler Java (m/w/d)",
-      "company": "IT42morrow IFT GmbH",
-      "location": "Brandenburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/it42morrow-ift-gmbh/fullstack-entwickler-java-brandenburg-44893",
-      "description": "IT42morrow steht für Innovation und Dynamik in der IT-Welt. Mit einer Palette von spannenden Projekten und einer Kultur, die Wachstum und Diversität fördert, sind wir auf der Suche nach einem neuen Star in unserem Entwickler-Team. Egal, ob Du ein erfahrener Profi oder ein begeisterter Neuling mit ei",
+      "id": "arbeitnow-gebaudetechniker-hausmeister-fur-gewerbeflachen-und-wohnanlagen-bad-oeynhausen-281997",
+      "title": "Gebäudetechniker / Hausmeister für Gewerbeflächen und Wohnanlagen (m/w/d)",
+      "company": "Kögel Bau GmbH & Co. KG",
+      "location": "Bad Oeynhausen",
+      "url": "https://www.arbeitnow.com/jobs/companies/kogel-bau-gmbh-co-kg/gebaudetechniker-hausmeister-fur-gewerbeflachen-und-wohnanlagen-bad-oeynhausen-281997",
+      "description": "Immobilienexpertise und feste Ansprechpartner für jeden Kunden\nSeit 2022 gehört die Tectum Facility Management GmbH zur KÖGEL Unternehmensgruppe. Mit jeder Menge Branchenerfahrung und einer ordentlichen Portion Hands-On-Mentalität kümmern sich unsere Experten um den Gesamteindruck von unterschiedlic",
       "tags": [
-        "Remote",
-        "Software Development"
+        "Building",
+        "Supply",
+        "Safety Services Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-07-27T16:30:30.000Z",
+      "postedAt": "2026-07-28T10:00:47.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -79,7 +88,7 @@
       "company": "AdConversion",
       "location": "Lazy L, ",
       "url": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
-      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RMTcyLjIxNC40Ny41MA== when applying to show you read the job post completely (#RMTcyLjIxNC40Ny41MA==). This is a beta feature",
+      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RNTIuMTg4Ljg3LjE4 when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjE4). This is a beta feature to avoi",
       "tags": [
         "admin",
         "exec"
