@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-28T02:04:42.176Z",
-  "total": 15,
+  "updatedAt": "2026-07-28T08:25:46.044Z",
+  "total": 10,
   "newSinceLastRun": 1,
   "jobs": [
     {
@@ -55,32 +55,23 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-frontend-engineer-cloud-solutions-gilching-427514",
-      "title": "Frontend Engineer – Cloud Solutions (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/frontend-engineer-cloud-solutions-gilching-427514",
-      "description": "We are looking for a passionate Frontend Engineer who enjoys working with modern web technologies, values clean architecture, and can translate complex requirements into elegant, responsive, and user-friendly solutions. You’ll collaborate with cross-functional teams to deliver products that shape th",
+      "id": "remoteok-1135553",
+      "title": "Courtney Shires",
+      "company": "TRS Investments LLC",
+      "location": "Excellence Estates 2, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-courtney-shires-trs-investments-llc-1135553",
+      "description": "Brandon supports TRS with sourcing, diligence, and portfolio projects across industrial and distribution businesses. His background includes client-facing sales and account development at U.S. Meltblown, Thermosleeve USA, and Cable Tie Express, as well as co-owner and Director of Sales at 2aDays.Ple",
       "tags": [
-        "Software"
+        "music",
+        "ecommerce",
+        "non tech",
+        "education",
+        "exec",
+        "sales"
       ],
       "salary": null,
-      "postedAt": "2026-07-27T14:51:16.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-python-software-engineer-dresden-402329",
-      "title": "Python Software Engineer (m/w/d)",
-      "company": "Smart Systems Hub GmbH",
-      "location": "Dresden",
-      "url": "https://www.arbeitnow.com/jobs/companies/smart-systems-hub-gmbh/python-software-engineer-dresden-402329",
-      "description": "Aus Daten werden Lösungen. Aus Ideen werden Prototypen.\nDu möchtest nicht nur bestehende Software weiterentwickeln, sondern aus realen industriellen Herausforderungen neue technische Lösungen entstehen lassen? Du verbindest sehr gute Python- und Backend-Kenntnisse mit Erfahrung in Data Engineering, ",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-27T14:30:36.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-27T01:33:16+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135466",
@@ -88,7 +79,7 @@
       "company": "AdConversion",
       "location": "Lazy L, ",
       "url": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
-      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RNTIuMTU0LjIwLjE5OQ== when applying to show you read the job post completely (#RNTIuMTU0LjIwLjE5OQ==). This is a beta feature",
+      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RMTcyLjIxNC40Ny41MA== when applying to show you read the job post completely (#RMTcyLjIxNC40Ny41MA==). This is a beta feature",
       "tags": [
         "admin",
         "exec"
@@ -145,120 +136,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-25T23:55:24+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135334",
-      "title": "Analista de Infraestrutura Pleno DevOps",
-      "company": "Melhor Envio",
-      "location": "Brasil, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-infraestrutura-pleno-devops-melhor-envio-1135334",
-      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **REFORMING** and tag RNTIuMTU0LjIwLjE5OQ== when applying to show you read the job post completely (#",
-      "tags": [
-        "python",
-        "docker",
-        "nosql",
-        "git",
-        "typescript",
-        "devops"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-24T00:09:16+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135333",
-      "title": "ADVPL JÃºnior",
-      "company": "TOTVS",
-      "location": "Brasil, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-advpl-junior-totvs-1135333",
-      "description": "Anunciada 17:46:55. Se vocÃª Ã© uma pessoa que Ã© gente boa, gosta de aprender e Ã© apaixonada por resultados, vocÃª estÃ¡ noâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **CONCILIATE** and tag RNTIuMTU0LjIwLjE5OQ== when applying to show you read the job post complete",
-      "tags": [
-        "python",
-        "docker",
-        "nosql",
-        "git",
-        "typescript"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-24T00:08:47+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135332",
-      "title": "Suporte N1 REMOTO",
-      "company": "Spread Tecnologia",
-      "location": "Brasil, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-suporte-n1-remoto-spread-tecnologia-1135332",
-      "description": "Anunciada 22:37:50. Venha fazer parte de uma empresa que ama transformar com tecnologia e abraÃ§a a diversidade em todasâ¦ - veja esta vaga e outras semelhantes no LinkedIn.Please mention the word **EXHILARATINGLY** and tag RNTIuMTU0LjIwLjE5OQ== when applying to show you read the job post completel",
-      "tags": [
-        "python",
-        "docker",
-        "nosql",
-        "git",
-        "typescript"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-24T00:07:22+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135329",
-      "title": "Junior Procurement Specialist",
-      "company": "UBQ.io",
-      "location": "EspaÃ±a, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-procurement-specialist-ubq-io-1135329",
-      "description": "About UBQ.ioUBQ.io is a global technology service provider dedicated to building a moreâ¦Please mention the word **PRICELESS** and tag RNTIuMTU0LjIwLjE5OQ== when applying to show you read the job post completely (#RNTIuMTU0LjIwLjE5OQ==). This is a beta feature to avoid spam applicants. Companies ca",
-      "tags": [
-        "design",
-        "designer",
-        "part time",
-        "digital nomad",
-        "dev",
-        "sys admin",
-        "technical",
-        "javascript",
-        "cloud",
-        "css",
-        "html",
-        "junior",
-        "engineer",
-        "python",
-        "front end",
-        "django",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "java",
-        "git",
-        "c",
-        "customer support",
-        "admin",
-        "exec",
-        "ops",
-        "marketing",
-        "legal",
-        "ecommerce",
-        "shopify",
-        "full time",
-        "virtual assistant",
-        "microsoft",
-        "consulting",
-        "analyst",
-        "education",
-        "finance",
-        "math",
-        "data science",
-        "excel",
-        "medical",
-        "ads",
-        "content writing",
-        "senior",
-        "photoshop",
-        "illustrator"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-23T23:11:00+00:00",
       "source": "RemoteOK"
     },
     {
