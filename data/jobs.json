@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-07-29T13:58:43.029Z",
+  "updatedAt": "2026-07-29T19:06:43.793Z",
   "total": 6,
-  "newSinceLastRun": 1,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-berlin-252475",
+      "title": "Software Engineer (m/f/d)",
+      "company": "Amperecloud GmbH",
+      "location": "Berlin , Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-252475",
+      "description": "Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform – for a world where green energy drives growth.We're looking for a sharp, product-first fullstack eng",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-29T17:30:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1135607",
+      "title": "Video Editor Reacts",
+      "company": "MrBeast",
+      "location": "Greenville, Greenville, North Carolina, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-editor-reacts-mrbeast-1135607",
+      "description": "About UsBeast Industries is a multifaceted media and entertainment company founded by Jimmy Donaldson, popularly known as MrBeast, the most watched person in the world. Renowned for revolutionizing digital content creation, Beast Industries encompasses a diverse portfolio of ventures that extend far",
+      "tags": [
+        "design",
+        "music",
+        "technical",
+        "travel",
+        "speech",
+        "video",
+        "exec",
+        "content writing",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-28T15:45:05+00:00",
+      "source": "RemoteOK"
+    },
     {
       "id": "jobicy-142139",
       "title": "Solidity Compiler Frontend Engineer",
@@ -57,40 +95,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-27T16:00:13+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135553",
-      "title": "Courtney Shires",
-      "company": "TRS Investments LLC",
-      "location": "Excellence Estates 2, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-courtney-shires-trs-investments-llc-1135553",
-      "description": "Brandon supports TRS with sourcing, diligence, and portfolio projects across industrial and distribution businesses. His background includes client-facing sales and account development at U.S. Meltblown, Thermosleeve USA, and Cable Tie Express, as well as co-owner and Director of Sales at 2aDays.Ple",
-      "tags": [
-        "music",
-        "ecommerce",
-        "non tech",
-        "education",
-        "exec",
-        "sales"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-27T01:33:16+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135586",
-      "title": "Adam Hallet",
-      "company": "TRS Investments LLC",
-      "location": "Excellence Estates 2, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-adam-hallet-trs-investments-llc-1135586",
-      "description": "Brandon supports TRS with sourcing, diligence, and portfolio projects across industrial and distribution businesses. His background includes client-facing sales and account development at U.S. Meltblown, Thermosleeve USA, and Cable Tie Express, as well as co-owner and Director of Sales at 2aDays.Ple",
-      "tags": [
-        "exec",
-        "sales"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-27T01:33:02+00:00",
       "source": "RemoteOK"
     },
     {
