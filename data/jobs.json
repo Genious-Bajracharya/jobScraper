@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-29T02:07:18.972Z",
-  "total": 11,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-07-29T08:32:03.428Z",
+  "total": 8,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-fullstack-engineer-aws-typescript-java-spring-boot-react-nextjs-cologne-496519",
@@ -27,34 +27,6 @@
       "tags": [],
       "salary": null,
       "postedAt": "2026-07-28T23:45:27.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-dresden-498979",
-      "title": "Full Stack Software Engineer (m/w/d)",
-      "company": "esveo GmbH",
-      "location": "Dresden",
-      "url": "https://www.arbeitnow.com/jobs/companies/esveo-gmbh/full-stack-software-engineer-dresden-498979",
-      "description": "Du bist Softwareentwickler:in, möchtest aber mehr als vorgegebene Tickets umsetzen? Bei uns verbindest du Full-Stack-Entwicklung mit fachlichem Verständnis und gestaltest digitale Lösungen vom Problem bis zum produktiven Einsatz.\nBei esveo arbeitest du an der Schnittstelle von Fachbereich, Software ",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-28T12:30:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
-      "title": "Software Developer (Junior) - Java, Groovy, ScriptRunner, JavaScript/TypeScript, Forge (m/w/d)",
-      "company": "MESKRU GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
-      "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen. Wenn du Java, Git, REST, ScriptRunner wirklich beherrschst und",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-28T12:30:26.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -126,21 +98,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-27T01:33:02+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135466",
-      "title": "Lead",
-      "company": "AdConversion",
-      "location": "Lazy L, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-adconversion-1135466",
-      "description": "Someone that has expressed interest by giving their contact information (ex: email address) in exchange for the offer you provided.Please mention the word **ADMIRER** and tag RMTI4LjI0LjE2MC4yNDg= when applying to show you read the job post completely (#RMTI4LjI0LjE2MC4yNDg=). This is a beta feature",
-      "tags": [
-        "admin",
-        "exec"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-26T16:52:41+00:00",
       "source": "RemoteOK"
     },
     {
