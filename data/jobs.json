@@ -1,34 +1,8 @@
 {
-  "updatedAt": "2026-07-29T08:32:03.428Z",
-  "total": 8,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-07-29T13:58:43.029Z",
+  "total": 6,
+  "newSinceLastRun": 1,
   "jobs": [
-    {
-      "id": "arbeitnow-fullstack-engineer-aws-typescript-java-spring-boot-react-nextjs-cologne-496519",
-      "title": "Fullstack Engineer-  AWS, Typescript, Java, Spring Boot, React, Next.js (m/f/d)",
-      "company": "Trusted Shops SE (DE)",
-      "location": "Cologne, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/fullstack-engineer-aws-typescript-java-spring-boot-react-nextjs-cologne-496519",
-      "description": "About Trusted Shops&nbsp;Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-28T23:50:53.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-berlin-319128",
-      "title": "Fullstack Engineer",
-      "company": "Funded.club",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/fundedclub/fullstack-engineer-berlin-319128",
-      "description": "About&nbsp;Sparkify\n\nSparkify is built by Onstruc UG, a Berlin-based documentation-software company founded in 2020. Onstruc started out building photo-based documentation tools for the construction trade broadly; about two and a half years ago, the team began focusing that experience specifically o",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-07-28T23:45:27.000Z",
-      "source": "Arbeitnow"
-    },
     {
       "id": "jobicy-142139",
       "title": "Solidity Compiler Frontend Engineer",
@@ -42,6 +16,25 @@
       "salary": null,
       "postedAt": "2026-07-28T12:05:05+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1135583",
+      "title": "Expression of Interest",
+      "company": "Bridges - Trusted Intelligent Engineering Partner",
+      "location": "Poole, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-bridges-trusted-intelligent-engineering-partner-1135583",
+      "description": "Expression of WishBridges is continually on the lookout for skilled and passionate professionals.If you are interested in joining Bridges, however you do not see a suitable job opportunity advertised, please apply to this advert and we can get in touch to see if any space could be made for your expe",
+      "tags": [
+        "education",
+        "designer",
+        "customer support",
+        "scheme",
+        "medical",
+        "engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-28T10:32:31+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135486",
@@ -130,27 +123,6 @@
       ],
       "salary": "$31,2k- $52k",
       "postedAt": "2026-07-11T20:18:11",
-      "source": "Remotive"
-    },
-    {
-      "id": "remotive-2091039",
-      "title": "Client Success Coach (CSM)",
-      "company": "Impact Clients",
-      "location": "Northern America, Europe, South Africa",
-      "url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
-      "description": "We’re looking for a full-time Client Success Coach to join our fast-growing team at Richard Yu’s online education company. Our mission is simple: help everyday people launch impactful online digital arbitrage businesses that transform lives—starting with their own.If you’re someone who loves mentors",
-      "tags": [
-        "backend",
-        "video",
-        "CRM",
-        "youtube",
-        "organic marketing",
-        "onboarding",
-        "spreadsheets",
-        "gsuite"
-      ],
-      "salary": "$120k - $220k",
-      "postedAt": "2026-06-29T14:20:56",
       "source": "Remotive"
     }
   ]
