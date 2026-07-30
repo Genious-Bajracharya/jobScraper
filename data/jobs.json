@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-30T08:16:40.795Z",
-  "total": 12,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-07-30T13:47:41.680Z",
+  "total": 11,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-engineer-billings-subscriptions-berlin-141531",
-      "title": "Full Stack Engineer - Billings & Subscriptions",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/full-stack-engineer-billings-subscriptions-berlin-141531",
-      "description": "&lt;p class=&quot;p1&quot;&gt;Our Billing and Subscriptions team sits at the heart of how SumUp&#39;s merchants pay for, manage, and grow with our products. We own the billing engine, merchant wallet, and subscription experiences that underpin millions of transactions across 37 markets, and right no",
+      "id": "arbeitnow-fullstack-developer-net-angular-bruchsal-286723",
+      "title": "Fullstack Developer .NET / Angular (m/w/d)",
+      "company": "bits&birds GmbH",
+      "location": "Bruchsal",
+      "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/fullstack-developer-net-angular-bruchsal-286723",
+      "description": "Stell dir vor, deine Arbeit sorgt dafür, dass Unternehmen ihre Energiedaten nicht nur sehen, sondern wirklich verstehen und intelligent nutzen können. Genau daran arbeitest du bei Enoplan.\nAls Fullstack Developer entwickelst du ein webbasiertes Kundenportal weiter, das komplexe Informationen verstän",
       "tags": [
-        "Engineering"
+        "IT"
       ],
       "salary": null,
-      "postedAt": "2026-07-30T05:56:38.000Z",
+      "postedAt": "2026-07-30T10:00:29.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -46,32 +46,29 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-sr-forward-deployed-engineer-fde-fullstack-berlin-101495",
-      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
-      "company": "databricks",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-berlin-101495",
-      "description": "&lt;p&gt;CSQ427R34&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spa",
+      "id": "remoteok-1135639",
+      "title": "TÃ©lÃ©travail Professeur Particulier",
+      "company": "TUS Media",
+      "location": "Nice, Nice, Provence-Alpes-CÃ´te dâAzur, France",
+      "url": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639",
+      "description": "Vous Ãªtes Ã  la recherche d'un job Ã©tudiant? Devenez professeur avec Voscours.Partagez vos connaissances avec nos Ã©lÃ¨ves: Soutien scolaire, musique, sports, langues, technologieâ¦Acceptez le dÃ©fi et commencez dÃ¨s maintenant!DÃTAILS DE L'OFFRE Horaires de travail flexibles Lieu de travail : t",
       "tags": [
-        "Professional Services Operations"
+        "design",
+        "python",
+        "dev",
+        "javascript",
+        "node",
+        "node.js",
+        "ruby",
+        "sys admin",
+        "engineer",
+        "full time",
+        "part time",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-07-29T18:16:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-berlin-252475",
-      "title": "Software Engineer (m/f/d)",
-      "company": "Amperecloud GmbH",
-      "location": "Berlin , Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-252475",
-      "description": "Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform – for a world where green energy drives growth.We're looking for a sharp, product-first fullstack eng",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-29T17:30:05.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-29T12:14:39+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135607",
