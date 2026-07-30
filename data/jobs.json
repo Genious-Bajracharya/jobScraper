@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-30T01:56:45.370Z",
-  "total": 11,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-07-30T08:16:40.795Z",
+  "total": 12,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-engineer-billings-subscriptions-berlin-141531",
+      "title": "Full Stack Engineer - Billings & Subscriptions",
+      "company": "sumup",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/full-stack-engineer-billings-subscriptions-berlin-141531",
+      "description": "&lt;p class=&quot;p1&quot;&gt;Our Billing and Subscriptions team sits at the heart of how SumUp&#39;s merchants pay for, manage, and grow with our products. We own the billing engine, merchant wallet, and subscription experiences that underpin millions of transactions across 37 markets, and right no",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-30T05:56:38.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-fullstack-engineer-subscriptions-london-229822",
       "title": "Fullstack Engineer - Subscriptions",
