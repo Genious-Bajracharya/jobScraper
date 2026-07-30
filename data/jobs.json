@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-07-29T19:06:43.793Z",
-  "total": 6,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-07-30T01:56:45.370Z",
+  "total": 11,
+  "newSinceLastRun": 5,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-engineer-subscriptions-london-229822",
+      "title": "Fullstack Engineer - Subscriptions",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822",
+      "description": "\nThe Subscriptions Mission is shaping the future of how millions of people discover, purchase, and experience Spotify Premium. We build the platforms and tools that power Spotify's global subscription business, enabling new offers, pricing strategies, and commerce experiences that help our business ",
+      "tags": [
+        "Subscriptions R&D"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-29T23:24:25.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-platform-stacks-uk-remote-88951",
+      "title": "Backend Engineer - Platform - Stacks | UK | Remote",
+      "company": "Grafanalabs",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/backend-engineer-platform-stacks-uk-remote-88951",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale.",
+      "tags": [
+        "R&D: Platform"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-29T20:55:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-sr-forward-deployed-engineer-fde-fullstack-berlin-101495",
+      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "company": "databricks",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-berlin-101495",
+      "description": "&lt;p&gt;CSQ427R34&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spa",
+      "tags": [
+        "Professional Services Operations"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-29T18:16:04.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-berlin-252475",
       "title": "Software Engineer (m/f/d)",
@@ -39,6 +81,48 @@
       ],
       "salary": null,
       "postedAt": "2026-07-28T15:45:05+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1135631",
+      "title": "AWESOME LIFE",
+      "company": "Awesome Entertainment",
+      "location": "Recruit, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-awesome-life-awesome-entertainment-1135631",
+      "description": "Join us, and create something truly AWESOME!ì´ì¸ìí°íì¸ë¨¼í¸ë ì¬ëë¤ìê² ì§ì, ê°ë, ì¦ê±°ìì ì ê³µíë©°, **âì¸ìì ì´ë¡­ê², ì¬ëì ì¦ê²ê²â**ë¼ë ë¹ì  ìë, ì½íì¸ ë¡ ì¸ìì ê¸ì ì ì¸ ë³íë¥¼ ì´ëì´ ê°ëë¤.ì°ë¦¬ë ê°ë¥ì±ì íê³ë¥",
+      "tags": [
+        "infosec",
+        "javascript",
+        "exec",
+        "recruiter"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-28T13:44:48+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1135638",
+      "title": "LLM Engineer Freelancer",
+      "company": "Monterail",
+      "location": "KrakÃ³w, KrakÃ³w, Woj. MaÅopolskie, Polska",
+      "url": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
+      "description": "We're building a network of LLM Engineers who can design, build, and integrate practical AI features into existing products. We're looking for people to collaborate with on a freelance basis - part-time or full-time, depending on project needs.This role is focused on delivery, not ML research. What ",
+      "tags": [
+        "design",
+        "python",
+        "dev",
+        "javascript",
+        "node",
+        "node.js",
+        "ruby",
+        "sys admin",
+        "engineer",
+        "full time",
+        "part time",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-28T13:19:20+00:00",
       "source": "RemoteOK"
     },
     {
