@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-31T02:22:06.157Z",
+  "updatedAt": "2026-07-31T08:42:32.629Z",
   "total": 16,
-  "newSinceLastRun": 4,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-berlin-11307",
+      "title": "Backend Engineer (m/f/d)",
+      "company": "JOIN",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/join/backend-engineer-berlin-11307",
+      "description": "Why this role mattersJOIN helps thousands of businesses find the right people — faster, fairer, and with less friction. Our platform handles millions of candidate interactions, and our clients praise JOIN’s attention to detail and unmatched user experience.We’re looking for a Backend Engineer to joi",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-31T07:00:32.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-147974",
       "title": "Full-Stack Node.js and React Engineer",
@@ -30,20 +44,6 @@
       "salary": null,
       "postedAt": "2026-07-30T19:45:03+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-software-projektmanager-mern-stack-mwd-aachen-234338",
-      "title": "Software - Projektmanager (MERN-Stack) (m,w,d)",
-      "company": "Incoretex GmbH",
-      "location": "Aachen",
-      "url": "https://www.arbeitnow.com/jobs/companies/incoretex-gmbh/software-projektmanager-mern-stack-mwd-aachen-234338",
-      "description": "Incoretex ist ein schnell wachsendes High-Tech Unternehmen an der Schnittstelle von IoT, Sensortechnologie und KI. Die Technologie von Incoretex erleichtert die Integration von KI in bestehende Produkte und senkt deutlich die Zeit und Kosten, die mit der traditionellen Produktentwicklung verbunden s",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-30T19:30:26.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1135634",
