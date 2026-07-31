@@ -1,35 +1,70 @@
 {
-  "updatedAt": "2026-07-30T19:18:10.917Z",
-  "total": 14,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-07-31T02:22:06.157Z",
+  "total": 16,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-entwickler-berlin-470694",
-      "title": "Fullstack Entwickler (m/w/d)",
-      "company": "cbs Corporate Business Solutions GmbH",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/fullstack-entwickler-berlin-470694",
-      "description": "Künstliche Intelligenz, Machine Learning, Hyper Automation, Value Chain Analysis, End-to-End Margin, E-Invoicing, Automatisierung digitaler Rechnungs- und Meldeprozesse, Compliance Management, End-to-End Prozessoptimierung, Predictive Analytics, Fast Close und Cloud-Lösungen gewinnen im Bereich Tax ",
+      "id": "jobicy-147974",
+      "title": "Full-Stack Node.js and React Engineer",
+      "company": "Kubikware",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
+      "description": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL, with a strong South American team, and have clients and partners in the US market across multiple indu",
       "tags": [
-        "Managed Cloud Services"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-07-30T17:30:42.000Z",
+      "postedAt": "2026-07-30T19:45:04+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-147975",
+      "title": "Laravel & React Engineer (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
+      "description": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verti",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-30T19:45:03+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-software-projektmanager-mern-stack-mwd-aachen-234338",
+      "title": "Software - Projektmanager (MERN-Stack) (m,w,d)",
+      "company": "Incoretex GmbH",
+      "location": "Aachen",
+      "url": "https://www.arbeitnow.com/jobs/companies/incoretex-gmbh/software-projektmanager-mern-stack-mwd-aachen-234338",
+      "description": "Incoretex ist ein schnell wachsendes High-Tech Unternehmen an der Schnittstelle von IoT, Sensortechnologie und KI. Die Technologie von Incoretex erleichtert die Integration von KI in bestehende Produkte und senkt deutlich die Zeit und Kosten, die mit der traditionellen Produktentwicklung verbunden s",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-07-30T19:30:26.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-engineer-subscriptions-london-229822",
-      "title": "Fullstack Engineer - Subscriptions",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822",
-      "description": "\nThe Subscriptions Mission is shaping the future of how millions of people discover, purchase, and experience Spotify Premium. We build the platforms and tools that power Spotify's global subscription business, enabling new offers, pricing strategies, and commerce experiences that help our business ",
+      "id": "remoteok-1135634",
+      "title": "Software Engineer GO",
+      "company": "Wakacje.pl",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...Please mention the",
       "tags": [
-        "Subscriptions R&D"
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-07-29T23:24:25.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-07-29T20:00:01+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1135632",
