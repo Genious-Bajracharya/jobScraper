@@ -1,62 +1,20 @@
 {
-  "updatedAt": "2026-08-02T13:09:44.459Z",
-  "total": 16,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-02T19:02:07.286Z",
+  "total": 11,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-design-engineer-berlin-309577",
-      "title": "Design Engineer (m/w/d)",
-      "company": "Buena",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/buena/design-engineer-berlin-309577",
-      "description": "As a Design Engineer you intersect Design and Engineering. You'll shape the quality and consistency of our product experience. You'll work across interaction design, component systems, implementation and frontend development, ensuring every detail feels intuitive, polished and cohesive. Working clos",
+      "id": "arbeitnow-software-engineer-chatgpt-infrastructure-london-97274",
+      "title": "Software Engineer, ChatGPT Infrastructure",
+      "company": "OpenAI",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/software-engineer-chatgpt-infrastructure-london-97274",
+      "description": "About the TeamOur London-based team builds the backend systems that help ChatGPT scale reliably. We work on infrastructure close to the product, partnering with engineering teams to improve the performance, resilience, and operability of critical user-facing systems.Our work combines backend softwar",
       "tags": [
-        "Engineering"
+        "Applied AI"
       ],
       "salary": null,
-      "postedAt": "2026-08-02T11:41:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-munich-117339",
-      "title": "Fullstack Engineer",
-      "company": "Comena",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/comena/fullstack-engineer-munich-117339",
-      "description": "About ComenaComena builds AI agents for industrial distributors and manufacturers to automate their order processing from e-mail inbox to ERP. At distributors across the US and Germany alone, there are 4 million sales and procurement people stuck in manual workflows between inbox and ERP. We want to",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-02T11:40:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-ai-builder-london-367",
-      "title": "Full Stack AI Builder",
-      "company": "Fleek",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/full-stack-ai-builder-london-367",
-      "description": "Can you help us fix the world's most broken supply chain?The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, man",
-      "tags": [
-        "Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-02T10:01:53.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-finance-builder-london-114665",
-      "title": "Full Stack Finance Builder",
-      "company": "Fleek",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fleek/full-stack-finance-builder-london-114665",
-      "description": "Can you help us fix the world's most broken supply chain?The fashion industry produces over 100 billion garments a year. 60% end up in landfill, not because people don't want these clothes, but because the supply chain for getting secondhand fashion from donation to resale is completely offline, man",
-      "tags": [
-        "Finance"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-02T10:01:53.000Z",
+      "postedAt": "2026-08-02T16:00:21.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -292,37 +250,6 @@
       ],
       "salary": null,
       "postedAt": "2026-07-29T18:34:23+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135629",
-      "title": "Lean Practitioner",
-      "company": "KaizenworldAI",
-      "location": "Sydney, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-lean-practitioner-kaizenworldai-1135629",
-      "description": "au.seek.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for au.seek.com to respondEnable JavaScript and cookies to continuePlease mention th",
-      "tags": [
-        "infosec",
-        "javascript"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-29T15:10:30+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135630",
-      "title": "Continuous Improvement Lead",
-      "company": "KaizenworldAI",
-      "location": "Adelaide Lead, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-continuous-improvement-lead-kaizenworldai-1135630",
-      "description": "au.seek.comPerforming security verificationThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.Verification successful. Waiting for au.seek.com to respondEnable JavaScript and cookies to continuePlease mention th",
-      "tags": [
-        "infosec",
-        "javascript",
-        "exec"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-29T15:09:16+00:00",
       "source": "RemoteOK"
     },
     {
