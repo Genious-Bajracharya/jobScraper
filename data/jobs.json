@@ -1,35 +1,64 @@
 {
-  "updatedAt": "2026-08-03T14:28:13.905Z",
-  "total": 11,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-03T19:24:32.612Z",
+  "total": 12,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-phone-scam-disruption-manchester-bath-282983",
-      "title": "Backend Engineer - Phone Scam Disruption",
-      "company": "Netcraft",
-      "location": "Manchester, Bath)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcraft/backend-engineer-phone-scam-disruption-manchester-bath-282983",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Netcraft&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Netcraft is the global leader in cybercrime detection and disruption. We’re a trusted partner for three of the four largest companies in the world and many",
+      "id": "arbeitnow-remote-software-engineer-frontend-berlin-42694",
+      "title": "Software Engineer (Frontend) (m/w/d)",
+      "company": "Recare Deutschland GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-frontend-berlin-42694",
+      "description": "About RecareAs one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for after",
       "tags": [
-        "Engineering"
+        "Engineering",
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-08-03T12:55:54.000Z",
+      "postedAt": "2026-08-03T17:30:49.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-entwickler-mit-schwerpunkt-frontend-berlin-357410",
-      "title": "Fullstack-Entwickler mit Schwerpunkt Frontend (m/w/d)",
-      "company": "New Monday GmbH",
+      "id": "arbeitnow-customer-lifecycle-manager-all-genders-berlin-11557",
+      "title": "Customer Lifecycle Manager (all genders)",
+      "company": "Helpling GmbH & Co. KG",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/fullstack-entwickler-mit-schwerpunkt-frontend-berlin-357410",
-      "description": "Fullstack-Entwickler mit Schwerpunkt Frontend (m/w/d), Remote, Vollzeit, ab sofort.\n\nDeutschkenntnisse auf mindestens C1-Niveau.\n\nFür unser sympathisches Team suchen wir eine:n erfahrene:n deutschsprachige:n Fullstack-Entwickler:in (m/w/d) mit Schwerpunkt Frontend, die:der in unseren Kundenprojekten",
+      "url": "https://www.arbeitnow.com/jobs/companies/helpling-gmbh-co-kg/customer-lifecycle-manager-all-genders-berlin-11557",
+      "description": "YOUR IMPACT - YOUR ROLE\nWe are looking for a data-driven and customer-centric Customer Lifecycle Manager to lead customer retention and reactivation initiatives across our German market. In this role, you will own the CRM strategy and execution for existing customers, driving engagement, repeat book",
       "tags": [
-        "Remote",
-        "Software Development"
+        "Marketing and Communication"
       ],
       "salary": null,
-      "postedAt": "2026-08-03T12:30:45.000Z",
+      "postedAt": "2026-08-03T17:00:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-frontend-focus-london-278562",
+      "title": "Fullstack Engineer (Frontend focus)",
+      "company": "Coreweaveu",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/fullstack-engineer-frontend-focus-london-278562",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_-113912706363268805m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for",
+      "tags": [
+        "Monolith T&I"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-03T15:55:46.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-frontend-developer-e-commerce-shopify-frankfurt-145745",
+      "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",
+      "company": "ABRIO GmbH",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-frontend-developer-e-commerce-shopify-frankfurt-145745",
+      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast erste praktische Erfahrung mit React, TypeScript und modernen Frontends und möchtest E-Commerce-Lösungen für D2C-, B2C- und B2B-Marken bauen? Bei ABRIO entwickelst du performante Shopify-Frontends, setzt F",
+      "tags": [
+        "Information technology",
+        "high school coursework"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-03T15:20:13.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -252,64 +281,6 @@
       "salary": null,
       "postedAt": "2026-07-30T19:45:03+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "remoteok-1135829",
-      "title": "Accounts Assistant",
-      "company": "CUBE Construction Group Ltd.",
-      "location": "Bridgetown, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-cube-construction-group-ltd-1135829",
-      "description": "About the RoleCUBE Construction Group Ltd is seeking a detail-oriented and reliable Accounts Assistant to support the day to day financial operations of our growing construction business.This role is critical to ensuring that our accounting processes remain accurate, organized, and efficient, suppor",
-      "tags": [
-        "exec",
-        "customer support",
-        "legal",
-        "accounting",
-        "sys admin",
-        "finance",
-        "microsoft",
-        "ops",
-        "excel",
-        "product manager",
-        "music",
-        "game dev",
-        "technical",
-        "dev",
-        "marketing",
-        "devops",
-        "engineer",
-        "digital nomad",
-        "supervisor",
-        "c",
-        "speech",
-        "video",
-        "seo",
-        "content writing",
-        "design",
-        "education",
-        "golang",
-        "testing",
-        "admin",
-        "full time",
-        "full stack",
-        "architecture",
-        "cloud",
-        "backend",
-        "coordinator",
-        "sales",
-        "salesforce",
-        "python",
-        "sql",
-        "postgres",
-        "senior",
-        "junior",
-        "recruiter",
-        "virtual assistant",
-        "payroll"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-30T11:46:35+00:00",
-      "source": "RemoteOK"
     },
     {
       "id": "remotive-1680495",
