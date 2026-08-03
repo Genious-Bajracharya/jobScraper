@@ -1,20 +1,132 @@
 {
-  "updatedAt": "2026-08-02T19:02:07.286Z",
-  "total": 11,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-03T02:22:34.493Z",
+  "total": 19,
+  "newSinceLastRun": 9,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-chatgpt-infrastructure-london-97274",
-      "title": "Software Engineer, ChatGPT Infrastructure",
-      "company": "OpenAI",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/software-engineer-chatgpt-infrastructure-london-97274",
-      "description": "About the TeamOur London-based team builds the backend systems that help ChatGPT scale reliably. We work on infrastructure close to the product, partnering with engineering teams to improve the performance, resilience, and operability of critical user-facing systems.Our work combines backend softwar",
+      "id": "arbeitnow-frontend-engineer-london-260989",
+      "title": "Frontend Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/frontend-engineer-london-260989",
+      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hyp",
       "tags": [
-        "Applied AI"
+        "Public Services"
       ],
       "salary": null,
-      "postedAt": "2026-08-02T16:00:21.000Z",
+      "postedAt": "2026-08-03T01:01:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-backend-leaning-london-91177",
+      "title": "Fullstack Engineer (Backend leaning)",
+      "company": "Ben",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/fullstack-engineer-backend-leaning-london-91177",
+      "description": "Our MissionWe're not your average benefits platform; we're the unordinary force that uplifts people's lives. Our technology is the link that connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers.Our mission is clear: we're here to create a ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-03T01:00:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-sdet-software-development-engineer-in-test-budapest-493924",
+      "title": "Full Stack SDET (Software Development Engineer in Test)",
+      "company": "Hawkeyeinnovations",
+      "location": "Budapest, Hungary",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/full-stack-sdet-software-development-engineer-in-test-budapest-493924",
+      "description": "Full Stack SDET (Software Development Engineer in Test)Location: Budapest, HungaryOffice: Budapest, Váci út 144–150, 1138 HungaryWorking Model: Hybrid (2 days per week in the Budapest office)Salary: HUF 1,045,000 – 1,567,500 gross per month (depending on experience)Value Stream: Video &amp; Graphics",
+      "tags": [
+        "Hawk-Eye Innovations (Value Streams)"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-03T00:41:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-ai-systems-germany-290837",
+      "title": "Full Stack Engineer, AI systems",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-ai-systems-germany-290837",
+      "description": "About A1There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.Our product ",
+      "tags": [
+        "A1 Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-02T23:41:50.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-ai-agent-systems-germany-348184",
+      "title": "Backend Engineer, AI (Agent Systems)",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-engineer-ai-agent-systems-germany-348184",
+      "description": "About A1There are over 5 billion users using basic applications today such email, notes, tasks that are not AI-native. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting.Our product ",
+      "tags": [
+        "A1 Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-02T23:41:50.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-software-engineer-ai-finance-agent-germany-412478",
+      "title": "Backend Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-software-engineer-ai-finance-agent-germany-412478",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-02T23:41:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-ai-finance-agent-germany-490999",
+      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-software-engineer-ai-finance-agent-germany-490999",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-02T23:41:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-germany-297289",
+      "title": "Full Stack Engineer",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/full-stack-engineer-germany-297289",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-02T23:41:47.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-germany-449547",
+      "title": "Backend Developer",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/backend-developer-germany-449547",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-02T23:41:47.000Z",
       "source": "Arbeitnow"
     },
     {
