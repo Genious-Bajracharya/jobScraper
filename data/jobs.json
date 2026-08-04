@@ -1,65 +1,71 @@
 {
-  "updatedAt": "2026-08-03T19:24:32.612Z",
-  "total": 12,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-04T02:02:51.685Z",
+  "total": 13,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-remote-software-engineer-frontend-berlin-42694",
-      "title": "Software Engineer (Frontend) (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-frontend-berlin-42694",
-      "description": "About RecareAs one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for after",
+      "id": "arbeitnow-remote-software-engineer-backend-51510",
+      "title": "Software Engineer (Backend)",
+      "company": "NetBird",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/netbird/remote-software-engineer-backend-51510",
+      "description": "As a Senior Software Engineer Backend at NetBird, you will play a key role in building and scaling the backend of our open-source, peer-to-peer networking platform. You'll work on high-throughput distributed systems that power secure connectivity for users and organizations around the world.This rol",
       "tags": [
-        "Engineering",
-        "Remote"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-03T17:30:49.000Z",
+      "postedAt": "2026-08-04T00:01:14.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-customer-lifecycle-manager-all-genders-berlin-11557",
-      "title": "Customer Lifecycle Manager (all genders)",
-      "company": "Helpling GmbH & Co. KG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/helpling-gmbh-co-kg/customer-lifecycle-manager-all-genders-berlin-11557",
-      "description": "YOUR IMPACT - YOUR ROLE\nWe are looking for a data-driven and customer-centric Customer Lifecycle Manager to lead customer retention and reactivation initiatives across our German market. In this role, you will own the CRM strategy and execution for existing customers, driving engagement, repeat book",
+      "id": "arbeitnow-remote-software-engineer-frontend-277207",
+      "title": "Software Engineer (Frontend)",
+      "company": "NetBird",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/netbird/remote-software-engineer-frontend-277207",
+      "description": "🏢 Who we areA team from Germany with the vision to make advanced network security accessible for everyoneWe are a software company developing an open-source zero-trust network security platform that is both easy to use and affordable for teams of all sizes and budgets. Our mission is grounded in a ",
       "tags": [
-        "Marketing and Communication"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-03T17:00:26.000Z",
+      "postedAt": "2026-08-04T00:01:14.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-engineer-frontend-focus-london-278562",
-      "title": "Fullstack Engineer (Frontend focus)",
-      "company": "Coreweaveu",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/fullstack-engineer-frontend-focus-london-278562",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_-113912706363268805m_-2746164444908759431gmail-docs-internal-guid-131e4fb0-7fff-b4e9-ff50-e8cf32449b1b&quot;&gt;CoreWeave is The Essential Cloud for",
-      "tags": [
-        "Monolith T&I"
-      ],
+      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-neubrandenburg-272037",
+      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Neubrandenburg, Mecklenburg-Vorpommern, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-neubrandenburg-272037",
+      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-08-03T15:55:46.000Z",
+      "postedAt": "2026-08-03T23:51:08.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-junior-frontend-developer-e-commerce-shopify-frankfurt-145745",
-      "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",
-      "company": "ABRIO GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-frontend-developer-e-commerce-shopify-frankfurt-145745",
-      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast erste praktische Erfahrung mit React, TypeScript und modernen Frontends und möchtest E-Commerce-Lösungen für D2C-, B2C- und B2B-Marken bauen? Bei ABRIO entwickelst du performante Shopify-Frontends, setzt F",
-      "tags": [
-        "Information technology",
-        "high school coursework"
-      ],
+      "id": "remoteok-1136047",
+      "title": "help wanted",
+      "company": "Lsn",
+      "location": "Crossville, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RNTIuMTYxLjUxLjE0NQ== when applying to show you read ",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-08-03T15:20:13.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-03T01:29:41+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1136048",
+      "title": "General Laborer",
+      "company": "Lsn",
+      "location": "Crossville, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RNTIuMTYxLjUxLjE0NQ== when applying to show you read ",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-08-03T01:03:14+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-144087",
