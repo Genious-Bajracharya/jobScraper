@@ -1,49 +1,114 @@
 {
-  "updatedAt": "2026-08-04T13:58:47.173Z",
-  "total": 12,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-04T19:24:38.542Z",
+  "total": 15,
+  "newSinceLastRun": 7,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-berlin-127790",
-      "title": "Software Engineer (m/f/d)",
-      "company": "Amperecloud GmbH",
-      "location": "Berlin , Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-127790",
-      "description": "Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform – for a world where green energy drives growth.We're looking for a sharp, product-first fullstack eng",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-04T11:50:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-agentic-ai-berlin-195479",
-      "title": "Frontend Engineer - Agentic AI",
-      "company": "Cube",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/cube/frontend-engineer-agentic-ai-berlin-195479",
-      "description": "CUBE are a global RegTech business defining and implementing the gold standard of regulatory intelligence for the financial services industry. We deliver our services through intuitive SaaS solutions, powered by AI, to simplify the complex and everchanging world of compliance for our clients.  Why u",
-      "tags": [
-        "Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-04T11:41:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-infrastructure-platform-munich-140531",
-      "title": "Backend Engineer (Infrastructure & Platform) (f/m/d)",
-      "company": "Zeit Ai",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/zeit-ai/backend-engineer-infrastructure-platform-munich-140531",
-      "description": "The opportunityLLMs are changing analytical work. Capabilities that once required large teams of highly paid data engineers are becoming accessible to smaller companies for the first time. At Palantir, we delivered real data and BI value, but deployments never scaled without expensive, hands-on engi",
+      "id": "arbeitnow-remote-ai-engineer-483210",
+      "title": "AI Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ai-engineer-483210",
+      "description": "About the RoleWe're a fast-moving, early-stage startup operating in the AI-powered talent acquisition space, and we're hiring AI Engineers to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-04T11:40:28.000Z",
+      "postedAt": "2026-08-04T17:40:43.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-engineer-backend-platform-berlin-481372",
+      "title": "Founding Engineer – Backend & Platform",
+      "company": "Clera",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-481372",
+      "description": "About the RoleA seed-stage B2B SaaS startup in the German tax advisory technology space is looking for a Founding Engineer – Backend &amp; Platform to join their small, fast-moving team in Berlin. The company is building an AI-powered operating platform that unifies legacy accounting systems across ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-04T17:40:43.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-mobile-platform-engineer-berlin-199065",
+      "title": "Mobile Platform Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/mobile-platform-engineer-berlin-199065",
+      "description": "About the RoleJoin the Foundation team at a fast-growing Series A/B EdTech platform serving tens of millions of students worldwide. This team builds the technical base that product teams rely on — from the Flutter mobile app and core backend services to developer experience and AI infrastructure.As ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-04T17:40:43.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-founding-full-stack-engineer-250591",
+      "title": "Founding Full Stack Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-engineer-250591",
+      "description": "About the RoleThis is a founding engineering role at an early-stage healthtech SaaS company building the system of record for nursing excellence. The platform helps large health systems improve nurse retention and patient outcomes by centralizing professional governance, digital clinical ladder prog",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-04T17:40:43.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-berlin-153477",
+      "title": "Backend Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-153477",
+      "description": "About the RoleJoin a small, high-caliber founding team at a pre-seed AI/fintech startup building the next generation of AI-native operations infrastructure for private markets. You'll own core backend systems that power fund accounting, reporting, reconciliation, and treasury automation — with a dee",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-04T17:40:42.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-403076",
+      "title": "Full Stack Engineer",
+      "company": "Legal 500",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/full-stack-engineer-london-403076",
+      "description": "About Legal 500Legal 500 is a global legal market research, data and intelligence business. Our research helps corporate clients make informed decisions about legal representation and gives law firms insight into their market position, performance, and clients.Beyond research, we’re building a growi",
+      "tags": [
+        "Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-04T15:40:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1136059",
+      "title": "Expression of Interest",
+      "company": "Heim",
+      "location": "London, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-heim-1136059",
+      "description": "Why we existWe can get food, groceries and rides to our door on demand but accessing healthcare still means battling outdated systems, long waiting lists and travelling to sometimes overstretched clinical facilities.Demand is rising, capacity in clinical settings is not coping, and patients' expecta",
+      "tags": [
+        "adult",
+        "golang",
+        "hr",
+        "testing",
+        "marketing",
+        "exec",
+        "finance",
+        "cloud",
+        "ops",
+        "medical"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-03T17:22:53+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1136024",
@@ -120,7 +185,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RMjAuMTA2LjE5OC4xNjU= when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RMTcyLjE3NC4yMjMuMjQw when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:29:41+00:00",
@@ -132,7 +197,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RMjAuMTA2LjE5OC4xNjU= when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RMTcyLjE3NC4yMjMuMjQw when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:03:14+00:00",
@@ -167,22 +232,6 @@
       ],
       "salary": "$60000-$90000",
       "postedAt": "2026-07-31T14:48:13+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135757",
-      "title": "Join Praemium Expression of Interest",
-      "company": "Praemium",
-      "location": "Melbourne, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-join-praemium-expression-of-interest-praemium-1135757",
-      "description": "We hire dynamically at Praemium!At Praemium, we use the Expression of Interest as a way of connecting with people that have an interest in working with us. Candidates simply submit their details to be matched to future role at Praemium.Whatâs an Expression of Interest?If we have no specific jobs a",
-      "tags": [
-        "sys admin",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-31T10:07:47+00:00",
       "source": "RemoteOK"
     },
     {
