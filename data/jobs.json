@@ -1,127 +1,52 @@
 {
-  "updatedAt": "2026-08-05T08:28:09.057Z",
-  "total": 14,
+  "updatedAt": "2026-08-05T13:56:45.647Z",
+  "total": 9,
   "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-engineer-munich-485157",
-      "title": "FULL STACK ENGINEER (f/m/d)",
-      "company": "Omnisent",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/omnisent/full-stack-engineer-munich-485157",
-      "description": "Founded in 2025, Omnisent is a Munich-based defense technology company developing fully autonomous, Counter-UAS system. We are a small, high-output team from Cambridge, Imperial College, MIT, and BCG united by a mission to redefine modern airspace security.\nAufgaben\nWe are looking for a Full Stack E",
+      "id": "arbeitnow-finance-operations-manager-cologne-392552",
+      "title": "Finance & Operations Manager (m/f/d)",
+      "company": "GENUINE Beauty GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/finance-operations-manager-cologne-392552",
+      "description": "Your mission\nYou will be the architect of our financial engine. Your goal is to ensure that as our GMV (Gross Merchandise Value) is strongly growing, our margins remain healthy and our cash flow stays liquid. You will bridge the gap between TikTok’s backend data, our payouts, and our internal profit",
       "tags": [
-        "Software Development"
+        "Finance"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T05:27:52.000Z",
+      "postedAt": "2026-08-05T11:30:31.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-8484",
-      "title": "Werkstudent*in im Projektmanagement",
-      "company": "Doo",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-8484",
-      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "id": "arbeitnow-backend-engineer-python-kundenportal-okosystem-warmepumpe-berlin-de-479159",
+      "title": "Backend Engineer  (m/w/d) – Python / Kundenportal & Ökosystem Wärmepumpe",
+      "company": "Octopus Energy Group",
+      "location": "Berlin (DE)",
+      "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-engineer-python-kundenportal-okosystem-warmepumpe-berlin-de-479159",
+      "description": "Wir sind ein globales EnerTech-Unternehmen, das mit innovativen Wärmepumpen-Komplettlösungen die Energiewende vorantreibt. Seit 2022 installieren wir diese nachhaltige Technologie mit eigenen Fachkräften und setzen damit neue Maßstäbe für die Zukunft der Energieversorgung.\n&nbsp;\nDabei sind unsere Ö",
       "tags": [
-        "Projektmanagement",
-        "CSS",
-        "HTML",
-        "Werkstudent",
-        "Product Consulting",
-        "JavaScript",
-        "Engineering",
-        "Make",
-        "Webentwicklung"
+        "Operations"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T05:09:34.000Z",
+      "postedAt": "2026-08-05T11:05:41.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-ai-engineer-236976",
-      "title": "AI Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ai-engineer-236976",
-      "description": "About the RoleWe're a fast-moving, early-stage startup operating in the AI-powered talent acquisition space, and we're hiring AI Engineers to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product",
+      "id": "remoteok-1136091",
+      "title": "Express your interest",
+      "company": "Signal",
+      "location": "London, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-express-your-interest-signal-1136091",
+      "description": "Established in 2014 The Signal Group is a diversified shipping services group with offices in London and Athens. The Signal Group offers commercial ship management services to a pool of Aframax class oil tankers. In addition, The Signal Group develops and invests in next generation shipping related ",
       "tags": [
-        "Engineering"
+        "dev",
+        "finance",
+        "exec",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T03:00:38.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-python-developer-remote-in-germany-berlin-319060",
-      "title": "Python Developer - Remote in Germany",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/python-developer-remote-in-germany-berlin-319060",
-      "description": "Anyone AI is recruiting skilled Python Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java,",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T00:00:59.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-ai-trainer-germany-berlin-278001",
-      "title": "Full-Stack Developer - AI Trainer (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-278001",
-      "description": "Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of J",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T00:00:59.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-developer-ai-trainer-germany-berlin-112597",
-      "title": "Backend Developer - AI Trainer (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/backend-developer-ai-trainer-germany-berlin-112597",
-      "description": "Anyone AI is recruiting skilled Backend Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T00:00:59.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineering-ai-trainer-germany-berlin-428271",
-      "title": "Software Engineering AI Trainer (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/software-engineering-ai-trainer-germany-berlin-428271",
-      "description": "Anyone AI is recruiting skilled software engineers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T00:00:59.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-germany-berlin-455281",
-      "title": "Full-Stack Developer (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-germany-berlin-455281",
-      "description": "Anyone AI is recruiting skilled software engineers who also speak German, to work on a project with a leading AI Lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; wo",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T00:00:59.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-04T10:33:54+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1136059",
@@ -221,7 +146,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RNC4xNTUuMjIxLjEyMA== when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RMjAuNTUuMjE0LjExOQ== when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:29:41+00:00",
@@ -233,7 +158,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RNC4xNTUuMjIxLjEyMA== when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RMjAuNTUuMjE0LjExOQ== when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:03:14+00:00",
