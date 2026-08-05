@@ -1,34 +1,48 @@
 {
-  "updatedAt": "2026-08-05T13:56:45.647Z",
-  "total": 9,
+  "updatedAt": "2026-08-05T19:22:58.349Z",
+  "total": 10,
   "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-finance-operations-manager-cologne-392552",
-      "title": "Finance & Operations Manager (m/f/d)",
-      "company": "GENUINE Beauty GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/finance-operations-manager-cologne-392552",
-      "description": "Your mission\nYou will be the architect of our financial engine. Your goal is to ensure that as our GMV (Gross Merchandise Value) is strongly growing, our margins remain healthy and our cash flow stays liquid. You will bridge the gap between TikTok’s backend data, our payouts, and our internal profit",
+      "id": "arbeitnow-backend-engineer-api-london-68996",
+      "title": "Backend Engineer - API",
+      "company": "Xai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xai/backend-engineer-api-london-68996",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot",
       "tags": [
-        "Finance"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T11:30:31.000Z",
+      "postedAt": "2026-08-05T16:15:14.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-python-kundenportal-okosystem-warmepumpe-berlin-de-479159",
-      "title": "Backend Engineer  (m/w/d) – Python / Kundenportal & Ökosystem Wärmepumpe",
-      "company": "Octopus Energy Group",
-      "location": "Berlin (DE)",
-      "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/backend-engineer-python-kundenportal-okosystem-warmepumpe-berlin-de-479159",
-      "description": "Wir sind ein globales EnerTech-Unternehmen, das mit innovativen Wärmepumpen-Komplettlösungen die Energiewende vorantreibt. Seit 2022 installieren wir diese nachhaltige Technologie mit eigenen Fachkräften und setzen damit neue Maßstäbe für die Zukunft der Energieversorgung.\n&nbsp;\nDabei sind unsere Ö",
+      "id": "arbeitnow-backend-engineer-london-113867",
+      "title": "Backend Engineer",
+      "company": "Xai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xai/backend-engineer-london-113867",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot",
       "tags": [
-        "Operations"
+        "Infrastructure"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T11:05:41.000Z",
+      "postedAt": "2026-08-05T16:15:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-frontend-developer-e-commerce-shopify-frankfurt-253605",
+      "title": "Junior Frontend Developer – E-Commerce & Shopify (m/w/d)",
+      "company": "ABRIO GmbH",
+      "location": "Frankfurt, Hessen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-frontend-developer-e-commerce-shopify-frankfurt-253605",
+      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast erste praktische Erfahrung mit React, TypeScript und modernen Frontends und möchtest E-Commerce-Lösungen für D2C-, B2C- und B2B-Marken bauen? Bei ABRIO entwickelst du performante Shopify-Frontends, setzt F",
+      "tags": [
+        "Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T14:30:34.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -146,7 +160,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RMjAuNTUuMjE0LjExOQ== when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RMjAuMTAyLjIyMy4xMzI= when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:29:41+00:00",
@@ -158,7 +172,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RMjAuNTUuMjE0LjExOQ== when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RMjAuMTAyLjIyMy4xMzI= when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:03:14+00:00",
