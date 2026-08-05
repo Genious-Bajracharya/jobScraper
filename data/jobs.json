@@ -1,34 +1,56 @@
 {
-  "updatedAt": "2026-08-05T02:01:54.385Z",
-  "total": 18,
-  "newSinceLastRun": 12,
+  "updatedAt": "2026-08-05T08:28:09.057Z",
+  "total": 14,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-full-stack-london-183727",
-      "title": "Software Engineer - Full Stack",
-      "company": "Mast",
-      "location": "MastHQ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mast/software-engineer-full-stack-london-183727",
-      "description": "Mast is on a mission to make complex lending simple. The UK's specialist lending market is underserved by technology, with legacy systems that can't handle the nuance of complex income, niche products, or the broker workflows that specialist lenders rely on.We're building modern, cloud-native lendin",
+      "id": "arbeitnow-full-stack-engineer-munich-485157",
+      "title": "FULL STACK ENGINEER (f/m/d)",
+      "company": "Omnisent",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/omnisent/full-stack-engineer-munich-485157",
+      "description": "Founded in 2025, Omnisent is a Munich-based defense technology company developing fully autonomous, Counter-UAS system. We are a small, high-output team from Cambridge, Imperial College, MIT, and BCG united by a mission to redefine modern airspace security.\nAufgaben\nWe are looking for a Full Stack E",
       "tags": [
-        "Engineering & Product"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T01:00:29.000Z",
+      "postedAt": "2026-08-05T05:27:52.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-frontend-developer-196917",
-      "title": "Frontend Developer",
-      "company": "Gismart",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-frontend-developer-196917",
-      "description": "About us:Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of pe",
+      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-8484",
+      "title": "Werkstudent*in im Projektmanagement",
+      "company": "Doo",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-8484",
+      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
       "tags": [
-        "Web Engineering"
+        "Projektmanagement",
+        "CSS",
+        "HTML",
+        "Werkstudent",
+        "Product Consulting",
+        "JavaScript",
+        "Engineering",
+        "Make",
+        "Webentwicklung"
       ],
       "salary": null,
-      "postedAt": "2026-08-05T00:40:48.000Z",
+      "postedAt": "2026-08-05T05:09:34.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-ai-engineer-236976",
+      "title": "AI Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ai-engineer-236976",
+      "description": "About the RoleWe're a fast-moving, early-stage startup operating in the AI-powered talent acquisition space, and we're hiring AI Engineers to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T03:00:38.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -99,72 +121,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-05T00:00:59.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-remote-germany-235719",
-      "title": "Backend Engineer - Remote Germany",
-      "company": "Linro",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/linro/backend-engineer-remote-germany-235719",
-      "description": "AboutLinro is a cloud security company building a real-time, agentic cloud-security platform. Teams ship with AI. AI ships with Linro.Cloud infrastructure changes constantly, and increasingly it's AI agents making those changes, not people. Most security tools only catch problems after the fact. Lin",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T00:00:52.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-germany-based-179624",
-      "title": "Full Stack Engineer (Germany-based)",
-      "company": "Bowatt",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/full-stack-engineer-germany-based-179624",
-      "description": "About BoWattBoWatt is building agentic requirements and system engineering software for manufacturing.We believe AI will reach PhD-level engineering capability within the next 10 years. This will unlock massive value across several complex manufacturing industries. Cars. Planes. Rockets. Factories. ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-04T23:41:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693",
-      "title": "Founding Software Engineer (Backend, Cloud & AI Infrastructure)",
-      "company": "NextexAI",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693",
-      "description": "NexTex AI is a Berlin deep-tech startup building an AI intelligence layer for textile manufacturing. Join the founding team to build scalable backend, cloud and edge-to-AI infrastructure.\nTasks\n• Design and develop scalable backend services and REST APIs\n• Build cloud-native infrastructure and CI/CD",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-04T23:30:34.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-cards-berlin-210254",
-      "title": "Backend Engineer - Cards",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-cards-berlin-210254",
-      "description": "SumUp builds simple, affordable financial tools that help small businesses get paid, manage their money, and grow. Beyond payments, we offer a number of financial products - including business banking, card products, lending, and invoicing - giving merchants everything they need to manage their paym",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-04T20:45:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-berlin-108398",
-      "title": "Software Engineer",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/software-engineer-berlin-108398",
-      "description": "Senior Backend Engineer — Global Expansion\nAbout the team\nThe Global Expansion Acquiring Squad is the engine behind SumUp's growth into new markets — integrating local payment acquirers, enabling merchant onboarding, and ensuring transactions flow reliably across countries like Mexico, Canada, New Z",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-04T20:45:25.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -265,7 +221,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RNTIuMTczLjE2NC4yMw== when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RNC4xNTUuMjIxLjEyMA== when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:29:41+00:00",
@@ -277,7 +233,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RNTIuMTczLjE2NC4yMw== when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RNC4xNTUuMjIxLjEyMA== when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:03:14+00:00",
