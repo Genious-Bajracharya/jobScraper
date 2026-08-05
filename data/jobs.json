@@ -1,90 +1,170 @@
 {
-  "updatedAt": "2026-08-04T19:24:38.542Z",
-  "total": 15,
-  "newSinceLastRun": 7,
+  "updatedAt": "2026-08-05T02:01:54.385Z",
+  "total": 18,
+  "newSinceLastRun": 12,
   "jobs": [
     {
-      "id": "arbeitnow-remote-ai-engineer-483210",
-      "title": "AI Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-ai-engineer-483210",
-      "description": "About the RoleWe're a fast-moving, early-stage startup operating in the AI-powered talent acquisition space, and we're hiring AI Engineers to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product",
+      "id": "arbeitnow-software-engineer-full-stack-london-183727",
+      "title": "Software Engineer - Full Stack",
+      "company": "Mast",
+      "location": "MastHQ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/mast/software-engineer-full-stack-london-183727",
+      "description": "Mast is on a mission to make complex lending simple. The UK's specialist lending market is underserved by technology, with legacy systems that can't handle the nuance of complex income, niche products, or the broker workflows that specialist lenders rely on.We're building modern, cloud-native lendin",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T01:00:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-frontend-developer-196917",
+      "title": "Frontend Developer",
+      "company": "Gismart",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gismart/remote-frontend-developer-196917",
+      "description": "About us:Gismart is a value-driven mobile app developer with a strong presence in the Health &amp; Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of pe",
+      "tags": [
+        "Web Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T00:40:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-python-developer-remote-in-germany-berlin-319060",
+      "title": "Python Developer - Remote in Germany",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/python-developer-remote-in-germany-berlin-319060",
+      "description": "Anyone AI is recruiting skilled Python Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java,",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T00:00:59.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-ai-trainer-germany-berlin-278001",
+      "title": "Full-Stack Developer - AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-278001",
+      "description": "Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of J",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T00:00:59.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-ai-trainer-germany-berlin-112597",
+      "title": "Backend Developer - AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/backend-developer-ai-trainer-germany-berlin-112597",
+      "description": "Anyone AI is recruiting skilled Backend Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T00:00:59.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineering-ai-trainer-germany-berlin-428271",
+      "title": "Software Engineering AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/software-engineering-ai-trainer-germany-berlin-428271",
+      "description": "Anyone AI is recruiting skilled software engineers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T00:00:59.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-germany-berlin-455281",
+      "title": "Full-Stack Developer (Germany)",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-germany-berlin-455281",
+      "description": "Anyone AI is recruiting skilled software engineers who also speak German, to work on a project with a leading AI Lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; wo",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-05T00:00:59.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-remote-germany-235719",
+      "title": "Backend Engineer - Remote Germany",
+      "company": "Linro",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/linro/backend-engineer-remote-germany-235719",
+      "description": "AboutLinro is a cloud security company building a real-time, agentic cloud-security platform. Teams ship with AI. AI ships with Linro.Cloud infrastructure changes constantly, and increasingly it's AI agents making those changes, not people. Most security tools only catch problems after the fact. Lin",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-04T17:40:43.000Z",
+      "postedAt": "2026-08-05T00:00:52.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-founding-engineer-backend-platform-berlin-481372",
-      "title": "Founding Engineer – Backend & Platform",
-      "company": "Clera",
+      "id": "arbeitnow-full-stack-engineer-germany-based-179624",
+      "title": "Full Stack Engineer (Germany-based)",
+      "company": "Bowatt",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/full-stack-engineer-germany-based-179624",
+      "description": "About BoWattBoWatt is building agentic requirements and system engineering software for manufacturing.We believe AI will reach PhD-level engineering capability within the next 10 years. This will unlock massive value across several complex manufacturing industries. Cars. Planes. Rockets. Factories. ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-04T23:41:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693",
+      "title": "Founding Software Engineer (Backend, Cloud & AI Infrastructure)",
+      "company": "NextexAI",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-481372",
-      "description": "About the RoleA seed-stage B2B SaaS startup in the German tax advisory technology space is looking for a Founding Engineer – Backend &amp; Platform to join their small, fast-moving team in Berlin. The company is building an AI-powered operating platform that unifies legacy accounting systems across ",
+      "url": "https://www.arbeitnow.com/jobs/companies/nextexai/founding-software-engineer-backend-cloud-ai-infrastructure-berlin-410693",
+      "description": "NexTex AI is a Berlin deep-tech startup building an AI intelligence layer for textile manufacturing. Join the founding team to build scalable backend, cloud and edge-to-AI infrastructure.\nTasks\n• Design and develop scalable backend services and REST APIs\n• Build cloud-native infrastructure and CI/CD",
       "tags": [
-        "Engineering"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-04T17:40:43.000Z",
+      "postedAt": "2026-08-04T23:30:34.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-mobile-platform-engineer-berlin-199065",
-      "title": "Mobile Platform Engineer",
-      "company": "Clera",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/mobile-platform-engineer-berlin-199065",
-      "description": "About the RoleJoin the Foundation team at a fast-growing Series A/B EdTech platform serving tens of millions of students worldwide. This team builds the technical base that product teams rely on — from the Flutter mobile app and core backend services to developer experience and AI infrastructure.As ",
-      "tags": [
-        "Engineering"
-      ],
+      "id": "arbeitnow-backend-engineer-cards-berlin-210254",
+      "title": "Backend Engineer - Cards",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-cards-berlin-210254",
+      "description": "SumUp builds simple, affordable financial tools that help small businesses get paid, manage their money, and grow. Beyond payments, we offer a number of financial products - including business banking, card products, lending, and invoicing - giving merchants everything they need to manage their paym",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-08-04T17:40:43.000Z",
+      "postedAt": "2026-08-04T20:45:25.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-founding-full-stack-engineer-250591",
-      "title": "Founding Full Stack Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-founding-full-stack-engineer-250591",
-      "description": "About the RoleThis is a founding engineering role at an early-stage healthtech SaaS company building the system of record for nursing excellence. The platform helps large health systems improve nurse retention and patient outcomes by centralizing professional governance, digital clinical ladder prog",
-      "tags": [
-        "Engineering"
-      ],
+      "id": "arbeitnow-software-engineer-berlin-108398",
+      "title": "Software Engineer",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/software-engineer-berlin-108398",
+      "description": "Senior Backend Engineer — Global Expansion\nAbout the team\nThe Global Expansion Acquiring Squad is the engine behind SumUp's growth into new markets — integrating local payment acquirers, enabling merchant onboarding, and ensuring transactions flow reliably across countries like Mexico, Canada, New Z",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-08-04T17:40:43.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-berlin-153477",
-      "title": "Backend Engineer",
-      "company": "Clera",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-153477",
-      "description": "About the RoleJoin a small, high-caliber founding team at a pre-seed AI/fintech startup building the next generation of AI-native operations infrastructure for private markets. You'll own core backend systems that power fund accounting, reporting, reconciliation, and treasury automation — with a dee",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-04T17:40:42.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-403076",
-      "title": "Full Stack Engineer",
-      "company": "Legal 500",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/full-stack-engineer-london-403076",
-      "description": "About Legal 500Legal 500 is a global legal market research, data and intelligence business. Our research helps corporate clients make informed decisions about legal representation and gives law firms insight into their market position, performance, and clients.Beyond research, we’re building a growi",
-      "tags": [
-        "Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-04T15:40:06.000Z",
+      "postedAt": "2026-08-04T20:45:25.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -185,7 +265,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-help-wanted-lsn-1136047",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RMTcyLjE3NC4yMjMuMjQw when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **GLORIFY** and tag RNTIuMTczLjE2NC4yMw== when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:29:41+00:00",
@@ -197,7 +277,7 @@
       "company": "Lsn",
       "location": "Crossville, ",
       "url": "https://remoteOK.com/remote-jobs/remote-general-laborer-lsn-1136048",
-      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RMTcyLjE3NC4yMjMuMjQw when applying to show you read ",
+      "description": "Window tinter â crossville, tnexpress employment professionals is hiring!express employment professionals is currently seeking an experienced window tinter for a local company in crossville, tn.pay:...Please mention the word **AUDIBLY** and tag RNTIuMTczLjE2NC4yMw== when applying to show you read ",
       "tags": [],
       "salary": null,
       "postedAt": "2026-08-03T01:03:14+00:00",
@@ -215,51 +295,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-01T04:30:03+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "remoteok-1135739",
-      "title": "Product Engineer",
-      "company": "SuperPlane",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1135739",
-      "description": "About SuperPlaneSuperPlane is an open source software factory engine: the system that lets AI agents build, test, and ship code while engineers focus on design and decisions. This is going to be how all software gets built, and we're building the engine underneath it.The RoleWe are hiring a product ",
-      "tags": [
-        "golang",
-        "javascript",
-        "react",
-        "ai"
-      ],
-      "salary": "$60000-$90000",
-      "postedAt": "2026-07-31T14:48:13+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-147974",
-      "title": "Full-Stack Node.js and React Engineer",
-      "company": "Kubikware",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/147974-full-stack-node-js-and-react-engineer",
-      "description": "We are Kubikware™, a digital agency with 20+ years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL, with a strong South American team, and have clients and partners in the US market across multiple indu",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-30T19:45:04+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-147975",
-      "title": "Laravel & React Engineer (Remote, Latam)",
-      "company": "Kubikware",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
-      "description": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verti",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-30T19:45:03+00:00",
       "source": "Jobicy"
     },
     {
