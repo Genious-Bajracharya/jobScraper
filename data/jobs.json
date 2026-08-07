@@ -1,34 +1,76 @@
 {
-  "updatedAt": "2026-08-07T07:06:53.385Z",
-  "total": 13,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-07T12:52:08.728Z",
+  "total": 16,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-berlin-253655",
-      "title": "Backend Engineer",
-      "company": "Clera",
+      "id": "arbeitnow-backend-engineer-transfers-gateway-berlin-91926",
+      "title": "Backend Engineer - Transfers Gateway",
+      "company": "sumup",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-253655",
-      "description": "About the RoleJoin the core infrastructure team of a fast-growing energy technology company building the operating system for the next generation of European energy. The platform combines a modular billing engine, low-level energy-market communication protocols, and a full accounting ledger — delive",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-transfers-gateway-berlin-91926",
+      "description": "&lt;p&gt;At SumUp, the &lt;strong&gt;Global Bank tribe &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital business account, helping small businesses manage their banking needs easily and reliably.&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Transfers Gateway squad &lt;",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-07T02:40:22.000Z",
+      "postedAt": "2026-08-07T11:55:29.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-full-stack-frontend-engineer-199554",
-      "title": "Full Stack Frontend Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-frontend-engineer-199554",
-      "description": "About the RoleWe're a Series A AI-powered go-to-market SaaS company building intelligent infrastructure for B2B sales and marketing teams. Our platform uses AI agents to help GTM teams find, qualify, and engage their best-fit accounts — and we're looking for a Full Stack Frontend Engineer to lead th",
+      "id": "arbeitnow-backend-engineer-money-transfers-berlin-286848",
+      "title": "Backend Engineer - Money Transfers",
+      "company": "sumup",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-money-transfers-berlin-286848",
+      "description": "&lt;p&gt;&lt;strong&gt;SumUp&lt;/strong&gt; builds simple, affordable financial tools that help over 4 million small businesses across 37 markets get paid, manage their money, and grow. Beyond card payments, we offer a full suite of financial products - business banking, lending, invoicing, and mone",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-07T02:40:22.000Z",
+      "postedAt": "2026-08-07T11:55:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-golang-balance-management-berlin-98909",
+      "title": "Backend Engineer (Golang) - Balance Management",
+      "company": "sumup",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-balance-management-berlin-98909",
+      "description": "&lt;p&gt;At SumUp, the&amp;nbsp;&lt;strong&gt;Global Bank team &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Balance Management Squ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T11:55:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-adtech-london-33209",
+      "title": "FullStack Engineer, AdTech",
+      "company": "wolt",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/fullstack-engineer-adtech-london-33209",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we ",
+      "tags": [
+        "Ads Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T09:55:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineer-net-backend-london-454532",
+      "title": "Engineer - .NET Backend (London)",
+      "company": "Trainline",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/engineer-net-backend-london-454532",
+      "description": "About usWe are champions of rail, inspired to build a greener, more sustainable future of travel. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great",
+      "tags": [
+        "Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T06:40:19.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -109,7 +151,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTA5LjM2LjIyOA== when applying to show you read the job post completely (#RMjAuMTA5LjM2LjIyOA==). This is a beta feature to avoid spam applicants.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTcyLjIxNS4yMTYuMjEx when applying to show you read the job post completely (#RMTcyLjIxNS4yMTYuMjEx). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
@@ -346,7 +388,7 @@
       "company": "Tatweer-lb",
       "location": "London, ",
       "url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124",
-      "description": "Remote - Full TimeDeveloperJr Frontend Developer Google London, UK $35-$45kApply NowPlease mention the word **PLEASING** and tag RMjAuMTA5LjM2LjIyOA== when applying to show you read the job post completely (#RMjAuMTA5LjM2LjIyOA==). This is a beta feature to avoid spam applicants. Companies can searc",
+      "description": "Remote - Full TimeDeveloperJr Frontend Developer Google London, UK $35-$45kApply NowPlease mention the word **PLEASING** and tag RMTcyLjIxNS4yMTYuMjEx when applying to show you read the job post completely (#RMTcyLjIxNS4yMTYuMjEx). This is a beta feature to avoid spam applicants. Companies can searc",
       "tags": [
         "design",
         "designer",
