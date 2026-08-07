@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-07T02:25:14.909Z",
-  "total": 11,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-08-07T07:06:53.385Z",
+  "total": 13,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-berlin-253655",
+      "title": "Backend Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-253655",
+      "description": "About the RoleJoin the core infrastructure team of a fast-growing energy technology company building the operating system for the next generation of European energy. The platform combines a modular billing engine, low-level energy-market communication protocols, and a full accounting ledger — delive",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T02:40:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-frontend-engineer-199554",
+      "title": "Full Stack Frontend Engineer",
+      "company": "Clera",
+      "location": "remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-full-stack-frontend-engineer-199554",
+      "description": "About the RoleWe're a Series A AI-powered go-to-market SaaS company building intelligent infrastructure for B2B sales and marketing teams. Our platform uses AI agents to help GTM teams find, qualify, and engage their best-fit accounts — and we're looking for a Full Stack Frontend Engineer to lead th",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T02:40:22.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "remoteok-1136188",
       "title": "Java Developer",
@@ -81,7 +109,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNTIuMTg4Ljg3LjU2 when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjU2). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTA5LjM2LjIyOA== when applying to show you read the job post completely (#RMjAuMTA5LjM2LjIyOA==). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
@@ -318,7 +346,7 @@
       "company": "Tatweer-lb",
       "location": "London, ",
       "url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124",
-      "description": "Remote - Full TimeDeveloperJr Frontend Developer Google London, UK $35-$45kApply NowPlease mention the word **PLEASING** and tag RNTIuMTg4Ljg3LjU2 when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjU2). This is a beta feature to avoid spam applicants. Companies can search these ",
+      "description": "Remote - Full TimeDeveloperJr Frontend Developer Google London, UK $35-$45kApply NowPlease mention the word **PLEASING** and tag RMjAuMTA5LjM2LjIyOA== when applying to show you read the job post completely (#RMjAuMTA5LjM2LjIyOA==). This is a beta feature to avoid spam applicants. Companies can searc",
       "tags": [
         "design",
         "designer",
