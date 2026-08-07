@@ -1,104 +1,8 @@
 {
-  "updatedAt": "2026-08-06T23:54:16.997Z",
-  "total": 18,
-  "newSinceLastRun": 10,
+  "updatedAt": "2026-08-07T02:25:14.909Z",
+  "total": 11,
+  "newSinceLastRun": 0,
   "jobs": [
-    {
-      "id": "arbeitnow-software-engineer-backend-208406",
-      "title": "Software Engineer, Backend",
-      "company": "Sevenroomsuk",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sevenroomsuk/software-engineer-backend-208406",
-      "description": "&lt;h1&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;SevenRooms is a hospitality technology platform that powers restaurant operations and marketing, and was recently acquired by DoorDash! The SevenRooms product enables operators to automatically drive revenue &amp;amp; profitab",
-      "tags": [
-        "351 In-Store R&D"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-06T21:56:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-adtech-london-107382",
-      "title": "FullStack Engineer, AdTech",
-      "company": "Wolt - English",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/fullstack-engineer-adtech-london-107382",
-      "description": "About Wolt\nAt Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In ",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-06T21:45:23.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-frontend-engineer-169326",
-      "title": "Full Stack Frontend Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-frontend-engineer-169326",
-      "description": "About the RoleWe're a Series A AI-powered go-to-market SaaS company building intelligent infrastructure for B2B sales and marketing teams. Our platform uses AI agents to help GTM teams find, qualify, and engage their best-fit accounts — and we're looking for a Full Stack Frontend Engineer to lead th",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-06T21:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-277955",
-      "title": "Full Stack Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-full-stack-engineer-277955",
-      "description": "About the RoleJoin a lean, four-person engineering team at a fast-growing Series A fintech startup building an AI-powered investing platform targeted at the next generation of investors. With millions of downloads and a rapidly scaling user base, this is a high-ownership, hands-on role at a critical",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-06T18:40:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-ai-engineer-266803",
-      "title": "AI Engineer",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ai-engineer-266803",
-      "description": "About the RoleWe're a fast-moving, early-stage startup operating in the AI-powered talent acquisition space, and we're hiring AI Engineers to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-06T18:40:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-freelance-backend-engineer-kotlin-berlin-422368",
-      "title": "Freelance Backend Engineer - Kotlin (m/f/d)",
-      "company": "Voize",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/voize/freelance-backend-engineer-kotlin-berlin-422368",
-      "description": "🎤 Why voize? Because we’re more than just a job!At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people.💡 Your MissionAs a Freelance Senior Backend Engi",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-06T14:40:18.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-ai-native-development-garbsen-osnabruck-berlin-14861",
-      "title": "Fullstack Software Engineer (M/W/D) – AI-Native Development",
-      "company": "INSIDE M2M GmbH",
-      "location": "Garbsen, Osnabrück, Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-osnabruck-berlin-14861",
-      "description": "Was wir tunAls IoT Pioniere entwickeln wir mit mittlerweile über 40 Kollegen*innen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 500.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausgestattet.Unsere Kompetenz liegt in der Ent",
-      "tags": [
-        "Entwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-06T14:30:22.000Z",
-      "source": "Arbeitnow"
-    },
     {
       "id": "remoteok-1136188",
       "title": "Java Developer",
@@ -177,7 +81,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNTIuMTYyLjEzNy4xMDc= when applying to show you read the job post completely (#RNTIuMTYyLjEzNy4xMDc=). This is a beta feature to avoid spam applicants.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNTIuMTg4Ljg3LjU2 when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjU2). This is a beta feature to avoid spam applicants. Compani",
       "tags": [
         "education",
         "non tech",
@@ -414,7 +318,7 @@
       "company": "Tatweer-lb",
       "location": "London, ",
       "url": "https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124",
-      "description": "Remote - Full TimeDeveloperJr Frontend Developer Google London, UK $35-$45kApply NowPlease mention the word **PLEASING** and tag RNTIuMTYyLjEzNy4xMDc= when applying to show you read the job post completely (#RNTIuMTYyLjEzNy4xMDc=). This is a beta feature to avoid spam applicants. Companies can searc",
+      "description": "Remote - Full TimeDeveloperJr Frontend Developer Google London, UK $35-$45kApply NowPlease mention the word **PLEASING** and tag RNTIuMTg4Ljg3LjU2 when applying to show you read the job post completely (#RNTIuMTg4Ljg3LjU2). This is a beta feature to avoid spam applicants. Companies can search these ",
       "tags": [
         "design",
         "designer",
