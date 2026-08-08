@@ -1,8 +1,79 @@
 {
-  "updatedAt": "2026-08-07T18:47:59.838Z",
-  "total": 11,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-08T01:12:37.212Z",
+  "total": 14,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-freelance-backend-engineer-kotlin-berlin-134",
+      "title": "Freelance Backend Engineer - Kotlin (m/f/d)",
+      "company": "Voize",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/voize/freelance-backend-engineer-kotlin-berlin-134",
+      "description": "🎤 Why voize? Because we’re more than just a job!At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people.💡 Your MissionAs a Freelance Senior Backend Engi",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T20:40:15.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-head-of-engineering-at-e-mobility-startup-munchen-19317",
+      "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
+      "company": "Aampere",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-19317",
+      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "tags": [
+        "Head of",
+        "Engineering",
+        "Software",
+        "Founding Engineer",
+        "Startup",
+        "Scaleup",
+        "Mobility",
+        "Typescript",
+        "Nest.js",
+        "Node.js"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T20:09:53.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-engineer-at-e-mobility-startup-munchen-187338",
+      "title": "Founding Engineer (m/f/x) @ E-Mobility Startup",
+      "company": "Aampere",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-engineer-at-e-mobility-startup-munchen-187338",
+      "description": "Find Jobs in Germany on Arbeitnow",
+      "tags": [
+        "Founding Engineer",
+        "Engineer",
+        "Full Stack Engineer",
+        "Startup",
+        "Scaleup",
+        "E-Mobility",
+        "Developer"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T20:09:53.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-software-engineer-perception-experience-munich-489530",
+      "title": "Fullstack Software Engineer, Perception Experience",
+      "company": "intrinsicrobotics",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-perception-experience-munich-489530",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Intrinsic is an AI robotics group at Google aiming to reimagine the potential of industrial robotics. Our team believes that advances in AI, perception and simulation will redefine what’s possible for",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-07T17:55:38.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-fullstack-engineer-backend-leaning-london-173187",
       "title": "Fullstack Engineer (Backend leaning)",
@@ -15,20 +86,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-07T15:40:19.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-adtech-london-33209",
-      "title": "FullStack Engineer, AdTech",
-      "company": "wolt",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/fullstack-engineer-adtech-london-33209",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we ",
-      "tags": [
-        "Ads Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-07T09:55:33.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -109,7 +166,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNTIuMjM0LjYuNTc= when applying to show you read the job post completely (#RNTIuMjM0LjYuNTc=). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTI3LjIxNC4xNjQ= when applying to show you read the job post completely (#RMjAuMTI3LjIxNC4xNjQ=). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
