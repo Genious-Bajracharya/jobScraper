@@ -1,78 +1,90 @@
 {
-  "updatedAt": "2026-08-08T12:36:59.015Z",
-  "total": 12,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-08T18:29:46.165Z",
+  "total": 13,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
-      "title": "Scientific Data Architect - Germany Expression of interest",
-      "company": "Tetrascience",
-      "location": "Düsseldorf, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
-      "description": "Expression of interest We are actively building our talent pipeline for upcoming growth across the Scientific Data Architect team. Please note: This is an Expression of Interest advert, and there is no active vacancy at this exact moment. However, we anticipate opening formal roles in the coming mon",
+      "id": "arbeitnow-associate-founding-engineer-full-stack-munich-142108",
+      "title": "Associate Founding Engineer (Full-Stack)",
+      "company": "Clera",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/associate-founding-engineer-full-stack-munich-142108",
+      "description": "About the RoleJoin a small, fast-moving team building an AI-powered digital assistant for B2B sales teams — a multi-platform product spanning a React Web App, an Electron Desktop Client, a Swift Mobile App, and two backend services. As an Associate Founding Engineer (Full-Stack), you'll work shoulde",
       "tags": [
-        "Computer Software",
-        "Scientific Data Architect"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-08T08:20:22.000Z",
+      "postedAt": "2026-08-08T14:40:22.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-freelance-backend-engineer-kotlin-berlin-134",
-      "title": "Freelance Backend Engineer - Kotlin (m/f/d)",
-      "company": "Voize",
+      "id": "arbeitnow-founding-engineer-munich-481672",
+      "title": "Founding Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481672",
+      "description": "About the RoleJoin a small, ambitious team building the core software platform that controls and optimises industrial battery storage assets across Europe. As a Founding Engineer, you will have outsized ownership across the full stack — from real-time optimisation algorithms and backend services to ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-08T14:40:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-engineer-backend-platform-berlin-203681",
+      "title": "Founding Engineer – Backend & Platform",
+      "company": "Clera",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/voize/freelance-backend-engineer-kotlin-berlin-134",
-      "description": "🎤 Why voize? Because we’re more than just a job!At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to admin work that pulls nurses away from what matters most: people.💡 Your MissionAs a Freelance Senior Backend Engi",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-203681",
+      "description": "About the RoleWe're a seed-stage startup building Germany's most modern accounting and tax advisory platform — an AI-powered operating system for tax advisory firms. We acquire established tax firms and transform them into high-performing, technology-enabled businesses through proprietary software a",
       "tags": [
-        "Tech"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-07T20:40:15.000Z",
+      "postedAt": "2026-08-08T14:40:22.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-head-of-engineering-at-e-mobility-startup-munchen-19317",
-      "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
-      "company": "Aampere",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-19317",
-      "description": "Find Jobs in Germany on Arbeitnow",
+      "id": "arbeitnow-full-stack-engineer-munich-291878",
+      "title": "Full Stack Engineer",
+      "company": "Clera",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-291878",
+      "description": "About the RoleJoin a small, product-focused team at a bootstrapped AI platform and consulting studio based in Munich, Germany. You'll be a core contributor to the platform that enables thousands of users to interact with AI every day — building high-quality full-stack features and the scalable backe",
       "tags": [
-        "Head of",
-        "Engineering",
-        "Software",
-        "Founding Engineer",
-        "Startup",
-        "Scaleup",
-        "Mobility",
-        "Typescript",
-        "Nest.js",
-        "Node.js"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-07T20:09:53.000Z",
+      "postedAt": "2026-08-08T14:40:22.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-founding-engineer-at-e-mobility-startup-munchen-187338",
-      "title": "Founding Engineer (m/f/x) @ E-Mobility Startup",
-      "company": "Aampere",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-engineer-at-e-mobility-startup-munchen-187338",
-      "description": "Find Jobs in Germany on Arbeitnow",
+      "id": "arbeitnow-backend-engineer-berlin-147739",
+      "title": "Backend Engineer",
+      "company": "Clera",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-147739",
+      "description": "About the RoleJoin the core infrastructure team of a fast-growing energy technology company building the operating system for the next generation of European energy. The platform combines a modular billing engine, low-level energy-market communication protocols, and a full accounting ledger — delive",
       "tags": [
-        "Founding Engineer",
-        "Engineer",
-        "Full Stack Engineer",
-        "Startup",
-        "Scaleup",
-        "E-Mobility",
-        "Developer"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-07T20:09:53.000Z",
+      "postedAt": "2026-08-08T14:40:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-retail-media-84755",
+      "title": "Full Stack Engineer: Retail Media",
+      "company": "Constructor",
+      "location": "Remote - EMEA",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755",
+      "description": "About UsConstructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personali",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-08T12:40:09.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -153,7 +165,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTcyLjE4Mi4yNDMuNTQ= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDMuNTQ=). This is a beta feature to avoid spam applicants.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTY4LjE1Ny44NQ== when applying to show you read the job post completely (#RMjAuMTY4LjE1Ny44NQ==). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
@@ -264,49 +276,6 @@
       "salary": null,
       "postedAt": "2026-08-05T08:47:07",
       "source": "Remotive"
-    },
-    {
-      "id": "remoteok-1136213",
-      "title": "Freelance Designer",
-      "company": "Control Shift Video",
-      "location": "Texas, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-control-shift-video-1136213",
-      "description": "Job Description And RequirementsProject-based | Remote | United States | ContractPay based on freelancer's rateControl Shift Video is looking for a freelance designer to collaborate with our creative team on project-based work across video, motion graphics, web visuals, and brand content. Our projec",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting",
-        "designer",
-        "web dev",
-        "video",
-        "ads"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T08:16:20+00:00",
-      "source": "RemoteOK"
     },
     {
       "id": "jobicy-144087",
