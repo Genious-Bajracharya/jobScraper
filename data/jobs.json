@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-08T01:12:37.212Z",
-  "total": 14,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-08T06:41:56.951Z",
+  "total": 12,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-freelance-backend-engineer-kotlin-berlin-134",
@@ -23,7 +23,7 @@
       "company": "Aampere",
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-19317",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "description": "Find Jobs in Germany on Arbeitnow",
       "tags": [
         "Head of",
         "Engineering",
@@ -46,7 +46,7 @@
       "company": "Aampere",
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-engineer-at-e-mobility-startup-munchen-187338",
-      "description": "Find Jobs in Germany on Arbeitnow",
+      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
       "tags": [
         "Founding Engineer",
         "Engineer",
@@ -72,20 +72,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-07T17:55:38.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-backend-leaning-london-173187",
-      "title": "Fullstack Engineer (Backend leaning)",
-      "company": "Ben",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/fullstack-engineer-backend-leaning-london-173187",
-      "description": "Our MissionWe're not your average benefits platform; we're the unordinary force that uplifts people's lives. Our technology is the link that connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers.Our mission is clear: we're here to create a ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-07T15:40:19.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -166,7 +152,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTI3LjIxNC4xNjQ= when applying to show you read the job post completely (#RMjAuMTI3LjIxNC4xNjQ=). This is a beta feature to avoid spam applicants.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTY5LjUzLjM2 when applying to show you read the job post completely (#RMjAuMTY5LjUzLjM2). This is a beta feature to avoid spam applicants. Compani",
       "tags": [
         "education",
         "non tech",
@@ -319,45 +305,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-05T08:16:20+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136212",
-      "title": "Resource Manager",
-      "company": "The Story Shack",
-      "location": "New York City Metropolitan Area",
-      "url": "https://remoteOK.com/remote-jobs/remote-resource-manager-the-story-shack-1136212",
-      "description": "Company DescriptionThe Story Shack is a modern, low-overhead creative studio built to scale a brand's story. We give brands the power of an in-house creative team â without the headaches and high costs that plague the industry. We address the broken creative model by offering flexible, budget-frie",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T04:11:21+00:00",
       "source": "RemoteOK"
     },
     {
