@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-08-08T06:41:56.951Z",
+  "updatedAt": "2026-08-08T12:36:59.015Z",
   "total": 12,
-  "newSinceLastRun": 0,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
+      "title": "Scientific Data Architect - Germany Expression of interest",
+      "company": "Tetrascience",
+      "location": "Düsseldorf, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-germany-expression-of-interest-dusseldorf-260904",
+      "description": "Expression of interest We are actively building our talent pipeline for upcoming growth across the Scientific Data Architect team. Please note: This is an Expression of Interest advert, and there is no active vacancy at this exact moment. However, we anticipate opening formal roles in the coming mon",
+      "tags": [
+        "Computer Software",
+        "Scientific Data Architect"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-08T08:20:22.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-freelance-backend-engineer-kotlin-berlin-134",
       "title": "Freelance Backend Engineer - Kotlin (m/f/d)",
@@ -46,7 +61,7 @@
       "company": "Aampere",
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-engineer-at-e-mobility-startup-munchen-187338",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "description": "Find Jobs in Germany on Arbeitnow",
       "tags": [
         "Founding Engineer",
         "Engineer",
@@ -58,20 +73,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-07T20:09:53.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-perception-experience-munich-489530",
-      "title": "Fullstack Software Engineer, Perception Experience",
-      "company": "intrinsicrobotics",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-perception-experience-munich-489530",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Intrinsic is an AI robotics group at Google aiming to reimagine the potential of industrial robotics. Our team believes that advances in AI, perception and simulation will redefine what’s possible for",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-07T17:55:38.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -152,7 +153,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTY5LjUzLjM2 when applying to show you read the job post completely (#RMjAuMTY5LjUzLjM2). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTcyLjE4Mi4yNDMuNTQ= when applying to show you read the job post completely (#RMTcyLjE4Mi4yNDMuNTQ=). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
