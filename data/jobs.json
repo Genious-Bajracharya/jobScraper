@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-08-09T12:38:58.788Z",
-  "total": 11,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-09T18:32:18.629Z",
+  "total": 12,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
+      "title": "Java Backend Entwickler - Spring Boot & Camunda (m/w/d)",
+      "company": "Rockstardevelopers GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
+      "description": "Wer wir sind\nRockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden.\nKurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hi",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-09T11:30:25.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-junior-backend-engineer-berlin-144087",
       "title": "Junior Backend Engineer (m/f/x)",
@@ -142,7 +157,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNC4xNTUuNS4xNzg= when applying to show you read the job post completely (#RNC4xNTUuNS4xNzg=). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNC4yNDYuNzEuMTk0 when applying to show you read the job post completely (#RNC4yNDYuNzEuMTk0). This is a beta feature to avoid spam applicants. Compani",
       "tags": [
         "education",
         "non tech",
