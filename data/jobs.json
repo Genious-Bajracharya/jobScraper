@@ -1,8 +1,55 @@
 {
-  "updatedAt": "2026-08-09T06:47:03.374Z",
-  "total": 13,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-09T12:38:58.788Z",
+  "total": 11,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-backend-engineer-berlin-144087",
+      "title": "Junior Backend Engineer (m/f/x)",
+      "company": "Travelcircus",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/junior-backend-engineer-berlin-144087",
+      "description": "ÜbersichtDo you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place!Start your career with us as:Junior Backend Engineer (m/f/x)  Was Du bei uns machstTravelcircus is seeking a Junior Backend Engineer (m/f/x) to",
+      "tags": [
+        "Backend Engineer",
+        "PHP Developer",
+        "PHP Entwickler",
+        "PHP Backend Engineer",
+        "Backend Entwickler",
+        "Backend Developer"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-09T08:09:35.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-chicago-illinois-united-states-london-new-york-ny-united-states-76262",
+      "title": "Fullstack Developer",
+      "company": "Wehrtyou",
+      "location": "Chicago, Illinois, United States; London; New York, NY, United States",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/fullstack-developer-chicago-illinois-united-states-london-new-york-ny-united-states-76262",
+      "description": "&lt;p&gt;Fullstack Developers at HRT work either on our platform team (i.e. you work on infrastructure &amp;amp; tooling that supports all of our research &amp;amp; trading capabilities) or our acceleration team (i.e. you are aligned with a specific algo research &amp;amp; trading team). All of our ",
+      "tags": [
+        "PostTrade"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-09T06:55:40.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-145744",
+      "title": "Frontend Engineer React and AWS",
+      "company": "Numentica",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
+      "description": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-09T03:30:05+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-founding-engineer-munich-481984",
       "title": "Founding Engineer",
@@ -15,76 +62,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-09T02:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-engineer-backend-platform-berlin-261085",
-      "title": "Founding Engineer – Backend & Platform",
-      "company": "Clera",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-261085",
-      "description": "About the RoleWe're a seed-stage startup building Germany's most modern accounting and tax advisory platform — an AI-powered operating system for tax advisory firms. We acquire established tax firms and transform them into high-performing, technology-enabled businesses through proprietary software a",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T02:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-munich-375831",
-      "title": "Full Stack Engineer",
-      "company": "Clera",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-375831",
-      "description": "About the RoleJoin a small, product-focused team at a bootstrapped AI platform and consulting studio based in Munich, Germany. You'll be a core contributor to the platform that enables thousands of users to interact with AI every day — building high-quality full-stack features and the scalable backe",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T02:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-ai-backend-engineer-munich-89077",
-      "title": "AI & Backend Engineer",
-      "company": "Clera",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/ai-backend-engineer-munich-89077",
-      "description": "About the RoleWe're a seed-stage B2B SaaS company building an AI support agent platform that helps technical B2B teams automatically resolve complex customer support tickets. Our product integrates deeply with tools like Zendesk, Jira, Slack, and Sentry, and is built on a modern stack including Pyth",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T02:40:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudentin-web-developement-frontend-koln-34371",
-      "title": "Werkstudent*in - Web Developement / Frontend",
-      "company": "Amber",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/amber/werkstudentin-web-developement-frontend-koln-34371",
-      "description": "Aus Europa, für Europa – Wir bauen Europas Business-KI.Wir sind amber, ein wachsendes und innovatives KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine Zukunft, in der Business-KI, einschließlich Agenten",
-      "tags": [
-        "Marketing"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-08T20:40:23.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-retail-media-84755",
-      "title": "Full Stack Engineer: Retail Media",
-      "company": "Constructor",
-      "location": "Remote - EMEA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755",
-      "description": "About UsConstructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personali",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-08T12:40:09.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -165,7 +142,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNDguMjE0LjU1LjM4 when applying to show you read the job post completely (#RNDguMjE0LjU1LjM4). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNC4xNTUuNS4xNzg= when applying to show you read the job post completely (#RNC4xNTUuNS4xNzg=). This is a beta feature to avoid spam applicants. Compani",
       "tags": [
         "education",
         "non tech",
