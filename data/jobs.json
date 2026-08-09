@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-08T18:29:46.165Z",
-  "total": 13,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-08-09T01:17:28.632Z",
+  "total": 12,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudentin-web-developement-frontend-koln-34371",
+      "title": "Werkstudent*in - Web Developement / Frontend",
+      "company": "Amber",
+      "location": "Köln",
+      "url": "https://www.arbeitnow.com/jobs/companies/amber/werkstudentin-web-developement-frontend-koln-34371",
+      "description": "Aus Europa, für Europa – Wir bauen Europas Business-KI.Wir sind amber, ein wachsendes und innovatives KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine Zukunft, in der Business-KI, einschließlich Agenten",
+      "tags": [
+        "Marketing"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-08T20:40:23.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-berlin-35300",
+      "title": "Software Engineer (m/f/d)",
+      "company": "Amperecloud GmbH",
+      "location": "Berlin , Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-35300",
+      "description": "Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform – for a world where green energy drives growth.We're looking for a sharp, product-first fullstack eng",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-08T17:30:14.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-associate-founding-engineer-full-stack-munich-142108",
       "title": "Associate Founding Engineer (Full-Stack)",
@@ -24,48 +52,6 @@
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481672",
       "description": "About the RoleJoin a small, ambitious team building the core software platform that controls and optimises industrial battery storage assets across Europe. As a Founding Engineer, you will have outsized ownership across the full stack — from real-time optimisation algorithms and backend services to ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-08T14:40:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-engineer-backend-platform-berlin-203681",
-      "title": "Founding Engineer – Backend & Platform",
-      "company": "Clera",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-backend-platform-berlin-203681",
-      "description": "About the RoleWe're a seed-stage startup building Germany's most modern accounting and tax advisory platform — an AI-powered operating system for tax advisory firms. We acquire established tax firms and transform them into high-performing, technology-enabled businesses through proprietary software a",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-08T14:40:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-munich-291878",
-      "title": "Full Stack Engineer",
-      "company": "Clera",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/full-stack-engineer-munich-291878",
-      "description": "About the RoleJoin a small, product-focused team at a bootstrapped AI platform and consulting studio based in Munich, Germany. You'll be a core contributor to the platform that enables thousands of users to interact with AI every day — building high-quality full-stack features and the scalable backe",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-08T14:40:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-berlin-147739",
-      "title": "Backend Engineer",
-      "company": "Clera",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/backend-engineer-berlin-147739",
-      "description": "About the RoleJoin the core infrastructure team of a fast-growing energy technology company building the operating system for the next generation of European energy. The platform combines a modular billing engine, low-level energy-market communication protocols, and a full accounting ledger — delive",
       "tags": [
         "Engineering"
       ],
@@ -165,7 +151,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMTY4LjE1Ny44NQ== when applying to show you read the job post completely (#RMjAuMTY4LjE1Ny44NQ==). This is a beta feature to avoid spam applicants.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNTIuMTQ4LjUuNDg= when applying to show you read the job post completely (#RNTIuMTQ4LjUuNDg=). This is a beta feature to avoid spam applicants. Compani",
       "tags": [
         "education",
         "non tech",
