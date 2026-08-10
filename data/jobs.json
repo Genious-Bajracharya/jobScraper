@@ -1,106 +1,63 @@
 {
-  "updatedAt": "2026-08-10T12:56:21.669Z",
-  "total": 14,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-08-10T18:50:19.813Z",
+  "total": 11,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-buchhalter-hockenheim-467499",
-      "title": "Buchhalter (m/w/d)",
-      "company": "Teaching Socials",
-      "location": "Hockenheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/buchhalter-hockenheim-467499",
-      "description": "Jobbeschreibung\nÜber Teaching Socials\nIm DACH-Raum sind wir die Nummer eins, wenn es um Unternehmensberatung für Personal Brands im Finanz- und Immobiliensektor geht. Hinter Teaching Socials steht ein Team aus 25 High-Performern, das in nur zwei Jahren ein stabiles Monatswachstum von über 750.000 € ",
+      "id": "arbeitnow-frontend-developer-berlin-341207",
+      "title": "Frontend Developer (m/f/d)",
+      "company": "Future Demand",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/future-demand/frontend-developer-berlin-341207",
+      "description": "We are looking for a Frontend Engineer to turn complex audience-intelligence, marketing and data workflows into clear, reliable product experiences. You will help build the interfaces through which more than 300 organisations understand their customers, create campaigns and act on insights.\nWorking ",
       "tags": [
-        "Finance"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T11:30:43.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudentin-pr-externe-kommunikation-all-genders-munchen-56359",
-      "title": "Werkstudent:in PR & Externe Kommunikation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/werkstudentin-pr-externe-kommunikation-all-genders-munchen-56359",
-      "description": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin wo du die meiste Zeit verbringst - denn wir haben uns zum Ziel gesetzt über 10 Millionen Arbeitnehmern en",
-      "tags": [
-        "Marketing"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T11:30:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-fullstack-engineer-ts-react-nextjs-ai-100-remote-hamburg-425588",
-      "title": "Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI  100% Remote",
-      "company": "NotarPartner GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/junior-fullstack-engineer-ts-react-nextjs-ai-100-remote-hamburg-425588",
-      "description": "NotarPartner baut die digitale Arbeitsumgebung für das deutsche Notariat – von Notaren für Notare. Statt Copy-Paste aus Word-Mustern: Daten eingeben, Regelung auswählen, unterschriftsreife Urkunde herunterladen. Über 140 Kanzleien arbeiten bereits mit uns, dazu kommen digitale Akten &#x26; KI-Assist",
-      "tags": [
-        "Remote",
         "Web Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-10T11:00:34.000Z",
+      "postedAt": "2026-08-10T16:30:24.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudentin-generative-engine-optimization-geo-data-backend-vor-ort-hybrid-cologne-324217",
-      "title": "Werkstudent:in Generative Engine Optimization (GEO) Data & Backend (m/w/d) vor Ort | hybrid",
-      "company": "Palmer Hargreaves GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/palmer-hargreaves-gmbh/werkstudentin-generative-engine-optimization-geo-data-backend-vor-ort-hybrid-cologne-324217",
-      "description": "palmerhargreaves ist die Agentur für komplexe Themen und Transformationsaufgaben. Inhabergeführt und international präsent, nutzen wir die Kraft von Kreativität, Beziehungen und Technologien, um für Marken und Menschen Resonanz zu erzeugen. Wie keine andere Agentur nutzt palmerhargreaves schon heute",
-      "tags": [
-        "Online Marketing"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T09:30:58.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-content-stratege-hockenheim-13021",
-      "title": "Content Stratege (m/w/d)",
-      "company": "Teaching Socials",
-      "location": "Hockenheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/content-stratege-hockenheim-13021",
-      "description": "Jobbeschreibung\nÜber Teaching Socials\nTeaching Socials ist eine der schnellstwachsenden Unternehmensberatungen im DACH-Raum und das führende Beratungsunternehmen für Personal Brands im Finanz- und Immobilienbereich. Team aus 25 High-Performern, innerhalb von 2 Jahren von 0 auf konstant über 750.000 ",
+      "id": "arbeitnow-business-analyst-design-freelance-remote-karlsruhe-347499",
+      "title": "Business Analyst & Design (m/w/d) · Freelance · remote",
+      "company": "ZWW Deutschland GmbH",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/zww-deutschland-gmbh/business-analyst-design-freelance-remote-karlsruhe-347499",
+      "description": "Du lebst im Ausland, arbeitest remote und suchst eine spannende, flexible Aufgabe mit echtem Startup-Einblick und direktem Kontakt zu Unternehmern?\nWir sind ZWW Deutschland. Wir verbinden KMU, Agenturen und Berater mit staatlichen Förderprogrammen, von denen kaum jemand weiß. Unser Team wächst und w",
       "tags": [
         "Remote",
-        "Marketing and Communication"
+        "Consulting"
       ],
       "salary": null,
-      "postedAt": "2026-08-10T08:00:35.000Z",
+      "postedAt": "2026-08-10T15:00:24.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-full-stack-developer-java-react-422213",
+      "id": "arbeitnow-remote-full-stack-developer-java-react-241076",
       "title": "Full Stack Developer - Java & React (f/m/d)",
       "company": "ecosio",
-      "location": "Austria, Germany, Spain, Italy, Hungary, Portugal, Croatia - Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ecosio/remote-full-stack-developer-java-react-422213",
+      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-241076",
       "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-in",
       "tags": [
         "Web App Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-10T06:55:18.000Z",
+      "postedAt": "2026-08-10T14:55:16.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-working-student-frontend-engineer-berlin-berlin-215785",
-      "title": "Working Student Frontend Engineer (m/f/d)",
-      "company": "raisin",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-frontend-engineer-berlin-berlin-215785",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the&amp;nbsp;&lt;strong&gt;FinTech&lt;/strong&gt; connects consumers wit",
+      "id": "arbeitnow-software-developer-full-stack-developer-ziemetshausen-188333",
+      "title": "Software Developer / Full Stack Developer (m/w/d)",
+      "company": "Köbler Invest GmbH",
+      "location": "Ziemetshausen",
+      "url": "https://www.arbeitnow.com/jobs/companies/kobler-invest-gmbh/software-developer-full-stack-developer-ziemetshausen-188333",
+      "description": "Wir gehen den nächsten Schritt in Richtung Digitalisierung und entwickeln eine eigene cloudbasierte SaaS-Plattform für die Autoverwertungsbranche. Dafür suchen wir einen Entwickler, der unsere Idee technisch mitgestaltet, weiterentwickelt und gemeinsam mit uns eine moderne Softwarelösung von Grund a",
       "tags": [
-        "Engineering"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-10T05:55:17.000Z",
+      "postedAt": "2026-08-10T14:00:31.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -195,7 +152,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuMy4yMzEuMTE5 when applying to show you read the job post completely (#RMjAuMy4yMzEuMTE5). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuODEuMTgzLjgy when applying to show you read the job post completely (#RMjAuODEuMTgzLjgy). This is a beta feature to avoid spam applicants. Compani",
       "tags": [
         "education",
         "non tech",
