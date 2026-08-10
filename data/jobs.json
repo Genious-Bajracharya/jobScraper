@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-10T01:19:12.200Z",
+  "updatedAt": "2026-08-10T07:21:58.972Z",
   "total": 10,
-  "newSinceLastRun": 0,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-working-student-frontend-engineer-berlin-berlin-215785",
+      "title": "Working Student Frontend Engineer (m/f/d)",
+      "company": "raisin",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/raisin/working-student-frontend-engineer-berlin-berlin-215785",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the&amp;nbsp;&lt;strong&gt;FinTech&lt;/strong&gt; connects consumers wit",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T05:55:17.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
       "title": "Java Backend Entwickler - Spring Boot & Camunda (m/w/d)",
@@ -16,25 +30,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-09T11:30:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-backend-engineer-berlin-144087",
-      "title": "Junior Backend Engineer (m/f/x)",
-      "company": "Travelcircus",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/junior-backend-engineer-berlin-144087",
-      "description": "ÜbersichtDo you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place!Start your career with us as:Junior Backend Engineer (m/f/x)  Was Du bei uns machstTravelcircus is seeking a Junior Backend Engineer (m/f/x) to",
-      "tags": [
-        "Backend Engineer",
-        "PHP Developer",
-        "PHP Entwickler",
-        "PHP Backend Engineer",
-        "Backend Entwickler",
-        "Backend Developer"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T08:09:35.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -129,7 +124,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTcyLjE5MC4xMDIuMTQ4 when applying to show you read the job post completely (#RMTcyLjE5MC4xMDIuMTQ4). This is a beta feature to avoid spam applicants.",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTMwLjEzMS4yMDIuMzQ= when applying to show you read the job post completely (#RMTMwLjEzMS4yMDIuMzQ=). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
