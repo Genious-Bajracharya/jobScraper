@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-09T18:32:18.629Z",
-  "total": 12,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-10T01:19:12.200Z",
+  "total": 10,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-java-backend-entwickler-spring-boot-camunda-stuttgart-238501",
@@ -38,20 +38,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-developer-chicago-illinois-united-states-london-new-york-ny-united-states-76262",
-      "title": "Fullstack Developer",
-      "company": "Wehrtyou",
-      "location": "Chicago, Illinois, United States; London; New York, NY, United States",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/fullstack-developer-chicago-illinois-united-states-london-new-york-ny-united-states-76262",
-      "description": "&lt;p&gt;Fullstack Developers at HRT work either on our platform team (i.e. you work on infrastructure &amp;amp; tooling that supports all of our research &amp;amp; trading capabilities) or our acceleration team (i.e. you are aligned with a specific algo research &amp;amp; trading team). All of our ",
-      "tags": [
-        "PostTrade"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T06:55:40.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-145744",
       "title": "Frontend Engineer React and AWS",
       "company": "Numentica",
@@ -64,20 +50,6 @@
       "salary": null,
       "postedAt": "2026-08-09T03:30:05+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-founding-engineer-munich-481984",
-      "title": "Founding Engineer",
-      "company": "Clera",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-engineer-munich-481984",
-      "description": "About the RoleJoin a small, ambitious team building the core software platform that controls and optimises industrial battery storage assets across Europe. As a Founding Engineer, you will have outsized ownership across the full stack — from real-time optimisation algorithms and backend services to ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T02:40:09.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1136188",
@@ -157,7 +129,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNC4yNDYuNzEuMTk0 when applying to show you read the job post completely (#RNC4yNDYuNzEuMTk0). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTcyLjE5MC4xMDIuMTQ4 when applying to show you read the job post completely (#RMTcyLjE5MC4xMDIuMTQ4). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
