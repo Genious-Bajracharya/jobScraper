@@ -1,8 +1,107 @@
 {
-  "updatedAt": "2026-08-10T18:50:19.813Z",
-  "total": 11,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-11T01:17:23.289Z",
+  "total": 17,
+  "newSinceLastRun": 7,
   "jobs": [
+    {
+      "id": "arbeitnow-head-of-finance-leitung-finanzen-frankfurt-222023",
+      "title": "Head of Finance/ Leitung Finanzen (m/f/d)",
+      "company": "PraxisEins",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/head-of-finance-leitung-finanzen-frankfurt-222023",
+      "description": "Es ist Zeit für die Praxis der Zukunft, werde Teil von PraxisEins! PraxisEins ist ein Healthcare Scale-up aus Frankfurt: Wir bauen Deutschlands führenden Primärversorger auf. Hierfür übernehmen wir Hausarztpraxen, digitalisieren diese mit eigener Software und kümmern uns aktiv um eine stetige Verbes",
+      "tags": [
+        "Zentrale"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T23:40:19.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-schwerin-374535",
+      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Schwerin, Mecklenburg-Vorpommern, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-schwerin-374535",
+      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-08-10T23:30:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-fullstack-engineer-german-speaking-germany-239019",
+      "title": "FullStack Engineer - German speaking",
+      "company": "Huzzle",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-fullstack-engineer-german-speaking-germany-239019",
+      "description": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries such as SaaS, MarTech, FinTech, and HealthTech. Unlike an outsourcing ag",
+      "tags": [
+        "Information Technology",
+        "Internet",
+        "Software",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T23:20:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-306240",
+      "title": "Software Engineer, Backend - Distributed Systems",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-306240",
+      "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need ",
+      "tags": [
+        "Products"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T21:40:20.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-fintech-hamburg-484437",
+      "title": "Backend Engineer - FinTech (M/F/D)",
+      "company": "freenow",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-hamburg-484437",
+      "description": "&lt;p&gt;Freenow empowers smarter mobility decisions helping people to move freely and cities to thrive.&lt;/p&gt;\n&lt;p&gt;This is an exciting time to join us: Freenow is now part of Lyft, and we&#39;re growing our tech organization as we integrate with Lyft&#39;s global platform and systems. That ",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T20:55:16.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-sr-software-engineer-java-cologne-101899",
+      "title": "Sr Software Engineer (Java) (m/w/d)",
+      "company": "TENIOS GmbH",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/tenios-gmbh/sr-software-engineer-java-cologne-101899",
+      "description": "Wir suchen einen Senior Java Engineer (m/w/d), der/die die Backend-Services hinter unserer Cloud-Communications-Plattform mitgestaltet, aufbaut und betreibt — von Architekturentscheidungen bis zum Produktivbetrieb.\nSie arbeiten in einer interdisziplinären Engineering-Organisation und entwickeln vert",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T18:30:27.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-php-berlin-333063",
+      "title": "Backend Engineer (PHP)",
+      "company": "AMBOSS",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/amboss/backend-engineer-php-berlin-333063",
+      "description": "Hi! We are AMBOSS and we are looking for a Backend Engineer to join our Educator Experience team, and shape the future of medical education with us!About AMBOSSAMBOSS is a dynamic learning and clinical decision support tool committed to empowering physicians globally to deliver optimal care. Since o",
+      "tags": [
+        "Research & Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T17:40:15.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-frontend-developer-berlin-341207",
       "title": "Frontend Developer (m/f/d)",
@@ -44,20 +143,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-10T14:55:16.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-developer-full-stack-developer-ziemetshausen-188333",
-      "title": "Software Developer / Full Stack Developer (m/w/d)",
-      "company": "Köbler Invest GmbH",
-      "location": "Ziemetshausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/kobler-invest-gmbh/software-developer-full-stack-developer-ziemetshausen-188333",
-      "description": "Wir gehen den nächsten Schritt in Richtung Digitalisierung und entwickeln eine eigene cloudbasierte SaaS-Plattform für die Autoverwertungsbranche. Dafür suchen wir einen Entwickler, der unsere Idee technisch mitgestaltet, weiterentwickelt und gemeinsam mit uns eine moderne Softwarelösung von Grund a",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T14:00:31.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -152,7 +237,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMjAuODEuMTgzLjgy when applying to show you read the job post completely (#RMjAuODEuMTgzLjgy). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTcyLjIxNS4yMzkuMjE0 when applying to show you read the job post completely (#RMTcyLjIxNS4yMzkuMjE0). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
