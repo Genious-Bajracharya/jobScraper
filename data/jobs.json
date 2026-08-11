@@ -1,106 +1,49 @@
 {
-  "updatedAt": "2026-08-11T06:58:18.986Z",
-  "total": 14,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-11T12:54:14.414Z",
+  "total": 9,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-entwickler-drupal-twig-erfurt-363575",
-      "title": "Frontend-Entwickler (Drupal / Twig)",
-      "company": "brandmediale GmbH",
-      "location": "Erfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/brandmediale-gmbh/frontend-entwickler-drupal-twig-erfurt-363575",
-      "description": "brandmediale ist eine inhabergeführte Digitalagentur aus Erfurt. Seit über 25 Jahren entwickeln und betreuen wir Websites, Markenauftritte und digitale Kommunikation für mittelständische Unternehmen — vor allem aus Industrie, Energie und B2B. Wir sind ein kleines, erfahrenes Team mit kurzen Wegen. B",
-      "tags": [
-        "Remote",
-        "Web Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-11T00:30:27.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-head-of-finance-leitung-finanzen-frankfurt-222023",
-      "title": "Head of Finance/ Leitung Finanzen (m/f/d)",
-      "company": "PraxisEins",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/head-of-finance-leitung-finanzen-frankfurt-222023",
-      "description": "Es ist Zeit für die Praxis der Zukunft, werde Teil von PraxisEins! PraxisEins ist ein Healthcare Scale-up aus Frankfurt: Wir bauen Deutschlands führenden Primärversorger auf. Hierfür übernehmen wir Hausarztpraxen, digitalisieren diese mit eigener Software und kümmern uns aktiv um eine stetige Verbes",
-      "tags": [
-        "Zentrale"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T23:40:19.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-schwerin-374535",
-      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
-      "company": "KULT | OLYMP & HADES",
-      "location": "Schwerin, Mecklenburg-Vorpommern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-schwerin-374535",
-      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-10T23:30:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-engineer-german-speaking-germany-239019",
-      "title": "FullStack Engineer - German speaking",
-      "company": "Huzzle",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-fullstack-engineer-german-speaking-germany-239019",
-      "description": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries such as SaaS, MarTech, FinTech, and HealthTech. Unlike an outsourcing ag",
-      "tags": [
-        "Information Technology",
-        "Internet",
-        "Software",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T23:20:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-306240",
-      "title": "Software Engineer, Backend - Distributed Systems",
-      "company": "Camunda",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-306240",
-      "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need ",
-      "tags": [
-        "Products"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T21:40:20.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-fintech-hamburg-484437",
-      "title": "Backend Engineer - FinTech (M/F/D)",
-      "company": "freenow",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-fintech-hamburg-484437",
-      "description": "&lt;p&gt;Freenow empowers smarter mobility decisions helping people to move freely and cities to thrive.&lt;/p&gt;\n&lt;p&gt;This is an exciting time to join us: Freenow is now part of Lyft, and we&#39;re growing our tech organization as we integrate with Lyft&#39;s global platform and systems. That ",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T20:55:16.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-sr-software-engineer-java-cologne-101899",
-      "title": "Sr Software Engineer (Java) (m/w/d)",
-      "company": "TENIOS GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/tenios-gmbh/sr-software-engineer-java-cologne-101899",
-      "description": "Wir suchen einen Senior Java Engineer (m/w/d), der/die die Backend-Services hinter unserer Cloud-Communications-Plattform mitgestaltet, aufbaut und betreibt — von Architekturentscheidungen bis zum Produktivbetrieb.\nSie arbeiten in einer interdisziplinären Engineering-Organisation und entwickeln vert",
+      "id": "arbeitnow-software-backend-entwickler-paderborn-424896",
+      "title": "Software Backend-Entwickler (m/w/d)",
+      "company": "Lödige Industries GmbH",
+      "location": "Paderborn",
+      "url": "https://www.arbeitnow.com/jobs/companies/lodige-industries-gmbh/software-backend-entwickler-paderborn-424896",
+      "description": "Wir sichen zur Erweiterung unseres Teams für den Standort in Paderborn einen qualifizierten und engagierten Software Backend-Entwickler (m/w/d).\nLödige Industries mit Hauptsitz in Paderborn (NRW) ist mit mehr als 1.400 Mitarbeitern und Tochterunternehmen in Europa, Asien, Amerika, Australien und dem",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-10T18:30:27.000Z",
+      "postedAt": "2026-08-11T09:00:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-typescript-aws-react-cologne-298108",
+      "title": "Fullstack Engineer- Typescript, AWS, React (m/f/d)",
+      "company": "Trusted Shops SE (DE)",
+      "location": "Cologne, Nordrhein-Westfalen, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusted-shops-se-de/fullstack-engineer-typescript-aws-react-cologne-298108",
+      "description": "About Trusted Shops&nbsp;Trusted Shops creates digital trust between people, businesses, and AI Agents. Every day, millions of consumers rely on our solutions to make confident online decisions, while businesses use our products to build trust, strengthen customer relationships, and grow sustainably",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-11T08:30:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-customer-relationship-manager-hockenheim-120630",
+      "title": "Customer Relationship Manager",
+      "company": "Teaching Socials",
+      "location": "Hockenheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/customer-relationship-manager-hockenheim-120630",
+      "description": "Jobbeschreibung\n\nÜber Teaching Socials\n\nDie führende Unternehmensberatung für Personal Brands im deutschsprachigen Raum\nTeam aus 25 High-Performern\nInnerhalb von 2 Jahren von 0 auf konstant >750.000 € Monatsumsatz gewachsen\nWir helfen Immobilien- und Finanz-Unternehmern, ihre Personenmarke sichtbar ",
+      "tags": [
+        "Remote",
+        "Marketing and Communication"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-11T06:30:39.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -195,7 +138,7 @@
       "company": "CovalTech",
       "location": "Full Sutton, ",
       "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNTcuMTU0LjQuMzg= when applying to show you read the job post completely (#RNTcuMTU0LjQuMzg=). This is a beta feature to avoid spam applicants. Compani",
+      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RMTMuODMuMTY2LjI0Mw== when applying to show you read the job post completely (#RMTMuODMuMTY2LjI0Mw==). This is a beta feature to avoid spam applicants.",
       "tags": [
         "education",
         "non tech",
@@ -233,52 +176,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-05T14:29:44+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136214",
-      "title": "Procurement Specialist",
-      "company": "Robert Half",
-      "location": "New York, New York, New York, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-robert-half-1136214",
-      "description": "We are looking for a detail-oriented Procurement Specialist to join our team in New York, New York in a contract capacity with the potential for a permanent role. This position will play an important role in supporting day-to-day purchasing operations, maintaining strong vendor documentation, and he",
-      "tags": [
-        "exec",
-        "design",
-        "architecture",
-        "recruiter",
-        "customer support",
-        "marketing",
-        "content writing",
-        "ops",
-        "golang",
-        "full time",
-        "digital nomad",
-        "dev",
-        "senior",
-        "medical",
-        "engineer",
-        "infosec",
-        "react",
-        "embedded",
-        "technical",
-        "finance",
-        "cloud",
-        "postgres",
-        "typescript",
-        "ruby",
-        "stats",
-        "accounting",
-        "designer",
-        "web dev",
-        "video",
-        "ads",
-        "education",
-        "excel",
-        "legal"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T13:13:07+00:00",
       "source": "RemoteOK"
     },
     {
