@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-11T18:55:29.118Z",
+  "updatedAt": "2026-08-12T01:25:26.032Z",
   "total": 9,
   "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-expression-of-interest-next-generation-agentic-controls-and-forensics-technical-roles-london-272449",
-      "title": "Expression of Interest: Next-generation Agentic Controls and Forensics (Technical Roles)",
-      "company": "Aisi",
+      "id": "arbeitnow-sr-forward-deployed-engineer-architect-full-stack-london-119417",
+      "title": "Sr. Forward Deployed Engineer - Architect - Full Stack",
+      "company": "Databricks",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/aisi/expression-of-interest-next-generation-agentic-controls-and-forensics-technical-roles-london-272449",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;About the AI Security Institute&lt;/h2&gt;\n&lt;p&gt;The AI Security Institute is the world&#39;s largest and best-funded team dedicated to understanding advanced AI risks and translating that knowledge into action. We’re in the heart of the UK gov",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/sr-forward-deployed-engineer-architect-full-stack-london-119417",
+      "description": "&lt;p&gt;&lt;strong&gt;Requisition # CSQ327R269&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As a Forward Deployed Engineer Architect you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design",
       "tags": [
-        "Research Unit (General)"
+        "Professional Services Operations"
       ],
       "salary": null,
-      "postedAt": "2026-08-11T15:55:04.000Z",
+      "postedAt": "2026-08-11T21:55:07.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -33,18 +33,48 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-206003",
-      "title": "Software Engineer, Backend - Distributed Systems",
-      "company": "Camunda",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-206003",
-      "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need ",
+      "id": "remoteok-1136369",
+      "title": "Expression of Interest",
+      "company": "Immutable",
+      "location": "Sydney, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-immutable-1136369",
+      "description": "About Us ðImmutable is the worldâs fastest-growing game platform, built to power the next generation of games. We aim to drive the next evolution of gaming, combining performance, digital ownership and cutting-edge technology to help games grow and succeed. At the intersection of AI-driven anal",
       "tags": [
-        "Products"
+        "saas",
+        "web3",
+        "game dev",
+        "customer support",
+        "marketing",
+        "stats",
+        "medical",
+        "recruiter",
+        "non tech"
       ],
       "salary": null,
-      "postedAt": "2026-08-11T11:40:24.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-11T00:41:10+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1136393",
+      "title": "Sales Team Member Cotton On Westfield Bondi",
+      "company": "Cotton On Group",
+      "location": "Bondi Junction, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-westfield-bondi-cotton-on-group-1136393",
+      "description": "Job DescriptionDo you speak fashion? We're hiring! Letâs Chat!Born in Australia, loved around the world.â¯At Cotton On, we know good style goes well beyond what's in your wardrobe. Weâre here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, h",
+      "tags": [
+        "customer support",
+        "marketing",
+        "travel",
+        "speech",
+        "finance",
+        "sales",
+        "medical",
+        "recruiter",
+        "non tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-10T02:41:43+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-145744",
@@ -130,52 +160,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-05T15:43:23+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136207",
-      "title": "CovalFlow",
-      "company": "CovalTech",
-      "location": "Full Sutton, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
-      "description": "Management SaaS for event rental companies: quotes, invoices, inventory and client follow-up in one tool.Please mention the word **SATISFY** and tag RNjQuMjM2LjE3Ny4xMDA= when applying to show you read the job post completely (#RNjQuMjM2LjE3Ny4xMDA=). This is a beta feature to avoid spam applicants.",
-      "tags": [
-        "education",
-        "non tech",
-        "finance",
-        "exec",
-        "saas",
-        "sys admin",
-        "vfx",
-        "c",
-        "embedded",
-        "infosec",
-        "technical",
-        "customer support",
-        "web dev",
-        "travel",
-        "html",
-        "ads",
-        "content writing",
-        "marketing",
-        "stats",
-        "golang",
-        "recruiter",
-        "engineer",
-        "consulting",
-        "dev",
-        "virtual assistant",
-        "firebase",
-        "cloud",
-        "typescript",
-        "node",
-        "api",
-        "apache",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T14:29:44+00:00",
       "source": "RemoteOK"
     },
     {
