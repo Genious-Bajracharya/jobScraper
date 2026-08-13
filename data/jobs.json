@@ -1,46 +1,60 @@
 {
-  "updatedAt": "2026-08-13T12:58:16.003Z",
-  "total": 19,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-13T18:56:41.290Z",
+  "total": 20,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-backend-focused-berlin-461416",
-      "title": "Software Engineer, Backend Focused",
-      "company": "onrunning",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416",
-      "description": "&lt;h1&gt;&lt;strong&gt;Software Engineer (Backend; Wholesale)&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;In short&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;On’s Wholesale business operates at a significant global scale. In 2025, it generated CHF 1.75 billion in net sales, representing 58.2% of On’s",
+      "id": "arbeitnow-executive-assistant-london-439566",
+      "title": "Executive Assistant",
+      "company": "Meticulous",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/meticulous/executive-assistant-london-439566",
+      "description": "Meticulous is a fast-growing series A company building automated frontend testing software. It's used by engineering teams at companies like Notion, Dropbox, Mercor, Wiz and many others. This is a split business and support role working directly with the CEO. It has a broad scope -  we're growing qu",
       "tags": [
-        "Software Engineering"
+        "Office of the CEO"
       ],
       "salary": null,
-      "postedAt": "2026-08-13T11:55:06.000Z",
+      "postedAt": "2026-08-13T15:40:31.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-javascript-fullstack-developer-germany-29187",
-      "title": "JavaScript Fullstack Developer (m/f/d)",
-      "company": "Open Xchange Gmbh",
+      "id": "arbeitnow-fullstack-developer-with-backend-focus-london-181973",
+      "title": "Fullstack Developer with Backend Focus",
+      "company": "BLP Digital AG",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/fullstack-developer-with-backend-focus-london-181973",
+      "description": "Join BLP Digital — The #1 Solution for ERP AutomationBLP Digital is redefining ERP automation with agentic AI. Spun out of ETH Zurich and HSG, we build AI agents that automate finance, procurement, logistics, sales, and more for some of the world's largest enterprises. We solve real enterprise probl",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-13T15:40:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-net-germany-417474",
+      "title": "Backend Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
       "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/open-xchange-gmbh/javascript-fullstack-developer-germany-29187",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/backend-engineer-net-germany-417474",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech!\nApaleo&nbsp;is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, an",
       "tags": [],
       "salary": null,
-      "postedAt": "2026-08-13T11:09:05.000Z",
+      "postedAt": "2026-08-13T13:45:26.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-developer-camunda-stuttgart-161310",
-      "title": "Fullstack Developer Camunda (m/w/d)",
-      "company": "Collaboration Betters The World GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/fullstack-developer-camunda-stuttgart-161310",
-      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\nAls Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvo",
+      "id": "arbeitnow-full-stack-engineer-london-203966",
+      "title": "Full Stack Engineer",
+      "company": "Thought Machine",
+      "location": "United Kingdom, London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/full-stack-engineer-london-203966",
+      "description": "Thought Machine's mission is bold – to properly and permanently rid the world's banks of legacy technology. To achieve this, we have developed the foundations of modern banking through core and payments technology which run natively in the cloud. What we are attempting is hard and means we need grea",
       "tags": [
-        "IT"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-13T08:00:29.000Z",
+      "postedAt": "2026-08-13T12:40:21.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -439,7 +453,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuMTY4LjEwMy4yNTA= when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNjQuMjM2LjIxNS41Nw== when applying to show you read the job",
       "tags": [
         "robotics"
       ],
