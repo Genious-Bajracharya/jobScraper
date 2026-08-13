@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-08-13T07:18:48.928Z",
-  "total": 15,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-08-13T12:58:16.003Z",
+  "total": 19,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-backend-focused-berlin-461416",
+      "title": "Software Engineer, Backend Focused",
+      "company": "onrunning",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416",
+      "description": "&lt;h1&gt;&lt;strong&gt;Software Engineer (Backend; Wholesale)&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;In short&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;On’s Wholesale business operates at a significant global scale. In 2025, it generated CHF 1.75 billion in net sales, representing 58.2% of On’s",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-13T11:55:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-javascript-fullstack-developer-germany-29187",
+      "title": "JavaScript Fullstack Developer (m/f/d)",
+      "company": "Open Xchange Gmbh",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/open-xchange-gmbh/javascript-fullstack-developer-germany-29187",
+      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-08-13T11:09:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-camunda-stuttgart-161310",
+      "title": "Fullstack Developer Camunda (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/fullstack-developer-camunda-stuttgart-161310",
+      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\nAls Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvo",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-13T08:00:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to",
+      "tags": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
+      ],
+      "salary": "$31,2k- $52k",
+      "postedAt": "2026-08-11T20:18:02",
+      "source": "Remotive"
+    },
     {
       "id": "remoteok-1136555",
       "title": "Artificial Intelligence Specialist",
@@ -367,7 +439,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMTcyLjE4My45NC4xMzI= when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuMTY4LjEwMy4yNTA= when applying to show you read the job",
       "tags": [
         "robotics"
       ],
