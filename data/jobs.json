@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-14T12:54:57.690Z",
-  "total": 23,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-14T18:45:38.084Z",
+  "total": 19,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-trainee-frontend-development-berlin-111645",
@@ -24,64 +24,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-14T11:09:40.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-mid-level-munich-130496",
-      "title": "Fullstack Software Engineer (m/f/d) - Mid Level",
-      "company": "Beglaubigt.de",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496",
-      "description": "Legal processes in Germany and Europe are still slow, fragmented, and deeply offline — notarizations, company formations, registrations, certified translations, business addresses, and more. Beglaubigt is rebuilding this infrastructure from the ground up: digital-first, API-ready, and designed to op",
-      "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-14T09:30:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-shopware-backend-developer-osnabruck-148865",
-      "title": "Shopware Backend Developer (w/m/d)",
-      "company": "Hob by Horse GmbH",
-      "location": "Osnabrück",
-      "url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/shopware-backend-developer-osnabruck-148865",
-      "description": "Komm zum Glück nach Osnabrück. Bei uns ist Work-Life-Balance nicht bloß eine Phrase. Wir freuen uns auf deine Bewerbung.\nAufgaben\n\nAPI-Entwicklung (REST/GraphQL)\nDatenbank &#x26; Custom Entities\nBusiness-Logik &#x26; Services\nPayment-/Shipping-Integrationen\nPerformance &#x26; Caching\nSecurity (Auth,",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-14T08:30:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-frontend-london-132417",
-      "title": "Full-Stack Engineer (Frontend)",
-      "company": "Algo1",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-132417",
-      "description": "About algo1At algo1, we are reinventing one of the world’s most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time and makes an everyday experience less stressful, more personal and more engaging",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-14T06:40:21.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-create-repository-management-ruby-450092",
-      "title": "Backend Engineer, Create: Repository Management (Ruby)",
-      "company": "Gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-create-repository-management-ruby-450092",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
-      "tags": [
-        "DevOps Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-14T03:55:20.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -519,7 +461,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNDAuNzguMTc0LjEzNA== when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuMTIwLjE1Ni4yMjI= when applying to show you read the job",
       "tags": [
         "robotics"
       ],
