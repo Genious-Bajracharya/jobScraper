@@ -1,60 +1,20 @@
 {
-  "updatedAt": "2026-08-13T18:56:41.290Z",
-  "total": 20,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-14T01:26:41.518Z",
+  "total": 19,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-executive-assistant-london-439566",
-      "title": "Executive Assistant",
-      "company": "Meticulous",
+      "id": "arbeitnow-software-engineer-backend-london-474132",
+      "title": "Software Engineer, Backend",
+      "company": "Encord",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/meticulous/executive-assistant-london-439566",
-      "description": "Meticulous is a fast-growing series A company building automated frontend testing software. It's used by engineering teams at companies like Notion, Dropbox, Mercor, Wiz and many others. This is a split business and support role working directly with the CEO. It has a broad scope -  we're growing qu",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/software-engineer-backend-london-474132",
+      "description": "About usEncord is the universal data layer for AI that helps 300+ AI teams train and run models on the right data. Our platform indexes, curates, annotates, and evaluates data across the full AI lifecycle, from development through production. Trusted by Woven by Toyota, AXA, UiPath, Zipline, and mor",
       "tags": [
-        "Office of the CEO"
+        "EPD"
       ],
       "salary": null,
-      "postedAt": "2026-08-13T15:40:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-with-backend-focus-london-181973",
-      "title": "Fullstack Developer with Backend Focus",
-      "company": "BLP Digital AG",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/fullstack-developer-with-backend-focus-london-181973",
-      "description": "Join BLP Digital — The #1 Solution for ERP AutomationBLP Digital is redefining ERP automation with agentic AI. Spun out of ETH Zurich and HSG, we build AI agents that automate finance, procurement, logistics, sales, and more for some of the world's largest enterprises. We solve real enterprise probl",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-13T15:40:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-net-germany-417474",
-      "title": "Backend Engineer (.NET) (f/m/d)",
-      "company": "Apaleo",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/backend-engineer-net-germany-417474",
-      "description": "Join Apaleo and Shape the Future of Hospitality Tech!\nApaleo&nbsp;is the world's most open, API-first property management platform powering the next generation of hospitality operations. Its modular, AI-powered infrastructure enables hoteliers to customise their tech stack, automate routine work, an",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-13T13:45:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-203966",
-      "title": "Full Stack Engineer",
-      "company": "Thought Machine",
-      "location": "United Kingdom, London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thought-machine/full-stack-engineer-london-203966",
-      "description": "Thought Machine's mission is bold – to properly and permanently rid the world's banks of legacy technology. To achieve this, we have developed the foundations of modern banking through core and payments technology which run natively in the cloud. What we are attempting is hard and means we need grea",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-13T12:40:21.000Z",
+      "postedAt": "2026-08-13T18:40:11.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -164,6 +124,45 @@
       ],
       "salary": null,
       "postedAt": "2026-08-11T19:04:09+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1136602",
+      "title": "Jenni AI",
+      "company": "AI Supermarket",
+      "location": "Research, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced trader",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-11T16:51:03+00:00",
       "source": "RemoteOK"
     },
     {
@@ -453,7 +452,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNjQuMjM2LjIxNS41Nw== when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNDguMjE0LjU0LjExOA== when applying to show you read the job",
       "tags": [
         "robotics"
       ],
@@ -503,6 +502,46 @@
       ],
       "salary": null,
       "postedAt": "2026-08-10T02:41:43+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1136603",
+      "title": "tan tan tan",
+      "company": "liftek Iraq Basra (Ø´Ø±ÙØ© ØªÙÙÙØ§Øª Ø§ÙØ±ÙØ¹)",
+      "location": "Holder Siding, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-tan-tan-tan-liftek-iraq-basra-1136603",
+      "description": "Business Development of Inspection, load testing and certification Services of lifting equipment in the Construction, Marine, Oil &amp; Gas and Industrial Sectors.Items that are inspected include (not limited to) mobile cranes, tower cranes, loose lifting gears, overhead cranes, gantry cranes, gangw",
+      "tags": [
+        "dev",
+        "digital nomad",
+        "medical",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "golang",
+        "non tech",
+        "mobile"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-09T23:06:52+00:00",
       "source": "RemoteOK"
     },
     {
