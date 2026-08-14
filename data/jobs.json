@@ -1,8 +1,75 @@
 {
-  "updatedAt": "2026-08-14T07:17:07.089Z",
-  "total": 19,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-14T12:54:57.690Z",
+  "total": 23,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-trainee-frontend-development-berlin-111645",
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-111645",
+      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
+      "tags": [
+        "Frontend Developer",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Vue",
+        "Nuxt3",
+        "KI",
+        "Coding",
+        "Trainee",
+        "JOIN"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-14T11:09:40.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-software-engineer-mid-level-munich-130496",
+      "title": "Fullstack Software Engineer (m/f/d) - Mid Level",
+      "company": "Beglaubigt.de",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/beglaubigtde/fullstack-software-engineer-mid-level-munich-130496",
+      "description": "Legal processes in Germany and Europe are still slow, fragmented, and deeply offline — notarizations, company formations, registrations, certified translations, business addresses, and more. Beglaubigt is rebuilding this infrastructure from the ground up: digital-first, API-ready, and designed to op",
+      "tags": [
+        "Remote",
+        "Consulting",
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-14T09:30:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-shopware-backend-developer-osnabruck-148865",
+      "title": "Shopware Backend Developer (w/m/d)",
+      "company": "Hob by Horse GmbH",
+      "location": "Osnabrück",
+      "url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/shopware-backend-developer-osnabruck-148865",
+      "description": "Komm zum Glück nach Osnabrück. Bei uns ist Work-Life-Balance nicht bloß eine Phrase. Wir freuen uns auf deine Bewerbung.\nAufgaben\n\nAPI-Entwicklung (REST/GraphQL)\nDatenbank &#x26; Custom Entities\nBusiness-Logik &#x26; Services\nPayment-/Shipping-Integrationen\nPerformance &#x26; Caching\nSecurity (Auth,",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-14T08:30:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-frontend-london-132417",
+      "title": "Full-Stack Engineer (Frontend)",
+      "company": "Algo1",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-132417",
+      "description": "About algo1At algo1, we are reinventing one of the world’s most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time and makes an everyday experience less stressful, more personal and more engaging",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-14T06:40:21.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-backend-engineer-create-repository-management-ruby-450092",
       "title": "Backend Engineer, Create: Repository Management (Ruby)",
@@ -452,7 +519,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNTcuMTUxLjE0My4xNzg= when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNDAuNzguMTc0LjEzNA== when applying to show you read the job",
       "tags": [
         "robotics"
       ],
