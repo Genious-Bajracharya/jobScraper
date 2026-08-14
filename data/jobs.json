@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-14T01:26:41.518Z",
+  "updatedAt": "2026-08-14T07:17:07.089Z",
   "total": 19,
-  "newSinceLastRun": 3,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-backend-london-474132",
-      "title": "Software Engineer, Backend",
-      "company": "Encord",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/software-engineer-backend-london-474132",
-      "description": "About usEncord is the universal data layer for AI that helps 300+ AI teams train and run models on the right data. Our platform indexes, curates, annotates, and evaluates data across the full AI lifecycle, from development through production. Trusted by Woven by Toyota, AXA, UiPath, Zipline, and mor",
+      "id": "arbeitnow-remote-backend-engineer-create-repository-management-ruby-450092",
+      "title": "Backend Engineer, Create: Repository Management (Ruby)",
+      "company": "Gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-create-repository-management-ruby-450092",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
       "tags": [
-        "EPD"
+        "DevOps Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-13T18:40:11.000Z",
+      "postedAt": "2026-08-14T03:55:20.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -452,7 +452,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNDguMjE0LjU0LjExOA== when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNTcuMTUxLjE0My4xNzg= when applying to show you read the job",
       "tags": [
         "robotics"
       ],
