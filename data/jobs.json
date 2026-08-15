@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-15T12:27:19.741Z",
+  "updatedAt": "2026-08-15T18:20:41.255Z",
   "total": 28,
-  "newSinceLastRun": 9,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-software-engineer-react-kotlin-ruby-on-rails-berlin-berlin-129908",
+      "title": "Fullstack Software Engineer  - React, Kotlin & Ruby on Rails (x/f/m)",
+      "company": "Doctolib",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/fullstack-software-engineer-react-kotlin-ruby-on-rails-berlin-berlin-129908",
+      "description": "&lt;p&gt;Join &lt;strong&gt;ACAI (Advanced Calendar Improvement)&lt;/strong&gt;, a team dedicated to making day-to-day practice operations more efficient and less mentally exhausting for healthcare professionals and their teams.&lt;/p&gt;\n&lt;p&gt;Practice operations are often fragmented across post",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-15T11:55:31.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-head-of-engineering-at-e-mobility-startup-munchen-359263",
       "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
@@ -152,7 +166,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMTcyLjIxNC4xNTUuMTg0 when applying to show you read the job post completely (#RMTcyLjIxNC4xNTUuMTg0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuNDAuMjEyLjI0Mg== when applying to show you read the job post completely (#RMjAuNDAuMjEyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
       "tags": [
         "infosec",
         "javascript",
@@ -799,7 +813,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMTcyLjIxNC4xNTUuMTg0 when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuNDAuMjEyLjI0Mg== when applying to show you read the job",
       "tags": [
         "robotics"
       ],
@@ -849,46 +863,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-10T02:41:43+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136603",
-      "title": "tan tan tan",
-      "company": "liftek Iraq Basra (Ø´Ø±ÙØ© ØªÙÙÙØ§Øª Ø§ÙØ±ÙØ¹)",
-      "location": "Holder Siding, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-tan-tan-tan-liftek-iraq-basra-1136603",
-      "description": "Business Development of Inspection, load testing and certification Services of lifting equipment in the Construction, Marine, Oil &amp; Gas and Industrial Sectors.Items that are inspected include (not limited to) mobile cranes, tower cranes, loose lifting gears, overhead cranes, gantry cranes, gangw",
-      "tags": [
-        "dev",
-        "digital nomad",
-        "medical",
-        "wordpress",
-        "vfx",
-        "teaching",
-        "education",
-        "game dev",
-        "full stack",
-        "writer",
-        "transcribing",
-        "testing",
-        "marketing",
-        "web dev",
-        "speech",
-        "virtual assistant",
-        "video",
-        "serverless",
-        "cloud",
-        "git",
-        "seo",
-        "content writing",
-        "stats",
-        "sales",
-        "golang",
-        "non tech",
-        "mobile"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-09T23:06:52+00:00",
       "source": "RemoteOK"
     },
     {
