@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-15T00:57:05.230Z",
-  "total": 20,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-15T06:28:52.725Z",
+  "total": 21,
+  "newSinceLastRun": 1,
   "jobs": [
     {
       "id": "arbeitnow-frontend-engineer-music-london-427731",
@@ -420,6 +420,44 @@
       "source": "RemoteOK"
     },
     {
+      "id": "remoteok-1136704",
+      "title": "AskYourPDF",
+      "company": "AI Supermarket",
+      "location": "Heartâs Content, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-askyourpdf-ai-supermarket-1136704",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and risk-reward. Used by aspiring and experienced trader",
+      "tags": [
+        "golang",
+        "wordpress",
+        "vfx",
+        "teaching",
+        "education",
+        "game dev",
+        "full stack",
+        "writer",
+        "transcribing",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "speech",
+        "virtual assistant",
+        "video",
+        "serverless",
+        "cloud",
+        "git",
+        "seo",
+        "content writing",
+        "stats",
+        "sales",
+        "non tech",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-11T16:49:39+00:00",
+      "source": "RemoteOK"
+    },
+    {
       "id": "remoteok-1136387",
       "title": "Maintenance Technician",
       "company": "Goddard Enterprises Ltd.",
@@ -470,7 +508,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMTQ1LjEzMi4xMDAuMTc5 when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMTI4LjI0LjE2MS44Mg== when applying to show you read the job",
       "tags": [
         "robotics"
       ],
