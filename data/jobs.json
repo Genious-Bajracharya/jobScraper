@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-16T00:59:52.332Z",
-  "total": 30,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-16T06:31:03.415Z",
+  "total": 29,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-backend-engineer-marketing-technology-london-paris-prague-68764",
@@ -43,29 +43,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-15T11:55:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-head-of-engineering-at-e-mobility-startup-munchen-359263",
-      "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
-      "company": "Aampere",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-359263",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-      "tags": [
-        "Head of",
-        "Engineering",
-        "Software",
-        "Founding Engineer",
-        "Startup",
-        "Scaleup",
-        "Mobility",
-        "Typescript",
-        "Nest.js",
-        "Node.js"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-15T11:09:38.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -210,7 +187,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNC4xNTQuNDAuNQ== when applying to show you read the job post completely (#RNC4xNTQuNDAuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuMTI1LjQ2LjE0Ng== when applying to show you read the job post completely (#RMjAuMTI1LjQ2LjE0Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
       "tags": [
         "infosec",
         "javascript",
@@ -857,7 +834,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNC4xNTQuNDAuNQ== when applying to show you read the job pos",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuMTI1LjQ2LjE0Ng== when applying to show you read the job",
       "tags": [
         "robotics"
       ],
