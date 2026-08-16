@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T06:31:03.415Z",
-  "total": 29,
+  "updatedAt": "2026-08-16T12:28:55.934Z",
+  "total": 28,
   "newSinceLastRun": 0,
   "jobs": [
     {
@@ -29,20 +29,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-15T21:55:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-react-kotlin-ruby-on-rails-berlin-berlin-129908",
-      "title": "Fullstack Software Engineer  - React, Kotlin & Ruby on Rails (x/f/m)",
-      "company": "Doctolib",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/fullstack-software-engineer-react-kotlin-ruby-on-rails-berlin-berlin-129908",
-      "description": "&lt;p&gt;Join &lt;strong&gt;ACAI (Advanced Calendar Improvement)&lt;/strong&gt;, a team dedicated to making day-to-day practice operations more efficient and less mentally exhausting for healthcare professionals and their teams.&lt;/p&gt;\n&lt;p&gt;Practice operations are often fragmented across post",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-15T11:55:31.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -187,7 +173,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuMTI1LjQ2LjE0Ng== when applying to show you read the job post completely (#RMjAuMTI1LjQ2LjE0Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuNTkuMjQyLjM= when applying to show you read the job post completely (#RMjAuNTkuMjQyLjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
       "tags": [
         "infosec",
         "javascript",
@@ -834,7 +820,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuMTI1LjQ2LjE0Ng== when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuNTkuMjQyLjM= when applying to show you read the job pos",
       "tags": [
         "robotics"
       ],
