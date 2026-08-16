@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-15T18:20:41.255Z",
-  "total": 28,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-16T00:59:52.332Z",
+  "total": 30,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-marketing-technology-london-paris-prague-68764",
+      "title": "Backend Engineer - Marketing Technology",
+      "company": "Proton",
+      "location": "London; Paris; Prague",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/proton/backend-engineer-marketing-technology-london-paris-prague-68764",
+      "description": "&lt;p class=&quot;Lexical__paragraph&quot;&gt;&lt;strong&gt;&lt;strong class=&quot;Lexical__textBold&quot;&gt;Join Proton and build a better internet where privacy is the default&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p class=&quot;Lexical__paragraph&quot;&gt;Proton was founded in 2014 by scien",
+      "tags": [
+        "CC - Engineering - Growth Studio"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-15T21:55:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-ii-fullstack-international-70045",
+      "title": "Software Engineer II, Fullstack (International)",
+      "company": "Affirm",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-fullstack-international-70045",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The International Accelerator Engineering tea",
+      "tags": [
+        "Financial Platforms - Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-15T21:55:25.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-fullstack-software-engineer-react-kotlin-ruby-on-rails-berlin-berlin-129908",
       "title": "Fullstack Software Engineer  - React, Kotlin & Ruby on Rails (x/f/m)",
@@ -23,7 +51,7 @@
       "company": "Aampere",
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-359263",
-      "description": "Find Jobs in Germany on Arbeitnow",
+      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
       "tags": [
         "Head of",
         "Engineering",
@@ -53,6 +81,22 @@
       "salary": null,
       "postedAt": "2026-08-15T04:30:02+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1136793",
+      "title": "Current openings",
+      "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+      "location": "Wideopen, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+      "description": "403 / Security checkBefore you continue, please verify your request.We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.Verification successful. Waiting for wellfound.com to respondEnable JavaScript and coo",
+      "tags": [
+        "infosec",
+        "customer support",
+        "javascript"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-15T00:12:49+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1136670",
@@ -166,7 +210,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuNDAuMjEyLjI0Mg== when applying to show you read the job post completely (#RMjAuNDAuMjEyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNC4xNTQuNDAuNQ== when applying to show you read the job post completely (#RNC4xNTQuNDAuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
       "tags": [
         "infosec",
         "javascript",
@@ -813,7 +857,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuNDAuMjEyLjI0Mg== when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNC4xNTQuNDAuNQ== when applying to show you read the job pos",
       "tags": [
         "robotics"
       ],
@@ -841,28 +885,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-11T00:41:10+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136393",
-      "title": "Sales Team Member Cotton On Westfield Bondi",
-      "company": "Cotton On Group",
-      "location": "Bondi Junction, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-westfield-bondi-cotton-on-group-1136393",
-      "description": "Job DescriptionDo you speak fashion? We're hiring! Letâs Chat!Born in Australia, loved around the world.â¯At Cotton On, we know good style goes well beyond what's in your wardrobe. Weâre here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, h",
-      "tags": [
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "sales",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-10T02:41:43+00:00",
       "source": "RemoteOK"
     },
     {
