@@ -1,8 +1,41 @@
 {
-  "updatedAt": "2026-08-16T18:20:40.048Z",
-  "total": 30,
+  "updatedAt": "2026-08-17T00:57:43.533Z",
+  "total": 31,
   "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-backend-engineer-berlin-47746",
+      "title": "Junior Backend Engineer (m/f/x)",
+      "company": "Travelcircus",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/junior-backend-engineer-berlin-47746",
+      "description": "ÜbersichtDo you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place!Start your career with us as:Junior Backend Engineer (m/f/x)  Was Du bei uns machstTravelcircus is seeking a Junior Backend Engineer (m/f/x) to",
+      "tags": [
+        "Backend Engineer",
+        "PHP Developer",
+        "PHP Entwickler",
+        "PHP Backend Engineer",
+        "Backend Entwickler",
+        "Backend Developer"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-16T17:09:25.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-150845",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
+      "description": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-16T14:51:50+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-282401",
       "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
@@ -24,7 +57,7 @@
       "company": "deeploi - This is IT",
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-164573",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+      "description": "Find Jobs in Germany on Arbeitnow",
       "tags": [
         "Leadership",
         "ownership",
@@ -211,7 +244,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNC4xNTUuMjIxLjExOQ== when applying to show you read the job post completely (#RNC4xNTUuMjIxLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMTcyLjE4NC4yMTMuMTcw when applying to show you read the job post completely (#RMTcyLjE4NC4yMTMuMTcw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
       "tags": [
         "infosec",
         "javascript",
@@ -858,34 +891,12 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNC4xNTUuMjIxLjExOQ== when applying to show you read the job",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMTcyLjE4NC4yMTMuMTcw when applying to show you read the job",
       "tags": [
         "robotics"
       ],
       "salary": null,
       "postedAt": "2026-08-11T10:41:45+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136369",
-      "title": "Expression of Interest",
-      "company": "Immutable",
-      "location": "Sydney, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-immutable-1136369",
-      "description": "About Us ðImmutable is the worldâs fastest-growing game platform, built to power the next generation of games. We aim to drive the next evolution of gaming, combining performance, digital ownership and cutting-edge technology to help games grow and succeed. At the intersection of AI-driven anal",
-      "tags": [
-        "saas",
-        "web3",
-        "game dev",
-        "customer support",
-        "marketing",
-        "stats",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-11T00:41:10+00:00",
       "source": "RemoteOK"
     },
     {
