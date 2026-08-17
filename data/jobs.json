@@ -1,8 +1,110 @@
 {
-  "updatedAt": "2026-08-17T12:33:30.131Z",
-  "total": 27,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-08-17T18:31:07.053Z",
+  "total": 32,
+  "newSinceLastRun": 5,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-231091",
+      "title": "Full Stack Kotlin/Java-Entwickler:in (m/w/d) - im Kölner Startup",
+      "company": "Greenpocket",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-231091",
+      "description": "Du willst mehr sein als ein Byte im Datenmeer? Du möchtest gerne mit Leidenschaft Verantwortung in agilen Teams übernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt kennenlernen!\nDas sind wir\nAls agiles, grünes Startup und Spezialist für Energiem",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-17T15:00:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-frontend-flutter-stuttgart-177789",
+      "title": "Software Engineer Frontend - Flutter (m/w/d)",
+      "company": "Mway",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/mway/software-engineer-frontend-flutter-stuttgart-177789",
+      "description": "Deine AufgabenApp-Entwicklung ist deine Leidenschaft und du bist absolute:r Flutter-Profi? Unterstütze unser Team bei der Entwicklung innovativer, plattformübergreifender mobiler Anwendungen. Als Software Engineer bei Relution übernimmst du Verantwortung für die Entwicklung neuer Features – von der ",
+      "tags": [
+        "Flutter",
+        "Frontend",
+        "Dart",
+        "Kotlin",
+        "Java",
+        "Swift",
+        "Android"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-17T14:30:18.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-293842",
+      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+      "company": "Meierhofer",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-293842",
+      "description": "Unsere StandorteBerlin, Hannover, Leipzig, München, Passau oder remote / im Homeoffice – die Tätigkeit ist standortunabhängig möglichDein zukünftiges TeamDu willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-Lösungen für Kliniken mitwirken? Im Be",
+      "tags": [
+        "München",
+        "Leipzig",
+        "Hannover",
+        "Berlin",
+        "Passau",
+        "Homeoffice",
+        "remote",
+        "IT-Security",
+        "ISO27001",
+        "Cybersecurity",
+        "Software security",
+        "Secure software development",
+        "OWASP",
+        "Kryptographie",
+        "Security engineering",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Informationssicherheit",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-17T14:09:54.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-software-engineer-ai-systems-munster-362795",
+      "title": "Backend Software Engineer - AI Systems (m/w/d)",
+      "company": "HAIAR GmbH",
+      "location": "Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/haiar-gmbh/backend-software-engineer-ai-systems-munster-362795",
+      "description": "HAIAR® entwickelt Technologien, um Unternehmen der Automobilbranche datengetrieben zu beschleunigen.\nCARvinci® ist die erste wirklich praxisnahe Autohaus-KI, die den Alltag im jeweiligen Betrieb revolutioniert.\nWarum CARvinci®?\n🤝 Gemeinsam mit über 30 Autohäusern entwickelt – von Brancheninsidern f",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-17T13:01:38.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-entwicklerin-im-finanzdienstleistungsumfeld-hanover-227937",
+      "title": "Fullstack Entwickler:in im Finanzdienstleistungsumfeld (m/w/d)",
+      "company": "frobese GmbH Informatikservices",
+      "location": "Hanover",
+      "url": "https://www.arbeitnow.com/jobs/companies/frobese-gmbh-informatikservices/fullstack-entwicklerin-im-finanzdienstleistungsumfeld-hanover-227937",
+      "description": "Deine Aufgaben bei uns im Team:\nDu hast Spaß daran, moderne Anwendungen nicht nur zu entwickeln, sondern wirklich mitzugestalten? Als Fullstack Entwickler:in arbeitest Du mit unseren Kunden aus dem Banken- und Versicherungsumfeld an sicheren, skalierbaren und gut nutzbaren Softwarelösungen. Dabei br",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-17T12:30:33.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-142198",
       "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
@@ -173,7 +275,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuODMuMjI4Ljcz when applying to show you read the job post completely (#RMjAuODMuMjI4Ljcz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNDguMjE0LjUzLjY3 when applying to show you read the job post completely (#RNDguMjE0LjUzLjY3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
       "tags": [
         "infosec",
         "javascript",
@@ -820,7 +922,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuODMuMjI4Ljcz when applying to show you read the job pos",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNDguMjE0LjUzLjY3 when applying to show you read the job pos",
       "tags": [
         "robotics"
       ],
