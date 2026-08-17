@@ -1,26 +1,21 @@
 {
-  "updatedAt": "2026-08-17T06:42:36.068Z",
-  "total": 29,
+  "updatedAt": "2026-08-17T12:33:30.131Z",
+  "total": 27,
   "newSinceLastRun": 0,
   "jobs": [
     {
-      "id": "arbeitnow-junior-backend-engineer-berlin-47746",
-      "title": "Junior Backend Engineer (m/f/x)",
-      "company": "Travelcircus",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/junior-backend-engineer-berlin-47746",
-      "description": "ÜbersichtDo you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place!Start your career with us as:Junior Backend Engineer (m/f/x)  Was Du bei uns machstTravelcircus is seeking a Junior Backend Engineer (m/f/x) to",
+      "id": "jobicy-142198",
+      "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
+      "company": "Binance",
+      "location": "APAC",
+      "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
+      "description": "Binance is the leading global blockchain ecosystem and cryptocurrency infrastructure provider whose suite of financial products includes the world’s largest digital-asset exchange.Our mission is to accelerate cryptocurrency adoption and increase the freedom of money. If you’re looking for a fast-pac",
       "tags": [
-        "Backend Engineer",
-        "PHP Developer",
-        "PHP Entwickler",
-        "PHP Backend Engineer",
-        "Backend Entwickler",
-        "Backend Developer"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-16T17:09:25.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-17T05:40:08+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-150845",
@@ -35,44 +30,6 @@
       "salary": null,
       "postedAt": "2026-08-16T14:51:50+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-282401",
-      "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
-      "company": "primion Technology GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-282401",
-      "description": "Protect what matters.&nbsp;Primion Technology is a global solution provider and market leader in Converged Security Solutions and Workforce Management.&nbsp;For more than 30 years, we have supported around 4,000 satisfied customers worldwide who rely on our certified solutions every day. From consul",
-      "tags": [
-        "R&D",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-16T14:30:24.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-head-of-engineering-munchen-164573",
-      "title": "Head of Engineering",
-      "company": "deeploi - This is IT",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-164573",
-      "description": "Find Jobs in Germany on Arbeitnow",
-      "tags": [
-        "Leadership",
-        "ownership",
-        "TypeScript",
-        "Node.js",
-        "React",
-        "Python",
-        "PostgreSQL",
-        "API",
-        "AWS",
-        "AI Agents"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-16T14:09:06.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-146122",
@@ -216,7 +173,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNTcuMTU0LjUuMTky when applying to show you read the job post completely (#RNTcuMTU0LjUuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMjAuODMuMjI4Ljcz when applying to show you read the job post completely (#RMjAuODMuMjI4Ljcz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
       "tags": [
         "infosec",
         "javascript",
@@ -863,7 +820,7 @@
       "company": "Alloy Robotics",
       "location": "Sydney, ",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-alloy-robotics-1136384",
-      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RNTcuMTU0LjUuMTky when applying to show you read the job pos",
+      "description": "We're always looking for exceptional people who want to work on hard problems in robotics data infrastructure.If something on our careers page resonated, tell us who you are and what you'd bring.Please mention the word **OPTIMISM** and tag RMjAuODMuMjI4Ljcz when applying to show you read the job pos",
       "tags": [
         "robotics"
       ],
