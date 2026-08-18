@@ -1,20 +1,47 @@
 {
-  "updatedAt": "2026-08-18T00:55:49.185Z",
-  "total": 30,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-08-18T06:33:56.582Z",
+  "total": 32,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-werkstudentin-pr-externe-kommunikation-all-genders-munchen-25660",
-      "title": "Werkstudent:in PR & Externe Kommunikation (all genders)",
-      "company": "Foodji GmbH",
-      "location": "München, Bayern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/foodji-gmbh/werkstudentin-pr-externe-kommunikation-all-genders-munchen-25660",
-      "description": "Als VC-backed Foodtech-Startup schaffen wir den Spagat zwischen gesunder Ernährung, Verfügbarkeit und Nachhaltigkeit. Mit unseren Foodjis bringen wir ultrafrische, leckere Gerichte genau dorthin wo du die meiste Zeit verbringst - denn wir haben uns zum Ziel gesetzt über 10 Millionen Arbeitnehmern en",
+      "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-67421",
+      "title": "Platform Boosters - Backend Engineer (m/w/d)",
+      "company": "shopware AG",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-67421",
+      "description": "Shopware ist ein führendes E-Commerce-System, das Unternehmen weltweit dabei unterstützt, im digitalen Handel schnell und effizient zu skalieren. Als wegweisende Open-Source-Lösung wird Shopware bereits von einigen der größten europäischen Marken, Händlern und Herstellern im B2C- und B2B-Umfeld eing",
       "tags": [
-        "Marketing"
+        "Product",
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-08-17T17:30:16.000Z",
+      "postedAt": "2026-08-18T02:30:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-developer-bissendorf-garbsen-22111",
+      "title": "Frontend Engineer, Developer (M/W/D)",
+      "company": "INSIDE M2M GmbH",
+      "location": "Bissendorf / Garbsen, Niedersachsen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/frontend-engineer-developer-bissendorf-garbsen-22111",
+      "description": "Was wir tunAls IoT Pioniere entwickeln wir mit mittlerweile über 40 Kollegen*innen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 500.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausgestattet.Unsere Kompetenz liegt in der Ent",
+      "tags": [
+        "Entwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-18T02:30:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-react-ts-software-engineer-frontend-all-genders-berlin-berliner-strasse-80-13189-berlin-135471",
+      "title": "React/TS Software Engineer - Frontend (all genders)",
+      "company": "Cardmarket",
+      "location": "Berlin - Berliner Straße 80, 13189 Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cardmarket/react-ts-software-engineer-frontend-all-genders-berlin-berliner-strasse-80-13189-berlin-135471",
+      "description": "Our VisionAt Cardmarket, people come first.Our goal is to create a workplace where everyone feels safe, appreciated, and inspired. A place where you enjoy coming to work and feel good about heading home at the end of the day.Open communication is at the heart of our culture. Only by talking openly a",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-08-18T02:29:46.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -402,7 +429,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMTcyLjIxNC40Ny4zNQ== when applying to show you read the job post completely (#RMTcyLjIxNC40Ny4zNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMTcyLjE4My4xMzMuMjQy when applying to show you read the job post completely (#RMTcyLjE4My4xMzMuMjQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
       "tags": [
         "infosec",
         "javascript",
