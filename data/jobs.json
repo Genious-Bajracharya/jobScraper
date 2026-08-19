@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-19T00:56:45.423Z",
-  "total": 21,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-19T06:35:10.381Z",
+  "total": 20,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-remote-quality-assurance-engineer-germany-390882",
@@ -31,20 +31,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-18T18:00:38.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-london-324322",
-      "title": "Backend Engineer",
-      "company": "kwiff",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kwiff/backend-engineer-london-324322",
-      "description": "About kwiff\nWe aren’t gambling as you know it. We’re a proprietary tech platform redefining the experience with a bold, player-first approach. Our signature feature, Supercharging, randomly boosts odds, cashouts and casino sessions, creating genuine moments of surprise and delight for our users. ⚡\nW",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-18T14:00:26.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -448,7 +434,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNTIuMTkwLjIyMS44Nw== when applying to show you read the job post completely (#RNTIuMTkwLjIyMS44Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNzQuMjQ5LjE4MC4xNjI= when applying to show you read the job post completely (#RNzQuMjQ5LjE4MC4xNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
       "tags": [
         "infosec",
         "javascript",
