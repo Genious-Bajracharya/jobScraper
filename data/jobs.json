@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-08-18T18:30:28.662Z",
+  "updatedAt": "2026-08-19T00:56:45.423Z",
   "total": 21,
-  "newSinceLastRun": 4,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-quality-assurance-engineer-germany-390882",
+      "title": "Quality Assurance Engineer (m/f/d)",
+      "company": "Hero Software",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/hero-software/remote-quality-assurance-engineer-germany-390882",
+      "description": "Your career oportunity (from 15.09.2026)You combine strong, hands-on software testing skills with a practical understanding of AI-driven product features and modern AI-supported QA workflows? Also you like to ensure reliable releases across web and/or backend systems, while also contributing to qual",
+      "tags": [
+        "Engineering",
+        "Computer Software",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-18T20:40:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-security-analytics-berlin-400966",
+      "title": "Full Stack Engineer, Security Analytics",
+      "company": "RedMimicry GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/redmimicry-gmbh/full-stack-engineer-security-analytics-berlin-400966",
+      "description": "We are building a new capability that turns fragmented, noisy security logs into explainable, AI-powered threat analysis, delivered inside the RedMimicry platform.\nAs a Full Stack Engineer at RedMimicry, you will take a leading role in developing a new security analytics capability within our platfo",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-18T18:00:38.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-engineer-london-324322",
       "title": "Backend Engineer",
@@ -15,20 +45,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-18T14:00:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-entwickler-design-technologist-berlin-2718",
-      "title": "Frontend-Entwickler & Design-Technologist*",
-      "company": "AMS Gruppe",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ams-gruppe/frontend-entwickler-design-technologist-berlin-2718",
-      "description": "Wir schneiden alte Zöpfe ab. Mit unserem Konzept für betriebliche Mobilität wird ein nachhaltiges Nutzerverhalten gefördert und die Effizienz des betrieblichen Fuhrparks gesteigert. Das ist in vielen Unternehmen mit einem Kulturwandel verbunden.\nWollen Sie zu diesem Kulturwandel einen Beitrag leiste",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-18T14:00:24.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -432,7 +448,7 @@
       "company": "ç¾äº",
       "location": "æé½å¸, ",
       "url": "https://remoteOK.com/remote-jobs/remote-test-req-1136783",
-      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RMTcyLjE3NC4xNjUuNw== when applying to show you read the job post completely (#RMTcyLjE3NC4xNjUuNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
+      "description": "Responsibilities1Qualifications1Please mention the word **APPLAUD** and tag RNTIuMTkwLjIyMS44Nw== when applying to show you read the job post completely (#RNTIuMTkwLjIyMS44Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and s",
       "tags": [
         "infosec",
         "javascript",
@@ -530,39 +546,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-12T06:33:41+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136784",
-      "title": "ANALYST L3",
-      "company": "Wipro",
-      "location": "Pune Division, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-analyst-l3-wipro-1136784",
-      "description": "Job description:Job Description Í Í Í Í Mandatory Skills: IBM BAW .Â Experience: 3-5 Years.Â Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, ",
-      "tags": [
-        "infosec",
-        "javascript",
-        "technical",
-        "exec",
-        "sys admin",
-        "customer support",
-        "web dev",
-        "virtual assistant",
-        "video",
-        "api",
-        "ops",
-        "marketing",
-        "engineer",
-        "ecommerce",
-        "education",
-        "consulting",
-        "testing",
-        "analyst",
-        "design",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-12T00:18:30+00:00",
       "source": "RemoteOK"
     },
     {
