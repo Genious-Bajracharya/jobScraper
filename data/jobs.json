@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-20T00:56:31.328Z",
-  "total": 23,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-08-20T06:36:43.296Z",
+  "total": 25,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-ii-backend-london-205275",
+      "title": "Software Engineer-II  Backend",
+      "company": "Socure",
+      "location": "Hybrid - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-205275",
+      "description": "Why Socure?Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every ",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T03:40:16.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-backend-london-243596",
+      "title": "Software Engineer (Backend)",
+      "company": "Extrac.ai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/extracai/software-engineer-backend-london-243596",
+      "description": "About ExTracExTrac is a decision intelligence company used by governments, defence organisations, financial institutions, and corporates operating in complex, fast-moving environments. Our capabilities fuse curated data sources, domain-specific AI, and deep human expertise to transform information o",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T03:40:06.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
       "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
@@ -84,7 +112,7 @@
       "company": "Koppla",
       "location": "Berlin (hybrid)",
       "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-337942",
-      "description": "Find Jobs in Germany on Arbeitnow",
+      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
       "tags": [
         "Typescript",
         "Backend",
@@ -101,17 +129,40 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-london-gb-482649",
-      "title": "Backend Engineer",
-      "company": "Octopus Energy Group jobs",
-      "location": "London (GB)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group-jobs/backend-engineer-london-gb-482649",
-      "description": "\nOctopus Energy started with a bold idea: to build Britain’s first truly digital energy supplier.&nbsp;\nBy combining world-class tech with brilliant humans who care deeply about customers and driving the renewable energy transition, we made it happen and in 2025, we became Britain’s largest energy s",
+      "id": "arbeitnow-full-stack-developer-berlin-hybrid-62219",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "Ess Energy Sales Services Gmbh",
+      "location": "Berlin - Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/full-stack-developer-berlin-hybrid-62219",
+      "description": "Wer wir sindWir sind die PLAN-B NET ZERO AG – ein schnell wachsendes GreenTech-Unternehmen mit Sitz in der Schweiz. Unsere Mission: Der erste wirklich emissionsfreie, voll integrierte, digitale pan-europäische Energieversorger.Wir denken Energie neu – nachhaltig, vernetzt und radikal zukunftsorienti",
       "tags": [
-        "Backend"
+        "Full Stack",
+        "React",
+        "React Native",
+        "TypeScript",
+        "JavaScript",
+        "Mobile App Entwicklung",
+        "Webentwicklung",
+        "REST API",
+        "Supabase",
+        "PostgreSQL",
+        "Firebase",
+        "Netlify",
+        "Vercel",
+        "CI/CD",
+        "Git",
+        "GitHub",
+        "Apple App Store",
+        "Google Play Store",
+        "Cross-Plattform",
+        "Responsive Design",
+        "GreenTech",
+        "KI",
+        "Hybrid",
+        "Berlin"
       ],
       "salary": null,
-      "postedAt": "2026-08-19T15:04:27.000Z",
+      "postedAt": "2026-08-19T17:10:31.000Z",
       "source": "Arbeitnow"
     },
     {
