@@ -1,8 +1,65 @@
 {
-  "updatedAt": "2026-08-20T06:36:43.296Z",
-  "total": 25,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-20T12:37:22.364Z",
+  "total": 22,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-engineer-london-182572",
+      "title": "Full Stack Engineer",
+      "company": "Souk",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
+      "description": "Join Souk, a forward-thinking company that is redefining the way businesses operate in the digital marketplace. As a Full Stack Engineer, you will play a pivotal role in developing and enhancing our innovative platform, which seamlessly connects buyers and sellers across diverse markets. You will be",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T10:31:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-middleware-entwickler-vansprint-gmbh-darmstadt-hybrid-319503",
+      "title": "Backend / Middleware Entwickler (m/w/d)  VanSprint GmbH | Darmstadt / Hybrid",
+      "company": "VanSprint GmbH",
+      "location": "Darmstadt",
+      "url": "https://www.arbeitnow.com/jobs/companies/vansprint-gmbh/backend-middleware-entwickler-vansprint-gmbh-darmstadt-hybrid-319503",
+      "description": "Über uns\nWir sind VanSprint, ein wachsendes E-Commerce-Unternehmen und spezialisiert auf E-Bikes und Fahrradzubehör.\nUnsere Leidenschaft für Fahrräder verbinden wir mit modernem Onlinehandel und bringen E-Bikes zu Menschen in ganz Deutschland. Neben unserem Ladengeschäft in Darmstadt erreichen wir u",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T10:00:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-design-engineer-munich-92666",
+      "title": "Design Engineer (f/m/x)",
+      "company": "alago",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/alago/design-engineer-munich-92666",
+      "description": "TL;DR — Construction software looks like it was designed in 2000. Because most of it was. As our Design Engineer, you define how alago looks, feels and behaves — and you ship it yourself, in React. Full-time, Munich.\nWhy this role exists\nConstruction software looks like it was designed in 2000. Beca",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T08:30:42.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-berlin-152530",
+      "title": "Engineering Manager",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/engineering-manager-berlin-152530",
+      "description": "Your missionAs Engineering Manager at Cosuno, you will lead a team of full stack engineers while staying deeply hands-on: you'll spend 60–80% of your time coding, reviewing, and shaping the architecture alongside your team. You are the kind of leader who elevates a team by example — writing code tha",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T05:40:16.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-ii-backend-london-205275",
       "title": "Software Engineer-II  Backend",
@@ -32,53 +89,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
-      "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
-      "company": "DEMV Systems Gmbh",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
-      "description": "Innerhalb des Teams gibt es folgende spannende Aufgaben:Weiterentwicklung unserer bestehenden, komplexen PHP-Anwendungen auf Basis von Symfony und LaravelIntegration externer SOAP- und REST-SchnittstellenKonzeption, Umsetzung und Dokumentation unserer eigenen REST-Schnittstellen via OpenAPIMitarbeit",
-      "tags": [
-        "IT",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-19T23:30:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-technical-project-manager-software-development-saarbrucken-373627",
-      "title": "Technical Project Manager – Software Development (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbrücken",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-373627",
-      "description": "Ihre AufgabenDu verantwortest die operative Steuerung unserer Softwareentwicklung und sorgst dafür, dass unsere Backend- und Frontend-Teams zuverlässig und mit klarem Fokus liefern können. Du steuerst Planung, Kapazitäten, Abhängigkeiten und Releases und behältst den gesamten Entwicklungsprozess im ",
-      "tags": [
-        "Lead Developer",
-        "Engineering Lead",
-        "Software Architecture",
-        "Team Leadership",
-        "Python",
-        "React",
-        "AI-Assisted Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-19T23:10:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-merchant-emea-berlin-399199",
-      "title": "Fullstack Engineer - Merchant EMEA",
-      "company": "Wolt - English",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/fullstack-engineer-merchant-emea-berlin-399199",
-      "description": "About Wolt\nAt Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In ",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-19T20:45:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-151168",
       "title": "Fullstack Engineer",
       "company": "Monks",
@@ -91,79 +101,6 @@
       "salary": null,
       "postedAt": "2026-08-19T19:31:00+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-remote-brand-design-lead-171938",
-      "title": "Brand Design Lead",
-      "company": "0G",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-brand-design-lead-171938",
-      "description": "About the Role We are hiring a Brand Design Lead to own and evolve 0G's visual identity and brand expression across product, web, social, events, and marketing campaigns. This is a senior, hands-on role for someone who can set creative direction and execute it.You will work closely with marketing, c",
-      "tags": [
-        "Marketing"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-19T18:40:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-337942",
-      "title": "Product Engineer - Frontend (all genders)",
-      "company": "Koppla",
-      "location": "Berlin (hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-337942",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-      "tags": [
-        "Typescript",
-        "Backend",
-        "Frontend",
-        "fullstack",
-        "Developer",
-        "Software engineer",
-        "Backend developer",
-        "Web dev",
-        "product engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-19T17:30:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-berlin-hybrid-62219",
-      "title": "Full Stack Developer (m/w/d)",
-      "company": "Ess Energy Sales Services Gmbh",
-      "location": "Berlin - Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/full-stack-developer-berlin-hybrid-62219",
-      "description": "Wer wir sindWir sind die PLAN-B NET ZERO AG – ein schnell wachsendes GreenTech-Unternehmen mit Sitz in der Schweiz. Unsere Mission: Der erste wirklich emissionsfreie, voll integrierte, digitale pan-europäische Energieversorger.Wir denken Energie neu – nachhaltig, vernetzt und radikal zukunftsorienti",
-      "tags": [
-        "Full Stack",
-        "React",
-        "React Native",
-        "TypeScript",
-        "JavaScript",
-        "Mobile App Entwicklung",
-        "Webentwicklung",
-        "REST API",
-        "Supabase",
-        "PostgreSQL",
-        "Firebase",
-        "Netlify",
-        "Vercel",
-        "CI/CD",
-        "Git",
-        "GitHub",
-        "Apple App Store",
-        "Google Play Store",
-        "Cross-Plattform",
-        "Responsive Design",
-        "GreenTech",
-        "KI",
-        "Hybrid",
-        "Berlin"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-19T17:10:31.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-150975",
@@ -519,52 +456,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-13T19:49:30+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136789",
-      "title": "Facilities Planner",
-      "company": "Booz Allen Hamilton",
-      "location": "é£è¦é½å¸é¨, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-facilities-planner-booz-allen-hamilton-1136789",
-      "description": "Job Number: R0246726Facilities PlannerThe Opportunity:Seeking an energetic and skilled Facilities Planner to work at Indo-Pacific Region! Join our team to lead project planning, data analysis, and collaboration across Pacific installations. If you excel at multi-stakeholder coordination, strategic r",
-      "tags": [
-        "infosec",
-        "javascript",
-        "technical",
-        "exec",
-        "sys admin",
-        "customer support",
-        "web dev",
-        "virtual assistant",
-        "video",
-        "api",
-        "ops",
-        "marketing",
-        "engineer",
-        "ecommerce",
-        "education",
-        "consulting",
-        "testing",
-        "analyst",
-        "design",
-        "digital nomad",
-        "hr",
-        "dev",
-        "payroll",
-        "finance",
-        "content writing",
-        "junior",
-        "travel",
-        "excel",
-        "microsoft",
-        "senior",
-        "medical",
-        "full time",
-        "part time"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-13T02:09:24+00:00",
       "source": "RemoteOK"
     },
     {
