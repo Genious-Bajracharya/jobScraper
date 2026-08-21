@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-21T01:00:11.207Z",
-  "total": 22,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-08-21T06:36:50.167Z",
+  "total": 20,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-berlin-368361",
+      "title": "Software Engineer (m/f/d)",
+      "company": "Amperecloud GmbH",
+      "location": "Berlin , Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/software-engineer-berlin-368361",
+      "description": "Want to shape the future of renewable energy? Your ideas matter here. We are building the operating system for renewable energy and simplify the management of energy assets with Amperecloud Platform – for a world where green energy drives growth.We're looking for a sharp, product-first fullstack eng",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-21T02:30:20.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-expert-backend-engineer-london-462220",
       "title": "Expert Backend Engineer",
@@ -71,35 +85,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-20T18:40:27.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-frontend-london-395648",
-      "title": "Full-Stack Engineer (Frontend)",
-      "company": "Algo1",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-395648",
-      "description": "About UsAt algo1, we are reinventing one of the world's most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time, and makes an everyday experience less stressful, more personal, and more engaging.",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-20T15:40:23.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-developer-e-commerce-shopify-frankfurt-85789",
-      "title": "Frontend Developer – E-Commerce & Shopify (m/w/d)",
-      "company": "ABRIO GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/frontend-developer-e-commerce-shopify-frankfurt-85789",
-      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast Erfahrung im Frontend Development und willst moderne E-Commerce-Lösungen entwickeln, die wirklich genutzt werden? Bei ABRIO baust und optimierst du performante Shopify-Frontends für anspruchsvolle D2C-, B2",
-      "tags": [
-        "Information technology",
-        "high school coursework"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-20T15:20:51.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -438,24 +423,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-14T00:00:00+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136621",
-      "title": "Express Your Interest",
-      "company": "Alexander &amp; Bebout, Inc.",
-      "location": "Van Wert, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-express-your-interest-alexander-amp-bebout-inc-1136621",
-      "description": "Think you might be a good fit for A&amp;B or A&amp;B Home? Do you like what you see but we donât have a position posted for you? Send us your resume or application anyway! We would still like to hear from you and possibly discuss potential opportunities.N/AN/AN/AN/ACompetitive pay401KMedical insur",
-      "tags": [
-        "web dev",
-        "hr",
-        "sys admin",
-        "marketing",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-13T19:49:30+00:00",
       "source": "RemoteOK"
     },
     {
