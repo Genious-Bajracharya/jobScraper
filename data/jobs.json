@@ -1,8 +1,78 @@
 {
-  "updatedAt": "2026-08-20T18:31:42.059Z",
-  "total": 20,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-21T01:00:11.207Z",
+  "total": 22,
+  "newSinceLastRun": 5,
   "jobs": [
+    {
+      "id": "arbeitnow-expert-backend-engineer-london-462220",
+      "title": "Expert Backend Engineer",
+      "company": "wizinc",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wizinc/expert-backend-engineer-london-462220",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Come join the organization that is redefining security for the AI era. As one of the&lt;a href=&quot;https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever&quot;&gt; fastest-growing startups ever,&lt;/a&",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T21:55:59.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-graduate-fullstack-engineer-milton-keynes-247463",
+      "title": "Graduate Fullstack Engineer",
+      "company": "Allica Bank",
+      "location": "Milton Keynes Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/graduate-fullstack-engineer-milton-keynes-247463",
+      "description": "About Allica BankAllica is the UK’s fastest growing company - and the fastest-growing financial technology (Fintech) firm ever. Our purpose is to help established SMEs, one of the last major underserved opportunities in Fintech.Established SMEs are the backbone of local communities - representing ov",
+      "tags": [
+        "Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T21:40:17.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-482105",
+      "title": "Full Stack Engineer",
+      "company": "Xyz Reality",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/full-stack-engineer-london-482105",
+      "description": "Build the technology behind the teams transforming constructionAt XYZ Reality, we’ve created the world’s first engineering-grade Augmented Reality solution for construction. Our product, The Atom, is used on major projects worldwide to bring designs to life on-site and help teams build more accurate",
+      "tags": [
+        "Platform"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T21:40:15.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-151249",
+      "title": "Engineering Manager (Frontend)",
+      "company": "ClickUp",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
+      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as par",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T19:44:38+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-software-engineer-frontend-payments-london-116974",
+      "title": "Software Engineer - Frontend - Payments",
+      "company": "Kraken",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/software-engineer-frontend-payments-london-116974",
+      "description": "Building the Future of Open FinancePayward - the parent company behind Kraken, NinjaTrader, Breakout,  xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advanc",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-20T18:40:27.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-engineer-frontend-london-395648",
       "title": "Full-Stack Engineer (Frontend)",
@@ -30,35 +100,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-20T15:20:51.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-referent-digitale-transformation-frankfurt-am-main-425846",
-      "title": "Referent Digitale Transformation (m/w/d)",
-      "company": "Nau Steuerberater Partnerschaft mbB",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/nau-steuerberater-partnerschaft-mbb/referent-digitale-transformation-frankfurt-am-main-425846",
-      "description": "Sie kümmern sich um unsere Mandanten. Wir kümmern uns um Sie.\nKlingt nach einem guten Deal? Dann sollten wir uns kennenlernen.\nReferent Digitale Transformation (m/w/d) gesucht.\nWer wir sind.\nKompetente Beratung, neu und „NAU“ gedacht. Getreu unserem Grundsatz beraten wir sowohl national als auch int",
-      "tags": [
-        "Finance"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-20T13:01:47.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-182572",
-      "title": "Full Stack Engineer",
-      "company": "Souk",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/souk/full-stack-engineer-london-182572",
-      "description": "Join Souk, a forward-thinking company that is redefining the way businesses operate in the digital marketplace. As a Full Stack Engineer, you will play a pivotal role in developing and enhancing our innovative platform, which seamlessly connects buyers and sellers across diverse markets. You will be",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-20T10:31:31.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -187,20 +228,6 @@
       "salary": null,
       "postedAt": "2026-08-17T08:41:44+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-142198",
-      "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
-      "company": "Binance",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
-      "description": "Binance is the leading global blockchain ecosystem and cryptocurrency infrastructure provider whose suite of financial products includes the world’s largest digital-asset exchange.Our mission is to accelerate cryptocurrency adoption and increase the freedom of money. If you’re looking for a fast-pac",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-17T05:40:08+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1136793",
