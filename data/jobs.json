@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-21T18:29:08.543Z",
-  "total": 16,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-08-22T00:56:38.062Z",
+  "total": 13,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-software-engineer-journey-berlin-103466",
+      "title": "Full-Stack Software Engineer - Journey",
+      "company": "Ecosia",
+      "location": "Berlin / fully remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosia/full-stack-software-engineer-journey-berlin-103466",
+      "description": "We are looking for a Full-Stack Software Engineer with solid frontend and backend experience to join us remotely or in our Berlin office. As we grow, we need your skills to support our mission of building the future of green search.Day-to-day, you will work across the entire stack - from crafting in",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-21T17:40:14.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
       "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
@@ -43,61 +57,18 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-developer-ai-llm-berlin-55332",
-      "title": "Fullstack Developer – AI & LLM (m/w/d)",
-      "company": "Cleverly edu GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/cleverly-edu-gmbh/fullstack-developer-ai-llm-berlin-55332",
-      "description": "Wir bauen einen KI-Lernbegleiter für Kinder – und suchen die Person, die ihn technisch verantwortet.\nÜber 60.000 Kinder und Jugendliche lernen bei uns mit 1:1-Mentoring, Tutoring und Live-Kursen. Was heute Menschen leisten – erkennen, wo ein Kind hängt, im richtigen Moment nachfragen, die passende Ü",
+      "id": "jobicy-151348",
+      "title": "Backend Engineer, Flag Delivery",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151348-backend-engineer-flag-delivery",
+      "description": "About the Job: LaunchDarkly is hiring a Backend Software Engineer to join our Flag Delivery team. Serving data to our customers is the core of our product and we’re expanding the team to add bandwidth and energy. The team is very senior, and this role is for someone eager to learn and grow as the&he",
       "tags": [
-        "IT"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-21T15:30:32.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-freelance-frontend-engineer-all-genders-berlin-berlin-353220",
-      "title": "Freelance Frontend Engineer (all genders)",
-      "company": "gropyus",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/freelance-frontend-engineer-all-genders-berlin-berlin-353220",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, ind",
-      "tags": [
-        "Planning Automation"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T14:55:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-merchant-emea-berlin-192217",
-      "title": "Fullstack Engineer - Merchant EMEA",
-      "company": "wolt",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/fullstack-engineer-merchant-emea-berlin-192217",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we ",
-      "tags": [
-        "Merchant Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T14:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
-      "title": "Inhouse .NET Backend Entwickler (m/w/d) - Full Remote aus Bayern",
-      "company": "DWWA Personalberatung GmbH",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
-      "description": "Inhouse .NET Backend Entwickler (m/w/d) - Full Remote innerhalb von Bayern\nStellenbeschreibung\nDu suchst einen sicheren Job als Inhouse .NET Backend Entwickler mit bis zu 100% Remote (innerhalb von Bayern) und mit krisenfestem Fundament? Möchtest du an der Transformation eines monolithischen Systems",
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T13:30:31.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-21T17:04:27+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-analytics-engineer-london-195310",
@@ -254,56 +225,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-15T00:12:49+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136903",
-      "title": "Flight Attendant",
-      "company": "HK Express",
-      "location": "Hong Kong, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-flight-attendant-hk-express-1136903",
-      "description": "HK Express is Hong Kongâs first and only low-cost carrier, always offering great value, affordable fares on one of the youngest and most modern aircraft fleets in the world.Like you, and just like many people across Asia, we love to travel and discover new places across the worldâs most diverse ",
-      "tags": [
-        "customer support",
-        "finance",
-        "exec",
-        "senior",
-        "legal",
-        "technical",
-        "marketing",
-        "excel",
-        "sales",
-        "engineer",
-        "recruiter",
-        "full time",
-        "sys admin",
-        "infosec",
-        "education",
-        "dev",
-        "digital nomad",
-        "hr",
-        "microsoft",
-        "ops",
-        "supervisor",
-        "medical",
-        "architecture",
-        "design",
-        "virtual assistant",
-        "speech",
-        "content writing",
-        "travel",
-        "accounting",
-        "payroll",
-        "scheme",
-        "junior",
-        "designer",
-        "video",
-        "photoshop",
-        "illustrator",
-        "c"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-14T10:30:38+00:00",
       "source": "RemoteOK"
     },
     {
