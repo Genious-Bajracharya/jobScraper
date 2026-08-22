@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-22T12:28:43.333Z",
-  "total": 14,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-22T18:21:12.483Z",
+  "total": 15,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-145527",
+      "title": "Junior Softwareentwickler Backend  / Cobol  Settlement Dev & Delivery (m/w/d)",
+      "company": "Objectway",
+      "location": "EBERSBERG",
+      "url": "https://www.arbeitnow.com/jobs/companies/objectway/junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-145527",
+      "description": "Aufbauend auf mehr als 30 Jahren Geschäftserfahrung ist Objectway ein internationaler Anbieter von Software für Vermögensverwaltung, Bankwesen und Asset Management, der seine Kunden in die Lage versetzt, sich den Herausforderungen der Zukunft zu stellen und gleichzeitig heute hervorragende Leistunge",
+      "tags": [
+        "SW Development & Delivery"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T14:04:44.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-software-engineer-new-bets-london-388425",
       "title": "Backend Software Engineer - New Bets",
@@ -23,7 +37,7 @@
       "company": "Visiolab",
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/visiolab/fullstack-engineer-berlin-442767",
-      "description": "Find Jobs in Germany on Arbeitnow",
+      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
       "tags": [
         "Firebase",
         "Agile",
@@ -39,18 +53,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-22T08:30:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-engineer-fullstack-munchen-19035",
-      "title": "Founding Engineer - Fullstack (m/w/d)",
-      "company": "Nuuenergy",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/nuuenergy/founding-engineer-fullstack-munchen-19035",
-      "description": "nuuEnergy - Das sind WIR!nuuEnergy hat es sich zur Mission gemacht, die Wärmewende anzuführen, die Europa dringend braucht!Wir sind ein Climate-Tech-Start-up aus München und revolutionieren Wärmepumpeninstallationen: mit smarten End-to-End-Lösungen für unsere Kund:innen, ehrlichem Handwerk, regional",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-22T05:09:16.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -80,6 +82,40 @@
       "salary": null,
       "postedAt": "2026-08-21T17:04:27+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1137069",
+      "title": "Project Systems Specialist",
+      "company": "Dart",
+      "location": "George Town, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
+      "description": "JOB TITLE: PROJECT SYSTEMS SPECIALISTSALARY: CI$60,000 - CI$80,000 paWORKING HOURS: 40 HOURS PER WEEKWe are seeking a Project Systems Specialist to join our Project Operations team. The successful candidate will support project management systems, ensuring efficient information management, system pe",
+      "tags": [
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "testing",
+        "travel",
+        "node",
+        "microsoft",
+        "exec",
+        "ops",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "c sharp",
+        "technical",
+        "marketing",
+        "quality assurance",
+        "javascript",
+        "c",
+        "css",
+        "html"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-21T14:53:06+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1137043",
