@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-08-22T06:31:19.832Z",
-  "total": 13,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-22T12:28:43.333Z",
+  "total": 14,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-software-engineer-new-bets-london-388425",
+      "title": "Backend Software Engineer - New Bets",
+      "company": "Heidi",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/backend-software-engineer-new-bets-london-388425",
+      "description": "Who is Heidi?Heidi is building an AI Care Partner that supports clinicians every step of the way, from documentation to delivery of care.We exist to double healthcare’s capacity while keeping care deeply human. In the last 18 months, Heidi has returned more than 18 million hours to clinicians and su",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T09:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-berlin-442767",
+      "title": "Fullstack Engineer (m/f/d)",
+      "company": "Visiolab",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/visiolab/fullstack-engineer-berlin-442767",
+      "description": "Find Jobs in Germany on Arbeitnow",
+      "tags": [
+        "Firebase",
+        "Agile",
+        "Scrum",
+        "GitHub",
+        "TypeScript",
+        "NextJS",
+        "REST",
+        "Serverless",
+        "GCP",
+        "BigQuery",
+        "Figma"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T08:30:10.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-founding-engineer-fullstack-munchen-19035",
       "title": "Founding Engineer - Fullstack (m/w/d)",
@@ -14,6 +52,20 @@
       "salary": null,
       "postedAt": "2026-08-22T05:09:16.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-151365",
+      "title": "Fullstack Engineer",
+      "company": "Dispatch",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
+      "description": "About Us The financial advisory industry is a $80T market in the US, but has seen little technological innovation compared to the self-service market (Robinhood, Betterment, Wealthfront, SoFi). Client data management is a universally painful and expensive problem for financial advisors. Today, advis",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T04:08:35+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-151348",
@@ -28,20 +80,6 @@
       "salary": null,
       "postedAt": "2026-08-21T17:04:27+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-analytics-engineer-london-195310",
-      "title": "Analytics Engineer",
-      "company": "Swap",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-195310",
-      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T12:40:20.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1137043",
@@ -196,22 +234,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-17T08:41:44+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136793",
-      "title": "Current openings",
-      "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
-      "location": "Wideopen, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
-      "description": "403 / Security checkBefore you continue, please verify your request.We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.Verification successful. Waiting for wellfound.com to respondEnable JavaScript and coo",
-      "tags": [
-        "infosec",
-        "customer support",
-        "javascript"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-15T00:12:49+00:00",
       "source": "RemoteOK"
     },
     {
