@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T01:01:18.591Z",
-  "total": 15,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-23T06:32:09.360Z",
+  "total": 14,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "jobicy-151415",
@@ -30,20 +30,6 @@
       "salary": null,
       "postedAt": "2026-08-22T16:35:06+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-145527",
-      "title": "Junior Softwareentwickler Backend  / Cobol  Settlement Dev & Delivery (m/w/d)",
-      "company": "Objectway",
-      "location": "EBERSBERG",
-      "url": "https://www.arbeitnow.com/jobs/companies/objectway/junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-145527",
-      "description": "Aufbauend auf mehr als 30 Jahren Geschäftserfahrung ist Objectway ein internationaler Anbieter von Software für Vermögensverwaltung, Bankwesen und Asset Management, der seine Kunden in die Lage versetzt, sich den Herausforderungen der Zukunft zu stellen und gleichzeitig heute hervorragende Leistunge",
-      "tags": [
-        "SW Development & Delivery"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T14:04:44.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "arbeitnow-backend-software-engineer-new-bets-london-388425",
