@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-23T06:32:09.360Z",
-  "total": 14,
+  "updatedAt": "2026-08-23T12:29:14.011Z",
+  "total": 13,
   "newSinceLastRun": 0,
   "jobs": [
     {
@@ -30,20 +30,6 @@
       "salary": null,
       "postedAt": "2026-08-22T16:35:06+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-backend-software-engineer-new-bets-london-388425",
-      "title": "Backend Software Engineer - New Bets",
-      "company": "Heidi",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heidi/backend-software-engineer-new-bets-london-388425",
-      "description": "Who is Heidi?Heidi is building an AI Care Partner that supports clinicians every step of the way, from documentation to delivery of care.We exist to double healthcare’s capacity while keeping care deeply human. In the last 18 months, Heidi has returned more than 18 million hours to clinicians and su",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T09:40:12.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-151365",
