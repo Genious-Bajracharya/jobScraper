@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-22T18:21:12.483Z",
+  "updatedAt": "2026-08-23T01:01:18.591Z",
   "total": 15,
   "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "jobicy-151415",
+      "title": "Full Stack Engineer",
+      "company": "Roboflow",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
+      "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T18:42:05+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-149527",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical Ltd.",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T16:35:06+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-145527",
       "title": "Junior Softwareentwickler Backend  / Cobol  Settlement Dev & Delivery (m/w/d)",
@@ -32,30 +60,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-engineer-berlin-442767",
-      "title": "Fullstack Engineer (m/f/d)",
-      "company": "Visiolab",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/visiolab/fullstack-engineer-berlin-442767",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-      "tags": [
-        "Firebase",
-        "Agile",
-        "Scrum",
-        "GitHub",
-        "TypeScript",
-        "NextJS",
-        "REST",
-        "Serverless",
-        "GCP",
-        "BigQuery",
-        "Figma"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T08:30:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-151365",
       "title": "Fullstack Engineer",
       "company": "Dispatch",
@@ -68,6 +72,37 @@
       "salary": null,
       "postedAt": "2026-08-22T04:08:35+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1137062",
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "description": "Desarrollador/a Full Stack â Python / Angular / GoEn Rekluti, consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.Buscamos un perfil con sÃ³lid",
+      "tags": [
+        "full stack",
+        "front end",
+        "python",
+        "dev",
+        "testing",
+        "web dev",
+        "quality assurance",
+        "devops",
+        "c",
+        "cloud",
+        "nosql",
+        "git",
+        "flutter",
+        "angular",
+        "mobile",
+        "golang",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-22T00:00:12+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-151348",
@@ -144,34 +179,6 @@
       "salary": null,
       "postedAt": "2026-08-21T03:35:47+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-151249",
-      "title": "Engineering Manager (Frontend)",
-      "company": "ClickUp",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151249-engineering-manager-frontend",
-      "description": "At ClickUp, we're building the future of work: the first truly converged AI workspace unifying tasks, docs, chat, calendar, and enterprise search, all supercharged by context-driven AI. We are an AI-native company. Every team member is expected to leverage AI daily, and we evaluate AI fluency as par",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-20T19:44:38+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151168",
-      "title": "Fullstack Engineer",
-      "company": "Monks",
-      "location": "LATAM,  Brazil",
-      "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
-      "description": "Please note that we will never request payment or bank account information at any stage of the recruitment process. As we continue to grow our teams, we urge you to be cautious of fraudulent job postings or recruitment activities that misuse our company name and information. Please protect your pers",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-19T19:31:00+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1136976",
