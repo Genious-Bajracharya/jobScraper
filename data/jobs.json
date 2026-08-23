@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-23T12:29:14.011Z",
-  "total": 13,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-08-23T18:20:59.652Z",
+  "total": 14,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-graduate-software-engineer-london-368153",
+      "title": "Graduate Software Engineer",
+      "company": "Optiverus",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be th",
+      "tags": [
+        "Software"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-23T12:55:18.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-151415",
       "title": "Full Stack Engineer",
