@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-24T06:46:06.421Z",
-  "total": 16,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-24T12:38:31.261Z",
+  "total": 17,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-entwickler-go-typescript-stuttgart-141609",
+      "title": "Fullstack-Entwickler Go + TypeScript (w/m/d)",
+      "company": "New Monday GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/fullstack-entwickler-go-typescript-stuttgart-141609",
+      "description": "Stuttgart (hybrid: 3 Tage vor Ort, 2 Tage remote) · Freelance · Softwareentwicklung\nFullstack-Entwickler Go + TypeScript (w/m/d), Freelance, Vollzeit (5 Tage pro Woche), ab sofort. Laufzeit: 60 Projekttage (ca. 3 Monate). Einsatzort: Stuttgart, davon 3 Tage pro Woche vor Ort und 2 Tage remote.\nFür e",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-24T09:00:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-java-softwareentwickler-backend-microservices-munster-286032",
+      "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "location": "Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-softwareentwickler-backend-microservices-munster-286032",
+      "description": "Als Java Entwickler:in gestaltest Du von der technischen Konzeption, bis hin zur erfolgreichen Implementierung, die Softwareentwicklungsprojekte unserer Kunden. Dabei bringst Du Dein technisches Know-how in modernen Java-Architekturen und Frameworks ein und arbeitest eng mit Projektmanager:innen, Bu",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-24T07:01:49.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-223841",
       "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
@@ -16,28 +44,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-24T05:30:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-ai-native-software-entwickler-108394",
-      "title": "AI-Native Software Entwickler (m/w/d)",
-      "company": "JUNE GmbH",
-      "location": "München + Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
-      "description": "HERAUSFORDERUNG UND PERSPEKTIVEBei uns lernst du Agentic Coding dort, wo es bereits täglich eingesetzt wird!Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft au",
-      "tags": [
-        "ai",
-        "ki",
-        "agentic",
-        "claude",
-        "codex",
-        "backend",
-        ".net",
-        "python",
-        "agent"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-23T23:30:14.000Z",
       "source": "Arbeitnow"
     },
     {
