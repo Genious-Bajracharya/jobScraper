@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-08-24T00:58:54.721Z",
+  "updatedAt": "2026-08-24T06:46:06.421Z",
   "total": 16,
-  "newSinceLastRun": 2,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-223841",
+      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
+      "company": "Ineratec Gmbh 1",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-223841",
+      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
+      "tags": [
+        "Process Engineer",
+        "Plant Engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-24T05:30:04.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-ai-native-software-entwickler-108394",
       "title": "AI-Native Software Entwickler (m/w/d)",
@@ -23,29 +38,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-23T23:30:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-head-of-engineering-at-e-mobility-startup-munchen-436987",
-      "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
-      "company": "Aampere",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-436987",
-      "description": "About AampereYou'll be our first Head of Engineering - the most senior technical hire at Aampere and the person who turns our product vision into a shipped, scalable reality. You report directly to our CPO &amp; Co-Founder, Max: he sets the long-term direction, you own how we get there operationally",
-      "tags": [
-        "Head of",
-        "Engineering",
-        "Software",
-        "Founding Engineer",
-        "Startup",
-        "Scaleup",
-        "Mobility",
-        "Typescript",
-        "Nest.js",
-        "Node.js"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-23T17:09:05.000Z",
       "source": "Arbeitnow"
     },
     {
