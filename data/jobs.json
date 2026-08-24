@@ -1,49 +1,53 @@
 {
-  "updatedAt": "2026-08-24T12:38:31.261Z",
+  "updatedAt": "2026-08-24T18:32:28.219Z",
   "total": 17,
-  "newSinceLastRun": 2,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-entwickler-go-typescript-stuttgart-141609",
-      "title": "Fullstack-Entwickler Go + TypeScript (w/m/d)",
-      "company": "New Monday GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/fullstack-entwickler-go-typescript-stuttgart-141609",
-      "description": "Stuttgart (hybrid: 3 Tage vor Ort, 2 Tage remote) · Freelance · Softwareentwicklung\nFullstack-Entwickler Go + TypeScript (w/m/d), Freelance, Vollzeit (5 Tage pro Woche), ab sofort. Laufzeit: 60 Projekttage (ca. 3 Monate). Einsatzort: Stuttgart, davon 3 Tage pro Woche vor Ort und 2 Tage remote.\nFür e",
+      "id": "arbeitnow-ai-native-fullstack-entwicklerin-hamburg-273379",
+      "title": "AI Native Fullstack Entwickler:in (M/W/D) - Tegtmeier Internet Solutions GmbH",
+      "company": "SinnKontor",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/sinnkontor/ai-native-fullstack-entwicklerin-hamburg-273379",
+      "description": "Im Auftrag unseres Mandanten Tegtmeier Internet Solutions GmbH suchen wir – Sinnkontor – eine:n AI Native Fullstack Entwickler:in (M/W/D).\nWarum wir?\nTegtmeier Internet Solutions: Qualität &#x26; Leidenschaft. Seit über 20 Jahren liefern wir zuverlässige Softwarelösungen – anything but ordinary.\nBei",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-24T09:00:28.000Z",
+      "postedAt": "2026-08-24T15:47:26.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-java-softwareentwickler-backend-microservices-munster-286032",
-      "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-softwareentwickler-backend-microservices-munster-286032",
-      "description": "Als Java Entwickler:in gestaltest Du von der technischen Konzeption, bis hin zur erfolgreichen Implementierung, die Softwareentwicklungsprojekte unserer Kunden. Dabei bringst Du Dein technisches Know-how in modernen Java-Architekturen und Frameworks ein und arbeitest eng mit Projektmanager:innen, Bu",
+      "id": "arbeitnow-fullstack-shopify-developer-osnabruck-471541",
+      "title": "Fullstack Shopify Developer (w/m/d)",
+      "company": "Hob by Horse GmbH",
+      "location": "Osnabrück",
+      "url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/fullstack-shopify-developer-osnabruck-471541",
+      "description": "Komm zum Glück nach Osnabrück. Bei uns ist Work-Life-Balance nicht bloß eine Phrase. Wir freuen uns auf deine Bewerbung.\nAufgaben\nDeine Aufgaben\n\nShopify-Themes entwickeln/anpassen (Liquid, HTML/CSS/JS)\nResponsive Design, Performance-Optimierung\nEntwicklung Interaktiver Elemente mit React/Vue oder A",
       "tags": [
-        "Software Development"
+        "IT"
       ],
       "salary": null,
-      "postedAt": "2026-08-24T07:01:49.000Z",
+      "postedAt": "2026-08-24T12:46:01.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-223841",
-      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
-      "company": "Ineratec Gmbh 1",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-223841",
-      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
+      "id": "arbeitnow-it-system-engineer-berlin-office-106578",
+      "title": "IT System Engineer (m/w/x)",
+      "company": "Rex",
+      "location": "Berlin (Office)",
+      "url": "https://www.arbeitnow.com/jobs/companies/rex/it-system-engineer-berlin-office-106578",
+      "description": "Tiermedizin neu gedacht - mit dir!Rex hat es sich zur Aufgabe gemacht, Tierhalter:innen dabei zu helfen, sich optimal um ihre besten Freunde kümmern zu können.Um dies zu erreichen, wollen wir die tierärztliche Versorgung von Grund auf neu gestalten, wobei wir uns zum einen auf die Zufriedenheit und ",
       "tags": [
-        "Process Engineer",
-        "Plant Engineer"
+        "IT",
+        "System Engineer",
+        "Cloud",
+        "AWS",
+        "Troubleshooting",
+        "IT Security"
       ],
       "salary": null,
-      "postedAt": "2026-08-24T05:30:04.000Z",
+      "postedAt": "2026-08-24T11:29:25.000Z",
       "source": "Arbeitnow"
     },
     {
