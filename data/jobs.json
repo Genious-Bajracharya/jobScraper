@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-08-23T18:20:59.652Z",
-  "total": 14,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-24T00:58:54.721Z",
+  "total": 16,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-ai-native-software-entwickler-108394",
+      "title": "AI-Native Software Entwickler (m/w/d)",
+      "company": "JUNE GmbH",
+      "location": "München + Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-108394",
+      "description": "HERAUSFORDERUNG UND PERSPEKTIVEBei uns lernst du Agentic Coding dort, wo es bereits täglich eingesetzt wird!Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft au",
+      "tags": [
+        "ai",
+        "ki",
+        "agentic",
+        "claude",
+        "codex",
+        "backend",
+        ".net",
+        "python",
+        "agent"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-23T23:30:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-head-of-engineering-at-e-mobility-startup-munchen-436987",
+      "title": "Head of Engineering (m/f/x) @ E-Mobility Startup",
+      "company": "Aampere",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/aampere/head-of-engineering-at-e-mobility-startup-munchen-436987",
+      "description": "About AampereYou'll be our first Head of Engineering - the most senior technical hire at Aampere and the person who turns our product vision into a shipped, scalable reality. You report directly to our CPO &amp; Co-Founder, Max: he sets the long-term direction, you own how we get there operationally",
+      "tags": [
+        "Head of",
+        "Engineering",
+        "Software",
+        "Founding Engineer",
+        "Startup",
+        "Scaleup",
+        "Mobility",
+        "Typescript",
+        "Nest.js",
+        "Node.js"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-23T17:09:05.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-graduate-software-engineer-london-368153",
       "title": "Graduate Software Engineer",
