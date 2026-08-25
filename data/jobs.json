@@ -1,28 +1,52 @@
 {
-  "updatedAt": "2026-08-25T06:37:32.941Z",
+  "updatedAt": "2026-08-25T12:37:44.910Z",
   "total": 17,
   "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-berlin-413725",
-      "title": "Backend Engineer (m/f/x)",
-      "company": "Travelcircus",
+      "id": "arbeitnow-trainee-frontend-development-berlin-398719",
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/backend-engineer-berlin-413725",
-      "description": "IntroDo you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place!Start your career with us as:Backend Engineer (m/f/x)  Your responsibilitiesTravelcircus is seeking an experienced (4+ years) Backend Engineer (m/f",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-398719",
+      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
       "tags": [
-        "Backend Engineer",
-        "PHP Developer",
-        "PHP Entwickler",
-        "PHP Backend Engineer",
-        "Backend Entwickler",
-        "Backend Developer",
-        "OOP",
-        "C++",
-        "AI"
+        "Frontend Developer",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Vue",
+        "Nuxt3",
+        "KI",
+        "Coding",
+        "Trainee",
+        "JOIN"
       ],
       "salary": null,
-      "postedAt": "2026-08-25T02:09:57.000Z",
+      "postedAt": "2026-08-25T08:29:55.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-java-python-microservices-brunswick-germany-269092",
+      "title": "Backend Developer (Java & Python, Microservices)",
+      "company": "OKAPI:Orbits GmbH",
+      "location": "Brunswick (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-269092",
+      "description": "Your missionYour mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellit",
+      "tags": [
+        "Backend Developer",
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Microservices",
+        "Asynchronous Systems",
+        "Distributed Systems",
+        "Kubernetes",
+        "DevOps",
+        "Space"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-25T08:09:06.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -107,20 +131,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-22T18:42:05+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-149527",
-      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-      "company": "Canonical",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-      "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T16:35:06+00:00",
       "source": "Jobicy"
     },
     {
