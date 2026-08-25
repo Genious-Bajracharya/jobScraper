@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-08-25T00:58:30.025Z",
+  "updatedAt": "2026-08-25T06:37:32.941Z",
   "total": 17,
-  "newSinceLastRun": 6,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-berlin-413725",
+      "title": "Backend Engineer (m/f/x)",
+      "company": "Travelcircus",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/backend-engineer-berlin-413725",
+      "description": "IntroDo you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place!Start your career with us as:Backend Engineer (m/f/x)  Your responsibilitiesTravelcircus is seeking an experienced (4+ years) Backend Engineer (m/f",
+      "tags": [
+        "Backend Engineer",
+        "PHP Developer",
+        "PHP Entwickler",
+        "PHP Backend Engineer",
+        "Backend Entwickler",
+        "Backend Developer",
+        "OOP",
+        "C++",
+        "AI"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-25T02:09:57.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-151496",
       "title": "Full Stack Web Engineer (Python & React)",
@@ -44,29 +66,6 @@
       "salary": null,
       "postedAt": "2026-08-24T17:35:06+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-head-of-engineering-munchen-104347",
-      "title": "Head of Engineering",
-      "company": "deeploi - This is IT",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-104347",
-      "description": "Your missionWe’re looking for a Head of Engineering to take full ownership of our technology and lead a small, senior engineering team. You set the technical direction, keep the quality bar high, and make sure we keep shipping, as a close sparring partner to our founders and product leadership. You ",
-      "tags": [
-        "Leadership",
-        "ownership",
-        "TypeScript",
-        "Node.js",
-        "React",
-        "Python",
-        "PostgreSQL",
-        "API",
-        "AWS",
-        "AI Agents"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-24T17:10:25.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-151461",
@@ -113,7 +112,7 @@
     {
       "id": "jobicy-149527",
       "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-      "company": "Canonical Ltd.",
+      "company": "Canonical",
       "location": "Anywhere",
       "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
       "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
@@ -187,6 +186,26 @@
       ],
       "salary": null,
       "postedAt": "2026-08-21T14:53:06+00:00",
+      "source": "RemoteOK"
+    },
+    {
+      "id": "remoteok-1137113",
+      "title": "AUS Dr Martens Sales Assistant Expression of Interest",
+      "company": "Dr. Martens Australia / New Zealand",
+      "location": "Canberra, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113",
+      "description": "Established in 1901, Dr. Martens was recognized originally as a sturdy, durable work boot before being transformed in the 1960's, into an iconic fashion statement, synonymous with festival culture. The past six decades that have witnessed the brand's adoption by a diverse range of tribes, celebritie",
+      "tags": [
+        "virtual assistant",
+        "education",
+        "customer support",
+        "exec",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-21T10:33:35+00:00",
       "source": "RemoteOK"
     },
     {
@@ -288,32 +307,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-17T18:21:49+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136970",
-      "title": "Sales Team Member Cotton On Ballina Fair",
-      "company": "Cotton On Group",
-      "location": "Ballina, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-team-member-cotton-on-ballina-fair-cotton-on-group-1136970",
-      "description": "Job DescriptionDo you speak fashion? We're hiring! Letâs Chat!Born in Australia, loved around the world.â¯At Cotton On, we know good style goes well beyond what's in your wardrobe. Weâre here to inspire, spark joy and bolster self-expression and creativity. We want our community to feel seen, h",
-      "tags": [
-        "customer support",
-        "dev",
-        "finance",
-        "admin",
-        "exec",
-        "ops",
-        "medical",
-        "digital nomad",
-        "marketing",
-        "travel",
-        "speech",
-        "recruiter",
-        "sales"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-17T08:41:44+00:00",
       "source": "RemoteOK"
     },
     {
