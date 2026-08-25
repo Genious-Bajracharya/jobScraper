@@ -1,68 +1,100 @@
 {
-  "updatedAt": "2026-08-24T18:32:28.219Z",
+  "updatedAt": "2026-08-25T00:58:30.025Z",
   "total": 17,
-  "newSinceLastRun": 3,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-ai-native-fullstack-entwicklerin-hamburg-273379",
-      "title": "AI Native Fullstack Entwickler:in (M/W/D) - Tegtmeier Internet Solutions GmbH",
-      "company": "SinnKontor",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/sinnkontor/ai-native-fullstack-entwicklerin-hamburg-273379",
-      "description": "Im Auftrag unseres Mandanten Tegtmeier Internet Solutions GmbH suchen wir – Sinnkontor – eine:n AI Native Fullstack Entwickler:in (M/W/D).\nWarum wir?\nTegtmeier Internet Solutions: Qualität &#x26; Leidenschaft. Seit über 20 Jahren liefern wir zuverlässige Softwarelösungen – anything but ordinary.\nBei",
+      "id": "jobicy-151496",
+      "title": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
       "tags": [
-        "Software Development"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-24T15:47:26.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-24T17:36:32+00:00",
+      "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-fullstack-shopify-developer-osnabruck-471541",
-      "title": "Fullstack Shopify Developer (w/m/d)",
-      "company": "Hob by Horse GmbH",
-      "location": "Osnabrück",
-      "url": "https://www.arbeitnow.com/jobs/companies/hob-by-horse-gmbh/fullstack-shopify-developer-osnabruck-471541",
-      "description": "Komm zum Glück nach Osnabrück. Bei uns ist Work-Life-Balance nicht bloß eine Phrase. Wir freuen uns auf deine Bewerbung.\nAufgaben\nDeine Aufgaben\n\nShopify-Themes entwickeln/anpassen (Liquid, HTML/CSS/JS)\nResponsive Design, Performance-Optimierung\nEntwicklung Interaktiver Elemente mit React/Vue oder A",
+      "id": "jobicy-151493",
+      "title": "Full Stack Engineer (Vue + Nest)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
       "tags": [
-        "IT"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-24T12:46:01.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-24T17:35:40+00:00",
+      "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-it-system-engineer-berlin-office-106578",
-      "title": "IT System Engineer (m/w/x)",
-      "company": "Rex",
-      "location": "Berlin (Office)",
-      "url": "https://www.arbeitnow.com/jobs/companies/rex/it-system-engineer-berlin-office-106578",
-      "description": "Tiermedizin neu gedacht - mit dir!Rex hat es sich zur Aufgabe gemacht, Tierhalter:innen dabei zu helfen, sich optimal um ihre besten Freunde kümmern zu können.Um dies zu erreichen, wollen wir die tierärztliche Versorgung von Grund auf neu gestalten, wobei wir uns zum einen auf die Zufriedenheit und ",
+      "id": "jobicy-151491",
+      "title": "Full Stack (Vue + Nest)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/151491-full-stack-vue-nest",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
       "tags": [
-        "IT",
-        "System Engineer",
-        "Cloud",
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-24T17:35:06+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-head-of-engineering-munchen-104347",
+      "title": "Head of Engineering",
+      "company": "deeploi - This is IT",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-104347",
+      "description": "Your missionWe’re looking for a Head of Engineering to take full ownership of our technology and lead a small, senior engineering team. You set the technical direction, keep the quality bar high, and make sure we keep shipping, as a close sparring partner to our founders and product leadership. You ",
+      "tags": [
+        "Leadership",
+        "ownership",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Python",
+        "PostgreSQL",
+        "API",
         "AWS",
-        "Troubleshooting",
-        "IT Security"
+        "AI Agents"
       ],
       "salary": null,
-      "postedAt": "2026-08-24T11:29:25.000Z",
+      "postedAt": "2026-08-24T17:10:25.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-graduate-software-engineer-london-368153",
-      "title": "Graduate Software Engineer",
-      "company": "Optiverus",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-368153",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be th",
+      "id": "jobicy-151461",
+      "title": "Product Engineer (Full Stack)",
+      "company": "Maze",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
+      "description": "Summary of the Role: As Product Engineer (Full Stack) at Maze, you'll be the technical force behind our customer-facing product experience, owning the complete stack from UI to API while moving at startup velocity. This is a unique opportunity to join as one of the early engineering team members of ",
       "tags": [
-        "Software"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-23T12:55:18.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-24T16:27:28+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-151458",
+      "title": "Backend Engineer (AI Agents)",
+      "company": "Maze",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151458-backend-engineer-ai-agents",
+      "description": "Summary of the Role: As an Engineer at Maze, you'll play a pivotal role in shaping our product, with significant focus on the development of AI Agents and ML systems. You will have the unique opportunity to design, build, and scale a product from the ground up, influencing everything from architectu",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-24T16:26:36+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-151415",
@@ -90,20 +122,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-22T16:35:06+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151365",
-      "title": "Fullstack Engineer",
-      "company": "Dispatch",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
-      "description": "About Us The financial advisory industry is a $80T market in the US, but has seen little technological innovation compared to the self-service market (Robinhood, Betterment, Wealthfront, SoFi). Client data management is a universally painful and expensive problem for financial advisors. Today, advis",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T04:08:35+00:00",
       "source": "Jobicy"
     },
     {
@@ -136,20 +154,6 @@
       "salary": null,
       "postedAt": "2026-08-22T00:00:12+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-151348",
-      "title": "Backend Engineer, Flag Delivery",
-      "company": "LaunchDarkly",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151348-backend-engineer-flag-delivery",
-      "description": "About the Job: LaunchDarkly is hiring a Backend Software Engineer to join our Flag Delivery team. Serving data to our customers is the core of our product and we’re expanding the team to add bandwidth and energy. The team is very senior, and this role is for someone eager to learn and grow as the&he",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T17:04:27+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137069",
