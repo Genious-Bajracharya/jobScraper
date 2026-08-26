@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-08-26T06:39:19.885Z",
-  "total": 16,
+  "updatedAt": "2026-08-26T12:40:47.658Z",
+  "total": 13,
   "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-remote-software-engineer-backend-data-layer-361726",
+      "id": "arbeitnow-backend-developer-ai-engineer-cologne-58190",
+      "title": "Backend Developer / AI Engineer (m/w/d)",
+      "company": "AB-Jobs",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/ab-jobs/backend-developer-ai-engineer-cologne-58190",
+      "description": "Entdecke spannende Web &#x26; AI Perspektiven bei i-gelb!\nFür Kunden aus dem Non-Profit-Bereich entwickeln wir\nlängst nicht nur Websites: Im Kern steht ai-gelb, unsere KI-Plattform.\nAuf ihr entstehen Enterprise-AI-Lösungen für\nOrganisationen mit gesellschaftlicher Verantwortung – von KI-Assistenten\n",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-26T09:30:34.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-software-engineer-backend-data-layer-315999",
       "title": "Software Engineer, Backend - Data Layer",
       "company": "Camunda",
       "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-data-layer-361726",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-data-layer-315999",
       "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need ",
       "tags": [
         "Products"
       ],
       "salary": null,
-      "postedAt": "2026-08-26T02:40:18.000Z",
+      "postedAt": "2026-08-26T03:40:24.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -58,48 +72,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-24T17:35:40+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151491",
-      "title": "Full Stack (Vue + Nest)",
-      "company": "Oowlish Technology",
-      "location": "Argentina,  Brazil,  Mexico",
-      "url": "https://jobicy.com/jobs/151491-full-stack-vue-nest",
-      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-24T17:35:06+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151461",
-      "title": "Product Engineer (Full Stack)",
-      "company": "Maze",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
-      "description": "Summary of the Role: As Product Engineer (Full Stack) at Maze, you'll be the technical force behind our customer-facing product experience, owning the complete stack from UI to API while moving at startup velocity. This is a unique opportunity to join as one of the early engineering team members of ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-24T16:27:28+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151458",
-      "title": "Backend Engineer (AI Agents)",
-      "company": "Maze",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151458-backend-engineer-ai-agents",
-      "description": "Summary of the Role: As an Engineer at Maze, you'll play a pivotal role in shaping our product, with significant focus on the development of AI Agents and ML systems. You will have the unique opportunity to design, build, and scale a product from the ground up, influencing everything from architectu",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-24T16:26:36+00:00",
       "source": "Jobicy"
     },
     {
@@ -270,22 +242,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-18T08:41:02+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136944",
-      "title": "Expression of Interest with First Quantum",
-      "company": "First Quantum Minerals",
-      "location": "Perth, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
-      "description": "At First Quantum, we free the talent of our people by taking a very different approach which is underpinned by a very different, very definite culture â the âFirst Quantum Wayâ.Working with us is not like working anywhere else, which is why we recruit people who will take a bolder, smarter app",
-      "tags": [
-        "recruiter",
-        "ops",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-17T18:21:49+00:00",
       "source": "RemoteOK"
     },
     {
