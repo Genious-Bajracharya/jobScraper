@@ -1,8 +1,37 @@
 {
-  "updatedAt": "2026-08-26T01:00:10.310Z",
-  "total": 14,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-08-26T06:39:19.885Z",
+  "total": 16,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-software-engineer-backend-data-layer-361726",
+      "title": "Software Engineer, Backend - Data Layer",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-data-layer-361726",
+      "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need ",
+      "tags": [
+        "Products"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-26T02:40:18.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-mobile-london-manchester-71587",
+      "title": "Engineering Manager - Mobile (f/m/d)",
+      "company": "Awin",
+      "location": "London; Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/awin/engineering-manager-mobile-london-manchester-71587",
+      "description": "&lt;p&gt;&lt;strong&gt;Purpose of Position&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for an Engineering Manager to lead Team Pegasus, responsible for the Awin Mobile App and its backend platform. Pegasus is part of the Publisher Tribe that builds the experiences publishers rely on every day: ",
+      "tags": [
+        "Product",
+        "Research & Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-26T00:55:09.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-151496",
       "title": "Full Stack Web Engineer (Python & React)",
