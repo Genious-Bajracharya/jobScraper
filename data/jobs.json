@@ -1,22 +1,8 @@
 {
-  "updatedAt": "2026-08-25T18:32:37.704Z",
-  "total": 16,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-26T01:00:10.310Z",
+  "total": 14,
+  "newSinceLastRun": 0,
   "jobs": [
-    {
-      "id": "arbeitnow-bereichsleiter-unternehmensorganisation-im-bankensektor-pasewalk-96595",
-      "title": "Bereichsleiter Unternehmensorganisation (m/w/d) im Bankensektor",
-      "company": "Jan Pethe Interim Management & Consulting GmbH - JPIMC®",
-      "location": "Pasewalk",
-      "url": "https://www.arbeitnow.com/jobs/companies/jan-pethe-interim-management-consulting-gmbh-jpimc/bereichsleiter-unternehmensorganisation-im-bankensektor-pasewalk-96595",
-      "description": "Für unseren Mandanten, einem regionalen, renommierten Bankhaus in Vorpommern, suchen wir eine/n Bereichsleiter Unternehmensorganisation (m/w/d) in unbefristeter Festanstellung.\nAufgaben\n\nGesamtverantwortung für die Weiterentwicklung und strategische Steuerung des Bereichs Unternehmensorganisation mi",
-      "tags": [
-        "Process Management"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-25T12:30:44.000Z",
-      "source": "Arbeitnow"
-    },
     {
       "id": "jobicy-151496",
       "title": "Full Stack Web Engineer (Python & React)",
@@ -85,20 +71,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-24T16:26:36+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151415",
-      "title": "Full Stack Engineer",
-      "company": "Roboflow",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
-      "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T18:42:05+00:00",
       "source": "Jobicy"
     },
     {
