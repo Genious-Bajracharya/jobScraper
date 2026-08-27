@@ -1,48 +1,150 @@
 {
-  "updatedAt": "2026-08-27T06:53:30.092Z",
-  "total": 10,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-27T21:38:00.635Z",
+  "total": 15,
+  "newSinceLastRun": 7,
   "jobs": [
     {
-      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-rostock-130597",
-      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
-      "company": "KULT | OLYMP & HADES",
-      "location": "Rostock, Mecklenburg-Vorpommern, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-rostock-130597",
-      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-08-27T05:30:30.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-python-backend-engineer-berlin-109807",
-      "title": "Python Backend Engineer (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-109807",
-      "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustaina",
+      "id": "arbeitnow-remote-lead-entwickler-java-backend-nurnberg-414025",
+      "title": "Lead-Entwickler Java Backend (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-lead-entwickler-java-backend-nurnberg-414025",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden ",
       "tags": [
-        "Engineering",
+        "Customer Cluster Social Security",
         "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-08-27T02:30:25.000Z",
+      "postedAt": "2026-08-27T17:30:31.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-api-integrationen-connectoren-worker-jobs-mailer-service-qa-germany-308464",
-      "title": "Backend Engineer – API Integrationen, Connectoren, Worker/Jobs, Mailer Service, QA",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/backend-engineer-api-integrationen-connectoren-worker-jobs-mailer-service-qa-germany-308464",
-      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend Engineer – API Integrationen, Connectoren, Worker/Jobs, Mailer Service, QA based in Germany.\nThis role is an opportunity to build robust backend systems and inte",
+      "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-22829",
+      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+      "company": "Meierhofer",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-22829",
+      "description": "Unsere StandorteBerlin, Hannover, Leipzig, München, Passau oder remote / im Homeoffice – die Tätigkeit ist standortunabhängig möglichDein zukünftiges TeamDu willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-Lösungen für Kliniken mitwirken? Im Be",
       "tags": [
-        "IT"
+        "München",
+        "Leipzig",
+        "Hannover",
+        "Berlin",
+        "Passau",
+        "Homeoffice",
+        "remote",
+        "IT-Security",
+        "ISO27001",
+        "Cybersecurity",
+        "Software security",
+        "Secure software development",
+        "OWASP",
+        "Kryptographie",
+        "Security engineering",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Informationssicherheit",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student"
       ],
       "salary": null,
-      "postedAt": "2026-08-27T02:24:27.000Z",
+      "postedAt": "2026-08-27T17:30:10.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
+      "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
+      "company": "memodio",
+      "location": "Potsdam",
+      "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
+      "description": "memodio is a digital health application (DiGA) fighting forgetfulness and dementia 🧠 Our app is prescribed by doctors, fully reimbursed by German statutory health insurance, and recommended by leading medical associations. In a clinical trial with 140 participants, we showed that it measurably impr",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T15:30:47.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-germany-327230",
+      "title": "Backend Engineer (m/f/d)",
+      "company": "Holidaypirates",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/holidaypirates/backend-engineer-germany-327230",
+      "description": "AHOY MATE!Founded in 2011, the HolidayPirates Group has been making waves in the travel world ever since!To achieve our mission of delivering the best travel deals, we want to attract talented people from all over the world.  That’s why our pirates can work all across Europe - Germany, France, the N",
+      "tags": [
+        "backend",
+        "engineer",
+        "product",
+        "clojure",
+        "ai"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T14:30:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-151822",
+      "title": "Backend Engineer - Platform - Stacks | Ireland | Remote",
+      "company": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+      "url": "https://jobicy.com/jobs/151822-backend-engineer-platform-stacks-ireland-remote",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T10:28:29+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-151816",
+      "title": "Full Stack Software Engineer",
+      "company": "BetterHelp",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151816-full-stack-software-engineer",
+      "description": "Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all of us and make mental healthcare more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T10:20:31+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-151789",
+      "title": "Backend Engineer",
+      "company": "Dispatch",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151789-backend-engineer",
+      "description": "About Us The financial advisory industry is a $80T market in the US, but has seen little technological innovation compared to the self-service market (Robinhood, Betterment, Wealthfront, SoFi). Client data management is a universally painful and expensive problem for financial advisors. Today, advis",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T09:40:48+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-150845",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
+      "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
+      "description": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T05:35:03+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-backend-engineer-ii-cardiff-197140",
