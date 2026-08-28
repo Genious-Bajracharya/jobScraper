@@ -1,93 +1,34 @@
 {
-  "updatedAt": "2026-08-27T21:38:00.635Z",
-  "total": 15,
-  "newSinceLastRun": 7,
+  "updatedAt": "2026-08-28T08:41:26.737Z",
+  "total": 13,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-remote-lead-entwickler-java-backend-nurnberg-414025",
-      "title": "Lead-Entwickler Java Backend (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-lead-entwickler-java-backend-nurnberg-414025",
-      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden ",
+      "id": "arbeitnow-frontend-engineer-london-364630",
+      "title": "Frontend Engineer",
+      "company": "Omnea",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineer-london-364630",
+      "description": "Our MissionAt Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails, and pull in Finance, Legal, Security, and IT just to get something approved.We’ve raised $75M from Khosla ",
       "tags": [
-        "Customer Cluster Social Security",
-        "Remote"
+        "Tech"
       ],
       "salary": null,
-      "postedAt": "2026-08-27T17:30:31.000Z",
+      "postedAt": "2026-08-28T04:00:13.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-22829",
-      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
-      "company": "Meierhofer",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-22829",
-      "description": "Unsere StandorteBerlin, Hannover, Leipzig, München, Passau oder remote / im Homeoffice – die Tätigkeit ist standortunabhängig möglichDein zukünftiges TeamDu willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-Lösungen für Kliniken mitwirken? Im Be",
+      "id": "arbeitnow-fullstack-developer-e-commerce-shopify-frankfurt-250518",
+      "title": "Fullstack Developer – E-Commerce & Shopify (m/w/d)",
+      "company": "ABRIO GmbH",
+      "location": "Frankfurt, Hessen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/fullstack-developer-e-commerce-shopify-frankfurt-250518",
+      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast Erfahrung im Frontend Development und willst moderne E-Commerce-Lösungen entwickeln, die wirklich genutzt werden? Bei ABRIO baust und optimierst du performante Shopify-Frontends für anspruchsvolle D2C-, B2",
       "tags": [
-        "München",
-        "Leipzig",
-        "Hannover",
-        "Berlin",
-        "Passau",
-        "Homeoffice",
-        "remote",
-        "IT-Security",
-        "ISO27001",
-        "Cybersecurity",
-        "Software security",
-        "Secure software development",
-        "OWASP",
-        "Kryptographie",
-        "Security engineering",
-        "Informatik",
-        "Computer science",
-        "Software engineering",
-        "Informationssicherheit",
-        "Softwarentwicklung",
-        "Fullstack development",
-        ".NET",
-        "C#",
-        "Medizininformatik student",
-        "Informatik student",
-        "wirtschaftsinformatik student"
+        "Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-27T17:30:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
-      "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
-      "company": "memodio",
-      "location": "Potsdam",
-      "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
-      "description": "memodio is a digital health application (DiGA) fighting forgetfulness and dementia 🧠 Our app is prescribed by doctors, fully reimbursed by German statutory health insurance, and recommended by leading medical associations. In a clinical trial with 140 participants, we showed that it measurably impr",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T15:30:47.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-germany-327230",
-      "title": "Backend Engineer (m/f/d)",
-      "company": "Holidaypirates",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/holidaypirates/backend-engineer-germany-327230",
-      "description": "AHOY MATE!Founded in 2011, the HolidayPirates Group has been making waves in the travel world ever since!To achieve our mission of delivering the best travel deals, we want to attract talented people from all over the world.  That’s why our pirates can work all across Europe - Germany, France, the N",
-      "tags": [
-        "backend",
-        "engineer",
-        "product",
-        "clojure",
-        "ai"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T14:30:12.000Z",
+      "postedAt": "2026-08-28T02:30:39.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -133,6 +74,21 @@
       "source": "Jobicy"
     },
     {
+      "id": "remoteok-1137165",
+      "title": "Now Hiring",
+      "company": "Greater Pell City Chamber of Commerce",
+      "location": "Lincoln, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-now-hiring-greater-pell-city-chamber-of-commerce-1137165",
+      "description": "New South Express is seeking dedicated, hardworking individuals to join our team. We offer exciting career opportunities in transportation and logistics, competitive pay, comprehensive benefits, and opportunities for professional growth. If you are committed to safety, teamwork, and delivering excep",
+      "tags": [
+        "marketing",
+        "non tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-27T07:00:22+00:00",
+      "source": "RemoteOK"
+    },
+    {
       "id": "jobicy-150845",
       "title": "Full Stack Developer - Java & React (f/m/d)",
       "company": "ecosio",
@@ -145,20 +101,6 @@
       "salary": null,
       "postedAt": "2026-08-27T05:35:03+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-ii-cardiff-197140",
-      "title": "Backend Engineer II",
-      "company": "Monzoreferrals",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-ii-cardiff-197140",
-      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;📍London / UK Remote | 💰 &lt;a href=&quot;https://monzo.com/documents/engineering-progression-framework-v4-0.pdf&quot;&gt;Engineer II&lt;/a&gt; £60,000 - £80,000 + &lt;/span&gt;&lt;a href=&quot;https://monzo.com/careers/&quot;&gt;&lt;span sty",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-26T21:55:18.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1137062",
