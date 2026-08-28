@@ -1,34 +1,46 @@
 {
-  "updatedAt": "2026-08-28T08:41:26.737Z",
-  "total": 13,
+  "updatedAt": "2026-08-28T21:40:13.296Z",
+  "total": 14,
   "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-engineer-london-364630",
-      "title": "Frontend Engineer",
-      "company": "Omnea",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/omnea/frontend-engineer-london-364630",
-      "description": "Our MissionAt Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails, and pull in Finance, Legal, Security, and IT just to get something approved.We’ve raised $75M from Khosla ",
-      "tags": [
-        "Tech"
-      ],
+      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-wetzlar-300698",
+      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Wetzlar, Hessen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-wetzlar-300698",
+      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-08-28T04:00:13.000Z",
+      "postedAt": "2026-08-28T17:30:20.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-developer-e-commerce-shopify-frankfurt-250518",
-      "title": "Fullstack Developer – E-Commerce & Shopify (m/w/d)",
-      "company": "ABRIO GmbH",
-      "location": "Frankfurt, Hessen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/fullstack-developer-e-commerce-shopify-frankfurt-250518",
-      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast Erfahrung im Frontend Development und willst moderne E-Commerce-Lösungen entwickeln, die wirklich genutzt werden? Bei ABRIO baust und optimierst du performante Shopify-Frontends für anspruchsvolle D2C-, B2",
+      "id": "arbeitnow-frontend-engineer-london-434461",
+      "title": "Frontend Engineer",
+      "company": "Lightningai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/frontend-engineer-london-434461",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Who &lt;strong&gt;We Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from resea",
       "tags": [
-        "Development"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-28T02:30:39.000Z",
+      "postedAt": "2026-08-28T15:56:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-fullstack-softwareentwickler-dusseldorf-219334",
+      "title": "Fullstack-Softwareentwickler (m/w/d)",
+      "company": "Lippe Personal GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/lippe-personal-gmbh/remote-fullstack-softwareentwickler-dusseldorf-219334",
+      "description": "Wir suchen jemanden, der wirklich mitbaut.Lippe Personal ist seit 2017 auf einen Markt spezialisiert, der gerade unter Druck steht: Arztpraxen, Zahnarztpraxen, Physiotherapeuten und Apotheken in Deutschland finden kaum noch qualifiziertes Personal. Der Fachkräftemangel ist real, die Digitalisierung ",
+      "tags": [
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-28T14:30:21.000Z",
       "source": "Arbeitnow"
     },
     {
