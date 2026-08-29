@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-08-28T21:40:13.296Z",
-  "total": 14,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-08-29T05:19:44.598Z",
+  "total": 15,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-software-engineer-robotic-solutions-development-munich-402055",
+      "title": "Fullstack Software Engineer, Robotic Solutions Development",
+      "company": "intrinsicrobotics",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/intrinsicrobotics/fullstack-software-engineer-robotic-solutions-development-munich-402055",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Intrinsic is an AI robotics group at Google aiming to reimagine the potential of industrial robotics. Our team believes that advances in AI, perception and simulation will redefine what’s possible for",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-28T23:55:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-qa-engineer-uk-147650",
+      "title": "Backend QA Engineer",
+      "company": "Jobgether",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/backend-qa-engineer-uk-147650",
+      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in United Kingdom.\nTake ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical.You’l",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-28T21:05:11.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-wetzlar-300698",
       "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
@@ -27,20 +55,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-28T15:56:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-softwareentwickler-dusseldorf-219334",
-      "title": "Fullstack-Softwareentwickler (m/w/d)",
-      "company": "Lippe Personal GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/lippe-personal-gmbh/remote-fullstack-softwareentwickler-dusseldorf-219334",
-      "description": "Wir suchen jemanden, der wirklich mitbaut.Lippe Personal ist seit 2017 auf einen Markt spezialisiert, der gerade unter Druck steht: Arztpraxen, Zahnarztpraxen, Physiotherapeuten und Apotheken in Deutschland finden kaum noch qualifiziertes Personal. Der Fachkräftemangel ist real, die Digitalisierung ",
-      "tags": [
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-28T14:30:21.000Z",
       "source": "Arbeitnow"
     },
     {
