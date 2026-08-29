@@ -1,28 +1,114 @@
 {
-  "updatedAt": "2026-08-29T12:09:45.696Z",
-  "total": 15,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-08-29T20:18:52.978Z",
+  "total": 18,
+  "newSinceLastRun": 8,
   "jobs": [
     {
-      "id": "arbeitnow-remote-ai-native-software-entwickler-424302",
-      "title": "AI-Native Software Entwickler (m/w/d)",
-      "company": "JUNE GmbH",
-      "location": "München + Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-424302",
-      "description": "HERAUSFORDERUNG UND PERSPEKTIVEBei uns lernst du Agentic Coding dort, wo es bereits täglich eingesetzt wird!Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareentwicklung in Zukunft au",
+      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-332123",
+      "title": "Product Engineer - Frontend (all genders)",
+      "company": "Koppla",
+      "location": "Berlin (hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-332123",
+      "description": "In a nutshellkoppla is building the next-gen collaborative scheduling platform for construction, helping project managers keep projects on time by identifying delays and disruptions before they impact timelines.We are looking for a product-minded Frontend Engineers in Berlin that loves building actu",
       "tags": [
-        "ai",
-        "ki",
-        "agentic",
-        "claude",
-        "codex",
-        "backend",
-        ".net",
-        "python",
-        "agent"
+        "Typescript",
+        "Backend",
+        "Frontend",
+        "fullstack",
+        "Developer",
+        "Software engineer",
+        "Backend developer",
+        "Web dev",
+        "product engineer"
       ],
       "salary": null,
-      "postedAt": "2026-08-29T08:10:39.000Z",
+      "postedAt": "2026-08-29T17:29:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152039",
+      "title": "Backend Java Engineer - Kazakhstan/Russian speaker (6 months Contract)",
+      "company": "Binance",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/152039-backend-java-engineer-kazakhstan-russian-speaker-6-months-contract",
+      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T16:33:20+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152011",
+      "title": "Backend Developer (.NET/Azure)",
+      "company": "NTT DATA",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
+      "description": "Job Title: Backend Developer (.NET/Azure) Location Preference: 100% remote in LATAM working EST Time Zone Duration: 1-Year Assignment with possibility of extension Freelance Rate Range: $27-28/hr USD based on relevant experienceNTT DATA is a team of more than 139,000 diverse professionals operating ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T16:23:09+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-385121",
+      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
+      "company": "Ineratec Gmbh 1",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-385121",
+      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
+      "tags": [
+        "Process Engineer",
+        "Plant Engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T14:09:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-uk-london-298887",
+      "title": "Frontend Engineer (UK)",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-uk-london-298887",
+      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T12:40:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-head-of-ai-engineering-frankfurt-am-main-317656",
+      "title": "Head of AI Engineering (f/m/x)",
+      "company": "neoshare",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-317656",
+      "description": "Your missionOwn and evolve our AI engineering function — transforming a 15–20 person ML team from research-heavy to a high-throughput, production-grade organization. You’ll partner with the CTO on strategy, build the platform that unifies LLM access, RAG, and backend services, and ship reliable, sca",
+      "tags": [
+        "AI",
+        "machine learning"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T11:30:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-qa-engineer-germany-278857",
+      "title": "Backend QA Engineer",
+      "company": "Jobgether",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/backend-qa-engineer-germany-278857",
+      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in Germany.\nTake ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical.You’ll combi",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T11:24:55.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -40,32 +126,23 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-backend-qa-engineer-uk-147650",
-      "title": "Backend QA Engineer",
-      "company": "Jobgether",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/backend-qa-engineer-uk-147650",
-      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in United Kingdom.\nTake ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical.You’l",
+      "id": "remoteok-1137195",
+      "title": "courier",
+      "company": "FedEx",
+      "location": "Pembroke, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195",
+      "description": "To provide courteous and efficient delivery, sorting, and pick-up of packages and ensure shipment of packages by completing all necessary paperwork and checking shipments for conformance to FedEx Express features of service._x000D__x000D_Accomplishes accurate and timely pick-up, selection, inspectio",
       "tags": [
-        "IT"
+        "infosec",
+        "testing",
+        "exec",
+        "math",
+        "content writing",
+        "sales"
       ],
       "salary": null,
-      "postedAt": "2026-08-28T21:05:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-london-434461",
-      "title": "Frontend Engineer",
-      "company": "Lightningai",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/frontend-engineer-london-434461",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Who &lt;strong&gt;We Are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to take ideas from resea",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-28T15:56:03.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-28T12:17:39+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-151822",
@@ -96,20 +173,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "jobicy-151789",
-      "title": "Backend Engineer",
-      "company": "Dispatch",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151789-backend-engineer",
-      "description": "About Us The financial advisory industry is a $80T market in the US, but has seen little technological innovation compared to the self-service market (Robinhood, Betterment, Wealthfront, SoFi). Client data management is a universally painful and expensive problem for financial advisors. Today, advis",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T09:40:48+00:00",
-      "source": "Jobicy"
-    },
-    {
       "id": "remoteok-1137165",
       "title": "Now Hiring",
       "company": "Greater Pell City Chamber of Commerce",
@@ -123,20 +186,6 @@
       "salary": null,
       "postedAt": "2026-08-27T07:00:22+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-150845",
-      "title": "Full Stack Developer - Java & React (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK",
-      "url": "https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d",
-      "description": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX).",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T05:35:03+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137062",
