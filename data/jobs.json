@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-08-30T11:06:09.575Z",
+  "updatedAt": "2026-08-30T15:55:14.704Z",
   "total": 14,
-  "newSinceLastRun": 0,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-head-of-engineering-munchen-205488",
-      "title": "Head of Engineering",
-      "company": "deeploi - This is IT",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-205488",
-      "description": "Your missionWe’re looking for a Head of Engineering to take full ownership of our technology and lead a small, senior engineering team. You set the technical direction, keep the quality bar high, and make sure we keep shipping, as a close sparring partner to our founders and product leadership. You ",
+      "id": "arbeitnow-backend-developer-java-python-microservices-brunswick-germany-230528",
+      "title": "Backend Developer (Java & Python, Microservices)",
+      "company": "OKAPI:Orbits GmbH",
+      "location": "Brunswick (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-230528",
+      "description": "Your missionYour mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellit",
       "tags": [
-        "Leadership",
-        "ownership",
-        "TypeScript",
-        "Node.js",
-        "React",
+        "Backend Developer",
+        "Java",
+        "Spring Boot",
         "Python",
-        "PostgreSQL",
-        "API",
-        "AWS",
-        "AI Agents"
+        "Microservices",
+        "Asynchronous Systems",
+        "Distributed Systems",
+        "Kubernetes",
+        "DevOps",
+        "Space"
       ],
       "salary": null,
-      "postedAt": "2026-08-29T23:29:41.000Z",
+      "postedAt": "2026-08-30T11:30:22.000Z",
       "source": "Arbeitnow"
     },
     {
