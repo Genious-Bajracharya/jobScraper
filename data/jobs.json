@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-30T03:13:45.293Z",
-  "total": 18,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-08-30T11:06:09.575Z",
+  "total": 14,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-head-of-engineering-munchen-205488",
@@ -24,47 +24,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-29T23:29:41.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-it-system-engineer-berlin-office-179729",
-      "title": "IT System Engineer (m/w/x)",
-      "company": "Rex",
-      "location": "Berlin (Office)",
-      "url": "https://www.arbeitnow.com/jobs/companies/rex/it-system-engineer-berlin-office-179729",
-      "description": "Tiermedizin neu gedacht - mit dir!Rex hat es sich zur Aufgabe gemacht, Tierhalter:innen dabei zu helfen, sich optimal um ihre besten Freunde kümmern zu können.Um dies zu erreichen, wollen wir die tierärztliche Versorgung von Grund auf neu gestalten, wobei wir uns zum einen auf die Zufriedenheit und ",
-      "tags": [
-        "IT",
-        "System Engineer",
-        "Cloud",
-        "AWS",
-        "Troubleshooting",
-        "IT Security"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T20:09:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-332123",
-      "title": "Product Engineer - Frontend (all genders)",
-      "company": "Koppla",
-      "location": "Berlin (hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-332123",
-      "description": "In a nutshellkoppla is building the next-gen collaborative scheduling platform for construction, helping project managers keep projects on time by identifying delays and disruptions before they impact timelines.We are looking for a product-minded Frontend Engineers in Berlin that loves building actu",
-      "tags": [
-        "Typescript",
-        "Backend",
-        "Frontend",
-        "fullstack",
-        "Developer",
-        "Software engineer",
-        "Backend developer",
-        "Web dev",
-        "product engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T17:29:05.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -122,35 +81,6 @@
       "salary": null,
       "postedAt": "2026-08-29T16:23:09+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-385121",
-      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
-      "company": "Ineratec Gmbh 1",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-385121",
-      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
-      "tags": [
-        "Process Engineer",
-        "Plant Engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T14:09:48.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-uk-london-298887",
-      "title": "Frontend Engineer (UK)",
-      "company": "Bjak",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-uk-london-298887",
-      "description": "About BJAKThe original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name.Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its t",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T12:40:22.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-142139",
