@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-08-29T20:18:52.978Z",
+  "updatedAt": "2026-08-30T03:13:45.293Z",
   "total": 18,
-  "newSinceLastRun": 8,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-head-of-engineering-munchen-205488",
+      "title": "Head of Engineering",
+      "company": "deeploi - This is IT",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/deeploi-this-is-it/head-of-engineering-munchen-205488",
+      "description": "Your missionWe’re looking for a Head of Engineering to take full ownership of our technology and lead a small, senior engineering team. You set the technical direction, keep the quality bar high, and make sure we keep shipping, as a close sparring partner to our founders and product leadership. You ",
+      "tags": [
+        "Leadership",
+        "ownership",
+        "TypeScript",
+        "Node.js",
+        "React",
+        "Python",
+        "PostgreSQL",
+        "API",
+        "AWS",
+        "AI Agents"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T23:29:41.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-it-system-engineer-berlin-office-179729",
+      "title": "IT System Engineer (m/w/x)",
+      "company": "Rex",
+      "location": "Berlin (Office)",
+      "url": "https://www.arbeitnow.com/jobs/companies/rex/it-system-engineer-berlin-office-179729",
+      "description": "Tiermedizin neu gedacht - mit dir!Rex hat es sich zur Aufgabe gemacht, Tierhalter:innen dabei zu helfen, sich optimal um ihre besten Freunde kümmern zu können.Um dies zu erreichen, wollen wir die tierärztliche Versorgung von Grund auf neu gestalten, wobei wir uns zum einen auf die Zufriedenheit und ",
+      "tags": [
+        "IT",
+        "System Engineer",
+        "Cloud",
+        "AWS",
+        "Troubleshooting",
+        "IT Security"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T20:09:07.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-332123",
       "title": "Product Engineer - Frontend (all genders)",
@@ -24,6 +66,34 @@
       "salary": null,
       "postedAt": "2026-08-29T17:29:05.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152060",
+      "title": "Developer Relations Engineer",
+      "company": "Supabase",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152060-developer-relations-engineer-2",
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T17:27:09+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152057",
+      "title": "Multigres Engineer",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
+      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to help ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-29T17:26:24+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-152039",
@@ -83,35 +153,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-head-of-ai-engineering-frankfurt-am-main-317656",
-      "title": "Head of AI Engineering (f/m/x)",
-      "company": "neoshare",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-317656",
-      "description": "Your missionOwn and evolve our AI engineering function — transforming a 15–20 person ML team from research-heavy to a high-throughput, production-grade organization. You’ll partner with the CTO on strategy, build the platform that unifies LLM access, RAG, and backend services, and ship reliable, sca",
-      "tags": [
-        "AI",
-        "machine learning"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T11:30:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-qa-engineer-germany-278857",
-      "title": "Backend QA Engineer",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/backend-qa-engineer-germany-278857",
-      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend QA Engineer based in Germany.\nTake ownership of quality across a high-traffic, backend-focused platform where reliability and precision are critical.You’ll combi",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T11:24:55.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-142139",
       "title": "Solidity Compiler Frontend Engineer",
       "company": "CertiK",
@@ -143,34 +184,6 @@
       "salary": null,
       "postedAt": "2026-08-28T12:17:39+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-151822",
-      "title": "Backend Engineer - Platform - Stacks | Ireland | Remote",
-      "company": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-      "url": "https://jobicy.com/jobs/151822-backend-engineer-platform-stacks-ireland-remote",
-      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T10:28:29+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151816",
-      "title": "Full Stack Software Engineer",
-      "company": "BetterHelp",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151816-full-stack-software-engineer",
-      "description": "Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all of us and make mental healthcare more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T10:20:31+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137165",
