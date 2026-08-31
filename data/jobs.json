@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-31T12:29:55.192Z",
-  "total": 12,
+  "updatedAt": "2026-08-31T22:19:24.339Z",
+  "total": 11,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "jobicy-152220",
+      "title": "Full Stack Engineer (Enterprise)",
+      "company": "Roboflow",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152220-full-stack-engineer-enterprise",
+      "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-31T16:49:56+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "jobicy-152149",
       "title": "Frontend Engineer - Music",
@@ -74,20 +88,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "jobicy-142139",
-      "title": "Solidity Compiler Frontend Engineer",
-      "company": "CertiK",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer",
-      "description": "About the CompanyOne of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 4,798 clients, secured over $597 billion worth of digital assets, and has monitored over 17,000 projects. Our clients include leading pr",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T04:35:15+00:00",
-      "source": "Jobicy"
-    },
-    {
       "id": "remoteok-1137195",
       "title": "courier",
       "company": "FedEx",
@@ -150,40 +150,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-22T00:00:12+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1137069",
-      "title": "Project Systems Specialist",
-      "company": "Dart",
-      "location": "George Town, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-      "description": "JOB TITLE: PROJECT SYSTEMS SPECIALISTSALARY: CI$60,000 - CI$80,000 paWORKING HOURS: 40 HOURS PER WEEKWe are seeking a Project Systems Specialist to join our Project Operations team. The successful candidate will support project management systems, ensuring efficient information management, system pe",
-      "tags": [
-        "design",
-        "sys admin",
-        "education",
-        "customer support",
-        "testing",
-        "travel",
-        "node",
-        "microsoft",
-        "exec",
-        "ops",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "c sharp",
-        "technical",
-        "marketing",
-        "quality assurance",
-        "javascript",
-        "c",
-        "css",
-        "html"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T14:53:06+00:00",
       "source": "RemoteOK"
     },
     {
