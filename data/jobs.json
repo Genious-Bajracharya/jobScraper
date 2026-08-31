@@ -1,67 +1,21 @@
 {
-  "updatedAt": "2026-08-31T03:08:10.344Z",
-  "total": 16,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-08-31T12:29:55.192Z",
+  "total": 12,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-engineer-react-typescript-berlin-126910",
-      "title": "Frontend Engineer (React / TypeScript)",
-      "company": "Persohap GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-engineer-react-typescript-berlin-126910",
-      "description": "Persohap ist eine KI-Plattform für Recruiting, Onboarding und Weiterbildung. Bewerbungs-\ngespräche, Lernpfade und Feedbackzyklen laufen bei uns über sprechende Avatare — und alles,\nwas Nutzerinnen und Nutzer davon sehen, baust du. Du arbeitest an einem React-Frontend, das\ntäglich von HR-Teams und de",
+      "id": "jobicy-152149",
+      "title": "Frontend Engineer - Music",
+      "company": "Spotify",
+      "location": "Sweden,  UK",
+      "url": "https://jobicy.com/jobs/152149-frontend-engineer-music",
+      "description": "The Rights Systems team builds and operates Spotify Rights Center (SRC), Spotify’s rights management platform that enables the company and its partners to identify, manage, and enforce music licensing rights across creator- and artist-generated content. Comparable in scope to YouTube’s Content ID, S",
       "tags": [
-        "Development"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-08-30T22:30:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-trainee-frontend-development-berlin-476344",
-      "title": "Trainee Frontend Development (m/w/d)",
-      "company": "Brandung",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
-      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
-      "tags": [
-        "Frontend Developer",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Vue",
-        "Nuxt3",
-        "KI",
-        "Coding",
-        "Trainee",
-        "JOIN"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-30T20:09:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-developer-java-python-microservices-brunswick-germany-230528",
-      "title": "Backend Developer (Java & Python, Microservices)",
-      "company": "OKAPI:Orbits GmbH",
-      "location": "Brunswick (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/backend-developer-java-python-microservices-brunswick-germany-230528",
-      "description": "Your missionYour mission is to design and maintain a scalable, asynchronous backend that powers OKAPI:Orbits' end-to-end solutions across mission design, Space Situational Awareness (SSA), Space Traffic Management (STM), Flight Dynamics (FD), and Space Traffic Coordination (STC), supporting satellit",
-      "tags": [
-        "Backend Developer",
-        "Java",
-        "Spring Boot",
-        "Python",
-        "Microservices",
-        "Asynchronous Systems",
-        "Distributed Systems",
-        "Kubernetes",
-        "DevOps",
-        "Space"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-30T11:30:22.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-08-31T05:04:22+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-152060",
@@ -230,54 +184,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-21T14:53:06+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1137113",
-      "title": "AUS Dr Martens Sales Assistant Expression of Interest",
-      "company": "Dr. Martens Australia / New Zealand",
-      "location": "Canberra, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113",
-      "description": "Established in 1901, Dr. Martens was recognized originally as a sturdy, durable work boot before being transformed in the 1960's, into an iconic fashion statement, synonymous with festival culture. The past six decades that have witnessed the brand's adoption by a diverse range of tribes, celebritie",
-      "tags": [
-        "virtual assistant",
-        "education",
-        "customer support",
-        "exec",
-        "ops",
-        "sales",
-        "medical"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T10:33:35+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1137043",
-      "title": "Reddy Express Alice Springs Mt Gillen Customer Service Representative",
-      "company": "OTR",
-      "location": "Alice Springs, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043",
-      "description": "OTR Group comprises of over 1000 retail, convenience, and quick service restaurants â including brands such as Reddy Express (formerly known as Coles Express), Smokemart Giftbox, and in S.A, Krispy Kreme, Hungry Jacks, Oporto, Guzman and Gomez and many others. OTR Group is part of the Viva Energy ",
-      "tags": [
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "medical",
-        "recruiter",
-        "non tech",
-        "exec",
-        "infosec",
-        "education",
-        "ops",
-        "sales",
-        "golang"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-21T03:35:47+00:00",
       "source": "RemoteOK"
     },
     {
