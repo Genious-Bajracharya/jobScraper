@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-08-30T20:26:06.341Z",
-  "total": 14,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-08-31T03:08:10.344Z",
+  "total": 16,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-frontend-engineer-react-typescript-berlin-126910",
+      "title": "Frontend Engineer (React / TypeScript)",
+      "company": "Persohap GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-engineer-react-typescript-berlin-126910",
+      "description": "Persohap ist eine KI-Plattform für Recruiting, Onboarding und Weiterbildung. Bewerbungs-\ngespräche, Lernpfade und Feedbackzyklen laufen bei uns über sprechende Avatare — und alles,\nwas Nutzerinnen und Nutzer davon sehen, baust du. Du arbeitest an einem React-Frontend, das\ntäglich von HR-Teams und de",
+      "tags": [
+        "Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-30T22:30:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-trainee-frontend-development-berlin-476344",
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-476344",
+      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
+      "tags": [
+        "Frontend Developer",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Vue",
+        "Nuxt3",
+        "KI",
+        "Coding",
+        "Trainee",
+        "JOIN"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-30T20:09:05.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-developer-java-python-microservices-brunswick-germany-230528",
       "title": "Backend Developer (Java & Python, Microservices)",
