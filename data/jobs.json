@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-01T15:57:46.384Z",
-  "total": 15,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-01T20:26:06.036Z",
+  "total": 11,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-remote-java-softwareentwickler-backend-microservices-munster-41598",
@@ -49,20 +49,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-01T14:09:56.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-397872",
-      "title": "Full Stack Engineer",
-      "company": "Catonetworks",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/full-stack-engineer-london-397872",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the future of cloud networking and security!&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Cato Networks is the first company to converge enterprise networkin",
-      "tags": [
-        "Engineering - SSE"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-01T12:55:07.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -126,48 +112,6 @@
       "salary": null,
       "postedAt": "2026-08-31T00:46:13+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-152060",
-      "title": "Developer Relations Engineer",
-      "company": "Supabase",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152060-developer-relations-engineer-2",
-      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T17:27:09+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152057",
-      "title": "Multigres Engineer",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
-      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to help ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T17:26:24+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152039",
-      "title": "Backend Java Engineer - Kazakhstan/Russian speaker (6 months Contract)",
-      "company": "Binance",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/152039-backend-java-engineer-kazakhstan-russian-speaker-6-months-contract",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T16:33:20+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137195",
