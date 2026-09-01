@@ -1,22 +1,36 @@
 {
-  "updatedAt": "2026-09-01T03:13:07.185Z",
+  "updatedAt": "2026-09-01T10:58:59.092Z",
   "total": 12,
   "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-remote-python-backend-engineer-berlin-341113",
-      "title": "Python Backend Engineer (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113",
-      "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustaina",
+      "id": "arbeitnow-backend-full-stack-developer-krailling-424909",
+      "title": "Backend / Full Stack Developer (m/w/d)",
+      "company": "SOFI AI GmbH",
+      "location": "Krailling",
+      "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
+      "description": "Wir sind SOFI AI und bauen eine KI-Plattform für einen hochregulierten Markt, ohne dass unsere Kunden dafür Vertraulichkeit oder Datensouveränität aufgeben müssen. Genau diese Verbindung aus starker KI und kompromissloser Datensicherheit macht unsere Arbeit technisch anspruchsvoll und spannend.\nWir ",
       "tags": [
-        "Engineering",
-        "Remote"
+        "Remote",
+        "Web Development"
       ],
       "salary": null,
-      "postedAt": "2026-08-31T23:30:08.000Z",
+      "postedAt": "2026-09-01T07:30:24.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152300",
+      "title": "Full Stack Product Engineer Intern, Agent Native",
+      "company": "Mactores",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native",
+      "description": "About Mactores Mactores is the agent-native AWS modernization firm. Most enterprise modernization stalls at pilots and handoffs; ours ships, production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company,",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-01T05:17:12+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-152220",
@@ -140,37 +154,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-27T07:00:22+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1137062",
-      "title": "DESARROLLADOR FULL STACK",
-      "company": "Kruger NearShore LLC - Rekluti",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "description": "Desarrollador/a Full Stack â Python / Angular / GoEn Rekluti, consultora especializada en talento tecnolÃ³gico en LATAM, buscamos un/a Desarrollador/a Full Stack para integrarse a proyectos de alta complejidad y participar en el desarrollo de soluciones web escalables.Buscamos un perfil con sÃ³lid",
-      "tags": [
-        "full stack",
-        "front end",
-        "python",
-        "dev",
-        "testing",
-        "web dev",
-        "quality assurance",
-        "devops",
-        "c",
-        "cloud",
-        "nosql",
-        "git",
-        "flutter",
-        "angular",
-        "mobile",
-        "golang",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-22T00:00:12+00:00",
       "source": "RemoteOK"
     },
     {
