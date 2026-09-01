@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-08-31T22:19:24.339Z",
-  "total": 11,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-01T03:13:07.185Z",
+  "total": 12,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-python-backend-engineer-berlin-341113",
+      "title": "Python Backend Engineer (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-341113",
+      "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustaina",
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-31T23:30:08.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-152220",
       "title": "Full Stack Engineer (Enterprise)",
@@ -30,6 +45,26 @@
       "salary": null,
       "postedAt": "2026-08-31T05:04:22+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1137228",
+      "title": "Commercial Building Estimator",
+      "company": "Complex Co.",
+      "location": "Canberra, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228",
+      "description": "For more than 60 years, Complex Co. has been known for delivering award winning construction projects across the built environment.Our skillful execution of quality projects is an expression of our personal and professional commitment to connecting and enhancing communities.As our commercial buildin",
+      "tags": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel",
+        "recruiter"
+      ],
+      "salary": null,
+      "postedAt": "2026-08-31T00:46:13+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-152060",
@@ -71,20 +106,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-29T16:33:20+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152011",
-      "title": "Backend Developer (.NET/Azure)",
-      "company": "NTT DATA",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/152011-backend-developer-net-azure",
-      "description": "Job Title: Backend Developer (.NET/Azure) Location Preference: 100% remote in LATAM working EST Time Zone Duration: 1-Year Assignment with possibility of extension Freelance Rate Range: $27-28/hr USD based on relevant experienceNTT DATA is a team of more than 139,000 diverse professionals operating ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-29T16:23:09+00:00",
       "source": "Jobicy"
     },
     {
