@@ -1,21 +1,68 @@
 {
-  "updatedAt": "2026-09-01T10:58:59.092Z",
-  "total": 12,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-01T15:57:46.384Z",
+  "total": 15,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-backend-full-stack-developer-krailling-424909",
-      "title": "Backend / Full Stack Developer (m/w/d)",
-      "company": "SOFI AI GmbH",
-      "location": "Krailling",
-      "url": "https://www.arbeitnow.com/jobs/companies/sofi-ai-gmbh/backend-full-stack-developer-krailling-424909",
-      "description": "Wir sind SOFI AI und bauen eine KI-Plattform für einen hochregulierten Markt, ohne dass unsere Kunden dafür Vertraulichkeit oder Datensouveränität aufgeben müssen. Genau diese Verbindung aus starker KI und kompromissloser Datensicherheit macht unsere Arbeit technisch anspruchsvoll und spannend.\nWir ",
+      "id": "arbeitnow-remote-java-softwareentwickler-backend-microservices-munster-41598",
+      "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-softwareentwickler-backend-microservices-munster-41598",
+      "description": "Als Java Entwickler:in gestaltest Du von der technischen Konzeption, bis hin zur erfolgreichen Implementierung, die Softwareentwicklungsprojekte unserer Kunden. Dabei bringst Du Dein technisches Know-how in modernen Java-Architekturen und Frameworks ein und arbeitest eng mit Projektmanager:innen, Bu",
       "tags": [
-        "Remote",
-        "Web Development"
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-09-01T07:30:24.000Z",
+      "postedAt": "2026-09-01T14:30:32.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-lead-entwickler-java-backend-nurnberg-492640",
+      "title": "Lead-Entwickler Java Backend (m/w/d)",
+      "company": "virtual7 GmbH",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-lead-entwickler-java-backend-nurnberg-492640",
+      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden ",
+      "tags": [
+        "Customer Cluster Social Security",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-01T14:30:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-technical-project-manager-software-development-saarbrucken-121942",
+      "title": "Technical Project Manager – Software Development (m/w/d)",
+      "company": "Athereon",
+      "location": "Saarbrücken",
+      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-121942",
+      "description": "Your missionYou are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.You lead ou",
+      "tags": [
+        "Lead Developer",
+        "Engineering Lead",
+        "Software Architecture",
+        "Python",
+        "Django",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-01T14:09:56.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-397872",
+      "title": "Full Stack Engineer",
+      "company": "Catonetworks",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/catonetworks/full-stack-engineer-london-397872",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to the future of cloud networking and security!&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;Cato Networks is the first company to converge enterprise networkin",
+      "tags": [
+        "Engineering - SSE"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-01T12:55:07.000Z",
       "source": "Arbeitnow"
     },
     {
