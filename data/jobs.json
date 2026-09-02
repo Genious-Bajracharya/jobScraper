@@ -1,48 +1,32 @@
 {
-  "updatedAt": "2026-09-02T10:27:56.821Z",
-  "total": 11,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-09-02T15:50:49.968Z",
+  "total": 10,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-engineer-berlin-385834",
-      "title": "Full Stack Engineer",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-berlin-385834",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
-      "tags": [
-        "Software Development"
-      ],
+      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-plauen-333417",
+      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Plauen, Sachsen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-plauen-333417",
+      "description": "***GRAND OPENING***Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere neue Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-09-02T08:00:26.000Z",
+      "postedAt": "2026-09-02T14:30:26.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-frontend-engineer-react-berlin-316759",
-      "title": "Frontend Engineer - React",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-react-berlin-316759",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "id": "arbeitnow-frontend-software-engineer-london-96025",
+      "title": "Frontend Software Engineer",
+      "company": "toogoodtogo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/toogoodtogo/frontend-software-engineer-london-96025",
+      "description": "&lt;p&gt;At Too Good To Go, we have an ambitious goal: to inspire and empower everyone to fight food waste together.&lt;/p&gt;\n&lt;p&gt;40% of all food produced in the world is wasted. And that has a huge impact on the health of our planet, with 10% of greenhouse gas emissions coming from food waste",
       "tags": [
-        "Software Development"
+        "Tech"
       ],
       "salary": null,
-      "postedAt": "2026-09-02T08:00:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-software-engineer-core-437469",
-      "title": "Fullstack Software Engineer - Core",
-      "company": "dataiku",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestrati",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T05:55:10.000Z",
+      "postedAt": "2026-09-02T12:55:02.000Z",
       "source": "Arbeitnow"
     },
     {
