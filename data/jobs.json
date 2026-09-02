@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-09-02T15:50:49.968Z",
-  "total": 10,
+  "updatedAt": "2026-09-02T20:25:52.450Z",
+  "total": 12,
   "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-intermediate-backend-engineer-emea-147388",
+      "title": "Intermediate Backend Engineer, EMEA",
+      "company": "gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-backend-engineer-emea-147388",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-02T18:55:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-fullstack-software-engineer-core-184220",
+      "title": "Fullstack Software Engineer - Core",
+      "company": "dataiku",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestrati",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-02T15:55:30.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-plauen-333417",
       "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
