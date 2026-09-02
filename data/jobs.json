@@ -1,54 +1,20 @@
 {
-  "updatedAt": "2026-09-01T20:26:06.036Z",
-  "total": 11,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-09-02T02:31:28.957Z",
+  "total": 9,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-remote-java-softwareentwickler-backend-microservices-munster-41598",
-      "title": "Java Softwareentwickler - Backend & Microservices (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-softwareentwickler-backend-microservices-munster-41598",
-      "description": "Als Java Entwickler:in gestaltest Du von der technischen Konzeption, bis hin zur erfolgreichen Implementierung, die Softwareentwicklungsprojekte unserer Kunden. Dabei bringst Du Dein technisches Know-how in modernen Java-Architekturen und Frameworks ein und arbeitest eng mit Projektmanager:innen, Bu",
+      "id": "arbeitnow-backend-engineer-rider-hamburg-175065",
+      "title": "Backend Engineer – Rider (m/f/d)",
+      "company": "freenow",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-rider-hamburg-175065",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: Come and join us in Hamburg!&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;As of now, we are looking for a highly motivated Backend Engineer to join one of our Teams that builds the backend of the Platform.&lt;/p&gt;\n&lt;p&gt;Our teams a",
       "tags": [
-        "Remote"
+        "Tech"
       ],
       "salary": null,
-      "postedAt": "2026-09-01T14:30:32.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-lead-entwickler-java-backend-nurnberg-492640",
-      "title": "Lead-Entwickler Java Backend (m/w/d)",
-      "company": "virtual7 GmbH",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-lead-entwickler-java-backend-nurnberg-492640",
-      "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden ",
-      "tags": [
-        "Customer Cluster Social Security",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-01T14:30:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-technical-project-manager-software-development-saarbrucken-121942",
-      "title": "Technical Project Manager – Software Development (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbrücken",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-121942",
-      "description": "Your missionYou are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.You lead ou",
-      "tags": [
-        "Lead Developer",
-        "Engineering Lead",
-        "Software Architecture",
-        "Python",
-        "Django",
-        "React"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-01T14:09:56.000Z",
+      "postedAt": "2026-09-01T23:55:06.000Z",
       "source": "Arbeitnow"
     },
     {
