@@ -1,21 +1,79 @@
 {
-  "updatedAt": "2026-09-02T02:31:28.957Z",
-  "total": 9,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-02T10:27:56.821Z",
+  "total": 11,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-rider-hamburg-175065",
-      "title": "Backend Engineer – Rider (m/f/d)",
-      "company": "freenow",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/freenow/backend-engineer-rider-hamburg-175065",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: Come and join us in Hamburg!&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;As of now, we are looking for a highly motivated Backend Engineer to join one of our Teams that builds the backend of the Platform.&lt;/p&gt;\n&lt;p&gt;Our teams a",
+      "id": "arbeitnow-full-stack-engineer-berlin-385834",
+      "title": "Full Stack Engineer",
+      "company": "GlassFlow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-berlin-385834",
+      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
       "tags": [
-        "Tech"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-01T23:55:06.000Z",
+      "postedAt": "2026-09-02T08:00:26.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-react-berlin-316759",
+      "title": "Frontend Engineer - React",
+      "company": "GlassFlow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-react-berlin-316759",
+      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-02T08:00:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-fullstack-software-engineer-core-437469",
+      "title": "Fullstack Software Engineer - Core",
+      "company": "dataiku",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/dataiku/remote-fullstack-software-engineer-core-437469",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestrati",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-02T05:55:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-frontend-react-react-native-edinburgh-328067",
+      "title": "Software Engineer - Frontend (React / React Native)",
+      "company": "Fanduel",
+      "location": "Edinburgh",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-frontend-react-react-native-edinburgh-328067",
+      "description": "&lt;h3&gt;&lt;strong&gt;The Position&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We&#39;re looking for a Software Engineer (React Native / React ) to join our Sportsbook engineering team. You&#39;ll be working on foundational engineering, focusing on improving the underlying frameworks, tooling, and performa",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-02T03:55:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1137251",
+      "title": "Expression of Interest Canât see a role thatâs right for you",
+      "company": "C2 Group",
+      "location": "Greater Sydney Area, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251",
+      "description": "Expression of InterestCanât see a role thatâs right for you?Weâre always interested in hearing from talented people who would like to join our team.Click âApply Nowâ to Submit an expression of interest and attach your CV to tell us about your experience, skills and the type of work youâr",
+      "tags": [
+        "full time",
+        "infosec",
+        "education"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-01T05:48:16+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-152300",
@@ -29,34 +87,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-01T05:17:12+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152220",
-      "title": "Full Stack Engineer (Enterprise)",
-      "company": "Roboflow",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152220-full-stack-engineer-enterprise",
-      "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-31T16:49:56+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152149",
-      "title": "Frontend Engineer - Music",
-      "company": "Spotify",
-      "location": "Sweden,  UK",
-      "url": "https://jobicy.com/jobs/152149-frontend-engineer-music",
-      "description": "The Rights Systems team builds and operates Spotify Rights Center (SRC), Spotify’s rights management platform that enables the company and its partners to identify, manage, and enforce music licensing rights across creator- and artist-generated content. Comparable in scope to YouTube’s Content ID, S",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-31T05:04:22+00:00",
       "source": "Jobicy"
     },
     {
