@@ -1,48 +1,97 @@
 {
-  "updatedAt": "2026-09-03T15:40:11.245Z",
-  "total": 10,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-03T20:24:43.617Z",
+  "total": 12,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-developer-all-genders-berlin-321154",
-      "title": "Frontend Developer (all genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/frontend-developer-all-genders-berlin-321154",
-      "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity ",
+      "id": "arbeitnow-remote-software-engineer-backend-core-api-process-automation-492538",
+      "title": "Software Engineer, Backend - Core/API & Process Automation",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-492538",
+      "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI fro",
       "tags": [
-        "Private Banking"
+        "Products"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T13:30:40.000Z",
+      "postedAt": "2026-09-03T17:40:10.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-developer-c-net-all-genders-berlin-489363",
-      "title": "Backend Developer C# / .NET (all genders)",
-      "company": "Vexcash AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/backend-developer-c-net-all-genders-berlin-489363",
-      "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity ",
+      "id": "arbeitnow-full-stack-engineer-100-remote-germany-frankfurt-143976",
+      "title": "Full Stack Engineer (100% Remote Germany)",
+      "company": "Innocraft",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/full-stack-engineer-100-remote-germany-frankfurt-143976",
+      "description": "\nBuild and deliver the next generation of privacy-first analytics capabilities — from rapid prototypes and AI-powered insights to scalable product innovations embedded directly into Matomo’s core platform.\nOwn end-to-end innovation development within a small, autonomous team, working closely with th",
       "tags": [
-        "Private Banking"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T13:30:39.000Z",
+      "postedAt": "2026-09-03T17:04:24.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-ai-product-engineer-fullstack-berlin-69626",
-      "title": "AI Product Engineer (Fullstack)",
-      "company": "WePush",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wepush/ai-product-engineer-fullstack-berlin-69626",
-      "description": "We believe talent is everywhere. The chance to live from it isn't.\nMillions of creators are talented and invisible at the same time. The value they create flows to middlemen, while the brands who want to reach them are stuck in a non-transparent, fragmented market. So we built the tools to fix both ",
+      "id": "arbeitnow-uk-london-ads-full-stack-developer-london-greater-london-424247",
+      "title": "UK - London - ADS - Full Stack Developer",
+      "company": "Jobposts",
+      "location": "London, Greater London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-full-stack-developer-london-greater-london-424247",
+      "description": "&lt;p&gt;&lt;span class=&quot;author-8908051321 font-color-000000 font-size-medium&quot;&gt;Thank you for your application for a role at Alpha Financial Markets &lt;/span&gt;&lt;span class=&quot;author-17078097523 font-color-000000 font-size-medium&quot;&gt;C&lt;/span&gt;&lt;span class=&quot;author-",
       "tags": [
-        "Software Development"
+        "Aiviq"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T13:00:32.000Z",
+      "postedAt": "2026-09-03T15:55:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-in-vollzeit-berlin-lichtenberg-477092",
+      "title": "Fullstack-Entwickler/-in – Vollzeit (m/w/d)",
+      "company": "Schulze Marketing GmbH",
+      "location": "Berlin-Lichtenberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/fullstack-entwickler-in-vollzeit-berlin-lichtenberg-477092",
+      "description": "Wir suchen neue Mitarbeiter (m/w/d) im Bereich Fullstack-Entwicklung, die ihre Stärken gezielt einbringen und gemeinsam mit uns daran arbeiten, unser Unternehmen sowie die deutsche Industrie nachhaltig voranzubringen.Als Fullstack-Entwickler/-in entwickelst du digitale Anwendungen über Frontend, Bac",
+      "tags": [
+        "Information technology",
+        "high school or equivalent"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T15:20:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-developer-vuejs-munich-437071",
+      "title": "Frontend Developer Vue.js (m/w/d)",
+      "company": "hubside - Die Recruitingwerkstatt",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/frontend-developer-vuejs-munich-437071",
+      "description": "In dieser Rolle als Frontend Developer Vue.js (m/w/d) übernehmen Sie die Gestaltung und Entwicklung moderner, benutzerfreundlicher Features für den Online-Shop mit HTML5, CSS3, JavaScript sowie Vue 3 und Nuxt 3. Im agilen, cross-funktionalen Scrum-Team arbeiten Sie eng mit Backend-Entwicklung, Desig",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T14:30:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-363657",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-363657",
+      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
+      "tags": [
+        "backend",
+        "AI",
+        "LLM",
+        "product",
+        "product engineer",
+        "backend engineer",
+        "AI engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T14:10:00.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -60,20 +109,6 @@
       "salary": null,
       "postedAt": "2026-09-01T05:48:16+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-152300",
-      "title": "Full Stack Product Engineer Intern, Agent Native",
-      "company": "Mactores",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/152300-full-stack-product-engineer-intern-agent-native",
-      "description": "About Mactores Mactores is the agent-native AWS modernization firm. Most enterprise modernization stalls at pilots and handoffs; ours ships, production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company,",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-01T05:17:12+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137228",
