@@ -1,8 +1,51 @@
 {
-  "updatedAt": "2026-09-03T02:39:07.866Z",
-  "total": 15,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-03T10:39:30.292Z",
+  "total": 13,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-393109",
+      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
+      "company": "Bling",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-393109",
+      "description": "Deine Mission\nWir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an echte Ownership: viel Freiheit, kurze Wege und die Chance, ein",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T07:30:43.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-javascript-berlin-176003",
+      "title": "Full Stack Engineer - Javascript",
+      "company": "GlassFlow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003",
+      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T07:30:42.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-berlin-260448",
+      "title": "Backend Engineer",
+      "company": "GlassFlow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-berlin-260448",
+      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T07:00:40.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-ii-full-stack-web-engineering-462983",
       "title": "Software Engineer II - Full Stack - Web Engineering",
@@ -32,43 +75,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-entwickler-nestjs-angular-stuttgart-498575",
-      "title": "Fullstack Entwickler NestJS / Angular (m/w/d)",
-      "company": "Rockstardevelopers GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/fullstack-entwickler-nestjs-angular-stuttgart-498575",
-      "description": "Wer wir sind\nRockstardevelopers, gegründet 2015 in Mannheim, weitere Büros in Stuttgart und München. Wir sind ein Software-Entwickler mit Erfahrung aus hunderten von individuellen Projekten für Enterprise- und Mittelstands-Kunden.\nKurze Wege, ehrliches Feedback, keine politischen Spielchen. Keine Hi",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T20:30:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-475210",
-      "title": "Product Engineer - Frontend (all genders)",
-      "company": "Koppla",
-      "location": "Berlin (hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-475210",
-      "description": "In a nutshellkoppla is building the next-gen collaborative scheduling platform for construction, helping project managers keep projects on time by identifying delays and disruptions before they impact timelines.We are looking for a product-minded Frontend Engineers in Berlin that loves building actu",
-      "tags": [
-        "Typescript",
-        "Backend",
-        "Frontend",
-        "fullstack",
-        "Developer",
-        "Software engineer",
-        "Backend developer",
-        "Web dev",
-        "product engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T20:09:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-remote-intermediate-backend-engineer-emea-147388",
       "title": "Intermediate Backend Engineer, EMEA",
       "company": "gitlab",
@@ -80,46 +86,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-02T18:55:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-fullstack-software-engineer-core-184220",
-      "title": "Fullstack Software Engineer - Core",
-      "company": "dataiku",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestrati",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T15:55:30.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-plauen-333417",
-      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
-      "company": "KULT | OLYMP & HADES",
-      "location": "Plauen, Sachsen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-plauen-333417",
-      "description": "***GRAND OPENING***Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere neue Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-02T14:30:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-software-engineer-london-96025",
-      "title": "Frontend Software Engineer",
-      "company": "toogoodtogo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/toogoodtogo/frontend-software-engineer-london-96025",
-      "description": "&lt;p&gt;At Too Good To Go, we have an ambitious goal: to inspire and empower everyone to fight food waste together.&lt;/p&gt;\n&lt;p&gt;40% of all food produced in the world is wasted. And that has a huge impact on the health of our planet, with 10% of greenhouse gas emissions coming from food waste",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T12:55:02.000Z",
       "source": "Arbeitnow"
     },
     {
