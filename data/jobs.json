@@ -1,91 +1,48 @@
 {
-  "updatedAt": "2026-09-03T10:39:30.292Z",
-  "total": 13,
+  "updatedAt": "2026-09-03T15:40:11.245Z",
+  "total": 10,
   "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-393109",
-      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
-      "company": "Bling",
+      "id": "arbeitnow-frontend-developer-all-genders-berlin-321154",
+      "title": "Frontend Developer (all genders)",
+      "company": "Vexcash AG",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-393109",
-      "description": "Deine Mission\nWir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an echte Ownership: viel Freiheit, kurze Wege und die Chance, ein",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/frontend-developer-all-genders-berlin-321154",
+      "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity ",
       "tags": [
-        "Remote",
+        "Private Banking"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T13:30:40.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-c-net-all-genders-berlin-489363",
+      "title": "Backend Developer C# / .NET (all genders)",
+      "company": "Vexcash AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/backend-developer-c-net-all-genders-berlin-489363",
+      "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity ",
+      "tags": [
+        "Private Banking"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T13:30:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-ai-product-engineer-fullstack-berlin-69626",
+      "title": "AI Product Engineer (Fullstack)",
+      "company": "WePush",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/wepush/ai-product-engineer-fullstack-berlin-69626",
+      "description": "We believe talent is everywhere. The chance to live from it isn't.\nMillions of creators are talented and invisible at the same time. The value they create flows to middlemen, while the brands who want to reach them are stuck in a non-transparent, fragmented market. So we built the tools to fix both ",
+      "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T07:30:43.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-javascript-berlin-176003",
-      "title": "Full Stack Engineer - Javascript",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/full-stack-engineer-javascript-berlin-176003",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T07:30:42.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-berlin-260448",
-      "title": "Backend Engineer",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-berlin-260448",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T07:00:40.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ii-full-stack-web-engineering-462983",
-      "title": "Software Engineer II - Full Stack - Web Engineering",
-      "company": "Elastic",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-462983",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 50",
-      "tags": [
-        "Web and Localization"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T21:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-100-remote-united-kingdom-london-126689",
-      "title": "Full Stack Engineer (100% Remote United Kingdom)",
-      "company": "InnoCraft",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/innocraft/full-stack-engineer-100-remote-united-kingdom-london-126689",
-      "description": "\nBuild and deliver the next generation of privacy-first analytics capabilities — from rapid prototypes and AI-powered insights to scalable product innovations embedded directly into Matomo’s core platform.\nOwn end-to-end innovation development within a small, autonomous team, working closely with th",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T21:04:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-intermediate-backend-engineer-emea-147388",
-      "title": "Intermediate Backend Engineer, EMEA",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-intermediate-backend-engineer-emea-147388",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-02T18:55:05.000Z",
+      "postedAt": "2026-09-03T13:00:32.000Z",
       "source": "Arbeitnow"
     },
     {
