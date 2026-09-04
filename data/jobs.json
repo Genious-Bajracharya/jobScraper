@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-09-04T15:38:41.783Z",
-  "total": 16,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-09-04T20:10:46.518Z",
+  "total": 13,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-backend-developer-leipzig-202597",
-      "title": "Backend Developer (m/f/x)",
-      "company": "Cyber Insight GmbH",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/cyber-insight-gmbh/backend-developer-leipzig-202597",
-      "description": "Are you looking for a young startup with a lot of creative freedom and do you want to be part of a young and very good IT/development team? Then you've come to the right place and we look forward to meeting you.\nCyber Insight is revolutionizing IT security and data protection. We enable companies to",
+      "id": "arbeitnow-frontend-engineer-london-77178",
+      "title": "Frontend Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/frontend-engineer-london-77178",
+      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hyp",
       "tags": [
-        "Software Development"
+        "National Security & AI Safety"
       ],
       "salary": null,
-      "postedAt": "2026-09-04T13:47:33.000Z",
+      "postedAt": "2026-09-04T18:40:07.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-software-engineer-backend-applied-ai-systems-jena-92825",
-      "title": "Software Engineer (m/f/d) Backend & Applied AI Systems",
-      "company": "iACT",
-      "location": "Jena",
-      "url": "https://www.arbeitnow.com/jobs/companies/iact/software-engineer-backend-applied-ai-systems-jena-92825",
-      "description": "Join the founding team behind an immersive AI-powered VR training platform\nAbout iACT\niACT is an AI-powered immersive platform that helps international talent navigate social, professional, academic, and administrative life in Germany through realistic, interactive practice.\nWe have a functional pro",
+      "id": "arbeitnow-full-stack-software-engineer-london-322812",
+      "title": "Full Stack Software Engineer",
+      "company": "Faculty",
+      "location": "UK - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/full-stack-software-engineer-london-322812",
+      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hyp",
       "tags": [
-        "Software Development"
+        "National Security & AI Safety"
       ],
       "salary": null,
-      "postedAt": "2026-09-04T13:00:50.000Z",
+      "postedAt": "2026-09-04T18:40:07.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -43,50 +43,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-04T12:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-79481",
-      "title": "Fullstack Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-79481",
-      "description": "Du möchtest moderne Softwarelösungen ganzheitlich mitgestalten – von der Backend-Logik über Schnittstellen bis hin zur Benutzeroberfläche? Du fühlst dich in skalierbaren Systemlandschaften wohl und arbeitest gerne in agilen Teams? Dann bist du bei TecFox genau richtig.\nWir sind die TecFox GmbH – ein",
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-04T12:30:33.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-113772",
-      "title": "Frontend Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-113772",
-      "description": "Begeisterst du dich für moderne Webanwendungen, durchdachte Softwarearchitekturen und leistungsfähige Single-Page-Applikationen? Dann könnte TecFox der richtige nächste Schritt für deine Karriere sein.\nWir sind die TecFox GmbH – ein zukunftsorientiertes IT-Dienstleistungsunternehmen mit Wurzeln in d",
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-04T12:30:32.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-developer-java-nodejs-web-development-team-berlin-munich-453740",
-      "title": "Software Developer  Java/ Node.JS (Web Development Team)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-453740",
-      "description": "&lt;p&gt;&lt;strong&gt;JetBrains &lt;/strong&gt;creates professional tools that make developers more productive and help them focus on what matters. Our websites and web services are a core part of the JetBrains ecosystem. They connect us with users worldwide, power product distribution, support lea",
-      "tags": [
-        "WebTeam BackEnd & Infrastructure"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-04T11:55:06.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -132,18 +88,26 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-uk-london-ads-full-stack-developer-london-greater-london-424247",
-      "title": "UK - London - ADS - Full Stack Developer",
-      "company": "Jobposts",
-      "location": "London, Greater London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/jobposts/uk-london-ads-full-stack-developer-london-greater-london-424247",
-      "description": "&lt;p&gt;&lt;span class=&quot;author-8908051321 font-color-000000 font-size-medium&quot;&gt;Thank you for your application for a role at Alpha Financial Markets &lt;/span&gt;&lt;span class=&quot;author-17078097523 font-color-000000 font-size-medium&quot;&gt;C&lt;/span&gt;&lt;span class=&quot;author-",
+      "id": "remoteok-1137301",
+      "title": "Store Manager BOSS Store Plaza Las Americas",
+      "company": "HUGO BOSS",
+      "location": "San Juan, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+      "description": "HUGO BOSS is one of the leading fashion and lifestyle companies in the premium segment with over 19,000 employees worldwide. As versatile as we are, we are united by a common goal: We love fashion, we change fashion!Become a brand ambassador and be part of a team that works with passion, ambition an",
       "tags": [
-        "Aiviq"
+        "exec",
+        "react",
+        "education",
+        "consulting",
+        "customer support",
+        "microsoft",
+        "ops",
+        "sales",
+        "medical"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T15:55:05.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-03T15:48:13+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1137251",
