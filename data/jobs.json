@@ -1,35 +1,174 @@
 {
-  "updatedAt": "2026-09-03T20:24:43.617Z",
-  "total": 12,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-09-04T02:36:13.266Z",
+  "total": 15,
+  "newSinceLastRun": 8,
   "jobs": [
     {
-      "id": "arbeitnow-remote-software-engineer-backend-core-api-process-automation-492538",
-      "title": "Software Engineer, Backend - Core/API & Process Automation",
-      "company": "Camunda",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-492538",
-      "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI fro",
+      "id": "arbeitnow-fullstack-entwickler-hamburg-292261",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/fullstack-entwickler-hamburg-292261",
+      "description": "Wir sind eine der am schnellstwachsenden&nbsp;Digitalagenturen Hamburgs und suchen zum nächstmöglichen&nbsp;Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Fullstack Entwicklung&nbsp;für den Bereich Business Development.Was macht die Cordes Consulting GmbH genau?Wir sind eine Werbeagentur, welche H",
       "tags": [
-        "Products"
+        "(7) Business Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T17:40:10.000Z",
+      "postedAt": "2026-09-03T23:30:05.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-engineer-100-remote-germany-frankfurt-143976",
-      "title": "Full Stack Engineer (100% Remote Germany)",
-      "company": "Innocraft",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/full-stack-engineer-100-remote-germany-frankfurt-143976",
-      "description": "\nBuild and deliver the next generation of privacy-first analytics capabilities — from rapid prototypes and AI-powered insights to scalable product innovations embedded directly into Matomo’s core platform.\nOwn end-to-end innovation development within a small, autonomous team, working closely with th",
+      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-274236",
+      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
+      "company": "GETEC GRUPPE",
+      "location": "Hannover",
+      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-274236",
+      "description": "AufgabenWährend deiner Ausbildung besuchst du die Multi Media Berufsschule.Du lernst die Planung und Entwicklung von Softwareanwendungen kennen. Umsetzung von Geschäftsprozessen in Softwareprodukte.Anwendungs- und Kommunikationsdesign.Bei uns erlernst du das Applikationsmanagement.Du bekommst einen ",
+      "tags": [
+        "Ausbildung",
+        "Fachinformatiker",
+        "Fachinformatikerin",
+        "Hannover",
+        "Anwendugsentwicklung",
+        "Planung",
+        "Entwicklung",
+        "Anwendung",
+        "Software",
+        "Daten",
+        "Datenbanken",
+        "Programmierung",
+        "Logisches Denken",
+        "SQL",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Iphone",
+        "Hund",
+        "Katze",
+        "Fussball",
+        "Handball",
+        "Multi Media",
+        "Berufsschule"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T23:09:24.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-467987",
+      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
+      "company": "Doc Cirrus Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-467987",
+      "description": "This is what makes your position specialFull-stack software development based on Docker, Node.js and MongoDB Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development toolsComponent responsibility: from technical design to development to CI/CDIf you take responsibility, you",
+      "tags": [
+        "javascript",
+        "node.js",
+        "scrum",
+        "code",
+        "ehealth",
+        "informatics",
+        "Full Stack Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T23:09:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-lagerist-lagermitarbeiter-stuttgart-404710",
+      "title": "Lagerist / Lagermitarbeiter (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Stuttgart Schockenriedstr. 17",
+      "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/lagerist-lagermitarbeiter-stuttgart-404710",
+      "description": "Sereact GmbHStuttgart / Baden-Württemberg, DeutschlandLagerist / Lagermitarbeiter (m/w/d)Vollzeit · Ausschließlich vor Ort · Kein HomeofficeÜber SereactDie Sereact GmbH entwickelt KI-gestützte Robotik- und Automatisierungslösungen. Für unser Lager in der Region Stuttgart suchen wir eine zuverlässige",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-03T17:04:24.000Z",
+      "postedAt": "2026-09-03T20:40:08.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-394381",
+      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+      "company": "Meierhofer",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-394381",
+      "description": "Unsere StandorteBerlin, Hannover, Leipzig, München, Passau oder remote / im Homeoffice – die Tätigkeit ist standortunabhängig möglichDein zukünftiges TeamDu willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-Lösungen für Kliniken mitwirken? Im Be",
+      "tags": [
+        "München",
+        "Leipzig",
+        "Hannover",
+        "Berlin",
+        "Passau",
+        "Homeoffice",
+        "remote",
+        "IT-Security",
+        "ISO27001",
+        "Cybersecurity",
+        "Software security",
+        "Secure software development",
+        "OWASP",
+        "Kryptographie",
+        "Security engineering",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Informationssicherheit",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T20:09:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152499",
+      "title": "Backend Engineer III",
+      "company": "Monzo",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/152499-backend-engineer-iii",
+      "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T19:27:15+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152495",
+      "title": "Backend Engineer - Platform - Stacks | Sweden | Remote",
+      "company": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+      "url": "https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T19:25:55+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152490",
+      "title": "Backend Engineer - Platform - Stacks | Spain | Remote",
+      "company": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+      "url": "https://jobicy.com/jobs/152490-backend-engineer-platform-stacks-spain-remote",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-03T19:24:14+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-uk-london-ads-full-stack-developer-london-greater-london-424247",
@@ -43,55 +182,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-03T15:55:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-entwickler-in-vollzeit-berlin-lichtenberg-477092",
-      "title": "Fullstack-Entwickler/-in – Vollzeit (m/w/d)",
-      "company": "Schulze Marketing GmbH",
-      "location": "Berlin-Lichtenberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/fullstack-entwickler-in-vollzeit-berlin-lichtenberg-477092",
-      "description": "Wir suchen neue Mitarbeiter (m/w/d) im Bereich Fullstack-Entwicklung, die ihre Stärken gezielt einbringen und gemeinsam mit uns daran arbeiten, unser Unternehmen sowie die deutsche Industrie nachhaltig voranzubringen.Als Fullstack-Entwickler/-in entwickelst du digitale Anwendungen über Frontend, Bac",
-      "tags": [
-        "Information technology",
-        "high school or equivalent"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T15:20:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-developer-vuejs-munich-437071",
-      "title": "Frontend Developer Vue.js (m/w/d)",
-      "company": "hubside - Die Recruitingwerkstatt",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/frontend-developer-vuejs-munich-437071",
-      "description": "In dieser Rolle als Frontend Developer Vue.js (m/w/d) übernehmen Sie die Gestaltung und Entwicklung moderner, benutzerfreundlicher Features für den Online-Shop mit HTML5, CSS3, JavaScript sowie Vue 3 und Nuxt 3. Im agilen, cross-funktionalen Scrum-Team arbeiten Sie eng mit Backend-Entwicklung, Desig",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T14:30:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-363657",
-      "title": "Product Engineer (Backend/AI) @Briink",
-      "company": "Merantix",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-363657",
-      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
-      "tags": [
-        "backend",
-        "AI",
-        "LLM",
-        "product",
-        "product engineer",
-        "backend engineer",
-        "AI engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T14:10:00.000Z",
       "source": "Arbeitnow"
     },
     {
