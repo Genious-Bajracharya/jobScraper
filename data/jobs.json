@@ -1,55 +1,92 @@
 {
-  "updatedAt": "2026-09-04T10:32:40.983Z",
-  "total": 13,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-04T15:38:41.783Z",
+  "total": 16,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-trainee-frontend-development-berlin-457689",
-      "title": "Trainee Frontend Development (m/w/d)",
-      "company": "Brandung",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-457689",
-      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
-      "tags": [
-        "Frontend Developer",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Vue",
-        "Nuxt3",
-        "KI",
-        "Coding",
-        "Trainee",
-        "JOIN"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-04T08:09:24.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-python-berlin-157873",
-      "title": "Backend Engineer - Python",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-python-berlin-157873",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "id": "arbeitnow-backend-developer-leipzig-202597",
+      "title": "Backend Developer (m/f/x)",
+      "company": "Cyber Insight GmbH",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/cyber-insight-gmbh/backend-developer-leipzig-202597",
+      "description": "Are you looking for a young startup with a lot of creative freedom and do you want to be part of a young and very good IT/development team? Then you've come to the right place and we look forward to meeting you.\nCyber Insight is revolutionizing IT security and data protection. We enable companies to",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-04T08:02:41.000Z",
+      "postedAt": "2026-09-04T13:47:33.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-trier-326915",
-      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
-      "company": "KULT | OLYMP & HADES",
-      "location": "Trier, Rheinland-Pfalz, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-trier-326915",
-      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
-      "tags": [],
+      "id": "arbeitnow-software-engineer-backend-applied-ai-systems-jena-92825",
+      "title": "Software Engineer (m/f/d) Backend & Applied AI Systems",
+      "company": "iACT",
+      "location": "Jena",
+      "url": "https://www.arbeitnow.com/jobs/companies/iact/software-engineer-backend-applied-ai-systems-jena-92825",
+      "description": "Join the founding team behind an immersive AI-powered VR training platform\nAbout iACT\niACT is an AI-powered immersive platform that helps international talent navigate social, professional, academic, and administrative life in Germany through realistic, interactive practice.\nWe have a functional pro",
+      "tags": [
+        "Software Development"
+      ],
       "salary": null,
-      "postedAt": "2026-09-04T05:30:18.000Z",
+      "postedAt": "2026-09-04T13:00:50.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-software-engineer-backend-core-api-process-automation-134204",
+      "title": "Software Engineer, Backend - Core/API & Process Automation",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-134204",
+      "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI fro",
+      "tags": [
+        "Products"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-04T12:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-79481",
+      "title": "Fullstack Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-79481",
+      "description": "Du möchtest moderne Softwarelösungen ganzheitlich mitgestalten – von der Backend-Logik über Schnittstellen bis hin zur Benutzeroberfläche? Du fühlst dich in skalierbaren Systemlandschaften wohl und arbeitest gerne in agilen Teams? Dann bist du bei TecFox genau richtig.\nWir sind die TecFox GmbH – ein",
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-04T12:30:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-113772",
+      "title": "Frontend Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-113772",
+      "description": "Begeisterst du dich für moderne Webanwendungen, durchdachte Softwarearchitekturen und leistungsfähige Single-Page-Applikationen? Dann könnte TecFox der richtige nächste Schritt für deine Karriere sein.\nWir sind die TecFox GmbH – ein zukunftsorientiertes IT-Dienstleistungsunternehmen mit Wurzeln in d",
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-04T12:30:32.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-developer-java-nodejs-web-development-team-berlin-munich-453740",
+      "title": "Software Developer  Java/ Node.JS (Web Development Team)",
+      "company": "jetbrains",
+      "location": "Berlin; Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-453740",
+      "description": "&lt;p&gt;&lt;strong&gt;JetBrains &lt;/strong&gt;creates professional tools that make developers more productive and help them focus on what matters. Our websites and web services are a core part of the JetBrains ecosystem. They connect us with users worldwide, power product distribution, support lea",
+      "tags": [
+        "WebTeam BackEnd & Infrastructure"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-04T11:55:06.000Z",
       "source": "Arbeitnow"
     },
     {
