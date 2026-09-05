@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-04T20:10:46.518Z",
+  "updatedAt": "2026-09-05T02:36:38.563Z",
   "total": 13,
-  "newSinceLastRun": 3,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-finance-manager-london-167812",
+      "title": "Finance Manager",
+      "company": "Reactive Markets",
+      "location": "Hybrid, London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/finance-manager-london-167812",
+      "description": "Finance ManagerHybrid (UK-based) | Full-TimeFlexibility on how often you come into the office, as long as you're able to travel to the London office when required.About UsReactive Markets is the 2026 OTC Trading Platform of the Year (Risk.net). Our network handles over $50 billion in daily trading v",
+      "tags": [
+        "Finance & Operations"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-04T21:40:11.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-frontend-engineer-london-77178",
       "title": "Frontend Engineer",
@@ -29,20 +43,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-04T18:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-backend-core-api-process-automation-134204",
-      "title": "Software Engineer, Backend - Core/API & Process Automation",
-      "company": "Camunda",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-core-api-process-automation-134204",
-      "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI fro",
-      "tags": [
-        "Products"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-04T12:40:12.000Z",
       "source": "Arbeitnow"
     },
     {
