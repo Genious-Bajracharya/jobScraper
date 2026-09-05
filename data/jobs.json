@@ -1,48 +1,34 @@
 {
-  "updatedAt": "2026-09-05T02:36:38.563Z",
-  "total": 13,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-05T09:52:01.292Z",
+  "total": 12,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-finance-manager-london-167812",
-      "title": "Finance Manager",
-      "company": "Reactive Markets",
-      "location": "Hybrid, London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/finance-manager-london-167812",
-      "description": "Finance ManagerHybrid (UK-based) | Full-TimeFlexibility on how often you come into the office, as long as you're able to travel to the London office when required.About UsReactive Markets is the 2026 OTC Trading Platform of the Year (Risk.net). Our network handles over $50 billion in daily trading v",
+      "id": "arbeitnow-agent-engineer-london-united-kingdom-352641",
+      "title": "Agent Engineer",
+      "company": "Elliptic",
+      "location": "London, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/agent-engineer-london-united-kingdom-352641",
+      "description": "Elliptic is building AI-powered tools that enable the business to scale faster and with greater confidence. Our operations team is at the centre of that work — designing the backend systems and AI integrations behind Elliptic's agentic transformation. This transformation is all about rethinking exis",
       "tags": [
-        "Finance & Operations"
+        "Operations"
       ],
       "salary": null,
-      "postedAt": "2026-09-04T21:40:11.000Z",
+      "postedAt": "2026-09-05T06:40:14.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-frontend-engineer-london-77178",
-      "title": "Frontend Engineer",
-      "company": "Faculty",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/frontend-engineer-london-77178",
-      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hyp",
+      "id": "arbeitnow-fullstack-engineer-prospect-ui-solutions-munich-415043",
+      "title": "FullStack Engineer - Prospect UI Solutions",
+      "company": "Constructor",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
+      "description": "About YouYou have a knack for solving intricate Software Development problems. You're driven by the idea of writing code that simplifies life for millions of users globally. You're committed to continuous learning and enjoy tackling new challenges. Pair programming, code reviews, and collaborative b",
       "tags": [
-        "National Security & AI Safety"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-04T18:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-london-322812",
-      "title": "Full Stack Software Engineer",
-      "company": "Faculty",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/full-stack-software-engineer-london-322812",
-      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hyp",
-      "tags": [
-        "National Security & AI Safety"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-04T18:40:07.000Z",
+      "postedAt": "2026-09-05T05:40:08.000Z",
       "source": "Arbeitnow"
     },
     {
