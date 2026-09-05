@@ -1,8 +1,63 @@
 {
-  "updatedAt": "2026-09-05T14:26:15.508Z",
-  "total": 11,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-09-05T19:49:56.325Z",
+  "total": 15,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-sr-backend-engineer-berlin-26161",
+      "title": "Sr. Backend Engineer",
+      "company": "Andercore",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
+      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, qu",
+      "tags": [
+        "Platform Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-05T17:40:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-data-orchestration-villeneuve-dascq-452733",
+      "title": "Full Stack Engineer, Data Orchestration",
+      "company": "Kestra Technologies",
+      "location": "Europe",
+      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/full-stack-engineer-data-orchestration-villeneuve-dascq-452733",
+      "description": "About KestraKestra is the universal orchestration platform: open source, declarative, and designed to orchestrate data pipelines, IT automation, business workflows, and AI/agentic systems.Trusted by over 10,000 organizations worldwide, including JPMorgan Chase, Bloomberg, FILA, and Crédit Agricole, ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-05T16:40:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpeur-backend-php-en-alternance-12-mois-f-h-rouen-14953",
+      "title": "Développeur Backend PHP en alternance 12 mois (F/H)",
+      "company": "Lemonway",
+      "location": "Rouen, Normandie, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-en-alternance-12-mois-f-h-rouen-14953",
+      "description": "A propos de LemonwayLemonway est un établissement de paiement agréé, au cœur de la nouvelle économie européenne.Nous sécurisons les paiements des plateformes de financement participatif, d’économie collaborative, des marketplaces et des e-commerçants, avec un fort engagement contre la fraude et pour",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-05T16:30:16.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-python-backend-engineer-berlin-203775",
+      "title": "Python Backend Engineer (m/f/x)",
+      "company": "Makersite GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
+      "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustaina",
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-05T14:30:32.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-agent-engineer-london-united-kingdom-352641",
       "title": "Agent Engineer",
