@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-05T09:52:01.292Z",
-  "total": 12,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-05T14:26:15.508Z",
+  "total": 11,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-agent-engineer-london-united-kingdom-352641",
@@ -195,32 +195,6 @@
       ],
       "salary": "$31,2k- $52k",
       "postedAt": "2026-08-11T20:18:02",
-      "source": "Remotive"
-    },
-    {
-      "id": "remotive-2091087",
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.\nOur European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learni",
-      "tags": [
-        "api",
-        "CSS",
-        "go",
-        "html",
-        "javascript",
-        "saas",
-        "onboarding",
-        "chat",
-        "startup",
-        "troubleshooting",
-        "product support",
-        "testing",
-        "github"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-05T08:47:07",
       "source": "Remotive"
     }
   ]
