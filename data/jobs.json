@@ -1,35 +1,109 @@
 {
-  "updatedAt": "2026-09-06T02:33:28.070Z",
-  "total": 12,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-09-06T10:09:14.703Z",
+  "total": 17,
+  "newSinceLastRun": 7,
   "jobs": [
     {
-      "id": "arbeitnow-sr-backend-engineer-berlin-26161",
-      "title": "Sr. Backend Engineer",
-      "company": "Andercore",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/sr-backend-engineer-berlin-26161",
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, qu",
+      "id": "arbeitnow-product-engineer-backend-paris-126655",
+      "title": "Product Engineer (Backend)",
+      "company": "Whitecircle",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/whitecircle/product-engineer-backend-paris-126655",
+      "description": "TLDR: We're looking for a Product Engineer (Backend – Rust) to own and evolve the core systems that power AI safety at scale – building APIs that handle hundreds of millions of requests, real-time policy enforcement, and high-throughput data pipelines.About usWhite Circle is an AI Safety company bui",
       "tags": [
-        "Platform Development"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-05T17:40:06.000Z",
+      "postedAt": "2026-09-06T07:40:01.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-python-backend-engineer-berlin-203775",
-      "title": "Python Backend Engineer (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
-      "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustaina",
+      "id": "arbeitnow-software-engineer-ai-platform-frontend-paris-la-defense-30686",
+      "title": "Software Engineer - AI Platform (Frontend)",
+      "company": "DiliTrust",
+      "location": "Paris - La Défense",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686",
+      "description": "\n\nReady to be part of the Legal Tech revolution?&nbsp;\n\n\nVision:&nbsp;\n\n\nAs a leading software-as-a-service (SaaS) provider,&nbsp;DiliTrust&nbsp;is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With",
       "tags": [
-        "Engineering",
-        "Remote"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-05T14:30:32.000Z",
+      "postedAt": "2026-09-06T07:05:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-software-engineer-nodejs-vuejs-paris-la-defense-252333",
+      "title": "FullStack Software Engineer (Node.js / Vue.js)",
+      "company": "DiliTrust",
+      "location": "Paris - La Défense",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/fullstack-software-engineer-nodejs-vuejs-paris-la-defense-252333",
+      "description": "\nReady to be part of the Legal Tech revolution? Vision:&nbsp;As a leading software-as-a-service (SaaS) provider, Dilitrust is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T07:05:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-479819",
+      "title": "Software Engineer Full Stack (.NET / React) – Projet From Scratch – | Practice SE MARGO",
+      "company": "MARGO",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/margo/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-479819",
+      "description": "\nQui sommes nous ?\nChez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel.C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le dével",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T07:04:58.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpeur-full-stack-practice-se-margo-paris-322707",
+      "title": "Développeur Full Stack |  Practice SE MARGO",
+      "company": "MARGO",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-322707",
+      "description": "Qui sommes nous ?Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le dévelo",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T07:04:58.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpeur-full-stack-java-react-practice-se-margo-paris-334636",
+      "title": "Développeur Full Stack - Java/React |  Practice SE MARGO",
+      "company": "MARGO",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-334636",
+      "description": "Qui sommes nous ?\n&nbsp;\nChez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et l",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T07:04:58.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-technical-project-manager-software-development-saarbrucken-384502",
+      "title": "Technical Project Manager – Software Development (m/w/d)",
+      "company": "Athereon",
+      "location": "Saarbrücken",
+      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502",
+      "description": "Your missionYou are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.You lead ou",
+      "tags": [
+        "Lead Developer",
+        "Engineering Lead",
+        "Software Architecture",
+        "Python",
+        "Django",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T05:09:19.000Z",
       "source": "Arbeitnow"
     },
     {
