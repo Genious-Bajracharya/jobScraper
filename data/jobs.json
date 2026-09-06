@@ -1,8 +1,37 @@
 {
-  "updatedAt": "2026-09-06T14:48:22.883Z",
-  "total": 13,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-06T19:53:51.180Z",
+  "total": 14,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-product-engineer-backend-rust-paris-270716",
+      "title": "Product Engineer, Backend (Rust)",
+      "company": "Npv",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/npv/product-engineer-backend-rust-paris-270716",
+      "description": "We're looking for a Product Engineer, Backend (Rust) to join White Circle, an AI Safety company building the policy enforcement and optimization layer for AI systems. Backed by $11M from senior leaders at OpenAI, Anthropic, HuggingFace, Mistral, and DeepMind, White Circle processes 100M+ API calls m",
+      "tags": [
+        "White Circle"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T16:40:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
+      "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
+      "company": "N2JSoft",
+      "location": "Poste à distance",
+      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
+      "description": "À propos de N2JSoftN2JSoft est une Fintech B2B SaaS spécialisée dans la gestion des dépenses professionnelles.Fondée en 2015, elle compte aujourd’hui 20 000 clients et 1M utilisateurs dans 98 pays, faisant de N2F l’un des leaders du marché français.N2F simplifie la gestion des frais professionnels :",
+      "tags": [
+        "Dev",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-06T16:30:03.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-associate-backend-software-engineer-python-manchester-430147",
       "title": "Associate Backend Software Engineer (Python)",
@@ -15,25 +44,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-06T09:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-technical-project-manager-software-development-saarbrucken-384502",
-      "title": "Technical Project Manager – Software Development (m/w/d)",
-      "company": "Athereon",
-      "location": "Saarbrücken",
-      "url": "https://www.arbeitnow.com/jobs/companies/athereon/technical-project-manager-software-development-saarbrucken-384502",
-      "description": "Your missionYou are responsible for the operational management of our software development and ensure that our Backend and Frontend teams can deliver reliably and with clear focus. You manage planning, capacities, dependencies, and releases and keep the entire development process in view.You lead ou",
-      "tags": [
-        "Lead Developer",
-        "Engineering Lead",
-        "Software Architecture",
-        "Python",
-        "Django",
-        "React"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T05:09:19.000Z",
       "source": "Arbeitnow"
     },
     {
