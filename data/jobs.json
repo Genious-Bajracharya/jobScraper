@@ -1,90 +1,20 @@
 {
-  "updatedAt": "2026-09-06T10:09:14.703Z",
-  "total": 17,
-  "newSinceLastRun": 7,
+  "updatedAt": "2026-09-06T14:48:22.883Z",
+  "total": 13,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-product-engineer-backend-paris-126655",
-      "title": "Product Engineer (Backend)",
-      "company": "Whitecircle",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/whitecircle/product-engineer-backend-paris-126655",
-      "description": "TLDR: We're looking for a Product Engineer (Backend – Rust) to own and evolve the core systems that power AI safety at scale – building APIs that handle hundreds of millions of requests, real-time policy enforcement, and high-throughput data pipelines.About usWhite Circle is an AI Safety company bui",
+      "id": "arbeitnow-associate-backend-software-engineer-python-manchester-430147",
+      "title": "Associate Backend Software Engineer (Python)",
+      "company": "Anaplan",
+      "location": "Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What uni",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-06T07:40:01.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ai-platform-frontend-paris-la-defense-30686",
-      "title": "Software Engineer - AI Platform (Frontend)",
-      "company": "DiliTrust",
-      "location": "Paris - La Défense",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686",
-      "description": "\n\nReady to be part of the Legal Tech revolution?&nbsp;\n\n\nVision:&nbsp;\n\n\nAs a leading software-as-a-service (SaaS) provider,&nbsp;DiliTrust&nbsp;is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T07:05:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-nodejs-vuejs-paris-la-defense-252333",
-      "title": "FullStack Software Engineer (Node.js / Vue.js)",
-      "company": "DiliTrust",
-      "location": "Paris - La Défense",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/fullstack-software-engineer-nodejs-vuejs-paris-la-defense-252333",
-      "description": "\nReady to be part of the Legal Tech revolution? Vision:&nbsp;As a leading software-as-a-service (SaaS) provider, Dilitrust is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T07:05:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-479819",
-      "title": "Software Engineer Full Stack (.NET / React) – Projet From Scratch – | Practice SE MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-479819",
-      "description": "\nQui sommes nous ?\nChez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel.C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le dével",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T07:04:58.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developpeur-full-stack-practice-se-margo-paris-322707",
-      "title": "Développeur Full Stack |  Practice SE MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-practice-se-margo-paris-322707",
-      "description": "Qui sommes nous ?Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le dévelo",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T07:04:58.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developpeur-full-stack-java-react-practice-se-margo-paris-334636",
-      "title": "Développeur Full Stack - Java/React |  Practice SE MARGO",
-      "company": "MARGO",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-334636",
-      "description": "Qui sommes nous ?\n&nbsp;\nChez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et l",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T07:04:58.000Z",
+      "postedAt": "2026-09-06T09:55:04.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -105,6 +35,32 @@
       "salary": null,
       "postedAt": "2026-09-06T05:09:19.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "remotive-2091087",
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.\nOur European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learni",
+      "tags": [
+        "api",
+        "CSS",
+        "go",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "chat",
+        "startup",
+        "troubleshooting",
+        "product support",
+        "testing",
+        "github"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-05T08:34:20",
+      "source": "Remotive"
     },
     {
       "id": "arbeitnow-agent-engineer-london-united-kingdom-352641",
