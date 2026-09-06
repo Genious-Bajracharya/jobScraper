@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-05T19:49:56.325Z",
-  "total": 15,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-06T02:33:28.070Z",
+  "total": 12,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-sr-backend-engineer-berlin-26161",
@@ -15,32 +15,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-05T17:40:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-data-orchestration-villeneuve-dascq-452733",
-      "title": "Full Stack Engineer, Data Orchestration",
-      "company": "Kestra Technologies",
-      "location": "Europe",
-      "url": "https://www.arbeitnow.fr/jobs/companies/kestra-technologies/full-stack-engineer-data-orchestration-villeneuve-dascq-452733",
-      "description": "About KestraKestra is the universal orchestration platform: open source, declarative, and designed to orchestrate data pipelines, IT automation, business workflows, and AI/agentic systems.Trusted by over 10,000 organizations worldwide, including JPMorgan Chase, Bloomberg, FILA, and Crédit Agricole, ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-05T16:40:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developpeur-backend-php-en-alternance-12-mois-f-h-rouen-14953",
-      "title": "Développeur Backend PHP en alternance 12 mois (F/H)",
-      "company": "Lemonway",
-      "location": "Rouen, Normandie, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-en-alternance-12-mois-f-h-rouen-14953",
-      "description": "A propos de LemonwayLemonway est un établissement de paiement agréé, au cœur de la nouvelle économie européenne.Nous sécurisons les paiements des plateformes de financement participatif, d’économie collaborative, des marketplaces et des e-commerçants, avec un fort engagement contre la fraude et pour",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-05T16:30:16.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -70,20 +44,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-05T06:40:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-prospect-ui-solutions-munich-415043",
-      "title": "FullStack Engineer - Prospect UI Solutions",
-      "company": "Constructor",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
-      "description": "About YouYou have a knack for solving intricate Software Development problems. You're driven by the idea of writing code that simplifies life for millions of users globally. You're committed to continuous learning and enjoy tackling new challenges. Pair programming, code reviews, and collaborative b",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-05T05:40:08.000Z",
       "source": "Arbeitnow"
     },
     {
