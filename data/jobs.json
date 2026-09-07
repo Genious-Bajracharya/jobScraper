@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-07T17:06:10.815Z",
-  "total": 15,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-07T21:02:01.222Z",
+  "total": 16,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-engineer-paris-91724",
+      "title": "Fullstack Engineer",
+      "company": "Comand Ai",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/comand-ai/fullstack-engineer-paris-91724",
+      "description": "Comand AI's mission is to build next-generation C2 software with real users in real deployments in the field. We are fully indexed on the success of every single user, which means the product you ship supports live defence operations, not a benchmark.You'd join the engineering team to own features e",
+      "tags": [
+        "Product Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-07T19:40:18.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
       "title": "Full Stack Developer - AI Marketplace",
