@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-06T19:53:51.180Z",
-  "total": 14,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-07T02:31:15.433Z",
+  "total": 15,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-developer-koln-442845",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Semdor Pharma Group GmbH",
+      "location": "Köln",
+      "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-442845",
+      "description": "Deine AufgabenBloombase baut die führende ERP-Plattform für Cannabis-Apotheken in Deutschland. Gegründet mit dem Full-Stack-Know-how von SnapNext und dem Branchenrückhalt von Cannamedical – einem der größten Cannabis-Konzerne im deutschsprachigen Raum – entwickeln wir eine B2B-Software, die das Cann",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-06T20:09:54.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-product-engineer-backend-rust-paris-270716",
       "title": "Product Engineer, Backend (Rust)",
