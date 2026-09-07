@@ -1,71 +1,78 @@
 {
-  "updatedAt": "2026-09-07T11:24:15.366Z",
-  "total": 16,
+  "updatedAt": "2026-09-07T17:06:10.815Z",
+  "total": 15,
   "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-engineer-frontend-leaning-berlin-141634",
-      "title": "Fullstack Engineer, Frontend-leaning (m/f/d)",
-      "company": "Berliner Verlag GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/berliner-verlag-gmbh/fullstack-engineer-frontend-leaning-berlin-141634",
-      "description": ".img – itai’s machine GmbH is a digital technology company specializing in modern publishing solutions. With our “journalistic operating system” (.jOS), we offer a cloud-native publishing platform that serves millions of users by connecting to headless CMS systems, processing and enriching content, ",
+      "id": "arbeitnow-full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
+      "title": "Full Stack Developer - AI Marketplace",
+      "company": "Loftorbital",
+      "location": "Toulouse, Occitanie",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
+      "description": "Wanna join the adventure?Loft Orbital flies other people's payloads and software on standardized satellites, and we are building the first marketplace for space-based AI applications: the store where partners publish, deploy, and monetize AI solutions that run on satellites in orbit. We are hiring t",
       "tags": [
-        "IT"
+        "AI Marketplace"
       ],
       "salary": null,
-      "postedAt": "2026-09-07T09:30:33.000Z",
+      "postedAt": "2026-09-07T16:04:11.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-115094",
-      "title": "Product Engineer - Frontend (all genders)",
-      "company": "Koppla",
-      "location": "Berlin (hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-115094",
-      "description": "In a nutshellkoppla is building the next-gen collaborative scheduling platform for construction, helping project managers keep projects on time by identifying delays and disruptions before they impact timelines.We are looking for a product-minded Frontend Engineers in Berlin that loves building actu",
+      "id": "arbeitnow-werkstudent-fur-arbeitssicherheit-und-technisches-facility-management-flensburg-367253",
+      "title": "Werkstudent für Arbeitssicherheit und technisches Facility Management (m/w/d)",
+      "company": "Schröder Bauzentrum Gruppe",
+      "location": "Flensburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/schroder-bauzentrum-gruppe/werkstudent-fur-arbeitssicherheit-und-technisches-facility-management-flensburg-367253",
+      "description": "Das Schröder Bauzentrum ist ein inhabergeführtes Familienunternehmen und hat sich auf den Handel mit Baustoffen für den gewerblichen Bereich und die privaten Endkunden spezialisiert. Wir betreiben in Norddeutschland (Schleswig-Holstein, Niedersachsen, Mecklenburg-Vorpommern, Brandenburg) mehrere Bau",
       "tags": [
-        "Typescript",
-        "Backend",
-        "Frontend",
-        "fullstack",
-        "Developer",
-        "Software engineer",
-        "Backend developer",
-        "Web dev",
-        "product engineer"
+        "Security and safety",
+        "high school coursework"
       ],
       "salary": null,
-      "postedAt": "2026-09-07T08:09:29.000Z",
+      "postedAt": "2026-09-07T15:20:16.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-react-developerin-im-kolner-startup-cologne-477894",
-      "title": "React Developer:in (m/w/d) im Kölner Startup",
-      "company": "Greenpocket",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/react-developerin-im-kolner-startup-cologne-477894",
-      "description": "Du willst mehr sein als ein Byte im Datenmeer? Du möchtest gerne mit Leidenschaft Verantwortung in agilen Teams übernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt kennenlernen!\nÜber uns\nAls agiles, grünes Startup und Spezialist für Energiemanag",
+      "id": "jobicy-152707",
+      "title": "Fullstack Software Engineer - Core",
+      "company": "Dataiku",
+      "location": "France,  Germany,  Netherlands,  Spain,  UK",
+      "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
+      "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
       "tags": [
-        "Software Development"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-07T07:30:49.000Z",
+      "postedAt": "2026-09-07T14:03:01+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-backend-developer-golang-hamburg-420727",
+      "title": "Backend Developer - Golang (f/m/d)",
+      "company": "Justdice",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/justdice/backend-developer-golang-hamburg-420727",
+      "description": "At justDice, we create mobile gaming experiences that reward players for their time and engagement. We move quickly, take ownership, and value people who bring ideas, curiosity, and a willingness to challenge how we do things. You’ll work with experienced teammates, solve meaningful problems, and ha",
+      "tags": [
+        "justDice"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-07T11:40:03.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-124198",
-      "title": "Full Stack Kotlin/Java-Entwickler:in (m/w/d) - im Kölner Startup",
-      "company": "Greenpocket",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/full-stack-kotlin-java-entwicklerin-im-kolner-startup-cologne-124198",
-      "description": "Du willst mehr sein als ein Byte im Datenmeer? Du möchtest gerne mit Leidenschaft Verantwortung in agilen Teams übernehmen und aktiv mit uns dazu beitragen, die Klimawende voranzutreiben? Dann sollten wir uns unbedingt kennenlernen!\nDas sind wir\nAls agiles, grünes Startup und Spezialist für Energiem",
+      "id": "jobicy-151461",
+      "title": "Product Engineer (Full Stack)",
+      "company": "Maze",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
+      "description": "Summary of the Role: As Product Engineer (Full Stack) at Maze, you'll be the technical force behind our customer-facing product experience, owning the complete stack from UI to API while moving at startup velocity. This is a unique opportunity to join as one of the early engineering team members of ",
       "tags": [
-        "Software Development"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-07T07:30:49.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-07T11:17:09+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-product-engineer-backend-rust-paris-270716",
@@ -135,34 +142,6 @@
       "salary": null,
       "postedAt": "2026-09-05T08:34:20",
       "source": "Remotive"
-    },
-    {
-      "id": "jobicy-152499",
-      "title": "Backend Engineer III",
-      "company": "Monzo",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/152499-backend-engineer-iii",
-      "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T19:27:15+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152495",
-      "title": "Backend Engineer - Platform - Stacks | Sweden | Remote",
-      "company": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-      "url": "https://jobicy.com/jobs/152495-backend-engineer-platform-stacks-sweden-remote",
-      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-03T19:25:55+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137301",
