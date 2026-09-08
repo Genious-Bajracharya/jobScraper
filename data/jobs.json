@@ -1,8 +1,20 @@
 {
-  "updatedAt": "2026-09-07T21:02:01.222Z",
+  "updatedAt": "2026-09-08T02:44:26.549Z",
   "total": 16,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-golang-bank-balance-berlin-30862",
+      "title": "Backend Engineer (Golang) - Bank Balance",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-30862",
+      "description": "At SumUp, the&nbsp;Global Bank team builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&nbsp;\nThe Balance Management Squad sits at the core of the Global Bank Platform. Right now, our team is complet",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-07T20:45:25.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-fullstack-engineer-paris-91724",
       "title": "Fullstack Engineer",
@@ -59,20 +71,6 @@
       "salary": null,
       "postedAt": "2026-09-07T14:03:01+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-backend-developer-golang-hamburg-420727",
-      "title": "Backend Developer - Golang (f/m/d)",
-      "company": "Justdice",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/justdice/backend-developer-golang-hamburg-420727",
-      "description": "At justDice, we create mobile gaming experiences that reward players for their time and engagement. We move quickly, take ownership, and value people who bring ideas, curiosity, and a willingness to challenge how we do things. You’ll work with experienced teammates, solve meaningful problems, and ha",
-      "tags": [
-        "justDice"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-07T11:40:03.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-151461",
