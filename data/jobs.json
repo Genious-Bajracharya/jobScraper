@@ -1,18 +1,107 @@
 {
-  "updatedAt": "2026-09-08T02:44:26.549Z",
-  "total": 16,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-08T10:28:12.510Z",
+  "total": 17,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-golang-bank-balance-berlin-30862",
-      "title": "Backend Engineer (Golang) - Bank Balance",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-30862",
-      "description": "At SumUp, the&nbsp;Global Bank team builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&nbsp;\nThe Balance Management Squad sits at the core of the Global Bank Platform. Right now, our team is complet",
-      "tags": [],
+      "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-349507",
+      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+      "company": "Meierhofer",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-349507",
+      "description": "Unsere StandorteBerlin, Hannover, Leipzig, München, Passau oder remote / im Homeoffice – die Tätigkeit ist standortunabhängig möglichDein zukünftiges TeamDu willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-Lösungen für Kliniken mitwirken? Im Be",
+      "tags": [
+        "München",
+        "Leipzig",
+        "Hannover",
+        "Berlin",
+        "Passau",
+        "Homeoffice",
+        "remote",
+        "IT-Security",
+        "ISO27001",
+        "Cybersecurity",
+        "Software security",
+        "Secure software development",
+        "OWASP",
+        "Kryptographie",
+        "Security engineering",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Informationssicherheit",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student"
+      ],
       "salary": null,
-      "postedAt": "2026-09-07T20:45:25.000Z",
+      "postedAt": "2026-09-08T08:09:41.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-berlin-475016",
+      "title": "Frontend Engineer",
+      "company": "GlassFlow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-berlin-475016",
+      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T07:30:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-golang-berlin-303392",
+      "title": "Backend Engineer - Golang",
+      "company": "GlassFlow",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-golang-berlin-303392",
+      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T07:00:44.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-98052",
+      "title": "Full Stack Developer",
+      "company": "typeform",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.com/jobs/companies/typeform/full-stack-developer-98052",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill ",
+      "tags": [
+        "Information Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T05:55:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-284171",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-284171",
+      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
+      "tags": [
+        "backend",
+        "AI",
+        "LLM",
+        "product",
+        "product engineer",
+        "backend engineer",
+        "AI engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T05:09:24.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -41,21 +130,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-07T16:04:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudent-fur-arbeitssicherheit-und-technisches-facility-management-flensburg-367253",
-      "title": "Werkstudent für Arbeitssicherheit und technisches Facility Management (m/w/d)",
-      "company": "Schröder Bauzentrum Gruppe",
-      "location": "Flensburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/schroder-bauzentrum-gruppe/werkstudent-fur-arbeitssicherheit-und-technisches-facility-management-flensburg-367253",
-      "description": "Das Schröder Bauzentrum ist ein inhabergeführtes Familienunternehmen und hat sich auf den Handel mit Baustoffen für den gewerblichen Bereich und die privaten Endkunden spezialisiert. Wir betreiben in Norddeutschland (Schleswig-Holstein, Niedersachsen, Mecklenburg-Vorpommern, Brandenburg) mehrere Bau",
-      "tags": [
-        "Security and safety",
-        "high school coursework"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-07T15:20:16.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -98,35 +172,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-06T16:40:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
-      "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-      "company": "N2JSoft",
-      "location": "Poste à distance",
-      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
-      "description": "À propos de N2JSoftN2JSoft est une Fintech B2B SaaS spécialisée dans la gestion des dépenses professionnelles.Fondée en 2015, elle compte aujourd’hui 20 000 clients et 1M utilisateurs dans 98 pays, faisant de N2F l’un des leaders du marché français.N2F simplifie la gestion des frais professionnels :",
-      "tags": [
-        "Dev",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T16:30:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-associate-backend-software-engineer-python-manchester-430147",
-      "title": "Associate Backend Software Engineer (Python)",
-      "company": "Anaplan",
-      "location": "Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/associate-backend-software-engineer-python-manchester-430147",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt;\n&lt;p&gt;What uni",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T09:55:04.000Z",
       "source": "Arbeitnow"
     },
     {
