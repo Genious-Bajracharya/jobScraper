@@ -1,73 +1,76 @@
 {
-  "updatedAt": "2026-09-08T15:52:41.731Z",
-  "total": 14,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-08T20:36:32.731Z",
+  "total": 16,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-web-entwickler-hamburg-478554",
-      "title": "Fullstack Web-Entwickler (m/w/d)",
-      "company": "SHAPE DACH GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/shape-dach-gmbh/fullstack-web-entwickler-hamburg-478554",
-      "description": "Wir bauen Anwendungen, die im Betrieb bestehen. Dafür suchen wir jemanden, der ein Feature von der Datenbank bis ins Interface fertig macht und nicht auf halber Strecke stehen bleibt.\nWorum es bei uns geht\nUnsere Projekte laufen über Jahre, nicht über einzelne Sprints. Saubere Architektur und klare ",
+      "id": "arbeitnow-controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
+      "title": "Controls Engineer - Rust Backend (m/f/d) for the renewable energy industry",
+      "company": "H.E.A.T. Energie-Software GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
+      "description": "The Role\nWe are seeking a Controls Engineer (m/f/d) to work on the local controller that runs at the heart of our customers' power plants. You will design and build the control logic that keeps solar, BESS, and thermal generation assets operating safely and efficiently. A passion for the energy tran",
       "tags": [
-        "Remote",
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-08T13:00:36.000Z",
+      "postedAt": "2026-09-08T18:30:25.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-golang-bank-balance-berlin-472150",
-      "title": "Backend Engineer (Golang) - Bank Balance",
-      "company": "sumup",
+      "id": "arbeitnow-software-engineer-iot-cloud-edge-backend-for-the-renewable-energy-industry-berlin-71176",
+      "title": "Software Engineer - IoT/Cloud/Edge Backend (m/f/d) for the renewable energy industry",
+      "company": "H.E.A.T. Energie-Software GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-472150",
-      "description": "&lt;p&gt;At SumUp, the&amp;nbsp;&lt;strong&gt;Global Bank team &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Balance Management Squ",
+      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/software-engineer-iot-cloud-edge-backend-for-the-renewable-energy-industry-berlin-71176",
+      "description": "The Role\nWe are seeking an engineer to build the platform that powers our global fleet of power plant controllers. You'll develop systems that ingest, store, and transfer monitoring data from our controllers, both in the cloud and at the edge on industrial PCs. Your work will enable performance anal",
       "tags": [
-        "Backend"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-08T11:55:04.000Z",
+      "postedAt": "2026-09-08T18:00:29.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-255132",
-      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
-      "company": "GETEC GRUPPE",
-      "location": "Hannover",
-      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-255132",
-      "description": "AufgabenWährend deiner Ausbildung besuchst du die Multi Media Berufsschule.Du lernst die Planung und Entwicklung von Softwareanwendungen kennen. Umsetzung von Geschäftsprozessen in Softwareprodukte.Anwendungs- und Kommunikationsdesign.Bei uns erlernst du das Applikationsmanagement.Du bekommst einen ",
+      "id": "jobicy-152815",
+      "title": "Backend Software Engineer, PDP Experience",
+      "company": "Reddit",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152815-backend-software-engineer-pdp-experience",
+      "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
       "tags": [
-        "Ausbildung",
-        "Fachinformatiker",
-        "Fachinformatikerin",
-        "Hannover",
-        "Anwendugsentwicklung",
-        "Planung",
-        "Entwicklung",
-        "Anwendung",
-        "Software",
-        "Daten",
-        "Datenbanken",
-        "Programmierung",
-        "Logisches Denken",
-        "SQL",
-        "PHP",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Iphone",
-        "Hund",
-        "Katze",
-        "Fussball",
-        "Handball",
-        "Multi Media",
-        "Berufsschule"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-08T11:09:49.000Z",
+      "postedAt": "2026-09-08T17:27:35+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-341825",
+      "title": "Full Stack Developer",
+      "company": "typeform",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/full-stack-developer-341825",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill ",
+      "tags": [
+        "Information Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T15:55:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-ii-ai-enablement-team-london-321015",
+      "title": "Software Engineer II, AI Enablement Team",
+      "company": "Swap",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/software-engineer-ii-ai-enablement-team-london-321015",
+      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T15:40:07.000Z",
       "source": "Arbeitnow"
     },
     {
