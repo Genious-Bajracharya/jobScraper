@@ -1,107 +1,73 @@
 {
-  "updatedAt": "2026-09-08T10:28:12.510Z",
-  "total": 17,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-09-08T15:52:41.731Z",
+  "total": 14,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-349507",
-      "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
-      "company": "Meierhofer",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-349507",
-      "description": "Unsere StandorteBerlin, Hannover, Leipzig, München, Passau oder remote / im Homeoffice – die Tätigkeit ist standortunabhängig möglichDein zukünftiges TeamDu willst dein im Studium erworbenes Wissen in die Praxis umsetzen und bei der Weiterentwicklung unserer IT-Lösungen für Kliniken mitwirken? Im Be",
+      "id": "arbeitnow-fullstack-web-entwickler-hamburg-478554",
+      "title": "Fullstack Web-Entwickler (m/w/d)",
+      "company": "SHAPE DACH GmbH",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/shape-dach-gmbh/fullstack-web-entwickler-hamburg-478554",
+      "description": "Wir bauen Anwendungen, die im Betrieb bestehen. Dafür suchen wir jemanden, der ein Feature von der Datenbank bis ins Interface fertig macht und nicht auf halber Strecke stehen bleibt.\nWorum es bei uns geht\nUnsere Projekte laufen über Jahre, nicht über einzelne Sprints. Saubere Architektur und klare ",
       "tags": [
-        "München",
-        "Leipzig",
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T13:00:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-golang-bank-balance-berlin-472150",
+      "title": "Backend Engineer (Golang) - Bank Balance",
+      "company": "sumup",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-472150",
+      "description": "&lt;p&gt;At SumUp, the&amp;nbsp;&lt;strong&gt;Global Bank team &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Balance Management Squ",
+      "tags": [
+        "Backend"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T11:55:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-255132",
+      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
+      "company": "GETEC GRUPPE",
+      "location": "Hannover",
+      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-255132",
+      "description": "AufgabenWährend deiner Ausbildung besuchst du die Multi Media Berufsschule.Du lernst die Planung und Entwicklung von Softwareanwendungen kennen. Umsetzung von Geschäftsprozessen in Softwareprodukte.Anwendungs- und Kommunikationsdesign.Bei uns erlernst du das Applikationsmanagement.Du bekommst einen ",
+      "tags": [
+        "Ausbildung",
+        "Fachinformatiker",
+        "Fachinformatikerin",
         "Hannover",
-        "Berlin",
-        "Passau",
-        "Homeoffice",
-        "remote",
-        "IT-Security",
-        "ISO27001",
-        "Cybersecurity",
-        "Software security",
-        "Secure software development",
-        "OWASP",
-        "Kryptographie",
-        "Security engineering",
-        "Informatik",
-        "Computer science",
-        "Software engineering",
-        "Informationssicherheit",
-        "Softwarentwicklung",
-        "Fullstack development",
-        ".NET",
-        "C#",
-        "Medizininformatik student",
-        "Informatik student",
-        "wirtschaftsinformatik student"
+        "Anwendugsentwicklung",
+        "Planung",
+        "Entwicklung",
+        "Anwendung",
+        "Software",
+        "Daten",
+        "Datenbanken",
+        "Programmierung",
+        "Logisches Denken",
+        "SQL",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Iphone",
+        "Hund",
+        "Katze",
+        "Fussball",
+        "Handball",
+        "Multi Media",
+        "Berufsschule"
       ],
       "salary": null,
-      "postedAt": "2026-09-08T08:09:41.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-berlin-475016",
-      "title": "Frontend Engineer",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/frontend-engineer-berlin-475016",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T07:30:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-golang-berlin-303392",
-      "title": "Backend Engineer - Golang",
-      "company": "GlassFlow",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassflow/backend-engineer-golang-berlin-303392",
-      "description": "About GlassFlow:\nGlassFlow is the data infrastructure for AI agents in production. It has two products: GlassFlow Tares, which feeds agents correlated data from every system they touch, and GlassFlow Rius, which traces and debugs what agents do once they're running.\nWe’re a Berlin startup with a Sil",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T07:00:44.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-98052",
-      "title": "Full Stack Developer",
-      "company": "typeform",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.com/jobs/companies/typeform/full-stack-developer-98052",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill ",
-      "tags": [
-        "Information Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T05:55:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-284171",
-      "title": "Product Engineer (Backend/AI) @Briink",
-      "company": "Merantix",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-284171",
-      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
-      "tags": [
-        "backend",
-        "AI",
-        "LLM",
-        "product",
-        "product engineer",
-        "backend engineer",
-        "AI engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T05:09:24.000Z",
+      "postedAt": "2026-09-08T11:09:49.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -159,20 +125,6 @@
       "salary": null,
       "postedAt": "2026-09-07T11:17:09+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-product-engineer-backend-rust-paris-270716",
-      "title": "Product Engineer, Backend (Rust)",
-      "company": "Npv",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/npv/product-engineer-backend-rust-paris-270716",
-      "description": "We're looking for a Product Engineer, Backend (Rust) to join White Circle, an AI Safety company building the policy enforcement and optimization layer for AI systems. Backed by $11M from senior leaders at OpenAI, Anthropic, HuggingFace, Mistral, and DeepMind, White Circle processes 100M+ API calls m",
-      "tags": [
-        "White Circle"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-06T16:40:04.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remotive-2091087",
