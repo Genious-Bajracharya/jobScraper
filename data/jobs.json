@@ -1,29 +1,20 @@
 {
-  "updatedAt": "2026-09-09T02:44:07.049Z",
-  "total": 18,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-09T10:38:58.092Z",
+  "total": 13,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-trainee-frontend-development-berlin-451627",
-      "title": "Trainee Frontend Development (m/w/d)",
-      "company": "Brandung",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-451627",
-      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
+      "id": "arbeitnow-software-developer-junior-typescript-groovy-essen-148110",
+      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+      "company": "MESKRU GmbH",
+      "location": "Essen",
+      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-148110",
+      "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.\nAufgaben\nDas erwartet dich bei uns\nWeiterentwicklung, Wartung ",
       "tags": [
-        "Frontend Developer",
-        "TypeScript",
-        "React",
-        "Next.js",
-        "Vue",
-        "Nuxt3",
-        "KI",
-        "Coding",
-        "Trainee",
-        "JOIN"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-08T20:09:48.000Z",
+      "postedAt": "2026-09-09T07:30:28.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -41,34 +32,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
-      "title": "Controls Engineer - Rust Backend (m/f/d) for the renewable energy industry",
-      "company": "H.E.A.T. Energie-Software GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
-      "description": "The Role\nWe are seeking a Controls Engineer (m/f/d) to work on the local controller that runs at the heart of our customers' power plants. You will design and build the control logic that keeps solar, BESS, and thermal generation assets operating safely and efficiently. A passion for the energy tran",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T18:30:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-iot-cloud-edge-backend-for-the-renewable-energy-industry-berlin-71176",
-      "title": "Software Engineer - IoT/Cloud/Edge Backend (m/f/d) for the renewable energy industry",
-      "company": "H.E.A.T. Energie-Software GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/heat-energie-software-gmbh/software-engineer-iot-cloud-edge-backend-for-the-renewable-energy-industry-berlin-71176",
-      "description": "The Role\nWe are seeking an engineer to build the platform that powers our global fleet of power plant controllers. You'll develop systems that ingest, store, and transfer monitoring data from our controllers, both in the cloud and at the edge on industrial PCs. Your work will enable performance anal",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T18:00:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-152815",
       "title": "Backend Software Engineer, PDP Experience",
       "company": "Reddit",
@@ -83,34 +46,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-full-stack-developer-341825",
-      "title": "Full Stack Developer",
-      "company": "typeform",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/full-stack-developer-341825",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Who we are&lt;/h3&gt;\n&lt;p&gt;Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill ",
-      "tags": [
-        "Information Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T15:55:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ii-ai-enablement-team-london-321015",
-      "title": "Software Engineer II, AI Enablement Team",
-      "company": "Swap",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/software-engineer-ii-ai-enablement-team-london-321015",
-      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T15:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-fullstack-engineer-paris-91724",
       "title": "Fullstack Engineer",
       "company": "Comand Ai",
@@ -122,20 +57,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-07T19:40:18.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
-      "title": "Full Stack Developer - AI Marketplace",
-      "company": "Loftorbital",
-      "location": "Toulouse, Occitanie",
-      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
-      "description": "Wanna join the adventure?Loft Orbital flies other people's payloads and software on standardized satellites, and we are building the first marketplace for space-based AI applications: the store where partners publish, deploy, and monetize AI solutions that run on satellites in orbit. We are hiring t",
-      "tags": [
-        "AI Marketplace"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-07T16:04:11.000Z",
       "source": "Arbeitnow"
     },
     {
