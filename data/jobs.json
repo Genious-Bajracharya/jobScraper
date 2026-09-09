@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-09T15:48:06.108Z",
-  "total": 13,
+  "updatedAt": "2026-09-09T20:18:50.902Z",
+  "total": 14,
   "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-engineer-london-224546",
+      "title": "Full Stack Engineer",
+      "company": "Junior AI",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/junior-ai/full-stack-engineer-london-224546",
+      "description": "👶 About JuniorJunior is building the AI operating system for investment research. Our software helps private equity firms, consultants and financial institutions complete high-stakes research workflows dramatically faster - from diligence and memo writing to market mapping, research synthesis and s",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-09T18:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152920",
+      "title": "Backend Engineer - Platform - Stacks | UK | Remote",
+      "company": "Grafana Labs",
+      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
+      "url": "https://jobicy.com/jobs/152920-backend-engineer-platform-stacks-uk-remote",
+      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-09T16:37:38+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152887",
+      "title": "Backend Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "location": "Germany",
+      "url": "https://jobicy.com/jobs/152887-backend-engineer-net-f-m-d",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world's most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers customise their tech stack, automate routine work and deliver s",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-09T16:22:51+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-software-engineer-backend-bi-platform-london-59220",
       "title": "Software Engineer, Backend (BI Platform) ",
@@ -13,33 +55,6 @@
       "tags": [],
       "salary": null,
       "postedAt": "2026-09-09T14:45:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-golang-transfers-eu-berlin-10798",
-      "title": "Backend Engineer (Golang) - Transfers EU",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-transfers-eu-berlin-10798",
-      "description": "At SumUp, we empower small businesses with simple, affordable tools to start, run, and grow. Our Global Bank teams build the financial services that help merchants manage their money and keep their businesses moving.\nFor merchants, a transfer should feel simple. Behind that experience is a complex n",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-09T13:45:54.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-co-founder-cto-halle-saale-1305",
-      "title": "Co-Founder / CTO",
-      "company": "Baumetric",
-      "location": "Halle (Saale)",
-      "url": "https://www.arbeitnow.com/jobs/companies/baumetric/co-founder-cto-halle-saale-1305",
-      "description": "Technische:r Mitgründer:in gesucht: Backend &#x26; Data Engineer\nWir sind Ben und Franz, Gründer von Baumetric. Baumetric erhebt im Auftrag von Unternehmen aus der Immobilienwirtschaft und großen Kommunen Daten von Bestandsgebäuden vor Ort mit LiDAR, Thermografie, 360° und Drohne. Diese Daten werden",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T12:30:40.000Z",
       "source": "Arbeitnow"
     },
     {
