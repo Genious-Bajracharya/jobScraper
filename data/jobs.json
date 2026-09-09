@@ -1,20 +1,45 @@
 {
-  "updatedAt": "2026-09-09T10:38:58.092Z",
+  "updatedAt": "2026-09-09T15:48:06.108Z",
   "total": 13,
-  "newSinceLastRun": 1,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-software-developer-junior-typescript-groovy-essen-148110",
-      "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
-      "company": "MESKRU GmbH",
-      "location": "Essen",
-      "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-148110",
-      "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen.\nAufgaben\nDas erwartet dich bei uns\nWeiterentwicklung, Wartung ",
+      "id": "arbeitnow-software-engineer-backend-bi-platform-london-59220",
+      "title": "Software Engineer, Backend (BI Platform) ",
+      "company": "Wolt - English",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/software-engineer-backend-bi-platform-london-59220",
+      "description": "About Wolt\nAt Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In ",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-09T14:45:25.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-golang-transfers-eu-berlin-10798",
+      "title": "Backend Engineer (Golang) - Transfers EU",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-transfers-eu-berlin-10798",
+      "description": "At SumUp, we empower small businesses with simple, affordable tools to start, run, and grow. Our Global Bank teams build the financial services that help merchants manage their money and keep their businesses moving.\nFor merchants, a transfer should feel simple. Behind that experience is a complex n",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-09T13:45:54.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-co-founder-cto-halle-saale-1305",
+      "title": "Co-Founder / CTO",
+      "company": "Baumetric",
+      "location": "Halle (Saale)",
+      "url": "https://www.arbeitnow.com/jobs/companies/baumetric/co-founder-cto-halle-saale-1305",
+      "description": "Technische:r Mitgründer:in gesucht: Backend &#x26; Data Engineer\nWir sind Ben und Franz, Gründer von Baumetric. Baumetric erhebt im Auftrag von Unternehmen aus der Immobilienwirtschaft und großen Kommunen Daten von Bestandsgebäuden vor Ort mit LiDAR, Thermografie, 360° und Drohne. Diese Daten werden",
       "tags": [
+        "Remote",
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-09T07:30:28.000Z",
+      "postedAt": "2026-09-09T12:30:40.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -44,20 +69,6 @@
       "salary": null,
       "postedAt": "2026-09-08T17:27:35+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-paris-91724",
-      "title": "Fullstack Engineer",
-      "company": "Comand Ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/comand-ai/fullstack-engineer-paris-91724",
-      "description": "Comand AI's mission is to build next-generation C2 software with real users in real deployments in the field. We are fully indexed on the success of every single user, which means the product you ship supports live defence operations, not a benchmark.You'd join the engineering team to own features e",
-      "tags": [
-        "Product Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-07T19:40:18.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-152707",
@@ -188,21 +199,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-28T12:17:39+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1137165",
-      "title": "Now Hiring",
-      "company": "Greater Pell City Chamber of Commerce",
-      "location": "Lincoln, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-now-hiring-greater-pell-city-chamber-of-commerce-1137165",
-      "description": "New South Express is seeking dedicated, hardworking individuals to join our team. We offer exciting career opportunities in transportation and logistics, competitive pay, comprehensive benefits, and opportunities for professional growth. If you are committed to safety, teamwork, and delivering excep",
-      "tags": [
-        "marketing",
-        "non tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-27T07:00:22+00:00",
       "source": "RemoteOK"
     },
     {
