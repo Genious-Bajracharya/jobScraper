@@ -1,8 +1,45 @@
 {
-  "updatedAt": "2026-09-08T20:36:32.731Z",
-  "total": 16,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-09-09T02:44:07.049Z",
+  "total": 18,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-trainee-frontend-development-berlin-451627",
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-451627",
+      "description": "  Du willst Frontend nicht nur lernen, sondern an echten Projekten anwenden. Bei uns baust du vom ersten Tag an mit, begleitet, aber nicht an der Seitenlinie. BRANDUNG ist eine unabhängige Digitalagentur in Berlin. Wir entwickeln Websites, Shops und Applikationen: für bekannte Marken ebenso wie für ",
+      "tags": [
+        "Frontend Developer",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Vue",
+        "Nuxt3",
+        "KI",
+        "Coding",
+        "Trainee",
+        "JOIN"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T20:09:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152819",
+      "title": "Software Engineer, Data Integration",
+      "company": "Bayesian Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engine",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-08T18:41:43+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-controls-engineer-rust-backend-for-the-renewable-energy-industry-berlin-38841",
       "title": "Controls Engineer - Rust Backend (m/f/d) for the renewable energy industry",
