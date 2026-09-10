@@ -1,22 +1,35 @@
 {
-  "updatedAt": "2026-09-10T02:45:57.690Z",
-  "total": 28,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-09-10T10:27:04.410Z",
+  "total": 27,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-remote-python-backend-engineer-berlin-248550",
-      "title": "Python Backend Engineer (m/f/x)",
-      "company": "Makersite GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-248550",
-      "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustaina",
+      "id": "arbeitnow-frontend-engineer-germany-87472",
+      "title": "Frontend Engineer",
+      "company": "Bjak",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/bjak/frontend-engineer-germany-87472",
+      "description": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errand",
       "tags": [
-        "Engineering",
-        "Remote"
+        "ActAI Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-09T23:30:23.000Z",
+      "postedAt": "2026-09-10T08:40:11.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-145744",
+      "title": "Frontend Engineer React and AWS",
+      "company": "Numentica",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
+      "description": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-10T04:30:27+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-software-engineering-intern-paris-74277",
@@ -30,36 +43,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-09T22:56:01.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-java-full-stack-developer-martinsried-85702",
-      "title": "Java Full Stack Developer (m/f/d)",
-      "company": "Epay",
-      "location": "Martinsried, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/epay/java-full-stack-developer-martinsried-85702",
-      "description": "Do you enjoy developing scalable applications, while consistently adopting an AI-first approach? As a Java Full Stack Developer, AI-powered tools are a key part of your daily work, while you design, build and optimize modern software solutions. From implementing new features and conducting code revi",
-      "tags": [
-        "Information Technology",
-        "Information Technology and Services",
-        "epay Germany (Transact)"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T20:20:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-224546",
-      "title": "Full Stack Engineer",
-      "company": "Junior AI",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/junior-ai/full-stack-engineer-london-224546",
-      "description": "👶 About JuniorJunior is building the AI operating system for investment research. Our software helps private equity firms, consultants and financial institutions complete high-stakes research workflows dramatically faster - from diligence and memo writing to market mapping, research synthesis and s",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T18:40:05.000Z",
       "source": "Arbeitnow"
     },
     {
