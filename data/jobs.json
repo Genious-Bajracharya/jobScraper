@@ -1,20 +1,60 @@
 {
-  "updatedAt": "2026-09-10T10:27:04.410Z",
-  "total": 27,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-10T15:43:26.001Z",
+  "total": 29,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-engineer-germany-87472",
-      "title": "Frontend Engineer",
-      "company": "Bjak",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bjak/frontend-engineer-germany-87472",
-      "description": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errand",
+      "id": "arbeitnow-frontend-software-developer-webstack-regensburg-95321",
+      "title": "Frontend Software Developer - Webstack (m/w/d)",
+      "company": "Hallo Welt! GmbH",
+      "location": "Regensburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/frontend-software-developer-webstack-regensburg-95321",
+      "description": "Frontend-Development und Usability sind Ihre Welt? Sie setzen UX-Designs problemlos in HTML, CSS, JavaScript um? Wir suchen eine:n Frontend Software Developer:in, um unsere Software weiterentwickelt und Features zu optimieren.\nAufgaben\n\nSie setzen dabei Screendesigns mittels HTML, CSS, JavaScript um",
       "tags": [
-        "ActAI Engineering"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-10T08:40:11.000Z",
+      "postedAt": "2026-09-10T12:30:35.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-datenmigration-regensburg-6104",
+      "title": "Backend Developer Datenmigration (m/w/d)",
+      "company": "Hallo Welt! GmbH",
+      "location": "Regensburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/backend-developer-datenmigration-regensburg-6104",
+      "description": "Machen Sie aus Systemwechseln einen sauberen Sprung? Für Migrationen von anderen Systemen wie Confluence zu BlueSpice suchen wir eine:n Backend Developer für Datenmigration (m/w/d).\nAufgaben\n\nSie planen, bereiten vor und führen Migrationen von Systemen wie Confluence oder DokuWiki nach BlueSpice dur",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-10T12:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-golang-transfers-eu-berlin-291024",
+      "title": "Backend Engineer (Golang) - Transfers EU",
+      "company": "sumup",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-transfers-eu-berlin-291024",
+      "description": "&lt;p&gt;At SumUp, we empower small businesses with simple, affordable tools to start, run, and grow. Our &lt;strong&gt;Global Bank teams&lt;/strong&gt; build the financial services that help merchants manage their money and keep their businesses moving.&lt;/p&gt;\n&lt;p&gt;For merchants, a transfer ",
+      "tags": [
+        "Backend"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-10T11:55:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpeur-backend-php-alternance-12-mois-rouen-401721",
+      "title": "Développeur Backend PHP (Alternance 12 mois)",
+      "company": "Lemonway",
+      "location": "Rouen, Normandie, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-alternance-12-mois-rouen-401721",
+      "description": "A propos de LemonwayLemonway est un établissement de paiement agréé, au cœur de la nouvelle économie européenne.Nous sécurisons les paiements des plateformes de financement participatif, d’économie collaborative, des marketplaces et des e-commerçants, avec un fort engagement contre la fraude et pour",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-10T10:30:20.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -703,27 +743,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-04T23:02:29+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...Please mention the",
-      "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-29T20:00:01+00:00",
       "source": "RemoteOK"
     }
   ]
