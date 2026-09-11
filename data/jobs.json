@@ -1,33 +1,34 @@
 {
-  "updatedAt": "2026-09-11T02:39:13.689Z",
-  "total": 29,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-09-11T10:29:20.540Z",
+  "total": 26,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-software-engineer-munchen-87768",
-      "title": "Fullstack Software Engineer (m/w/d)",
-      "company": "Rhein Nadel Automation Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-87768",
-      "description": "Wer wir sind  RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den ",
+      "id": "arbeitnow-software-engineer-java-backend-london-89196",
+      "title": "Software Engineer  (Java Backend)",
+      "company": "Arq",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-backend-london-89196",
+      "description": "About ARQARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We’re still early in our journey, which means every person who joins shapes the future of our product, cul",
       "tags": [
-        "Python",
-        "Django",
-        "ORM-Tools",
-        "SQL",
-        "Javascript",
-        "React",
-        "Softwareentwickler",
-        "Software Developer",
-        "Prozessdigitalisierung",
-        "KI",
-        "Künstliche Intelligenz",
-        "AI",
-        "Physik-Simulationen",
-        "Docker"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-11T02:09:56.000Z",
+      "postedAt": "2026-09-11T06:40:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-london-303387",
+      "title": "Frontend Engineer",
+      "company": "Bjak",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-london-303387",
+      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands",
+      "tags": [
+        "ActAI Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T06:40:08.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -60,20 +61,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-junior-fullstack-developer-frankfurt-483282",
-      "title": "Junior Fullstack Developer",
-      "company": "ABRIO GmbH",
-      "location": "Frankfurt, Hessen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-483282",
-      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast erste praktische Erfahrung mit React, TypeScript und modernen Frontends und möchtest E-Commerce-Lösungen für D2C-, B2C- und B2B-Marken bauen? Bei ABRIO entwickelst du performante Shopify-Frontends, setzt F",
-      "tags": [
-        "Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T23:30:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-developpement-fullstack-java-vuejs-dominante-back-senior-metz-fr-194613",
       "title": "Développement Fullstack Java / Vue.js (dominante Back) Sénior (METZ - FR)",
       "company": "AUBAY S.A.",
@@ -99,65 +86,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-10T22:30:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-170194",
-      "title": "Werkstudent*in im Projektmanagement",
-      "company": "Doo",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-170194",
-      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
-      "tags": [
-        "Projektmanagement",
-        "CSS",
-        "HTML",
-        "Werkstudent",
-        "Product Consulting",
-        "JavaScript",
-        "Engineering",
-        "Make",
-        "Webentwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T17:09:19.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-java-backend-developer-munchen-486870",
-      "title": "Java Backend Developer (m/w/d)",
-      "company": "Avelion Group",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-486870",
-      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
-      "tags": [
-        "java",
-        "java backend development",
-        "spring boot",
-        "softwareentwicklung",
-        "backend development",
-        "clean code",
-        "agile softwareentwicklung",
-        "software engineering",
-        "REST / Schnittstellenentwicklung",
-        "Informatik"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T17:09:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-bi-platform-london-235616",
-      "title": "Software Engineer, Backend (BI Platform) ",
-      "company": "wolt",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt/software-engineer-backend-bi-platform-london-235616",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we ",
-      "tags": [
-        "Data group"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T15:55:25.000Z",
       "source": "Arbeitnow"
     },
     {
