@@ -1,8 +1,106 @@
 {
-  "updatedAt": "2026-09-10T20:20:59.107Z",
-  "total": 24,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-09-11T02:39:13.689Z",
+  "total": 29,
+  "newSinceLastRun": 6,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-software-engineer-munchen-87768",
+      "title": "Fullstack Software Engineer (m/w/d)",
+      "company": "Rhein Nadel Automation Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-87768",
+      "description": "Wer wir sind  RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den ",
+      "tags": [
+        "Python",
+        "Django",
+        "ORM-Tools",
+        "SQL",
+        "Javascript",
+        "React",
+        "Softwareentwickler",
+        "Software Developer",
+        "Prozessdigitalisierung",
+        "KI",
+        "Künstliche Intelligenz",
+        "AI",
+        "Physik-Simulationen",
+        "Docker"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T02:09:56.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-backend-bi-platform-london-290051",
+      "title": "Software Engineer, Backend (BI Platform) ",
+      "company": "Woltglobal2",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
+      "description": "&lt;h2&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Core BI team at DoorDash builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists",
+      "tags": [
+        "Data group"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T00:55:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-wallets-100-remote-london-355455",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "company": "Tether Operations Limited",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
+      "description": "Join Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across",
+      "tags": [
+        "Development",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T00:30:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-fullstack-developer-frankfurt-483282",
+      "title": "Junior Fullstack Developer",
+      "company": "ABRIO GmbH",
+      "location": "Frankfurt, Hessen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-483282",
+      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast erste praktische Erfahrung mit React, TypeScript und modernen Frontends und möchtest E-Commerce-Lösungen für D2C-, B2C- und B2B-Marken bauen? Bei ABRIO entwickelst du performante Shopify-Frontends, setzt F",
+      "tags": [
+        "Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-10T23:30:25.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpement-fullstack-java-vuejs-dominante-back-senior-metz-fr-194613",
+      "title": "Développement Fullstack Java / Vue.js (dominante Back) Sénior (METZ - FR)",
+      "company": "AUBAY S.A.",
+      "location": "METZ, Grand Est, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aubay-sa/developpement-fullstack-java-vuejs-dominante-back-senior-metz-fr-194613",
+      "description": "Pour l’un de nos clients, du secteur de la grande distribution à Metz, nous recherchons plusieurs Développeurs JAVA FULLSTACK - Dominante BACK - SENIORContexte de la mission : La Digital Factory Magasins Front conçoit et développe les services digitaux front-office destinés aux collaborateurs en mag",
+      "tags": [
+        "Informatique"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-10T22:30:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpement-fullstack-java-vuejs-dominante-front-senior-metz-fr-407265",
+      "title": "Développement Fullstack Java / Vue.js (dominante Front) Sénior (METZ - FR)",
+      "company": "AUBAY S.A.",
+      "location": "METZ, Grand Est, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/aubay-sa/developpement-fullstack-java-vuejs-dominante-front-senior-metz-fr-407265",
+      "description": "Pour l’un de nos clients du secteur de la grande distribution à METZ (France), nous recherchons plusieurs développeurs Fullstack JAVA-Vue JS (Dominante Front) Senior Description de la mission:La Digital Factory Magasins Front conçoit et développe les services digitaux front-office destinés aux colla",
+      "tags": [
+        "Informatique"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-10T22:30:14.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-170194",
       "title": "Werkstudent*in im Projektmanagement",
@@ -60,21 +158,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-10T15:55:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-fullstack-developer-frankfurt-118493",
-      "title": "Junior Fullstack Developer",
-      "company": "ABRIO GmbH",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-118493",
-      "description": "Frankfurt am Main | Hybrid: 2–3 Tage Büro/Woche | Vollzeit | Deutsch C1/C2 erforderlichDu hast erste praktische Erfahrung mit React, TypeScript und modernen Frontends und möchtest E-Commerce-Lösungen für D2C-, B2C- und B2B-Marken bauen? Bei ABRIO entwickelst du performante Shopify-Frontends, setzt F",
-      "tags": [
-        "Information technology",
-        "high school coursework"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T15:20:10.000Z",
       "source": "Arbeitnow"
     },
     {
