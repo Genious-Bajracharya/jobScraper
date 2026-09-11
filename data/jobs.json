@@ -1,20 +1,50 @@
 {
-  "updatedAt": "2026-09-11T15:44:41.326Z",
-  "total": 28,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-11T20:21:59.014Z",
+  "total": 26,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-founders-associate-fur-impact-accelerator-hamburg-420704",
-      "title": "Founders Associate für Impact-Accelerator (w/m/d)",
-      "company": "Founders Bay",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/founders-bay/founders-associate-fur-impact-accelerator-hamburg-420704",
-      "description": "Der Founders Bay Accelerator unterstützt Impact Startups, oft aus den Bereichen Traveltech, New Work und Mobility, die den Unterschied machen wollen. Unser Programm, welches in Mecklenburg-Vorpommern gestartet ist, wird nun deutschlandweit ausgerollt und richtet sich ausschließlich an nachhaltige un",
+      "id": "arbeitnow-full-stack-engineer-united-kingdom-2851",
+      "title": "Full Stack Engineer",
+      "company": "Kpler",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
+      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. \n&nbsp;\nSince our founding in 2014, we have",
       "tags": [
-        "Business Development"
+        "IT"
       ],
       "salary": null,
-      "postedAt": "2026-09-11T14:00:22.000Z",
+      "postedAt": "2026-09-11T18:05:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-132079",
+      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
+      "company": "Ineratec Gmbh 1",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-132079",
+      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
+      "tags": [
+        "Process Engineer",
+        "Plant Engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T17:09:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-dozentin-fur-sap-fi-co-fur-edtech-startup-remote-berlin-425245",
+      "title": "Dozent*in für SAP (FI / CO) für EdTech Startup (remote)",
+      "company": "Syntax Institut",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/dozentin-fur-sap-fi-co-fur-edtech-startup-remote-berlin-425245",
+      "description": "ÜBER DAS SYNTAX INSTITUT\nDas Syntax Institut ist ein schnell wachsendes EdTech-Unternehmen aus Berlin, das von erfolgreichen Unternehmern gegründet wurde. Unsere Mission ist es, Menschen praxisnah für gefragte Berufe in der Tech-Branche zu qualifizieren und sie erfolgreich in den Arbeitsmarkt zu int",
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T17:00:33.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -32,34 +62,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fachplanerin-hlks-burghaun-265250",
-      "title": "Fachplaner*in HLKS (m/w/x)",
-      "company": "rauschenberg ingenieure gmbh",
-      "location": "Burghaun",
-      "url": "https://www.arbeitnow.com/jobs/companies/rauschenberg-ingenieure-gmbh/fachplanerin-hlks-burghaun-265250",
-      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Termin:\nFACHPLANER für den Bereich HLKS (M/W/X)\nIN VOLLZEIT\nAm Standort: Burghaun\nrauschenberg ingenieure gmbh ist seit 1994 ein visionäres Ingenieurbüro mit drei Standorten in Burghaun bei Fulda, Hagen-Hohenlimburg und Mechernich-Kommern.",
-      "tags": [
-        "Building",
-        "Supply",
-        "Safety Services Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T12:30:34.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-koln-120219",
-      "title": "Fullstack Developer (m/w/d)",
-      "company": "Semdor Pharma Group GmbH",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-120219",
-      "description": "Deine AufgabenBloombase baut die führende ERP-Plattform für Cannabis-Apotheken in Deutschland. Gegründet mit dem Full-Stack-Know-how von SnapNext und dem Branchenrückhalt von Cannamedical – einem der größten Cannabis-Konzerne im deutschsprachigen Raum – entwickeln wir eine B2B-Software, die das Cann",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-11T11:09:18.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-software-engineer-java-backend-london-89196",
       "title": "Software Engineer  (Java Backend)",
       "company": "Arq",
@@ -71,34 +73,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-11T06:40:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-london-303387",
-      "title": "Frontend Engineer",
-      "company": "Bjak",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-london-303387",
-      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands",
-      "tags": [
-        "ActAI Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T06:40:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-bi-platform-london-290051",
-      "title": "Software Engineer, Backend (BI Platform) ",
-      "company": "Woltglobal2",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/woltglobal2/software-engineer-backend-bi-platform-london-290051",
-      "description": "&lt;h2&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;The Core BI team at DoorDash builds and operates the services, integrations and automation that power business intelligence across DoorDash, Deliveroo and Wolt. Our platforms help analysts, Analytics Engineers, Data Scientists",
-      "tags": [
-        "Data group"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T00:55:12.000Z",
       "source": "Arbeitnow"
     },
     {
