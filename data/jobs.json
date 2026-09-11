@@ -1,8 +1,64 @@
 {
-  "updatedAt": "2026-09-11T10:29:20.540Z",
-  "total": 26,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-11T15:44:41.326Z",
+  "total": 28,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-founders-associate-fur-impact-accelerator-hamburg-420704",
+      "title": "Founders Associate für Impact-Accelerator (w/m/d)",
+      "company": "Founders Bay",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/founders-bay/founders-associate-fur-impact-accelerator-hamburg-420704",
+      "description": "Der Founders Bay Accelerator unterstützt Impact Startups, oft aus den Bereichen Traveltech, New Work und Mobility, die den Unterschied machen wollen. Unser Programm, welches in Mecklenburg-Vorpommern gestartet ist, wird nun deutschlandweit ausgerollt und richtet sich ausschließlich an nachhaltige un",
+      "tags": [
+        "Business Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T14:00:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineering-team-lead-london-manchester-271704",
+      "title": "Backend Engineering Team Lead",
+      "company": "Netcraft",
+      "location": "London, Manchester",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcraft/backend-engineering-team-lead-london-manchester-271704",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Netcraft&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Netcraft is the global leader in cybercrime detection and disruption. We’re a trusted partner for three of the four largest companies in the world and many",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T12:55:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fachplanerin-hlks-burghaun-265250",
+      "title": "Fachplaner*in HLKS (m/w/x)",
+      "company": "rauschenberg ingenieure gmbh",
+      "location": "Burghaun",
+      "url": "https://www.arbeitnow.com/jobs/companies/rauschenberg-ingenieure-gmbh/fachplanerin-hlks-burghaun-265250",
+      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Termin:\nFACHPLANER für den Bereich HLKS (M/W/X)\nIN VOLLZEIT\nAm Standort: Burghaun\nrauschenberg ingenieure gmbh ist seit 1994 ein visionäres Ingenieurbüro mit drei Standorten in Burghaun bei Fulda, Hagen-Hohenlimburg und Mechernich-Kommern.",
+      "tags": [
+        "Building",
+        "Supply",
+        "Safety Services Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T12:30:34.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-koln-120219",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Semdor Pharma Group GmbH",
+      "location": "Köln",
+      "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-120219",
+      "description": "Deine AufgabenBloombase baut die führende ERP-Plattform für Cannabis-Apotheken in Deutschland. Gegründet mit dem Full-Stack-Know-how von SnapNext und dem Branchenrückhalt von Cannamedical – einem der größten Cannabis-Konzerne im deutschsprachigen Raum – entwickeln wir eine B2B-Software, die das Cann",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-11T11:09:18.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-java-backend-london-89196",
       "title": "Software Engineer  (Java Backend)",
@@ -43,21 +99,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-11T00:55:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-wallets-100-remote-london-355455",
-      "title": "Backend Engineer - Wallets (100% Remote)",
-      "company": "Tether Operations Limited",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
-      "description": "Join Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across",
-      "tags": [
-        "Development",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T00:30:14.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -225,32 +266,6 @@
       "salary": null,
       "postedAt": "2026-09-07T11:17:09+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "remotive-2091087",
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations.\nOur European client base is growing fast and we need someone who can keep up. Our software isn’t your average plug-and-play; it has a steep learni",
-      "tags": [
-        "api",
-        "CSS",
-        "go",
-        "html",
-        "javascript",
-        "saas",
-        "onboarding",
-        "chat",
-        "startup",
-        "troubleshooting",
-        "product support",
-        "testing",
-        "github"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-05T08:34:20",
-      "source": "Remotive"
     },
     {
       "id": "remoteok-1137062",
