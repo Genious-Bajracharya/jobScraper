@@ -1,8 +1,37 @@
 {
-  "updatedAt": "2026-09-12T09:57:26.679Z",
+  "updatedAt": "2026-09-12T14:52:34.086Z",
   "total": 19,
-  "newSinceLastRun": 0,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-engineer-berlin-226964",
+      "title": "Full Stack Engineer",
+      "company": "Worldwide Placement Limited",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/full-stack-engineer-berlin-226964",
+      "description": "\nLocation: Berlin, Germany (Hybrid)\nWork Policy: : Hybrid; fully remote possible for exceptional candidates\nWork Experience: +5 years experience\nLanguage Requirement: English B2\nEmployment Type: Full-time\nTechnical Skills Required: Full Stack Development, TypeScript, React Native, LLMs, API design, ",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-12T13:00:23.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
+      "title": "Freelance Software  / Data / AI Engineer (m/w/d) - Development | Data | AI",
+      "company": "Nexgate IT GmbH",
+      "location": "Bad Homburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
+      "description": "Für aktuelle und zukünftige Kundenprojekte suchen wir erfahrene freiberufliche Softwareentwickler, AI/ML Engineers und Data Engineers (m/w/d) aus unterschiedlichen technologischen Fachbereichen.\nWir suchen insbesondere Expertise in folgenden Bereichen:\n\nBackend Development – Java, C#/.NET, Python, G",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-12T12:00:24.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-engineer-united-kingdom-2851",
       "title": "Full Stack Engineer",
@@ -15,20 +44,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-11T18:05:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineering-team-lead-london-manchester-271704",
-      "title": "Backend Engineering Team Lead",
-      "company": "Netcraft",
-      "location": "London, Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netcraft/backend-engineering-team-lead-london-manchester-271704",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About Netcraft&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Netcraft is the global leader in cybercrime detection and disruption. We’re a trusted partner for three of the four largest companies in the world and many",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T12:55:04.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -200,38 +215,6 @@
       "salary": null,
       "postedAt": "2026-08-14T08:00:04+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "remotive-1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to",
-      "tags": [
-        "CSS",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "MySQL",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jQuery",
-        "Ajax"
-      ],
-      "salary": "$31,2k- $52k",
-      "postedAt": "2026-08-11T20:18:02",
-      "source": "Remotive"
     },
     {
       "id": "remoteok-1136188",
