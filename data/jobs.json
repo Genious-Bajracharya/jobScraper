@@ -1,44 +1,8 @@
 {
-  "updatedAt": "2026-09-12T02:48:34.880Z",
-  "total": 23,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-12T09:57:26.679Z",
+  "total": 19,
+  "newSinceLastRun": 0,
   "jobs": [
-    {
-      "id": "arbeitnow-mid-level-fullstack-engineer-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-196236",
-      "title": "Mid level - Fullstack Engineer",
-      "company": "Staffbase",
-      "location": "Berlin, Brandenburg; Chemnitz, Sachsen; Dresden, Sachsen",
-      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/mid-level-fullstack-engineer-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-196236",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong&gt;AI-native Employ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T20:55:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-216629",
-      "title": "Product Engineer - Frontend (all genders)",
-      "company": "Koppla",
-      "location": "Berlin (hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-216629",
-      "description": "In a nutshellkoppla is building the next-gen collaborative scheduling platform for construction, helping project managers keep projects on time by identifying delays and disruptions before they impact timelines.We are looking for a product-minded Frontend Engineers in Berlin that loves building actu",
-      "tags": [
-        "Typescript",
-        "Backend",
-        "Frontend",
-        "fullstack",
-        "Developer",
-        "Software engineer",
-        "Backend developer",
-        "Web dev",
-        "product engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T20:09:50.000Z",
-      "source": "Arbeitnow"
-    },
     {
       "id": "arbeitnow-full-stack-engineer-united-kingdom-2851",
       "title": "Full Stack Engineer",
@@ -65,34 +29,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-11T12:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developpement-fullstack-java-vuejs-dominante-back-senior-metz-fr-194613",
-      "title": "Développement Fullstack Java / Vue.js (dominante Back) Sénior (METZ - FR)",
-      "company": "AUBAY S.A.",
-      "location": "METZ, Grand Est, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/aubay-sa/developpement-fullstack-java-vuejs-dominante-back-senior-metz-fr-194613",
-      "description": "Pour l’un de nos clients, du secteur de la grande distribution à Metz, nous recherchons plusieurs Développeurs JAVA FULLSTACK - Dominante BACK - SENIORContexte de la mission : La Digital Factory Magasins Front conçoit et développe les services digitaux front-office destinés aux collaborateurs en mag",
-      "tags": [
-        "Informatique"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T22:30:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developpement-fullstack-java-vuejs-dominante-front-senior-metz-fr-407265",
-      "title": "Développement Fullstack Java / Vue.js (dominante Front) Sénior (METZ - FR)",
-      "company": "AUBAY S.A.",
-      "location": "METZ, Grand Est, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/aubay-sa/developpement-fullstack-java-vuejs-dominante-front-senior-metz-fr-407265",
-      "description": "Pour l’un de nos clients du secteur de la grande distribution à METZ (France), nous recherchons plusieurs développeurs Fullstack JAVA-Vue JS (Dominante Front) Senior Description de la mission:La Digital Factory Magasins Front conçoit et développe les services digitaux front-office destinés aux colla",
-      "tags": [
-        "Informatique"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T22:30:14.000Z",
       "source": "Arbeitnow"
     },
     {
