@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-09-11T20:21:59.014Z",
-  "total": 26,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-12T02:48:34.880Z",
+  "total": 23,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-mid-level-fullstack-engineer-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-196236",
+      "title": "Mid level - Fullstack Engineer",
+      "company": "Staffbase",
+      "location": "Berlin, Brandenburg; Chemnitz, Sachsen; Dresden, Sachsen",
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/mid-level-fullstack-engineer-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-196236",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong&gt;AI-native Employ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T20:55:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-frontend-all-genders-berlin-hybrid-216629",
+      "title": "Product Engineer - Frontend (all genders)",
+      "company": "Koppla",
+      "location": "Berlin (hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-216629",
+      "description": "In a nutshellkoppla is building the next-gen collaborative scheduling platform for construction, helping project managers keep projects on time by identifying delays and disruptions before they impact timelines.We are looking for a product-minded Frontend Engineers in Berlin that loves building actu",
+      "tags": [
+        "Typescript",
+        "Backend",
+        "Frontend",
+        "fullstack",
+        "Developer",
+        "Software engineer",
+        "Backend developer",
+        "Web dev",
+        "product engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-11T20:09:50.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-engineer-united-kingdom-2851",
       "title": "Full Stack Engineer",
@@ -18,36 +54,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-132079",
-      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
-      "company": "Ineratec Gmbh 1",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-132079",
-      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
-      "tags": [
-        "Process Engineer",
-        "Plant Engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T17:09:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-dozentin-fur-sap-fi-co-fur-edtech-startup-remote-berlin-425245",
-      "title": "Dozent*in für SAP (FI / CO) für EdTech Startup (remote)",
-      "company": "Syntax Institut",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/dozentin-fur-sap-fi-co-fur-edtech-startup-remote-berlin-425245",
-      "description": "ÜBER DAS SYNTAX INSTITUT\nDas Syntax Institut ist ein schnell wachsendes EdTech-Unternehmen aus Berlin, das von erfolgreichen Unternehmern gegründet wurde. Unsere Mission ist es, Menschen praxisnah für gefragte Berufe in der Tech-Branche zu qualifizieren und sie erfolgreich in den Arbeitsmarkt zu int",
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T17:00:33.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-backend-engineering-team-lead-london-manchester-271704",
       "title": "Backend Engineering Team Lead",
       "company": "Netcraft",
@@ -59,20 +65,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-11T12:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-java-backend-london-89196",
-      "title": "Software Engineer  (Java Backend)",
-      "company": "Arq",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/arq/software-engineer-java-backend-london-89196",
-      "description": "About ARQARQ is one of the fastest-growing fintechs in the world. Our mission is to redefine how people interact with money across borders, building the infrastructure to move value seamlessly. We’re still early in our journey, which means every person who joins shapes the future of our product, cul",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-11T06:40:13.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -104,18 +96,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-developpeur-backend-php-alternance-12-mois-rouen-401721",
-      "title": "Développeur Backend PHP (Alternance 12 mois)",
-      "company": "Lemonway",
-      "location": "Rouen, Normandie, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lemonway/developpeur-backend-php-alternance-12-mois-rouen-401721",
-      "description": "A propos de LemonwayLemonway est un établissement de paiement agréé, au cœur de la nouvelle économie européenne.Nous sécurisons les paiements des plateformes de financement participatif, d’économie collaborative, des marketplaces et des e-commerçants, avec un fort engagement contre la fraude et pour",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-10T10:30:20.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-145744",
       "title": "Frontend Engineer React and AWS",
       "company": "Numentica",
@@ -128,20 +108,6 @@
       "salary": null,
       "postedAt": "2026-09-10T04:30:27+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-software-engineering-intern-paris-74277",
-      "title": "Software Engineering Intern",
-      "company": "Datadog",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-74277",
-      "description": "&lt;p&gt;We’re looking for Software Engineering Interns to help build and scale the systems that power Datadog’s observability and security platform. Interns contribute directly to real-world engineering challenges across backend, frontend, infrastructure, data engineering, and developer tooling whi",
-      "tags": [
-        "Engineering Interns"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T22:56:01.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-152938",
