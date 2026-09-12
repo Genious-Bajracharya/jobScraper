@@ -1,20 +1,26 @@
 {
-  "updatedAt": "2026-09-12T14:52:34.086Z",
-  "total": 19,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-12T20:04:50.810Z",
+  "total": 17,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-engineer-berlin-226964",
-      "title": "Full Stack Engineer",
-      "company": "Worldwide Placement Limited",
+      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-145032",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/full-stack-engineer-berlin-226964",
-      "description": "\nLocation: Berlin, Germany (Hybrid)\nWork Policy: : Hybrid; fully remote possible for exceptional candidates\nWork Experience: +5 years experience\nLanguage Requirement: English B2\nEmployment Type: Full-time\nTechnical Skills Required: Full Stack Development, TypeScript, React Native, LLMs, API design, ",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-145032",
+      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
       "tags": [
-        "Software Development"
+        "backend",
+        "AI",
+        "LLM",
+        "product",
+        "product engineer",
+        "backend engineer",
+        "AI engineer"
       ],
       "salary": null,
-      "postedAt": "2026-09-12T13:00:23.000Z",
+      "postedAt": "2026-09-12T17:09:45.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -29,21 +35,21 @@
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-12T12:00:24.000Z",
+      "postedAt": "2026-09-12T16:17:25.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-engineer-united-kingdom-2851",
+      "id": "arbeitnow-full-stack-engineer-berlin-226964",
       "title": "Full Stack Engineer",
-      "company": "Kpler",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/full-stack-engineer-united-kingdom-2851",
-      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. \n&nbsp;\nSince our founding in 2014, we have",
+      "company": "Worldwide Placement Limited",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/full-stack-engineer-berlin-226964",
+      "description": "\nLocation: Berlin, Germany (Hybrid)\nWork Policy: : Hybrid; fully remote possible for exceptional candidates\nWork Experience: +5 years experience\nLanguage Requirement: English B2\nEmployment Type: Full-time\nTechnical Skills Required: Full Stack Development, TypeScript, React Native, LLMs, API design, ",
       "tags": [
-        "IT"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-11T18:05:08.000Z",
+      "postedAt": "2026-09-12T13:00:23.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -128,34 +134,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-08T17:27:35+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152707",
-      "title": "Fullstack Software Engineer - Core",
-      "company": "Dataiku",
-      "location": "France,  Germany,  Netherlands,  Spain,  UK",
-      "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
-      "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-07T14:03:01+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151461",
-      "title": "Product Engineer (Full Stack)",
-      "company": "Maze",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
-      "description": "Summary of the Role: As Product Engineer (Full Stack) at Maze, you'll be the technical force behind our customer-facing product experience, owning the complete stack from UI to API while moving at startup velocity. This is a unique opportunity to join as one of the early engineering team members of ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-07T11:17:09+00:00",
       "source": "Jobicy"
     },
     {
