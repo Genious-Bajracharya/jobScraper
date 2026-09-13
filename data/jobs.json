@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-13T10:59:02.186Z",
-  "total": 25,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-09-13T15:29:50.284Z",
+  "total": 21,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-backend-london-224511",
-      "title": "Software Engineer, Backend",
-      "company": "Adaptyv",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/adaptyv/software-engineer-backend-london-224511",
-      "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, m",
+      "id": "arbeitnow-full-stack-engineer-cloud-saas-integrations-423100",
+      "title": "Full Stack Engineer  - Cloud & SaaS Integrations",
+      "company": "Senior Full-Stack Engineer - AI Cost Visibility - Greenhouse",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-full-stack-engineer-ai-cost-visibility-greenhouse/full-stack-engineer-cloud-saas-integrations-423100",
+      "description": "&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt; &lt;br&gt;Our Full Stack Software Engineer will be an integral part of our R&amp;amp;D team. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden and Israel. We are also open to contractors in Eastern ",
       "tags": [
-        "Software"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-13T09:40:03.000Z",
+      "postedAt": "2026-09-13T12:55:10.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -116,76 +116,36 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
-      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
-      "company": "GETEC GRUPPE",
-      "location": "Hannover",
-      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
-      "description": "AufgabenWährend deiner Ausbildung besuchst du die Multi Media Berufsschule.Du lernst die Planung und Entwicklung von Softwareanwendungen kennen. Umsetzung von Geschäftsprozessen in Softwareprodukte.Anwendungs- und Kommunikationsdesign.Bei uns erlernst du das Applikationsmanagement.Du bekommst einen ",
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to",
       "tags": [
-        "Ausbildung",
-        "Fachinformatiker",
-        "Fachinformatikerin",
-        "Hannover",
-        "Anwendugsentwicklung",
-        "Planung",
-        "Entwicklung",
-        "Anwendung",
-        "Software",
-        "Daten",
-        "Datenbanken",
-        "Programmierung",
-        "Logisches Denken",
-        "SQL",
-        "PHP",
-        "HTML",
         "CSS",
-        "JavaScript",
-        "Iphone",
-        "Hund",
-        "Katze",
-        "Fussball",
-        "Handball",
-        "Multi Media",
-        "Berufsschule"
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
       ],
-      "salary": null,
-      "postedAt": "2026-09-13T02:09:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-backend-engineergo-berlin-147504",
-      "title": "Founding Backend Engineer(Go)",
-      "company": "TechBiz Global GmbH",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
-      "description": "At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a Founding Backend Engineer(Go) to join one of our clients' team in Berlin. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the per",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-12T23:30:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-168459",
-      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
-      "company": "Doc Cirrus Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
-      "description": "This is what makes your position specialFull-stack software development based on Docker, Node.js and MongoDB Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development toolsComponent responsibility: from technical design to development to CI/CDIf you take responsibility, you",
-      "tags": [
-        "javascript",
-        "node.js",
-        "scrum",
-        "code",
-        "ehealth",
-        "informatics",
-        "Full Stack Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-12T23:09:51.000Z",
-      "source": "Arbeitnow"
+      "salary": "$31,2k- $52k",
+      "postedAt": "2026-09-11T20:16:48",
+      "source": "Remotive"
     },
     {
       "id": "jobicy-145744",
@@ -241,34 +201,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-09T16:22:51+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152819",
-      "title": "Software Engineer, Data Integration",
-      "company": "Bayesian Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
-      "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engine",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T18:41:43+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152815",
-      "title": "Backend Software Engineer, PDP Experience",
-      "company": "Reddit",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152815-backend-software-engineer-pdp-experience",
-      "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-08T17:27:35+00:00",
       "source": "Jobicy"
     },
     {
