@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-13T15:29:50.284Z",
-  "total": 21,
+  "updatedAt": "2026-09-13T20:11:04.708Z",
+  "total": 22,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-london-286984",
+      "title": "Backend Engineer",
+      "company": "Conduct",
+      "location": "London, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/backend-engineer-london-286984",
+      "description": "TL;DR: We're looking for exceptional builders who help us design and ship the foundational infrastructure that lets Conduct scale to the world's largest enterprises, while accelerating the product teams building on top of it.Why ConductThe world's largest companies are slowed down by the software th",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T15:40:02.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-engineer-cloud-saas-integrations-423100",
       "title": "Full Stack Engineer  - Cloud & SaaS Integrations",
