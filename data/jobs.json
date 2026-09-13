@@ -1,8 +1,94 @@
 {
-  "updatedAt": "2026-09-12T20:04:50.810Z",
-  "total": 17,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-13T02:47:13.413Z",
+  "total": 19,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
+      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
+      "company": "GETEC GRUPPE",
+      "location": "Hannover",
+      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
+      "description": "AufgabenWährend deiner Ausbildung besuchst du die Multi Media Berufsschule.Du lernst die Planung und Entwicklung von Softwareanwendungen kennen. Umsetzung von Geschäftsprozessen in Softwareprodukte.Anwendungs- und Kommunikationsdesign.Bei uns erlernst du das Applikationsmanagement.Du bekommst einen ",
+      "tags": [
+        "Ausbildung",
+        "Fachinformatiker",
+        "Fachinformatikerin",
+        "Hannover",
+        "Anwendugsentwicklung",
+        "Planung",
+        "Entwicklung",
+        "Anwendung",
+        "Software",
+        "Daten",
+        "Datenbanken",
+        "Programmierung",
+        "Logisches Denken",
+        "SQL",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Iphone",
+        "Hund",
+        "Katze",
+        "Fussball",
+        "Handball",
+        "Multi Media",
+        "Berufsschule"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T02:09:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-backend-bi-platform-london-234160",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Deliveroo",
+      "location": "London - The River Building HQ",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-234160",
+      "description": "Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and p",
+      "tags": [
+        "All Cost Centers"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T00:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-backend-engineergo-berlin-147504",
+      "title": "Founding Backend Engineer(Go)",
+      "company": "TechBiz Global GmbH",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-backend-engineergo-berlin-147504",
+      "description": "At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a Founding Backend Engineer(Go) to join one of our clients' team in Berlin. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the per",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-12T23:30:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-168459",
+      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
+      "company": "Doc Cirrus Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-168459",
+      "description": "This is what makes your position specialFull-stack software development based on Docker, Node.js and MongoDB Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development toolsComponent responsibility: from technical design to development to CI/CDIf you take responsibility, you",
+      "tags": [
+        "javascript",
+        "node.js",
+        "scrum",
+        "code",
+        "ehealth",
+        "informatics",
+        "Full Stack Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-12T23:09:51.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-145032",
       "title": "Product Engineer (Backend/AI) @Briink",
@@ -21,35 +107,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-12T17:09:45.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-      "title": "Freelance Software  / Data / AI Engineer (m/w/d) - Development | Data | AI",
-      "company": "Nexgate IT GmbH",
-      "location": "Bad Homburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
-      "description": "Für aktuelle und zukünftige Kundenprojekte suchen wir erfahrene freiberufliche Softwareentwickler, AI/ML Engineers und Data Engineers (m/w/d) aus unterschiedlichen technologischen Fachbereichen.\nWir suchen insbesondere Expertise in folgenden Bereichen:\n\nBackend Development – Java, C#/.NET, Python, G",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-12T16:17:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-berlin-226964",
-      "title": "Full Stack Engineer",
-      "company": "Worldwide Placement Limited",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/full-stack-engineer-berlin-226964",
-      "description": "\nLocation: Berlin, Germany (Hybrid)\nWork Policy: : Hybrid; fully remote possible for exceptional candidates\nWork Experience: +5 years experience\nLanguage Requirement: English B2\nEmployment Type: Full-time\nTechnical Skills Required: Full Stack Development, TypeScript, React Native, LLMs, API design, ",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-12T13:00:23.000Z",
       "source": "Arbeitnow"
     },
     {
