@@ -1,8 +1,120 @@
 {
-  "updatedAt": "2026-09-13T02:47:13.413Z",
-  "total": 19,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-13T10:59:02.186Z",
+  "total": 25,
+  "newSinceLastRun": 8,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-backend-london-224511",
+      "title": "Software Engineer, Backend",
+      "company": "Adaptyv",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/adaptyv/software-engineer-backend-london-224511",
+      "description": "Adaptyv is building an automated lab that lets AI agents run biology experiments. We're entering the era of agentic science where AI models can now design novel proteins, propose hypotheses, and iterate on experimental results. But they can't run the experiments themselves - that's still a manual, m",
+      "tags": [
+        "Software"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T09:40:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-paris-374869",
+      "title": "📱 Fullstack Developer",
+      "company": "Staycation",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/staycation/fullstack-developer-paris-374869",
+      "description": "🍿 About StaycationFor most people, hotels are places you only visit when you travel.But we see something different.Behind their doors, hotels hide some of the most extraordinary spaces cities have to offer: breathtaking rooftops with skyline views, world-class spas and pools, bars and restaurants l",
+      "tags": [
+        "Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-medical-excellence-paris-297557",
+      "title": "Medical Excellence",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-excellence-paris-297557",
+      "description": "Making preventive health the default for every human in EuropeThe missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.The roleLucis analyses more than 110 biomarkers, b",
+      "tags": [
+        "Clinical"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-partnerships-and-account-manager-paris-483394",
+      "title": "Partnerships and Account Manager",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/partnerships-and-account-manager-paris-483394",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "GTM"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-core-platform-growth-engineering-paris-103601",
+      "title": "Core platform growth engineering",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-103601",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "Product & tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-ea-workplace-manager-paris-126013",
+      "title": "EA / workplace manager",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-126013",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here.The ro",
+      "tags": [
+        "G&A"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-finance-ops-strategy-paris-448157",
+      "title": "Finance ops & strategy",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/finance-ops-strategy-paris-448157",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "G&A"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-customer-care-team-lead-paris-20587",
+      "title": "Customer Care Team Lead",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-20587",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "Operations"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-13T08:45:06.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-280940",
       "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
@@ -42,20 +154,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-software-engineer-backend-bi-platform-london-234160",
-      "title": "Software Engineer, Backend (BI Platform)",
-      "company": "Deliveroo",
-      "location": "London - The River Building HQ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-234160",
-      "description": "Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Engineering teams tackle complex technical challenges across a global, three-sided marketplace, building and scaling systems that serve millions of customers, riders and p",
-      "tags": [
-        "All Cost Centers"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T00:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-founding-backend-engineergo-berlin-147504",
       "title": "Founding Backend Engineer(Go)",
       "company": "TechBiz Global GmbH",
@@ -87,26 +185,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-12T23:09:51.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-145032",
-      "title": "Product Engineer (Backend/AI) @Briink",
-      "company": "Merantix",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-145032",
-      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
-      "tags": [
-        "backend",
-        "AI",
-        "LLM",
-        "product",
-        "product engineer",
-        "backend engineer",
-        "AI engineer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-12T17:09:45.000Z",
       "source": "Arbeitnow"
     },
     {
