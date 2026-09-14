@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-09-13T20:11:04.708Z",
-  "total": 22,
+  "updatedAt": "2026-09-14T03:01:15.974Z",
+  "total": 23,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
+      "title": "Développeur C# confirmé H/F - ASP.NET / React",
+      "company": "Valsoft Corp",
+      "location": "Nantes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/valsoft-corp/developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
+      "description": "À propos de nousE-finances est un éditeur de logiciels B2B spécialisé dans les solutions de gestion financière et de trésorerie. Nos solutions permettent aux entreprises d'optimiser la gestion de leurs flux financiers, d'améliorer leur visibilité sur leur trésorerie et de renforcer leur performance ",
+      "tags": [
+        "Engineering",
+        "Financial Services",
+        "E-Finances"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-14T01:20:15.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-engineer-london-286984",
       "title": "Backend Engineer",
@@ -20,9 +36,9 @@
     {
       "id": "arbeitnow-full-stack-engineer-cloud-saas-integrations-423100",
       "title": "Full Stack Engineer  - Cloud & SaaS Integrations",
-      "company": "Senior Full-Stack Engineer - AI Cost Visibility - Greenhouse",
+      "company": "Doitintl",
       "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/senior-full-stack-engineer-ai-cost-visibility-greenhouse/full-stack-engineer-cloud-saas-integrations-423100",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
       "description": "&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt; &lt;br&gt;Our Full Stack Software Engineer will be an integral part of our R&amp;amp;D team. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden and Israel. We are also open to contractors in Eastern ",
       "tags": [
         "Engineering"
