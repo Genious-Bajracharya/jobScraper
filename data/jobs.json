@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-09-14T11:34:38.902Z",
-  "total": 20,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-14T17:29:53.457Z",
+  "total": 14,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-london-england-178220",
+      "id": "jobicy-153250",
       "title": "Backend Engineer",
-      "company": "Lever Implementation Training Environment",
-      "location": "London, England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lever-implementation-training-environment/backend-engineer-london-england-178220",
-      "description": "________This is an example!________PLEASE READ: these jobs are testing jobs of Lever's testing environment - please do not apply for this job.Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next genera",
+      "company": "Catawiki",
+      "location": "Portugal",
+      "url": "https://jobicy.com/jobs/153250-backend-engineer-2",
+      "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each w",
       "tags": [
-        "Back End"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-14T06:24:21.000Z",
+      "postedAt": "2026-09-14T14:05:10+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-backend-software-engineer-london-295937",
+      "title": "Backend Software Engineer",
+      "company": "toogoodtogo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/toogoodtogo/backend-software-engineer-london-295937",
+      "description": "&lt;p&gt;At Too Good To Go, we have an ambitious mission: to inspire and empower everyone to fight food waste together.&lt;br&gt;&lt;br&gt;More than 1/3 of all food produced in the world is wasted. And that has a huge impact on the health of our planet. 10% of greenhouse gas emissions come from food",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-14T12:55:12.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -31,20 +45,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-14T01:20:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-london-286984",
-      "title": "Backend Engineer",
-      "company": "Conduct",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/backend-engineer-london-286984",
-      "description": "TL;DR: We're looking for exceptional builders who help us design and ship the foundational infrastructure that lets Conduct scale to the world's largest enterprises, while accelerating the product teams building on top of it.Why ConductThe world's largest companies are slowed down by the software th",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T15:40:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -70,76 +70,6 @@
       "description": "Making preventive health the default for every human in EuropeThe missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.The roleLucis analyses more than 110 biomarkers, b",
       "tags": [
         "Clinical"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-partnerships-and-account-manager-paris-483394",
-      "title": "Partnerships and Account Manager",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/partnerships-and-account-manager-paris-483394",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "GTM"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-core-platform-growth-engineering-paris-103601",
-      "title": "Core platform growth engineering",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/core-platform-growth-engineering-paris-103601",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "Product & tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-ea-workplace-manager-paris-126013",
-      "title": "EA / workplace manager",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/ea-workplace-manager-paris-126013",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here.The ro",
-      "tags": [
-        "G&A"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-finance-ops-strategy-paris-448157",
-      "title": "Finance ops & strategy",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/finance-ops-strategy-paris-448157",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "G&A"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-customer-care-team-lead-paris-20587",
-      "title": "Customer Care Team Lead",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-20587",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "Operations"
       ],
       "salary": null,
       "postedAt": "2026-09-13T08:45:06.000Z",
@@ -176,20 +106,6 @@
       "salary": "$31,2k- $52k",
       "postedAt": "2026-09-11T20:16:48",
       "source": "Remotive"
-    },
-    {
-      "id": "jobicy-145744",
-      "title": "Frontend Engineer React and AWS",
-      "company": "Numentica",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
-      "description": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-10T04:30:27+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137062",
