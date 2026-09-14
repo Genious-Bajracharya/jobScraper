@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-14T17:29:53.457Z",
-  "total": 14,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-14T21:20:25.573Z",
+  "total": 12,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-api-engineer-money-as-a-service-148563",
+      "title": "Backend/API Engineer, Money as a Service",
+      "company": "stripe",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/stripe/backend-api-engineer-money-as-a-service-148563",
+      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe ",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-14T18:55:12.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-153250",
       "title": "Backend Engineer",
@@ -18,20 +32,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-backend-software-engineer-london-295937",
-      "title": "Backend Software Engineer",
-      "company": "toogoodtogo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/toogoodtogo/backend-software-engineer-london-295937",
-      "description": "&lt;p&gt;At Too Good To Go, we have an ambitious mission: to inspire and empower everyone to fight food waste together.&lt;br&gt;&lt;br&gt;More than 1/3 of all food produced in the world is wasted. And that has a huge impact on the health of our planet. 10% of greenhouse gas emissions come from food",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-14T12:55:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
       "title": "Développeur C# confirmé H/F - ASP.NET / React",
       "company": "Valsoft Corp",
@@ -45,34 +45,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-14T01:20:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-paris-374869",
-      "title": "📱 Fullstack Developer",
-      "company": "Staycation",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/staycation/fullstack-developer-paris-374869",
-      "description": "🍿 About StaycationFor most people, hotels are places you only visit when you travel.But we see something different.Behind their doors, hotels hide some of the most extraordinary spaces cities have to offer: breathtaking rooftops with skyline views, world-class spas and pools, bars and restaurants l",
-      "tags": [
-        "Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-medical-excellence-paris-297557",
-      "title": "Medical Excellence",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/medical-excellence-paris-297557",
-      "description": "Making preventive health the default for every human in EuropeThe missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the operating system for human longevity to help people add more healthy years to their lives.The roleLucis analyses more than 110 biomarkers, b",
-      "tags": [
-        "Clinical"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T08:45:06.000Z",
       "source": "Arbeitnow"
     },
     {
