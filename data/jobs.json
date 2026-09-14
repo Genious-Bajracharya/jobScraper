@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-14T03:01:15.974Z",
-  "total": 23,
+  "updatedAt": "2026-09-14T11:34:38.902Z",
+  "total": 20,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-london-england-178220",
+      "title": "Backend Engineer",
+      "company": "Lever Implementation Training Environment",
+      "location": "London, England",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lever-implementation-training-environment/backend-engineer-london-england-178220",
+      "description": "________This is an example!________PLEASE READ: these jobs are testing jobs of Lever's testing environment - please do not apply for this job.Lever was founded ten years ago to tackle the most strategic challenge that companies face: how to recruit and hire top talent. We’re building the next genera",
+      "tags": [
+        "Back End"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-14T06:24:21.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-developpeur-c-confirme-h-f-aspnet-react-nantes-214444",
       "title": "Développeur C# confirmé H/F - ASP.NET / React",
@@ -31,20 +45,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-13T15:40:02.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-cloud-saas-integrations-423100",
-      "title": "Full Stack Engineer  - Cloud & SaaS Integrations",
-      "company": "Doitintl",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/doitintl/full-stack-engineer-cloud-saas-integrations-423100",
-      "description": "&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt; &lt;br&gt;Our Full Stack Software Engineer will be an integral part of our R&amp;amp;D team. This role is based remotely as a full-time employee in the UK, Ireland, Estonia, the Netherlands, Sweden and Israel. We are also open to contractors in Eastern ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-13T12:55:10.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -189,48 +189,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-10T04:30:27+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152938",
-      "title": "Software Engineer, Backend",
-      "company": "Vercel",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152938-software-engineer-backend",
-      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, securi",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T17:23:14+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152920",
-      "title": "Backend Engineer - Platform - Stacks | UK | Remote",
-      "company": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-      "url": "https://jobicy.com/jobs/152920-backend-engineer-platform-stacks-uk-remote",
-      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T16:37:38+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152887",
-      "title": "Backend Engineer (.NET) (f/m/d)",
-      "company": "Apaleo",
-      "location": "Germany",
-      "url": "https://jobicy.com/jobs/152887-backend-engineer-net-f-m-d",
-      "description": "Join Apaleo and Shape the Future of Hospitality Tech! Apaleo is the world's most open, API-first property management platform, powering the next generation of hospitality operations. Our modular, AI-powered infrastructure lets hoteliers customise their tech stack, automate routine work and deliver s",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-09T16:22:51+00:00",
       "source": "Jobicy"
     },
     {
