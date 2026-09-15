@@ -1,8 +1,120 @@
 {
-  "updatedAt": "2026-09-14T21:20:25.573Z",
-  "total": 12,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-15T03:03:39.569Z",
+  "total": 20,
+  "newSinceLastRun": 8,
   "jobs": [
+    {
+      "id": "arbeitnow-stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
+      "title": "STAGE Fullstack - Socle générique de mini jeux temps réel (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
+      "title": "STAGE Fullstack - Refonte d'un moteur de recherche à forte volumétrie (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-stage-fullstack-outil-de-segmentation-et-dorchestration-de-communications-h-f-france-218062",
+      "title": "STAGE Fullstack - Outil de segmentation et d'orchestration de communications (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-outil-de-segmentation-et-dorchestration-de-communications-h-f-france-218062",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-stage-fullstack-moteur-de-controle-de-regles-et-de-conformite-du-si-h-f-france-197904",
+      "title": "STAGE Fullstack - Moteur de contrôle de règles et de conformité du SI (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-moteur-de-controle-de-regles-et-de-conformite-du-si-h-f-france-197904",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-stage-fullstack-developpement-dun-format-de-contenu-interactif-h-f-france-483441",
+      "title": "STAGE Fullstack - Développement d'un format de contenu interactif (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-developpement-dun-format-de-contenu-interactif-h-f-france-483441",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-stage-fullstack-time-travel-debugger-pour-architecture-evenementielle-h-f-france-470533",
+      "title": "STAGE Fullstack  - Time-Travel debugger pour architecture événementielle (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-time-travel-debugger-pour-architecture-evenementielle-h-f-france-470533",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
+      "title": "STAGE  Backend - Pilotage des flux de paiement (H/F)",
+      "company": "WINAMAX",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
+      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "tags": [
+        "Internship"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T01:04:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-rust-berlin-302814",
+      "title": "Backend Developer (Rust)",
+      "company": "Onhires",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/onhires/backend-developer-rust-berlin-302814",
+      "description": "Rust Engineer — Distributed Execution EngineBerlin (hybrid) or Remote (countries within ~4–5 hours travel of Berlin)About our clientOur client is a B2B sourcing platform serving the automotive dealership industry. They're a small, fast-moving engineering team building core infrastructure from the gr",
+      "tags": [
+        "Backend Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-14T23:40:09.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-api-engineer-money-as-a-service-148563",
       "title": "Backend/API Engineer, Money as a Service",
