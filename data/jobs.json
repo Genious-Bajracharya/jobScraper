@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-09-15T03:03:39.569Z",
+  "updatedAt": "2026-09-15T10:54:04.362Z",
   "total": 20,
-  "newSinceLastRun": 8,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-74421",
+      "title": "Werkstudent*in im Projektmanagement",
+      "company": "Doo",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-74421",
+      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "tags": [
+        "Projektmanagement",
+        "CSS",
+        "HTML",
+        "Werkstudent",
+        "Product Consulting",
+        "JavaScript",
+        "Engineering",
+        "Make",
+        "Webentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T05:09:51.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-java-backend-developer-munchen-75508",
+      "title": "Java Backend Developer (m/w/d)",
+      "company": "Avelion Group",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-75508",
+      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
+      "tags": [
+        "java",
+        "java backend development",
+        "spring boot",
+        "softwareentwicklung",
+        "backend development",
+        "clean code",
+        "agile softwareentwicklung",
+        "software engineering",
+        "REST / Schnittstellenentwicklung",
+        "Informatik"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T05:09:40.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
       "title": "STAGE Fullstack - Socle générique de mini jeux temps réel (H/F)",
@@ -99,34 +144,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-developer-rust-berlin-302814",
-      "title": "Backend Developer (Rust)",
-      "company": "Onhires",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/onhires/backend-developer-rust-berlin-302814",
-      "description": "Rust Engineer — Distributed Execution EngineBerlin (hybrid) or Remote (countries within ~4–5 hours travel of Berlin)About our clientOur client is a B2B sourcing platform serving the automotive dealership industry. They're a small, fast-moving engineering team building core infrastructure from the gr",
-      "tags": [
-        "Backend Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-14T23:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-api-engineer-money-as-a-service-148563",
-      "title": "Backend/API Engineer, Money as a Service",
-      "company": "stripe",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/stripe/backend-api-engineer-money-as-a-service-148563",
-      "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe ",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-14T18:55:12.000Z",
       "source": "Arbeitnow"
     },
     {
