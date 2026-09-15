@@ -1,51 +1,174 @@
 {
-  "updatedAt": "2026-09-15T10:54:04.362Z",
-  "total": 20,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-15T16:06:10.708Z",
+  "total": 30,
+  "newSinceLastRun": 12,
   "jobs": [
     {
-      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-74421",
-      "title": "Werkstudent*in im Projektmanagement",
-      "company": "Doo",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-74421",
-      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "id": "arbeitnow-frontend-developer-nuremberg-278828",
+      "title": "Frontend Developer (m/w/x)",
+      "company": "K-tronik GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/frontend-developer-nuremberg-278828",
+      "description": "Projektbeschreibung:\nTechnologie begeistert Sie? Uns auch! Zur Verstärkung unseres Expertenteams bei unserem Kunden aus der Verteidigungsbranche suchen wir einen Frontend Developer (m/w/x) in Festanstellung bei K-tronik. Wir freuen uns darauf, Sie persönlich kennen zu lernen - und gemeinsam mit Leid",
       "tags": [
-        "Projektmanagement",
-        "CSS",
-        "HTML",
-        "Werkstudent",
-        "Product Consulting",
-        "JavaScript",
-        "Engineering",
-        "Make",
-        "Webentwicklung"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-15T05:09:51.000Z",
+      "postedAt": "2026-09-15T12:30:30.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-java-backend-developer-munchen-75508",
-      "title": "Java Backend Developer (m/w/d)",
-      "company": "Avelion Group",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-75508",
-      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
+      "id": "arbeitnow-back-end-entwicklerin-erkelenz-336869",
+      "title": "Back -End - Entwickler:in",
+      "company": "INspares GmbH",
+      "location": "Erkelenz",
+      "url": "https://www.arbeitnow.com/jobs/companies/inspares-gmbh/back-end-entwicklerin-erkelenz-336869",
+      "description": "(Senior) Backend Engineer – Plattform-Transformation OT360 (m/w/d)\nMorgens schon das Ersatzteil liefern, das erst abends ausfällt!\nSo einfach lässt sich die Vision von INspares zusammenfassen. Damit diese Vision Realität wird, suchen wir einen Backend-Entwickler (m/w/d), der die Komplexität dieser A",
       "tags": [
-        "java",
-        "java backend development",
-        "spring boot",
-        "softwareentwicklung",
-        "backend development",
-        "clean code",
-        "agile softwareentwicklung",
-        "software engineering",
-        "REST / Schnittstellenentwicklung",
-        "Informatik"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-15T05:09:40.000Z",
+      "postedAt": "2026-09-15T12:00:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-content-communications-marketing-manager-germany-berlin-344091",
+      "title": "Content & Communications Marketing Manager - Germany (m/w/d)",
+      "company": "Pennylane",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/content-communications-marketing-manager-germany-berlin-344091",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Marketing"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-finanz-und-digitalisierungsberatung-accounting-taxation-327883",
+      "title": "Finanz- und Digitalisierungsberatung (w/m/d) - Accounting & Taxation",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-finanz-und-digitalisierungsberatung-accounting-taxation-327883",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-customer-success-manager-accounting-taxation-315816",
+      "title": "Customer Success Manager (w/m/d) - Accounting & Taxation",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-customer-success-manager-accounting-taxation-315816",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-fintech-onboarding-manager-consultant-buchhaltungs-und-steuerthemen-413625",
+      "title": "Fintech Onboarding Manager & Consultant (w/m/d) - Buchhaltungs- und Steuerthemen",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-fintech-onboarding-manager-consultant-buchhaltungs-und-steuerthemen-413625",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-consultant-finance-and-digitalization-fintech-saas-scale-up-209916",
+      "title": "Consultant Finance and Digitalization (w/m/d) - Fintech SaaS Scale-Up",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-consultant-finance-and-digitalization-fintech-saas-scale-up-209916",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-partner-success-manager-fintech-saas-scale-up-94608",
+      "title": "Partner Success Manager (w/m/d) - Fintech SaaS Scale-Up",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-partner-success-manager-fintech-saas-scale-up-94608",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-buchhaltungs-und-steuerberaterin-71526",
+      "title": "Buchhaltungs- und Steuerberater*in (w/m/d)",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-buchhaltungs-und-steuerberaterin-71526",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-steuerfachangesteller-fintech-saas-scale-up-413910",
+      "title": "Steuerfachangestelle*r (w/m/d) - Fintech SaaS Scale-Up",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-steuerfachangesteller-fintech-saas-scale-up-413910",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Partner Success - Cabinets comptable"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-event-marketing-manager-germany-60064",
+      "title": "Event Marketing Manager (m/w/d) - Germany",
+      "company": "Pennylane",
+      "location": "Germany (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/remote-event-marketing-manager-germany-60064",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Marketing"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-head-of-success-germany-berlin-444637",
+      "title": "Head of Success - Germany",
+      "company": "Pennylane",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/pennylane/head-of-success-germany-berlin-444637",
+      "description": "Möchtest du das tägliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivität und Autonomie schätzt? Stimmen unsere Company Values mit deiner Vision überein? Dann ist Pennylane der richtige Ort für dich",
+      "tags": [
+        "Customer Success"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T11:40:05.000Z",
       "source": "Arbeitnow"
     },
     {
