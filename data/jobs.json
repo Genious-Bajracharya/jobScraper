@@ -1,21 +1,63 @@
 {
-  "updatedAt": "2026-09-16T15:59:36.017Z",
-  "total": 14,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-16T20:46:57.107Z",
+  "total": 17,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-data-engineer-igaming-249244",
-      "title": "Data Engineer - iGaming",
-      "company": "Xdesign",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xdesign/data-engineer-igaming-249244",
-      "description": "&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; This is not a live vacancy. We are hiring ahead of demand and building a talent pipeline for upcoming client engagements. By applying, you&#39;re expressing interest in future opportunities, and we&#39;ll be in touch as soon as a matching role becom",
+      "id": "arbeitnow-werkstudent-fullstack-developer-berlin-304491",
+      "title": "Werkstudent (m/w/d) | Fullstack Developer",
+      "company": "myAutoAbo",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/myautoabo/werkstudent-fullstack-developer-berlin-304491",
+      "description": "Du liebst Autos, baust gern Dinge, die wirklich benutzt werden, und arbeitest mit künstlicher Intelligenz wie ein AI-Native? Dann bist du bei uns genau richtig!\nWir sind myAutoAbo, ein junges, schnell wachsendes Unternehmen rund ums Auto-Abo. Bei uns bekommst du keine Wischiwaschi-Aufgaben, sondern ",
       "tags": [
-        "Data"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-16T12:55:17.000Z",
+      "postedAt": "2026-09-16T19:30:31.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-laravel-aws-in-berlin-302664",
+      "title": "Backend Developer - Laravel / AWS (m/f/x) in Berlin",
+      "company": "Konfetti GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/konfetti-gmbh/backend-developer-laravel-aws-in-berlin-302664",
+      "description": "konfetti is the booking platform and software for local workshops. Since our founding in April 2021, we have continuously developed our product and now work with more than 3,000 providers. In total, we offer over 13,000 experiences in Germany, Austria, and online.\nYour next step → konfetti!\nWe are l",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-16T17:00:44.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-153452",
+      "title": "Edge Functions Engineer",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. Edge Functions are serv",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-16T15:41:40+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-153449",
+      "title": "Software Engineer - Auth",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Auth, wr",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-16T15:41:37+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-backend-developer-ai-trainer-france-paris-57482",
