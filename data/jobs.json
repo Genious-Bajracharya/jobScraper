@@ -1,8 +1,39 @@
 {
-  "updatedAt": "2026-09-16T02:59:57.766Z",
+  "updatedAt": "2026-09-16T10:43:41.649Z",
   "total": 15,
-  "newSinceLastRun": 4,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-head-of-account-management-100-remote-b2b-berlin-429856",
+      "title": "Head of Account Management (m/w/d) - 100% Remote - B2B",
+      "company": "RealStudio GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-account-management-100-remote-b2b-berlin-429856",
+      "description": "Du hast Erfahrung im B2B-Account-Management, erkennst Wachstumspotenziale bei bestehenden Kunden und kannst daraus konkrete Abschlüsse machen?\nAls Head of Account Management bei RealStudio übernimmst du in Vollzeit die Verantwortung für unseren Backend-Umsatz: Du entwickelst bestehende Kundenbeziehu",
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-16T09:30:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-93992",
+      "title": "Engineering Manager (m/f/d) – Power-to-X & E-Fuels Plant Engineering",
+      "company": "Ineratec Gmbh 1",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/engineering-manager-power-to-x-e-fuels-plant-engineering-karlsruhe-93992",
+      "description": "Short DescriptionINERATEC’s innovative chemical reactor technology is a key enabler of the energy transition. We build chemical plants that use greenhouse gases such as CO₂ and renewable electricity to produce synthetic fuels and sustainable products.As Engineering Manager (m/f/d), you will act as t",
+      "tags": [
+        "Process Engineer",
+        "Plant Engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-16T05:09:38.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-developer-ai-trainer-france-paris-57482",
       "title": "Backend Developer - AI Trainer (France)",
@@ -15,32 +46,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-16T01:40:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-koln-310312",
-      "title": "Fullstack Developer (m/w/d)",
-      "company": "Semdor Pharma Group GmbH",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-310312",
-      "description": "Deine AufgabenBloombase baut die führende ERP-Plattform für Cannabis-Apotheken in Deutschland. Gegründet mit dem Full-Stack-Know-how von SnapNext und dem Branchenrückhalt von Cannamedical – einem der größten Cannabis-Konzerne im deutschsprachigen Raum – entwickeln wir eine B2B-Software, die das Cann",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-15T23:09:53.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-data-orchestration-berlin-58465",
-      "title": "Backend Engineer - Data & Orchestration",
-      "company": "Melotech",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/melotech/backend-engineer-data-orchestration-berlin-58465",
-      "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 3 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry",
-      "tags": [
-        "Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T20:40:06.000Z",
       "source": "Arbeitnow"
     },
     {
