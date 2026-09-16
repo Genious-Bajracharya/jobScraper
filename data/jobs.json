@@ -1,33 +1,46 @@
 {
-  "updatedAt": "2026-09-15T20:47:08.247Z",
-  "total": 19,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-16T02:59:57.766Z",
+  "total": 15,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-software-engineer-munchen-22690",
-      "title": "Fullstack Software Engineer (m/w/d)",
-      "company": "Rhein Nadel Automation Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-22690",
-      "description": "Wer wir sind  RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den ",
+      "id": "arbeitnow-backend-developer-ai-trainer-france-paris-57482",
+      "title": "Backend Developer - AI Trainer (France)",
+      "company": "Anyone Ai",
+      "location": "France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anyone-ai/backend-developer-ai-trainer-france-paris-57482",
+      "description": "Anyone AI is recruiting skilled Backend Developers to work as a project consultants. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of Java, C#, or G",
       "tags": [
-        "Python",
-        "Django",
-        "ORM-Tools",
-        "SQL",
-        "Javascript",
-        "React",
-        "Softwareentwickler",
-        "Software Developer",
-        "Prozessdigitalisierung",
-        "KI",
-        "Künstliche Intelligenz",
-        "AI",
-        "Physik-Simulationen",
-        "Docker"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-15T17:09:33.000Z",
+      "postedAt": "2026-09-16T01:40:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-koln-310312",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Semdor Pharma Group GmbH",
+      "location": "Köln",
+      "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-310312",
+      "description": "Deine AufgabenBloombase baut die führende ERP-Plattform für Cannabis-Apotheken in Deutschland. Gegründet mit dem Full-Stack-Know-how von SnapNext und dem Branchenrückhalt von Cannamedical – einem der größten Cannabis-Konzerne im deutschsprachigen Raum – entwickeln wir eine B2B-Software, die das Cann",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-15T23:09:53.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-data-orchestration-berlin-58465",
+      "title": "Backend Engineer - Data & Orchestration",
+      "company": "Melotech",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/melotech/backend-engineer-data-orchestration-berlin-58465",
+      "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 3 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry",
+      "tags": [
+        "Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-15T20:40:06.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -45,102 +58,29 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
-      "title": "STAGE Fullstack - Socle générique de mini jeux temps réel (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
+      "id": "remoteok-1137394",
+      "title": "Sr Solutions Architect",
+      "company": "ExtraHop",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+      "description": "At ExtraHop, weâre on a mission to protect and empower the connected enterprise. We reveal what is happening in the very infrastructure that sustains businesses, lives, and communities, and ensure the integrity of networks, data, systems, and processes. Organizations rely on ExtraHop to provide vi",
       "tags": [
-        "Internship"
+        "architecture",
+        "design",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "javascript",
+        "api",
+        "ops",
+        "marketing",
+        "sales",
+        "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
-      "title": "STAGE Fullstack - Refonte d'un moteur de recherche à forte volumétrie (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-refonte-dun-moteur-de-recherche-a-forte-volumetrie-h-f-france-142764",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
-      "tags": [
-        "Internship"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-fullstack-outil-de-segmentation-et-dorchestration-de-communications-h-f-france-218062",
-      "title": "STAGE Fullstack - Outil de segmentation et d'orchestration de communications (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-outil-de-segmentation-et-dorchestration-de-communications-h-f-france-218062",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
-      "tags": [
-        "Internship"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-fullstack-moteur-de-controle-de-regles-et-de-conformite-du-si-h-f-france-197904",
-      "title": "STAGE Fullstack - Moteur de contrôle de règles et de conformité du SI (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-moteur-de-controle-de-regles-et-de-conformite-du-si-h-f-france-197904",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
-      "tags": [
-        "Internship"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-fullstack-developpement-dun-format-de-contenu-interactif-h-f-france-483441",
-      "title": "STAGE Fullstack - Développement d'un format de contenu interactif (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-developpement-dun-format-de-contenu-interactif-h-f-france-483441",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
-      "tags": [
-        "Internship"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-fullstack-time-travel-debugger-pour-architecture-evenementielle-h-f-france-470533",
-      "title": "STAGE Fullstack  - Time-Travel debugger pour architecture événementielle (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-time-travel-debugger-pour-architecture-evenementielle-h-f-france-470533",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
-      "tags": [
-        "Internship"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
-      "title": "STAGE  Backend - Pilotage des flux de paiement (H/F)",
-      "company": "WINAMAX",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/winamax/stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590",
-      "description": "Basés en plein cœur de Paris, nous faisons bouger l’industrie des jeux en ligne. Leader du poker et des paris sportifs en France avec 350 000 joueurs et 600 000 parieurs mensuels, nous sommes présents en Espagne, en Allemagne et bientôt en Italie et au Portugal. Nous offrons à nos joueurs une expéri",
-      "tags": [
-        "Internship"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T01:04:49.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-15T00:00:26+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-153250",
