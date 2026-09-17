@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-09-17T16:05:33.611Z",
+  "updatedAt": "2026-09-17T20:53:05.430Z",
   "total": 19,
-  "newSinceLastRun": 4,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-engineer-intern-ai-systems-berlin-203128",
+      "title": "Backend Engineer Intern | AI Systems (m/f/d)",
+      "company": "GetMOW",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/getmow/backend-engineer-intern-ai-systems-berlin-203128",
+      "description": "Cloud Studios is a Berlin app studio building premium, productised digital products. Our current product, GetMOW, analyses how AI engines like ChatGPT, Perplexity and Google's AI Overviews represent B2B software brands, and tells companies what to change to get recommended.\nWe need to move the core ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-17T19:00:32.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-intern-backend-ai-berlin-298440",
+      "title": "Full-Stack Engineer Intern (Backend & AI)",
+      "company": "GetMOW",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/getmow/full-stack-engineer-intern-backend-ai-berlin-298440",
+      "description": "Most engineers spend their first years fixing tickets in someone else's system. You'd be building the core of ours.\nRight now, when a buyer asks ChatGPT \"what's the best tool for X\", a handful of brands get recommended. Everyone else is invisible. And most companies have no idea which side they're o",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-17T19:00:31.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-378612",
       "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
@@ -59,42 +87,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-17T14:09:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudent-telematikinfrastruktur-ti-munchen-298544",
-      "title": "Werkstudent Telematikinfrastruktur (TI) (m/w/d)",
-      "company": "Meierhofer",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/werkstudent-telematikinfrastruktur-ti-munchen-298544",
-      "description": "Unsere StandorteWir suchen dich als Unterstützung an unserem Standort in MünchenDein zukünftiges TeamDu möchtest Gesundheits-IT nicht nur theoretisch kennenlernen, sondern praktisch mitgestalten? In unserer Produktentwicklung unterstützt du uns dabei, die Testinfrastruktur für die Telematikinfrastru",
-      "tags": [
-        "München",
-        "Informatik",
-        "Computer science",
-        "Software engineering",
-        "Softwarentwicklung",
-        "Fullstack development",
-        ".NET",
-        "C#",
-        "Medizininformatik student",
-        "Informatik student",
-        "wirtschaftsinformatik student",
-        "Werkstudent Telematikinfrastruktur",
-        "Werkstudent Produktentwicklung",
-        "Werkstudent Medizintechnik",
-        "Werkstudent Gesundheits-IT",
-        "Werkstudent Medizininformatik",
-        "Werkstudent Informatik München",
-        "Telematikinfrastruktur",
-        "TI-Testinfrastruktur",
-        "Kartenterminals",
-        "eHealth",
-        "Digital Health",
-        "Software für Kliniken"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T11:09:32.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -194,20 +186,6 @@
       "salary": null,
       "postedAt": "2026-09-15T00:00:26+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-153250",
-      "title": "Backend Engineer",
-      "company": "Catawiki",
-      "location": "Portugal",
-      "url": "https://jobicy.com/jobs/153250-backend-engineer-2",
-      "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each w",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-14T14:05:10+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remotive-1680495",
