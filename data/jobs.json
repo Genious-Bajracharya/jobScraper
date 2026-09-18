@@ -1,25 +1,35 @@
 {
-  "updatedAt": "2026-09-18T15:41:49.648Z",
-  "total": 14,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-18T20:18:03.259Z",
+  "total": 15,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-36099",
-      "title": "Werkstudent:in Fullstack Developer - ERP & Prozessautomatisierung (m/w/d)",
-      "company": "Welectron",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-36099",
-      "description": "Deine AufgabenDu unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend.Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js.Du hilfst dabei, Schnittstellen zwischen",
+      "id": "arbeitnow-fullstack-entwickler-hamburg-480998",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "Cordes Consulting GmbH",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/fullstack-entwickler-hamburg-480998",
+      "description": "Wir sind eine der am schnellstwachsenden&nbsp;Digitalagenturen Hamburgs und suchen zum nächstmöglichen&nbsp;Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Fullstack Entwicklung&nbsp;für den Bereich Business Development.Was macht die Cordes Consulting GmbH genau?Wir sind eine Werbeagentur, welche H",
       "tags": [
-        "software",
-        "embedded",
-        "go",
-        "backend",
-        "developer"
+        "(7) Business Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-18T14:10:01.000Z",
+      "postedAt": "2026-09-18T17:30:11.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-153596",
+      "title": "Software Engineer, Application Integration",
+      "company": "Bayesian Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
+      "description": "Software Engineer, Application Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-18T14:40:04+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-153452",
