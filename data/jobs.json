@@ -1,34 +1,24 @@
 {
-  "updatedAt": "2026-09-18T10:26:30.743Z",
-  "total": 16,
+  "updatedAt": "2026-09-18T15:41:49.648Z",
+  "total": 14,
   "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-developer-garching-275638",
-      "title": "Full Stack Developer",
-      "company": "Vetaion GmbH",
-      "location": "Garching",
-      "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/full-stack-developer-garching-275638",
-      "description": "We are looking for a Full Stack Developer to push the software that runs our factory floor. You will work with our engineering team on the production software that runs the factory and guides the assembly of every cabinet.\nDevelopment cycles are more direct than anywhere in the industry: you will se",
+      "id": "arbeitnow-werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-36099",
+      "title": "Werkstudent:in Fullstack Developer - ERP & Prozessautomatisierung (m/w/d)",
+      "company": "Welectron",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-36099",
+      "description": "Deine AufgabenDu unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend.Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js.Du hilfst dabei, Schnittstellen zwischen",
       "tags": [
-        "Software Development"
+        "software",
+        "embedded",
+        "go",
+        "backend",
+        "developer"
       ],
       "salary": null,
-      "postedAt": "2026-09-18T09:30:51.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-behavioral-security-products-256373",
-      "title": "Software Engineer - Backend - Behavioral Security Products",
-      "company": "Abnormalsecurity",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/software-engineer-backend-behavioral-security-products-256373",
-      "description": "&lt;p&gt;At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.&lt;/p&gt;\n&lt;p&gt;Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartne",
-      "tags": [
-        "Behavioral Security Products"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-18T00:55:35.000Z",
+      "postedAt": "2026-09-18T14:10:01.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -75,20 +65,6 @@
       "salary": "$150000-$250000",
       "postedAt": "2026-09-16T12:44:27+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-153321",
-      "title": "Postgres Engineer",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/153321-postgres-engineer",
-      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re looking for a Sen",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-15T14:25:05+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137394",
