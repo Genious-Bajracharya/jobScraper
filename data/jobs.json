@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-18T02:51:18.346Z",
-  "total": 18,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-18T10:26:30.743Z",
+  "total": 16,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-developer-garching-275638",
+      "title": "Full Stack Developer",
+      "company": "Vetaion GmbH",
+      "location": "Garching",
+      "url": "https://www.arbeitnow.com/jobs/companies/vetaion-gmbh/full-stack-developer-garching-275638",
+      "description": "We are looking for a Full Stack Developer to push the software that runs our factory floor. You will work with our engineering team on the production software that runs the factory and guides the assembly of every cabinet.\nDevelopment cycles are more direct than anywhere in the industry: you will se",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-18T09:30:51.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-backend-behavioral-security-products-256373",
       "title": "Software Engineer - Backend - Behavioral Security Products",
@@ -15,48 +29,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-18T00:55:35.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-design-engineer-ui-frontend-london-gb-277562",
-      "title": "Design Engineer (UI, Frontend)",
-      "company": "Octopus Energy Group",
-      "location": "London (GB)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/design-engineer-ui-frontend-london-gb-277562",
-      "description": "&nbsp;\nAbout Octopus Electroverse\nWe’re making electric vehicle public charging simple, by building the giant, virtual charging platform of the future. In just five years, Octopus Electroverse has become Europe’s largest eMobility charging network, with over 1.4 million connected electric vehicle ch",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T21:04:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-intern-ai-systems-berlin-203128",
-      "title": "Backend Engineer Intern | AI Systems (m/f/d)",
-      "company": "GetMOW",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getmow/backend-engineer-intern-ai-systems-berlin-203128",
-      "description": "Cloud Studios is a Berlin app studio building premium, productised digital products. Our current product, GetMOW, analyses how AI engines like ChatGPT, Perplexity and Google's AI Overviews represent B2B software brands, and tells companies what to change to get recommended.\nWe need to move the core ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T19:00:32.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-intern-backend-ai-berlin-298440",
-      "title": "Full-Stack Engineer Intern (Backend & AI)",
-      "company": "GetMOW",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getmow/full-stack-engineer-intern-backend-ai-berlin-298440",
-      "description": "Most engineers spend their first years fixing tickets in someone else's system. You'd be building the core of ours.\nRight now, when a buyer asks ChatGPT \"what's the best tool for X\", a handful of brands get recommended. Everyone else is invisible. And most companies have no idea which side they're o",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T19:00:31.000Z",
       "source": "Arbeitnow"
     },
     {
