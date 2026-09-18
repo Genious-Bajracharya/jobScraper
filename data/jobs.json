@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-09-17T20:53:05.430Z",
-  "total": 19,
+  "updatedAt": "2026-09-18T02:51:18.346Z",
+  "total": 18,
   "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-backend-behavioral-security-products-256373",
+      "title": "Software Engineer - Backend - Behavioral Security Products",
+      "company": "Abnormalsecurity",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/abnormalsecurity/software-engineer-backend-behavioral-security-products-256373",
+      "description": "&lt;p&gt;At Abnormal AI, we protect our customers against nefarious adversaries who are constantly evolving their techniques and tactics to outwit and undermine the traditional approaches to Security.&lt;/p&gt;\n&lt;p&gt;Abnormal is recognized as a top cybersecurity startup (Leader in the 2025 Gartne",
+      "tags": [
+        "Behavioral Security Products"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-18T00:55:35.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-design-engineer-ui-frontend-london-gb-277562",
+      "title": "Design Engineer (UI, Frontend)",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/design-engineer-ui-frontend-london-gb-277562",
+      "description": "&nbsp;\nAbout Octopus Electroverse\nWe’re making electric vehicle public charging simple, by building the giant, virtual charging platform of the future. In just five years, Octopus Electroverse has become Europe’s largest eMobility charging network, with over 1.4 million connected electric vehicle ch",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-17T21:04:11.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-engineer-intern-ai-systems-berlin-203128",
       "title": "Backend Engineer Intern | AI Systems (m/f/d)",
@@ -29,78 +57,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-17T19:00:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-378612",
-      "title": "Ausbildung zum Fachinformatiker/-in für  Anwendungsentwicklung (w/m/d)",
-      "company": "GETEC GRUPPE",
-      "location": "Hannover",
-      "url": "https://www.arbeitnow.com/jobs/companies/getec-gruppe/ausbildung-zum-fachinformatiker-in-fur-anwendungsentwicklung-hannover-378612",
-      "description": "AufgabenWährend deiner Ausbildung besuchst du die Multi Media Berufsschule.Du lernst die Planung und Entwicklung von Softwareanwendungen kennen. Umsetzung von Geschäftsprozessen in Softwareprodukte.Anwendungs- und Kommunikationsdesign.Bei uns erlernst du das Applikationsmanagement.Du bekommst einen ",
-      "tags": [
-        "Ausbildung",
-        "Fachinformatiker",
-        "Fachinformatikerin",
-        "Hannover",
-        "Anwendugsentwicklung",
-        "Planung",
-        "Entwicklung",
-        "Anwendung",
-        "Software",
-        "Daten",
-        "Datenbanken",
-        "Programmierung",
-        "Logisches Denken",
-        "SQL",
-        "PHP",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Iphone",
-        "Hund",
-        "Katze",
-        "Fussball",
-        "Handball",
-        "Multi Media",
-        "Berufsschule"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T14:09:44.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-63021",
-      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
-      "company": "Doc Cirrus Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-63021",
-      "description": "This is what makes your position specialFull-stack software development based on Docker, Node.js and MongoDB Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development toolsComponent responsibility: from technical design to development to CI/CDIf you take responsibility, you",
-      "tags": [
-        "javascript",
-        "node.js",
-        "scrum",
-        "code",
-        "ehealth",
-        "informatics",
-        "Full Stack Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T14:09:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-developer-java-spring-boot-france-316924",
-      "title": "Backend Developer (Java/Spring Boot)",
-      "company": "Jobgether",
-      "location": "France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/jobgether/backend-developer-java-spring-boot-france-316924",
-      "description": "\nThis position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend Developer (Java/Spring Boot) based in France.\nJoin a fully remote product development team working on modern digital products for ambitious organizations.You’ll ",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-17T01:24:26.000Z",
       "source": "Arbeitnow"
     },
     {
