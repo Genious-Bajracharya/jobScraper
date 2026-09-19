@@ -1,34 +1,32 @@
 {
-  "updatedAt": "2026-09-19T02:49:37.548Z",
+  "updatedAt": "2026-09-19T10:11:15.159Z",
   "total": 16,
   "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-medical-science-liaison-manager-onkologie-hamatologie-berlin-196515",
-      "title": "Medical Science Liaison Manager (m/w/d) Onkologie & Hämatologie",
-      "company": "qinX",
-      "location": "Berlin, Berlin, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/qinx/medical-science-liaison-manager-onkologie-hamatologie-berlin-196515",
-      "description": "Unser Kunde ist ein global tätiges, dynamisches Pharmaunternehmen mit Fokus auf Spezialtherapien in der Onkologie / Hämatologie.Gebiet: Berlin / Brandenburg / Sachsen / Sachsen Anhalt / Mecklenburg-Vorpommern / Schleswig Holstein / Niedersachsen  Ihre Aufgaben:Wissenschaftlicher Erfahrungsaustausch ",
-      "tags": [
-        "Life Sciences / Pharma"
-      ],
+      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-289399",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-289399",
+      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-09-18T23:30:22.000Z",
+      "postedAt": "2026-09-19T08:09:17.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-trainee-mode-und-einzelhandel-magdeburg-161879",
-      "title": "Trainee (m/w/d) - Mode und Einzelhandel",
-      "company": "KULT | OLYMP & HADES",
-      "location": "Magdeburg, Sachsen-Anhalt, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/trainee-mode-und-einzelhandel-magdeburg-161879",
-      "description": "Du suchst nach Veränderung oder der nächsten Herausforderung? Du bist teamfähig und liebst Fashion?&nbsp;Auf Dich haben wir gewartet! Wir suchen Dich als Trainee  für unsere Filiale OLYMP &amp; HADES MagdeburgBei uns erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern",
+      "id": "arbeitnow-full-stack-analytics-digital-unit-sports-lille-btwin-village-nord-248174",
+      "title": "Full Stack Analytics - Digital Unit Sports (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Lille - Btwin Village, Nord",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-analytics-digital-unit-sports-lille-btwin-village-nord-248174",
+      "description": "&lt;p&gt;&lt;strong&gt;LE CONTEXTE&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Depuis plus de 50 ans, grâce à ses produits innovants et fort de sa culture reposant sur l’accessibilité, Decathlon ne cesse de réinventer le marché du sport.&lt;/p&gt;\n&lt;p&gt;Notre mission : rendre durablement les plaisirs et le",
       "tags": [
-        "Sales"
+        "Data"
       ],
       "salary": null,
-      "postedAt": "2026-09-18T23:30:22.000Z",
+      "postedAt": "2026-09-19T07:55:03.000Z",
       "source": "Arbeitnow"
     },
     {
