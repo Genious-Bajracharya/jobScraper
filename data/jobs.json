@@ -1,20 +1,34 @@
 {
-  "updatedAt": "2026-09-18T20:18:03.259Z",
-  "total": 15,
+  "updatedAt": "2026-09-19T02:49:37.548Z",
+  "total": 16,
   "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-entwickler-hamburg-480998",
-      "title": "Fullstack Entwickler (m/w/d)",
-      "company": "Cordes Consulting GmbH",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/cordes-consulting-gmbh/fullstack-entwickler-hamburg-480998",
-      "description": "Wir sind eine der am schnellstwachsenden&nbsp;Digitalagenturen Hamburgs und suchen zum nächstmöglichen&nbsp;Zeitpunkt neue Mitarbeiter/innen mit Schwerpunkt Fullstack Entwicklung&nbsp;für den Bereich Business Development.Was macht die Cordes Consulting GmbH genau?Wir sind eine Werbeagentur, welche H",
+      "id": "arbeitnow-medical-science-liaison-manager-onkologie-hamatologie-berlin-196515",
+      "title": "Medical Science Liaison Manager (m/w/d) Onkologie & Hämatologie",
+      "company": "qinX",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/qinx/medical-science-liaison-manager-onkologie-hamatologie-berlin-196515",
+      "description": "Unser Kunde ist ein global tätiges, dynamisches Pharmaunternehmen mit Fokus auf Spezialtherapien in der Onkologie / Hämatologie.Gebiet: Berlin / Brandenburg / Sachsen / Sachsen Anhalt / Mecklenburg-Vorpommern / Schleswig Holstein / Niedersachsen  Ihre Aufgaben:Wissenschaftlicher Erfahrungsaustausch ",
       "tags": [
-        "(7) Business Development"
+        "Life Sciences / Pharma"
       ],
       "salary": null,
-      "postedAt": "2026-09-18T17:30:11.000Z",
+      "postedAt": "2026-09-18T23:30:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-trainee-mode-und-einzelhandel-magdeburg-161879",
+      "title": "Trainee (m/w/d) - Mode und Einzelhandel",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Magdeburg, Sachsen-Anhalt, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/trainee-mode-und-einzelhandel-magdeburg-161879",
+      "description": "Du suchst nach Veränderung oder der nächsten Herausforderung? Du bist teamfähig und liebst Fashion?&nbsp;Auf Dich haben wir gewartet! Wir suchen Dich als Trainee  für unsere Filiale OLYMP &amp; HADES MagdeburgBei uns erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern",
+      "tags": [
+        "Sales"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-18T23:30:22.000Z",
       "source": "Arbeitnow"
     },
     {
