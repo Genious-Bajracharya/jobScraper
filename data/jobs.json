@@ -1,34 +1,105 @@
 {
-  "updatedAt": "2026-09-19T19:56:30.804Z",
-  "total": 16,
-  "newSinceLastRun": 0,
+  "updatedAt": "2026-09-20T03:01:37.116Z",
+  "total": 18,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-responsable-metrologie-transport-de-biologie-saint-ouen-168533",
-      "title": "Responsable Métrologie – Transport de Biologie H/F/X",
-      "company": "TopChrono",
-      "location": "Saint Ouen, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/responsable-metrologie-transport-de-biologie-saint-ouen-168533",
-      "description": "TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, adoptant une dynamique startup pour réin",
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-185960",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-185960",
+      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
       "tags": [
-        "Opérations"
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
       ],
       "salary": null,
-      "postedAt": "2026-09-19T10:30:04.000Z",
+      "postedAt": "2026-09-20T02:09:50.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-gestionnaire-de-paie-et-adp-cdd-saint-ouen-252637",
-      "title": "Gestionnaire de Paie et ADP CDD  H/F/X",
-      "company": "TopChrono",
-      "location": "Saint Ouen, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/gestionnaire-de-paie-et-adp-cdd-saint-ouen-252637",
-      "description": "Rejoignez notre transformation !TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, adoptant",
+      "id": "arbeitnow-backend-engineer-mid-level-autopilot-team-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-140825",
+      "title": "Backend Engineer - Mid Level - Autopilot Team",
+      "company": "Staffbase",
+      "location": "Berlin, Brandenburg; Chemnitz, Sachsen; Dresden, Sachsen",
+      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/backend-engineer-mid-level-autopilot-team-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-140825",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong&gt;AI-native Employ",
       "tags": [
-        "Ressources humaines"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-19T10:30:04.000Z",
+      "postedAt": "2026-09-19T23:55:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
+      "title": "Ingénieur·e de recherche en Reactive Synthesis - CDD - 12 mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Palaiseau, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
+      "description": "Présentation de Télécom SudParis :Télécom SudParis est une grande école publique d'ingénieurs reconnue au meilleur niveau des sciences et technologies du numérique. La qualité de ses formations est basée sur l’excellence scientifique de son corps professoral et une pédagogie mettant l’accent sur les",
+      "tags": [
+        "Informatique et Système d'information"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-19T22:30:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-413495",
+      "title": "Werkstudent*in im Projektmanagement",
+      "company": "Doo",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-413495",
+      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "tags": [
+        "Projektmanagement",
+        "CSS",
+        "HTML",
+        "Werkstudent",
+        "Product Consulting",
+        "JavaScript",
+        "Engineering",
+        "Make",
+        "Webentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-19T20:09:21.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-java-backend-developer-munchen-438936",
+      "title": "Java Backend Developer (m/w/d)",
+      "company": "Avelion Group",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-438936",
+      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
+      "tags": [
+        "java",
+        "java backend development",
+        "spring boot",
+        "softwareentwicklung",
+        "backend development",
+        "clean code",
+        "agile softwareentwicklung",
+        "software engineering",
+        "REST / Schnittstellenentwicklung",
+        "Informatik"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-19T20:09:11.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -44,20 +115,6 @@
       "salary": null,
       "postedAt": "2026-09-19T08:45:14+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-full-stack-analytics-digital-unit-sports-lille-btwin-village-nord-248174",
-      "title": "Full Stack Analytics - Digital Unit Sports (f/m/d)",
-      "company": "Decathlontechnology",
-      "location": "Lille - Btwin Village, Nord",
-      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-analytics-digital-unit-sports-lille-btwin-village-nord-248174",
-      "description": "&lt;p&gt;&lt;strong&gt;LE CONTEXTE&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Depuis plus de 50 ans, grâce à ses produits innovants et fort de sa culture reposant sur l’accessibilité, Decathlon ne cesse de réinventer le marché du sport.&lt;/p&gt;\n&lt;p&gt;Notre mission : rendre durablement les plaisirs et le",
-      "tags": [
-        "Data"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-19T07:55:03.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-153596",
