@@ -1,33 +1,46 @@
 {
-  "updatedAt": "2026-09-20T10:29:54.691Z",
-  "total": 16,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-20T15:18:23.064Z",
+  "total": 17,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-software-engineer-munchen-15638",
-      "title": "Fullstack Software Engineer (m/w/d)",
-      "company": "Rhein Nadel Automation Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-15638",
-      "description": "Wer wir sind  RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den ",
+      "id": "arbeitnow-fullstack-developer-koln-139576",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Semdor Pharma Group GmbH",
+      "location": "Köln",
+      "url": "https://www.arbeitnow.com/jobs/companies/semdor-pharma-group-gmbh/fullstack-developer-koln-139576",
+      "description": "Deine AufgabenBloombase baut die führende ERP-Plattform für Cannabis-Apotheken in Deutschland. Gegründet mit dem Full-Stack-Know-how von SnapNext und dem Branchenrückhalt von Cannamedical – einem der größten Cannabis-Konzerne im deutschsprachigen Raum – entwickeln wir eine B2B-Software, die das Cann",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-20T14:09:19.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-expression-of-interest-contractor-engagement-bridge-and-structures-inspectors-88242",
+      "title": "Expression of Interest – Contractor Engagement – Bridge and Structures Inspectors",
+      "company": "Bakerhicks",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/expression-of-interest-contractor-engagement-bridge-and-structures-inspectors-88242",
+      "description": "&lt;p&gt;&lt;strong&gt;About BakerHicks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;BakerHicks is a leading design, engineering and project delivery consultancy, delivering complex infrastructure, industrial and built environment projects across the UK and Europe.&lt;/p&gt;\n&lt;p&gt;Our Infrastructure team su",
       "tags": [
-        "Python",
-        "Django",
-        "ORM-Tools",
-        "SQL",
-        "Javascript",
-        "React",
-        "Softwareentwickler",
-        "Software Developer",
-        "Prozessdigitalisierung",
-        "KI",
-        "Künstliche Intelligenz",
-        "AI",
-        "Physik-Simulationen",
-        "Docker"
+        "Civil & Structural - Bridges"
       ],
       "salary": null,
-      "postedAt": "2026-09-20T05:09:57.000Z",
+      "postedAt": "2026-09-20T12:55:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-backend-bi-platform-london-345210",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-345210",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
+      "tags": [
+        "Engineering (Data Platform)"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-20T12:55:05.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -45,20 +58,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
-      "title": "Ingénieur·e de recherche en Reactive Synthesis - CDD - 12 mois",
-      "company": "Institut Mines-Télécom",
-      "location": "Palaiseau, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/ingenieure-de-recherche-en-reactive-synthesis-cdd-12-mois-palaiseau-354078",
-      "description": "Présentation de Télécom SudParis :Télécom SudParis est une grande école publique d'ingénieurs reconnue au meilleur niveau des sciences et technologies du numérique. La qualité de ses formations est basée sur l’excellence scientifique de son corps professoral et une pédagogie mettant l’accent sur les",
-      "tags": [
-        "Informatique et Système d'information"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-19T22:30:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-150975",
       "title": "Backend Software Engineer",
       "company": "Northflank",
@@ -73,18 +72,34 @@
       "source": "Jobicy"
     },
     {
-      "id": "jobicy-153596",
-      "title": "Software Engineer, Application Integration",
-      "company": "Bayesian Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
-      "description": "Software Engineer, Application Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the",
+      "id": "remotive-2091141",
+      "title": "Frontend Web Application Developer",
+      "company": "KoboToolbox",
+      "location": "USA, Canada, Argentina, Mexico, Peru",
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "description": "Location: RemoteAvailability: 35-40 hours per weekWorking hours: US East business hoursReporting to: Lead developer\nKoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. A",
       "tags": [
-        "Software Engineering"
+        "api",
+        "django",
+        "docker",
+        "frontend",
+        "git",
+        "python",
+        "react",
+        "security",
+        "video",
+        "AI/ML",
+        "documentation",
+        "Typescript ",
+        "web applications",
+        "backbone",
+        "diversity",
+        "REST",
+        "insurance"
       ],
-      "salary": null,
-      "postedAt": "2026-09-18T14:40:04+00:00",
-      "source": "Jobicy"
+      "salary": "$90k - $105k",
+      "postedAt": "2026-09-18T16:43:22",
+      "source": "Remotive"
     },
     {
       "id": "remoteok-1137399",
