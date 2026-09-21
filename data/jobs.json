@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T20:11:52.431Z",
+  "updatedAt": "2026-09-21T02:58:50.704Z",
   "total": 14,
   "newSinceLastRun": 1,
   "jobs": [
@@ -16,6 +16,38 @@
       "salary": null,
       "postedAt": "2026-09-20T04:50:08+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1137410",
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "location": "Ireland",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-20T00:00:25+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1137409",
@@ -342,27 +374,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-04T23:02:29+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...Please mention the",
-      "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-29T20:00:01+00:00",
       "source": "RemoteOK"
     }
   ]
