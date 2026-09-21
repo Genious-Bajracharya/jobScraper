@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-09-21T17:43:28.051Z",
+  "updatedAt": "2026-09-21T21:36:38.197Z",
   "total": 16,
-  "newSinceLastRun": 3,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-aschaffenburg-261115",
+      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Aschaffenburg, Bayern, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-aschaffenburg-261115",
+      "description": "Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusammen.Wir begrüßen a",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-21T20:30:32.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-133558",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-133558",
+      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
+      "tags": [
+        "backend",
+        "AI",
+        "LLM",
+        "product",
+        "product engineer",
+        "backend engineer",
+        "AI engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-21T20:09:52.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-web-entwicklerin-e-commerce-php-laravel-javascript-shopify-plentyone-vollzeit-in-dortmund-45890",
       "title": "Web-Entwickler:in E-Commerce PHP / Laravel / JavaScript (Shopify, PlentyONE) - Vollzeit (m/w/d) in Dortmund",
@@ -15,36 +47,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-21T16:00:47.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
-      "title": "Frontend Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-275925",
-      "description": "Begeisterst Du Dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Möchtest Du innovative Frontends entwickeln und aktiv an zukunftsweisenden Softwarelösungen mitwirken? Dann bist Du bei TecFox genau richtig.\nDie TecFox GmbH ist ein zukunftsorie",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T12:01:22.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-59326",
-      "title": "Fullstack Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-59326",
-      "description": "Du möchtest innovative Softwarelösungen entwickeln und dabei sowohl im Backend als auch im Frontend Verantwortung übernehmen? Du arbeitest gerne in agilen Teams, denkst in skalierbaren Architekturen und schätzt moderne Technologien? Dann werde Teil von TecFox.\nDie TecFox GmbH ist ein zukunftsorienti",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T12:01:22.000Z",
       "source": "Arbeitnow"
     },
     {
