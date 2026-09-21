@@ -1,128 +1,50 @@
 {
-  "updatedAt": "2026-09-21T11:47:58.741Z",
-  "total": 21,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-09-21T17:43:28.051Z",
+  "total": 16,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-software-developer-schwerpunkt-angular-nuremberg-53024",
-      "title": "Software Developer (m/w/d) - Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-53024",
-      "description": "Deine Rolle\nKomplexe Prozesse so in ein Frontend zu gießen, dass die Bedienung fast schon intuitiv Spaß macht – genau darum geht es bei uns. Als Software Developer mit Schwerpunkt Angular bist Du die treibende Kraft dafür, dass unsere Webanwendungen nicht nur technisch sauber ticken, sondern auch im",
+      "id": "arbeitnow-web-entwicklerin-e-commerce-php-laravel-javascript-shopify-plentyone-vollzeit-in-dortmund-45890",
+      "title": "Web-Entwickler:in E-Commerce PHP / Laravel / JavaScript (Shopify, PlentyONE) - Vollzeit (m/w/d) in Dortmund",
+      "company": "apoio GmbH",
+      "location": "Dortmund",
+      "url": "https://www.arbeitnow.com/jobs/companies/apoio-gmbh/web-entwicklerin-e-commerce-php-laravel-javascript-shopify-plentyone-vollzeit-in-dortmund-45890",
+      "description": "Wir sind eine junge, schnell wachsende E-Commerce Agentur für Shopify, plentymarkets &#x26; individuelle Software.\nWir lieben E-Commerce und haben uns deshalb zur Aufgabe gemacht, unseren Kund:innen in diesem interessanten, dynamischen Bereich als langfristiger Partner zur Seite zu stehen.\nUnser Tea",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-21T08:58:29.000Z",
+      "postedAt": "2026-09-21T16:00:47.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-fintech-berlin-304555",
-      "title": "Backend Engineer - FinTech",
-      "company": "Andercore",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-fintech-berlin-304555",
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, qu",
+      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-275925",
+      "title": "Frontend Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-275925",
+      "description": "Begeisterst Du Dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Möchtest Du innovative Frontends entwickeln und aktiv an zukunftsweisenden Softwarelösungen mitwirken? Dann bist Du bei TecFox genau richtig.\nDie TecFox GmbH ist ein zukunftsorie",
       "tags": [
-        "Platform Development"
+        "Remote",
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-21T08:40:03.000Z",
+      "postedAt": "2026-09-21T12:01:22.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-supply-chain-logistics-berlin-369362",
-      "title": "Backend Engineer - Supply Chain & Logistics",
-      "company": "Andercore",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-supply-chain-logistics-berlin-369362",
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, qu",
+      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-59326",
+      "title": "Fullstack Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-59326",
+      "description": "Du möchtest innovative Softwarelösungen entwickeln und dabei sowohl im Backend als auch im Frontend Verantwortung übernehmen? Du arbeitest gerne in agilen Teams, denkst in skalierbaren Architekturen und schätzt moderne Technologien? Dann werde Teil von TecFox.\nDie TecFox GmbH ist ein zukunftsorienti",
       "tags": [
-        "Platform Development"
+        "Remote",
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-21T08:40:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-ai-agents-workflows-berlin-446500",
-      "title": "Backend Engineer (AI Agents/Workflows)",
-      "company": "Andercore",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/andercore/backend-engineer-ai-agents-workflows-berlin-446500",
-      "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, qu",
-      "tags": [
-        "Platform Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T08:40:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-quantitative-backend-developer-private-capital-analytics-platform-munchen-112316",
-      "title": "Quantitative Backend Developer (f/m/d) – Private Capital Analytics Platform",
-      "company": "Assetmetrix Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/assetmetrix-gmbh/quantitative-backend-developer-private-capital-analytics-platform-munchen-112316",
-      "description": "Your missionAs a Quantitative Researcher &amp; Methodology Specialist (f/m/d), you will develop innovative quantitative models for the private capital industry. You will identify new analytical approaches, validate their value, and actively shape the methodological evolution of our products. Your ta",
-      "tags": [
-        "Analytics",
-        "Private Capital",
-        "Alternative Investments",
-        "Private Equity",
-        "Analytics Engineering",
-        "Data Management",
-        "Quantitative Research",
-        "Modellentwicklung",
-        "Modellvalidierung",
-        "Research",
-        "Innovation"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T08:09:59.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-contract-218844",
-      "title": "Full Stack Engineer, Contract",
-      "company": "66Degrees",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/66degrees/full-stack-engineer-contract-218844",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://66degrees.com/wp-content/uploads/2025/03/JobPosting-Cover.jpg&quot; alt=&quot;&quot; width=&quot;1400&quot;&gt;&lt;/p&gt;\n&lt;h2&gt;Overview of 66degrees&lt;/h2&gt;\n&lt;p&gt;66degrees is ",
-      "tags": [
-        "Professional Services Delivery"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-20T15:55:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-expression-of-interest-contractor-engagement-bridge-and-structures-inspectors-88242",
-      "title": "Expression of Interest – Contractor Engagement – Bridge and Structures Inspectors",
-      "company": "Bakerhicks",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bakerhicks/expression-of-interest-contractor-engagement-bridge-and-structures-inspectors-88242",
-      "description": "&lt;p&gt;&lt;strong&gt;About BakerHicks&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;BakerHicks is a leading design, engineering and project delivery consultancy, delivering complex infrastructure, industrial and built environment projects across the UK and Europe.&lt;/p&gt;\n&lt;p&gt;Our Infrastructure team su",
-      "tags": [
-        "Civil & Structural - Bridges"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-20T12:55:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-bi-platform-london-345210",
-      "title": "Software Engineer, Backend (BI Platform)",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-345210",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
-      "tags": [
-        "Engineering (Data Platform)"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-20T12:55:05.000Z",
+      "postedAt": "2026-09-21T12:01:22.000Z",
       "source": "Arbeitnow"
     },
     {
