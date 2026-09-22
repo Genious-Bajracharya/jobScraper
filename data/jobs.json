@@ -1,132 +1,77 @@
 {
-  "updatedAt": "2026-09-22T02:58:53.374Z",
-  "total": 22,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-09-22T10:49:58.497Z",
+  "total": 19,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-chatgpt-infrastructure-london-478769",
-      "title": "Software Engineer, ChatGPT Infrastructure",
-      "company": "Openai",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/software-engineer-chatgpt-infrastructure-london-478769",
-      "description": "About the TeamOur London-based team builds the backend systems that help ChatGPT scale reliably. We work on infrastructure close to the product, partnering with engineering teams to improve the performance, resilience, and operability of critical user-facing systems.Our work combines backend softwar",
-      "tags": [
-        "Applied AI"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-22T00:40:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-mid-level-actions-team-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-95298",
-      "title": "Fullstack Engineer - Mid Level - Actions Team",
-      "company": "Staffbase",
-      "location": "Berlin, Brandenburg; Chemnitz, Sachsen; Dresden, Sachsen",
-      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/fullstack-engineer-mid-level-actions-team-berlin-brandenburg-chemnitz-sachsen-dresden-sachsen-95298",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong&gt;AI-native Employ",
+      "id": "arbeitnow-full-stack-engineer-bath-362761",
+      "title": "Full Stack Engineer",
+      "company": "Salesape Ai",
+      "location": "Remote - UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/salesape-ai/full-stack-engineer-bath-362761",
+      "description": "Why SalesApe?Join SalesApe, one of the fastest-growing AI companies, recognised as a leader in cutting-edge AI technology and backed by over $20 million from top VCs. We’re at the dawn of a powerful evolution, set to transform society with our tech. Our mission? To tackle inequality by empowering a ",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-21T23:55:14.000Z",
+      "postedAt": "2026-09-22T09:40:10.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-general-manager-primarversorgung-frankfurt-416862",
-      "title": "General Manager - Primärversorgung (m/f/d)",
-      "company": "PraxisEins",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/general-manager-primarversorgung-frankfurt-416862",
-      "description": "Es ist Zeit für die Praxis der Zukunft, werde Teil von PraxisEins!PraxisEins ist ein Healthcare Scale-up aus Frankfurt: Wir bauen Deutschlands führenden Primärversorger auf. Hierfür übernehmen wir Hausarztpraxen, digitalisieren diese mit eigener Software und kümmern uns aktiv um eine stetige Verbess",
-      "tags": [
-        "Zentrale"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T23:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-expert-backend-engineer-get-discovered-germany-421686",
-      "title": "Expert Backend Engineer (Get Discovered)",
-      "company": "Jimdo",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jimdo/expert-backend-engineer-get-discovered-germany-421686",
-      "description": "About JimdoWe exist to unleash the power of the self-employed - helping solopreneurs and micro-businesses thrive by doing what they're passionate about and removing the complexity of building lasting, successful businesses.Jimdo started in 2007 when three school friends built a website builder in a ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T23:40:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-product-developer-berlin-465738",
-      "title": "Full Stack Product Developer (m/w/d)",
-      "company": "Tablemedia",
+      "id": "arbeitnow-backend-developer-berlin-174764",
+      "title": "Backend Developer Berlin (m/f/d)",
+      "company": "Doopic GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-465738",
-      "description": "Aufgaben  Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und unseren Redaktionen den Rücken freizuha",
+      "url": "https://www.arbeitnow.com/jobs/companies/doopic-gmbh/backend-developer-berlin-174764",
+      "description": "Not just a random job! A world full of possibilities to expand your skills, unleash creativity, challenge yourself, and exceed expectations. We provide you with the right environment and exciting tasks to help you grow.\n(We are especially looking for candidates based in Berlin)\nAufgaben\n\nYou take on",
       "tags": [
-        "php",
-        "laravel",
-        "statamic",
-        "PostgreSQL",
-        "Livewire",
-        "html",
-        "css",
-        "javascript",
-        "RESTful APIs",
-        "Linux",
-        "frontend",
-        "backend",
-        "fullstack",
-        "product",
-        "productdevelopment"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-21T23:09:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-entwickler-munich-284639",
-      "title": "Fullstack Entwickler (m/w/d)",
-      "company": "ICT Digital Solutions",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-284639",
-      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Fullstack Entwickler (m/w/d) am Standort München oder hybrid.\nDeine Aufgaben\n\nEntwicklung von Webapplikationen im Full-Stack-Bereich.\nDesign und Implementierung von APIs (REST/GraphQL).\nMitarbeit an Architekture",
-      "tags": [
-        "Remote",
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-21T23:00:35.000Z",
+      "postedAt": "2026-09-22T09:00:42.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-iii-cardiff-356251",
-      "title": "Backend Engineer III",
-      "company": "Monzo",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/backend-engineer-iii-cardiff-356251",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;🚀 We’re on a mission to make money work for everyone.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re waving goodbye to the complicated and confusing ways of traditional banking.&lt;/p&gt;\n&lt;p&gt;After starting as a pr",
+      "id": "arbeitnow-charge-de-ressources-humaines-en-alternance-saint-ouen-168364",
+      "title": "Chargé de Ressources Humaines en alternance H/F/X",
+      "company": "TopChrono",
+      "location": "Saint Ouen, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/charge-de-ressources-humaines-en-alternance-saint-ouen-168364",
+      "description": "Rejoignez notre transformation !&nbsp;TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, ad",
       "tags": [
-        "Engineering"
+        "Ressources humaines"
       ],
       "salary": null,
-      "postedAt": "2026-09-21T21:55:08.000Z",
+      "postedAt": "2026-09-22T07:30:21.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-home-page-merchandising-platform-london-259013",
-      "title": "Backend Engineer, Home Page & Merchandising Platform",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-home-page-merchandising-platform-london-259013",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Join",
-      "tags": [],
+      "id": "jobicy-151415",
+      "title": "Full Stack Engineer",
+      "company": "Roboflow",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
+      "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+      "tags": [
+        "Software Engineering"
+      ],
       "salary": null,
-      "postedAt": "2026-09-21T21:45:28.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-22T03:39:26+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-151365",
+      "title": "Fullstack Engineer",
+      "company": "Dispatch",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
+      "description": "About Us The financial advisory industry is a $80T market in the US, but has seen little technological innovation compared to the self-service market (Robinhood, Betterment, Wealthfront, SoFi). Client data management is a universally painful and expensive problem for financial advisors. Today, advis",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T03:35:03+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-151249",
