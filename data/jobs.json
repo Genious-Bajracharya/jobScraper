@@ -1,34 +1,119 @@
 {
-  "updatedAt": "2026-09-22T10:49:58.497Z",
-  "total": 19,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-22T16:08:16.726Z",
+  "total": 24,
+  "newSinceLastRun": 8,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-engineer-bath-362761",
-      "title": "Full Stack Engineer",
-      "company": "Salesape Ai",
-      "location": "Remote - UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/salesape-ai/full-stack-engineer-bath-362761",
-      "description": "Why SalesApe?Join SalesApe, one of the fastest-growing AI companies, recognised as a leader in cutting-edge AI technology and backed by over $20 million from top VCs. We’re at the dawn of a powerful evolution, set to transform society with our tech. Our mission? To tackle inequality by empowering a ",
+      "id": "arbeitnow-full-stack-engineer-searchandizing-munich-141281",
+      "title": "Full Stack Engineer: Searchandizing",
+      "company": "Constructor",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/constructor/full-stack-engineer-searchandizing-munich-141281",
+      "description": "About UsConstructor is the only search and product discovery platform tailor-made for enterprise e-commerce where conversions matter. Constructor's AI-first solutions make it easier for shoppers to discover products they want to buy and for e-commerce teams to deliver highly personalized experiences",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-22T09:40:10.000Z",
+      "postedAt": "2026-09-22T14:40:11.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-developer-berlin-174764",
-      "title": "Backend Developer Berlin (m/f/d)",
-      "company": "Doopic GmbH",
+      "id": "arbeitnow-product-engineering-tech-lead-berlin-59245",
+      "title": "Product Engineering Tech Lead",
+      "company": "Deepsetai",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doopic-gmbh/backend-developer-berlin-174764",
-      "description": "Not just a random job! A world full of possibilities to expand your skills, unleash creativity, challenge yourself, and exceed expectations. We provide you with the right environment and exciting tasks to help you grow.\n(We are especially looking for candidates based in Berlin)\nAufgaben\n\nYou take on",
+      "url": "https://www.arbeitnow.com/jobs/companies/deepsetai/product-engineering-tech-lead-berlin-59245",
+      "description": "TL;DRWe are hiring a Product Engineering Tech Lead to own the layer that runs our customers' AI applications: serverless, durable, streaming execution, and the observability that proves it works. You sit where backend engineering, platform operations, and product meet. You scale this platform to ent",
       "tags": [
-        "Software Development"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-22T09:00:42.000Z",
+      "postedAt": "2026-09-22T14:40:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-quadrants-compiler-lead-paris-66067",
+      "title": "Quadrants: Compiler Lead",
+      "company": "Genesis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/quadrants-compiler-lead-paris-66067",
+      "description": "What Quadrants isQuadrants is an open-source translation layer that turns ordinary Python into optimized machine code at runtime, across CPU (Arm64, x86) and GPU (AMDGPU, CUDA, Metal, Vulkan) backends. CUDA is the primary target, with x86 the strong runner-up, especially for real-time simulation. Th",
+      "tags": [
+        "Engineering & Research"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T13:40:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-developer-all-genders-berlin-80341",
+      "title": "Frontend Developer (all genders)",
+      "company": "Vexcash AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/frontend-developer-all-genders-berlin-80341",
+      "description": "VEXCASH AG is Germany’s leading online provider of short-term loans. We offer our customers a quick and straightforward solution to bridge the gap until their next payday. More than 800,000 customers already rely on our service. Thanks to our innovative approach, they can secure financial liquidity ",
+      "tags": [
+        "Private Banking"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T13:30:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-backend-leaning-london-159941",
+      "title": "Fullstack Engineer (Backend leaning)",
+      "company": "Ben",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/fullstack-engineer-backend-leaning-london-159941",
+      "description": "Our MissionWe're not your average benefits platform; we're the unordinary force that uplifts people's lives. Our technology is the link that connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers.Our mission is clear: we're here to create a ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T12:40:15.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-c-software-engineer-united-kingdom-232323",
+      "title": "C++ Software Engineer",
+      "company": "Reactive Markets",
+      "location": "Remote, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/c-software-engineer-united-kingdom-232323",
+      "description": "C++ Software EngineerRemote (UK-based) | Full-TimeAbout UsReactive Markets is the 2026 OTC Trading Platform of the Year (Risk.net). Our network handles over $50 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 40+ of the world's leading liquidity providers.We buil",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T12:40:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-technical-delivery-analyst-united-kingdom-233315",
+      "title": "Technical Delivery Analyst",
+      "company": "Reactive Markets",
+      "location": "Remote, UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/technical-delivery-analyst-united-kingdom-233315",
+      "description": "Technical Delivery AnalystRemote (UK-based)About UsReactive Markets is the 2026 OTC Trading Platform of the Year (Risk.net). Our network handles over $50 billion in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 40+ of the world's leading liquidity providers.We build tradi",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T12:40:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fix-onboarding-client-services-london-69491",
+      "title": "FIX Onboarding & Client Services",
+      "company": "Reactive Markets",
+      "location": "Hybrid, London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/fix-onboarding-client-services-london-69491",
+      "description": "FIX Onboarding &amp; Client Services, EMEAHybrid, London, UK (3+ days per week in-office) | Full-TimeAbout UsReactive Markets is the 2026 OTC Trading Platform of the Year (Risk.net). Our network handles billions in daily trading volumes across FX, Equities, and Cryptocurrency, connecting 35+ of the ",
+      "tags": [
+        "Sales",
+        "Client Services & Liquidity Management"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-22T12:40:13.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -237,7 +322,7 @@
         "jQuery",
         "Ajax"
       ],
-      "salary": "$31,2k- $52k",
+      "salary": "$35,3k- $52k",
       "postedAt": "2026-09-11T20:16:48",
       "source": "Remotive"
     },
@@ -430,27 +515,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-04T23:02:29+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
-      "description": "Remote - Market-leading travel agency (part of an international holding) working with numerous tour operator partners  is looking for a Golang Developers to join our core backend engineering team. Our developers focus heavily on building robust API integrations between our inter...Please mention the",
-      "tags": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-07-29T20:00:01+00:00",
       "source": "RemoteOK"
     }
   ]
