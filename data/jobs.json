@@ -1,20 +1,32 @@
 {
-  "updatedAt": "2026-09-22T20:47:23.651Z",
-  "total": 18,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-23T02:58:56.456Z",
+  "total": 19,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-home-page-merchandising-platform-london-114793",
-      "title": "Backend Engineer, Home Page & Merchandising Platform",
-      "company": "Deliveroo",
+      "id": "arbeitnow-software-engineer-backend-bi-platform-london-222046",
+      "title": "Software Engineer, Backend (BI Platform)",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-222046",
+      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Join",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-22T21:45:27.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-lifecycle-marketer-self-serve-london-341227",
+      "title": "Lifecycle Marketer, Self-Serve",
+      "company": "Lovable",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-home-page-merchandising-platform-london-114793",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/lifecycle-marketer-self-serve-london-341227",
+      "description": "TL;DR - You’ll execute Lovable’s lifecycle marketing for the self-serve base - activation, engagement, retention, and reactivation. Hands-on, AI-first, and increasingly driven by intelligent personalization. You’ll shape how millions of builders experience Lovable every day.Why Lovable?Lovable is th",
       "tags": [
-        "Engineering (Consumer)"
+        "GTM"
       ],
       "salary": null,
-      "postedAt": "2026-09-22T15:55:05.000Z",
+      "postedAt": "2026-09-22T21:40:04.000Z",
       "source": "Arbeitnow"
     },
     {
