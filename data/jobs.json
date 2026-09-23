@@ -1,8 +1,36 @@
 {
-  "updatedAt": "2026-09-23T15:58:10.312Z",
-  "total": 23,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-23T20:59:25.296Z",
+  "total": 22,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-fullstack-platform-engineer-berlin-225651",
+      "title": "Fullstack Platform Engineer",
+      "company": "WePush",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/wepush/fullstack-platform-engineer-berlin-225651",
+      "description": "WePush is a creator marketplace connecting brands with creators at scale. We’re looking for an experienced Fullstack Platform Engineer who enjoys architecture, infrastructure, and running real systems in production end-to-end.\nThis is a hands-on startup role, not a narrow DevOps position. You’ll bui",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T16:30:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-153974",
+      "title": "Backend Engineer, Observability",
+      "company": "LaunchDarkly",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
+      "description": "About the Job: LaunchDarkly is looking for a Backend Engineer to help build and expand Vega, our AI-powered platform that surfaces insights and automates actions across LaunchDarkly products. This is a greenfield opportunity: you'll help evolve Vega from an Observability-focused assistant into a cro",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T15:19:30+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-confirmed-backend-engineer-care-paris-france-424225",
       "title": "Confirmed Backend Engineer - Care",
@@ -29,48 +57,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-23T12:55:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-berlin-26263",
-      "title": "Engineering Manager",
-      "company": "Finom",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/finom/engineering-manager-berlin-26263",
-      "description": "Finom is a fast-growing European tech startup, headquartered in Amsterdam, on a mission to revolutionize the financial landscape for entrepreneurs globally. We are developing an all-in-one financial B2B solution that seamlessly integrates banking functions, accounting, financial management, and invo",
-      "tags": [
-        "Backend"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T11:04:44.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-manager-technical-support-london-414277",
-      "title": "Manager, Technical Support",
-      "company": "Swap",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/manager-technical-support-london-414277",
-      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
-      "tags": [
-        "Operations"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T09:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-customer-support-specialist-london-166073",
-      "title": "Customer Support Specialist",
-      "company": "Swap",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/customer-support-specialist-london-166073",
-      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
-      "tags": [
-        "Operations"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T09:40:09.000Z",
       "source": "Arbeitnow"
     },
     {
