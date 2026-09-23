@@ -1,33 +1,92 @@
 {
-  "updatedAt": "2026-09-23T02:58:56.456Z",
-  "total": 19,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-09-23T10:39:01.528Z",
+  "total": 23,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-backend-bi-platform-london-222046",
-      "title": "Software Engineer, Backend (BI Platform)",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-222046",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Join",
-      "tags": [],
+      "id": "arbeitnow-manager-technical-support-london-414277",
+      "title": "Manager, Technical Support",
+      "company": "Swap",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/manager-technical-support-london-414277",
+      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
+      "tags": [
+        "Operations"
+      ],
       "salary": null,
-      "postedAt": "2026-09-22T21:45:27.000Z",
+      "postedAt": "2026-09-23T09:40:09.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-lifecycle-marketer-self-serve-london-341227",
-      "title": "Lifecycle Marketer, Self-Serve",
-      "company": "Lovable",
+      "id": "arbeitnow-customer-support-specialist-london-166073",
+      "title": "Customer Support Specialist",
+      "company": "Swap",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lovable/lifecycle-marketer-self-serve-london-341227",
-      "description": "TL;DR - You’ll execute Lovable’s lifecycle marketing for the self-serve base - activation, engagement, retention, and reactivation. Hands-on, AI-first, and increasingly driven by intelligent personalization. You’ll shape how millions of builders experience Lovable every day.Why Lovable?Lovable is th",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/customer-support-specialist-london-166073",
+      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
       "tags": [
-        "GTM"
+        "Operations"
       ],
       "salary": null,
-      "postedAt": "2026-09-22T21:40:04.000Z",
+      "postedAt": "2026-09-23T09:40:09.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
+      "title": "Python Backend Developer (m/w/d) - Schwerpunkt KI-Plattform",
+      "company": "IT Studio Rech GmbH",
+      "location": "Würzburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
+      "description": "Baue mit uns die Plattform für digitale KI-Mitarbeiter.\nBei der IT Studio Rech GmbH entwickeln wir eine Plattform, mit der Unternehmen KI-Mitarbeiter in ihre täglichen Abläufe integrieren können. Dafür suchen wir Dich: jemanden, der solide Software entwickelt, Systeme zuverlässig verbindet und Veran",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T08:30:46.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-expression-of-interest-research-engineer-scientist-alignment-london-467989",
+      "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
+      "company": "anthropic",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/expression-of-interest-research-engineer-scientist-alignment-london-467989",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quick",
+      "tags": [
+        "AI Research & Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T06:55:18.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-151168",
+      "title": "Fullstack Engineer",
+      "company": "Monks",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
+      "description": "Please note that we will never request payment or bank account information at any stage of the recruitment process. As we continue to grow our teams, we urge you to be cautious of fraudulent job postings or recruitment activities that misuse our company name and information. Please protect your pers",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T04:35:04+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-149527",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers includ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T03:55:10+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-153905",
