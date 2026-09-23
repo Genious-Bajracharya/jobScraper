@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-09-23T10:39:01.528Z",
+  "updatedAt": "2026-09-23T15:58:10.312Z",
   "total": 23,
-  "newSinceLastRun": 5,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-confirmed-backend-engineer-care-paris-france-424225",
+      "title": "Confirmed Backend Engineer - Care",
+      "company": "Blablacar",
+      "location": "Paris, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/confirmed-backend-engineer-care-paris-france-424225",
+      "description": "About BlaBlaCarBlaBlaCar is the world’s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% working fully remotely.\nWe are looking for ",
+      "tags": [
+        "Back-end"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T13:04:47.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-ii-full-stack-web-engineering-365481",
+      "title": "Software Engineer II - Full Stack - Web Engineering",
+      "company": "Elastic",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-365481",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 50",
+      "tags": [
+        "Web and Localization"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T12:55:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-berlin-26263",
+      "title": "Engineering Manager",
+      "company": "Finom",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/finom/engineering-manager-berlin-26263",
+      "description": "Finom is a fast-growing European tech startup, headquartered in Amsterdam, on a mission to revolutionize the financial landscape for entrepreneurs globally. We are developing an all-in-one financial B2B solution that seamlessly integrates banking functions, accounting, financial management, and invo",
+      "tags": [
+        "Backend"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T11:04:44.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-manager-technical-support-london-414277",
       "title": "Manager, Technical Support",
@@ -29,35 +71,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-23T09:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
-      "title": "Python Backend Developer (m/w/d) - Schwerpunkt KI-Plattform",
-      "company": "IT Studio Rech GmbH",
-      "location": "Würzburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/python-backend-developer-schwerpunkt-ki-plattform-wurzburg-307525",
-      "description": "Baue mit uns die Plattform für digitale KI-Mitarbeiter.\nBei der IT Studio Rech GmbH entwickeln wir eine Plattform, mit der Unternehmen KI-Mitarbeiter in ihre täglichen Abläufe integrieren können. Dafür suchen wir Dich: jemanden, der solide Software entwickelt, Systeme zuverlässig verbindet und Veran",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T08:30:46.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-expression-of-interest-research-engineer-scientist-alignment-london-467989",
-      "title": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
-      "company": "anthropic",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/anthropic/expression-of-interest-research-engineer-scientist-alignment-london-467989",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Anthropic&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quick",
-      "tags": [
-        "AI Research & Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T06:55:18.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -101,20 +114,6 @@
       "salary": null,
       "postedAt": "2026-09-22T14:51:58+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-quadrants-compiler-lead-paris-66067",
-      "title": "Quadrants: Compiler Lead",
-      "company": "Genesis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/genesis/quadrants-compiler-lead-paris-66067",
-      "description": "What Quadrants isQuadrants is an open-source translation layer that turns ordinary Python into optimized machine code at runtime, across CPU (Arm64, x86) and GPU (AMDGPU, CUDA, Metal, Vulkan) backends. CUDA is the primary target, with x86 the strong runner-up, especially for real-time simulation. Th",
-      "tags": [
-        "Engineering & Research"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-22T13:40:09.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-153865",
