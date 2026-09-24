@@ -1,48 +1,74 @@
 {
-  "updatedAt": "2026-09-24T16:21:55.824Z",
-  "total": 23,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-09-24T21:03:49.357Z",
+  "total": 22,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-analytics-lead-full-stack-394816",
-      "title": "Analytics Lead, Full Stack",
-      "company": "Affirm",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/analytics-lead-full-stack-394816",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;We are seeking a highly motivated and a",
+      "id": "arbeitnow-backend-engineer-subscriptions-london-282862",
+      "title": "Backend Engineer, Subscriptions",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-subscriptions-london-282862",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
       "tags": [
-        "Point of Sale Analytics"
+        "Engineering (Consumer)"
       ],
       "salary": null,
-      "postedAt": "2026-09-24T15:55:16.000Z",
+      "postedAt": "2026-09-24T18:55:15.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-engineer-germany-based-426645",
-      "title": "Full Stack Engineer (Germany-based)",
-      "company": "Bowatt",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/bowatt/full-stack-engineer-germany-based-426645",
-      "description": "About BoWattBoWatt is building agentic requirements and system engineering software for manufacturing.We believe AI will reach PhD-level engineering capability within the next 10 years. This will unlock massive value across several complex manufacturing industries. Cars. Planes. Rockets. Factories. ",
+      "id": "arbeitnow-full-stack-engineer-london-358934",
+      "title": "Full Stack Engineer",
+      "company": "Plinth",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/plinth/full-stack-engineer-london-358934",
+      "description": "TL;DR:We’re looking for a full stack developer that wants to make a difference. Come join us to build a platform to radically improve service delivery and increase funding to the charity sector. We don’t have any hard cutoffs for years of experience, you’d be a great fit if you like building product",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-24T14:40:05.000Z",
+      "postedAt": "2026-09-24T18:40:09.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-all-genders-remote-germany-313669",
-      "title": "Backend Engineer (all genders) - Remote Germany",
-      "company": "Linro",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/linro/backend-engineer-all-genders-remote-germany-313669",
-      "description": "AboutLinro is a cloud security company building a real-time, agentic cloud-security platform. Teams ship with AI. AI ships with Linro.Cloud infrastructure changes constantly, and increasingly it's AI agents making those changes, not people. Most security tools only catch problems after the fact. Lin",
+      "id": "arbeitnow-expression-of-interest-internships-london-385085",
+      "title": "Expression of Interest - Internships",
+      "company": "Callosum",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/expression-of-interest-internships-london-385085",
+      "description": "About UsWe’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity.Callosum is the Intelligent Systems Company. We believe the next generation of AI ",
       "tags": [
-        "Engineering"
+        "Expression of Interest"
       ],
       "salary": null,
-      "postedAt": "2026-09-24T14:40:02.000Z",
+      "postedAt": "2026-09-24T18:40:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-418389",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-418389",
+      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "tags": [
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-24T17:09:17.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -57,20 +83,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-24T13:24:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-iii-cardiff-383240",
-      "title": "Backend Engineer III",
-      "company": "Monzoreferrals",
-      "location": "Cardiff",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-383240",
-      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;📍London or UK Remote | 💰 &lt;a href=&quot;https://monzo.com/documents/engineering-progression-framework-v4-1.pdf&quot;&gt;Engineer III&lt;/a&gt; &lt;br&gt;&lt;br&gt;Compensation: £85,000 - £110,000 +&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Inc",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-24T12:55:05.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -174,20 +186,6 @@
       "salary": null,
       "postedAt": "2026-09-23T00:00:04+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "jobicy-153905",
-      "title": "Backend Engineer, Control Plane",
-      "company": "Tailscale",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/153905-backend-engineer-control-plane",
-      "description": "Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break t",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-22T14:51:58+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137409",
