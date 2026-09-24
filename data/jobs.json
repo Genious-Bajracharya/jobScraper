@@ -1,20 +1,61 @@
 {
-  "updatedAt": "2026-09-23T20:59:25.296Z",
+  "updatedAt": "2026-09-24T02:49:53.611Z",
   "total": 22,
-  "newSinceLastRun": 2,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-platform-engineer-berlin-225651",
-      "title": "Fullstack Platform Engineer",
-      "company": "WePush",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wepush/fullstack-platform-engineer-berlin-225651",
-      "description": "WePush is a creator marketplace connecting brands with creators at scale. We’re looking for an experienced Fullstack Platform Engineer who enjoys architecture, infrastructure, and running real systems in production end-to-end.\nThis is a hands-on startup role, not a narrow DevOps position. You’ll bui",
+      "id": "arbeitnow-full-stack-developer-ai-trainer-germany-berlin-312624",
+      "title": "Full-Stack Developer - AI Trainer (Germany)",
+      "company": "Anyone Ai",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-312624",
+      "description": "Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of J",
       "tags": [
-        "IT"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-23T16:30:39.000Z",
+      "postedAt": "2026-09-23T23:40:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-446366",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-446366",
+      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
+      "tags": [
+        "Backend Engineer",
+        "Backend Developer",
+        "AI Agents",
+        "KI-Agenten",
+        "Agentic AI",
+        "LangGraph",
+        "LangChain",
+        "Multi-Agent-System",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "Vektorendatenbank",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T23:09:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-134923",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-134923",
+      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-23T20:09:45.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -30,34 +71,6 @@
       "salary": null,
       "postedAt": "2026-09-23T15:19:30+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-confirmed-backend-engineer-care-paris-france-424225",
-      "title": "Confirmed Backend Engineer - Care",
-      "company": "Blablacar",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/confirmed-backend-engineer-care-paris-france-424225",
-      "description": "About BlaBlaCarBlaBlaCar is the world’s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% working fully remotely.\nWe are looking for ",
-      "tags": [
-        "Back-end"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T13:04:47.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ii-full-stack-web-engineering-365481",
-      "title": "Software Engineer II - Full Stack - Web Engineering",
-      "company": "Elastic",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/software-engineer-ii-full-stack-web-engineering-365481",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 50",
-      "tags": [
-        "Web and Localization"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-23T12:55:14.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-151168",
@@ -86,6 +99,38 @@
       "salary": null,
       "postedAt": "2026-09-23T03:55:10+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "remoteok-1137420",
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "location": "Singapore",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands",
+      "tags": [
+        "front end",
+        "design",
+        "react",
+        "graphql",
+        "react.js",
+        "technical",
+        "web dev",
+        "javascript",
+        "css",
+        "chatbot",
+        "html",
+        "typescript",
+        "node",
+        "node.js",
+        "exec",
+        "sys admin",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-23T00:00:04+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-153905",
@@ -142,38 +187,6 @@
       "salary": null,
       "postedAt": "2026-09-22T03:35:03+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "remoteok-1137410",
-      "title": "Frontend Engineer",
-      "company": "Bjak ",
-      "location": "Ireland",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-      "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands",
-      "tags": [
-        "front end",
-        "design",
-        "react",
-        "graphql",
-        "react.js",
-        "technical",
-        "web dev",
-        "javascript",
-        "css",
-        "chatbot",
-        "html",
-        "typescript",
-        "node",
-        "node.js",
-        "exec",
-        "sys admin",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-20T00:00:25+00:00",
-      "source": "RemoteOK"
     },
     {
       "id": "remoteok-1137409",
