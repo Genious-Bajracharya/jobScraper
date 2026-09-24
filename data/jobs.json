@@ -1,62 +1,124 @@
 {
-  "updatedAt": "2026-09-24T02:49:53.611Z",
-  "total": 22,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-24T10:59:06.619Z",
+  "total": 25,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-developer-ai-trainer-germany-berlin-312624",
-      "title": "Full-Stack Developer - AI Trainer (Germany)",
-      "company": "Anyone Ai",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-germany-berlin-312624",
-      "description": "Anyone AI is recruiting skilled Full-Stack Developers to work on a project with a leading AI lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/TypeScript; working knowledge of J",
+      "id": "arbeitnow-backend-engineer-api-london-12600",
+      "title": "Backend Engineer - API",
+      "company": "Xai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xai/backend-engineer-api-london-12600",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-24T09:55:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-kundensupport-all-genders-homeoffice-schluchtern-104959",
+      "title": "Kundensupport (all genders) Homeoffice",
+      "company": "Fadem GmbH",
+      "location": "Schlüchtern",
+      "url": "https://www.arbeitnow.com/jobs/companies/fadem-gmbh/kundensupport-all-genders-homeoffice-schluchtern-104959",
+      "description": "Ihre Rolle im Kundensupport bei Fadem GmbHAls Teil unseres Teams im Kundensupport sind Sie die erste Anlaufstelle für unsere Kunden und tragen maßgeblich zu deren Zufriedenheit bei. In dieser Rolle kümmern Sie sich um Anfragen, lösen Probleme und stellen sicher, dass unsere Kunden stets bestens info",
+      "tags": [
+        "Remote",
+        "Customer Service"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-24T08:30:34.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-233043",
+      "title": "Werkstudent*in im Projektmanagement",
+      "company": "Doo",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-233043",
+      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "tags": [
+        "Projektmanagement",
+        "CSS",
+        "HTML",
+        "Werkstudent",
+        "Product Consulting",
+        "JavaScript",
+        "Engineering",
+        "Make",
+        "Webentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-24T08:09:52.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-java-backend-developer-munchen-400549",
+      "title": "Java Backend Developer (m/w/d)",
+      "company": "Avelion Group",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-400549",
+      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
+      "tags": [
+        "java",
+        "java backend development",
+        "spring boot",
+        "softwareentwicklung",
+        "backend development",
+        "clean code",
+        "agile softwareentwicklung",
+        "software engineering",
+        "REST / Schnittstellenentwicklung",
+        "Informatik"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-24T08:09:41.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-bielefeld-41188",
+      "title": "Backend Engineer",
+      "company": "paddy",
+      "location": "Bielefeld",
+      "url": "https://www.arbeitnow.com/jobs/companies/paddy/backend-engineer-bielefeld-41188",
+      "description": "Das ist kein gewöhnlicher Job. Wir arbeiten an dem, was unsere Gesellschaft zukunftsfähig macht: Bildung. Dafür bauen wir paddy, das Agentic Operating System für Teaching &#x26; Learning.ung.\nUnsere Mission ist es, Lehrkräfte zu entlasten, Lernergebnisse zu verbessern und die Unterrichtsqualität zu ",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-24T08:00:40.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-151493",
+      "title": "Full Stack Engineer (Vue + Nest)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
       "tags": [
         "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-23T23:40:04.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-24T04:40:28+00:00",
+      "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-446366",
-      "title": "Backend Engineer - Agentic AI (m/w/d)",
-      "company": "Getpress Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-446366",
-      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
+      "id": "jobicy-151496",
+      "title": "Full Stack Web Engineer (Python & React)",
+      "company": "Oowlish Technology",
+      "location": "Argentina,  Brazil,  Mexico",
+      "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contrib",
       "tags": [
-        "Backend Engineer",
-        "Backend Developer",
-        "AI Agents",
-        "KI-Agenten",
-        "Agentic AI",
-        "LangGraph",
-        "LangChain",
-        "Multi-Agent-System",
-        "Python",
-        "TypeScript",
-        "PostgreSQL",
-        "Vektorendatenbank",
-        "RAG",
-        "Docker",
-        "Kubernetes",
-        "Remote"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-23T23:09:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-134923",
-      "title": "Junior Full Stack Developer (All Genders)",
-      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-134923",
-      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-23T20:09:45.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-24T04:40:19+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-153974",
@@ -172,20 +234,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-22T03:39:26+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151365",
-      "title": "Fullstack Engineer",
-      "company": "Dispatch",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
-      "description": "About Us The financial advisory industry is a $80T market in the US, but has seen little technological innovation compared to the self-service market (Robinhood, Betterment, Wealthfront, SoFi). Client data management is a universally painful and expensive problem for financial advisors. Today, advis",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-22T03:35:03+00:00",
       "source": "Jobicy"
     },
     {
