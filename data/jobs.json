@@ -1,8 +1,93 @@
 {
-  "updatedAt": "2026-09-25T10:59:36.269Z",
-  "total": 21,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-25T16:22:08.491Z",
+  "total": 25,
+  "newSinceLastRun": 6,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-backend-engineer-create-repository-management-160959",
+      "title": "Backend Engineer, Create: Repository Management",
+      "company": "gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-create-repository-management-160959",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
+      "tags": [
+        "DevOps Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T15:55:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-leipzig-285098",
+      "title": "Fullstack Engineer (f/m/d)",
+      "company": "Spread Group",
+      "location": "Leipzig, Sachsen, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/fullstack-engineer-leipzig-285098",
+      "description": "Who We AreSpread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this sp",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T14:30:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-backend-fixed-term-parental-leave-cover-leipzig-96540",
+      "title": "Software Engineer Backend (f/m/d) (Fixed-Term Parental Leave Cover)",
+      "company": "Spread Group",
+      "location": "Leipzig, Sachsen, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/software-engineer-backend-fixed-term-parental-leave-cover-leipzig-96540",
+      "description": "Who We AreSpread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this sp",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T14:30:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-in-vollzeit-berlin-lichtenberg-40090",
+      "title": "Fullstack-Entwickler/-in – Vollzeit (m/w/d)",
+      "company": "Schulze Marketing GmbH",
+      "location": "Berlin-Lichtenberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/fullstack-entwickler-in-vollzeit-berlin-lichtenberg-40090",
+      "description": "Wir suchen neue Mitarbeiter (m/w/d) im Bereich Fullstack-Entwicklung, die ihre Stärken gezielt einbringen und gemeinsam mit uns daran arbeiten, unser Unternehmen sowie die deutsche Industrie nachhaltig voranzubringen.Als Fullstack-Entwickler/-in entwickelst du digitale Anwendungen über Frontend, Bac",
+      "tags": [
+        "Information technology",
+        "high school or equivalent"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T13:20:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-ai-trainer-uk-london-315128",
+      "title": "Full-Stack Developer - AI Trainer (UK)",
+      "company": "Anyone Ai",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/full-stack-developer-ai-trainer-uk-london-315128",
+      "description": "Anyone AI is recruiting skilled Full-Stack Developers (Python, Javascript/TypeScript) to work on a project with a leading AI Lab. Qualifications:Advanced professional written proficiency in English3–7 years of professional software engineering experienceStrong proficiency in Python and JavaScript/Ty",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T12:40:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-web-backend-infrastructure-developer-dusseldorf-343674",
+      "title": "Web, Backend & Infrastructure Developer (m/w/d)",
+      "company": "_app:soluts/* GmbH",
+      "location": "Düsseldorf",
+      "url": "https://www.arbeitnow.com/jobs/companies/appsoluts-gmbh/web-backend-infrastructure-developer-dusseldorf-343674",
+      "description": "Backend ist dein Zuhause. Infrastruktur und ein Anteil Web kommen dazu – Langeweile? Fehlanzeige.\n👨🏾‍💻👩🏻‍💻 Hast du Lust drauf? Dann lies gerne weiter.\nAufgaben\nBackend (Schwerpunkt)\n\nAPIs und Monolithen mit Weboberfläche baust du – bei uns meist mit Ruby on Rails\nNode oder PHP? Kennst du auch,",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T11:30:33.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
       "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
@@ -31,32 +116,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-24T22:20:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-subscriptions-london-359126",
-      "title": "Backend Engineer, Subscriptions",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-subscriptions-london-359126",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Deli",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-24T21:45:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-iii-london-143299",
-      "title": "Frontend Engineer III",
-      "company": "Zilch",
-      "location": "Zilch UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/frontend-engineer-iii-london-143299",
-      "description": "Who we are:We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay.We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customers. Our mission is to b",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-24T21:40:11.000Z",
       "source": "Arbeitnow"
     },
     {
