@@ -1,74 +1,47 @@
 {
-  "updatedAt": "2026-09-24T21:03:49.357Z",
-  "total": 22,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-25T03:06:26.640Z",
+  "total": 21,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-subscriptions-london-282862",
-      "title": "Backend Engineer, Subscriptions",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-subscriptions-london-282862",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
+      "id": "arbeitnow-agent-de-transit-air-export-roissy-en-france-78042",
+      "title": "Agent de Transit Air Export",
+      "company": "Nipponexpress",
+      "location": "Roissy-en-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/nipponexpress/agent-de-transit-air-export-roissy-en-france-78042",
+      "description": "Au sein de la division Air Export, vos missions en tant qu'agent de transit aérien export seront d'assurer la fiabilité et la productivité du transport de chaque expédition.Vous serez notamment en charge :- De réaliser des revues de contrat correspondantes- De contrôler des documents- Du traitement ",
       "tags": [
-        "Engineering (Consumer)"
+        "Import and Export",
+        "Nippon Express France S.A.S."
       ],
       "salary": null,
-      "postedAt": "2026-09-24T18:55:15.000Z",
+      "postedAt": "2026-09-24T22:20:05.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-engineer-london-358934",
-      "title": "Full Stack Engineer",
-      "company": "Plinth",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/plinth/full-stack-engineer-london-358934",
-      "description": "TL;DR:We’re looking for a full stack developer that wants to make a difference. Come join us to build a platform to radically improve service delivery and increase funding to the charity sector. We don’t have any hard cutoffs for years of experience, you’d be a great fit if you like building product",
+      "id": "arbeitnow-backend-engineer-subscriptions-london-359126",
+      "title": "Backend Engineer, Subscriptions",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-subscriptions-london-359126",
+      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Deli",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-09-24T21:45:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-iii-london-143299",
+      "title": "Frontend Engineer III",
+      "company": "Zilch",
+      "location": "Zilch UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/frontend-engineer-iii-london-143299",
+      "description": "Who we are:We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay.We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customers. Our mission is to b",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-24T18:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-expression-of-interest-internships-london-385085",
-      "title": "Expression of Interest - Internships",
-      "company": "Callosum",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/callosum/expression-of-interest-internships-london-385085",
-      "description": "About UsWe’re living through a Cambrian explosion of intelligence: new models and new chips, each specialised for different tasks, are arriving all at once. The result is a new era for AI, one of radical heterogeneity.Callosum is the Intelligent Systems Company. We believe the next generation of AI ",
-      "tags": [
-        "Expression of Interest"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-24T18:40:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-418389",
-      "title": "Full-Stack Software Engineer (m/f/d)",
-      "company": "TWAICE",
-      "location": "Munich, Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-418389",
-      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
-      "tags": [
-        "Battery",
-        "Energy",
-        "SaaS",
-        "Backend",
-        "Frontend",
-        "Startup",
-        "Tech",
-        "AWS",
-        "Batteries",
-        "Software Development",
-        "BESS",
-        "Green Energy",
-        "Energy Transition"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-24T17:09:17.000Z",
+      "postedAt": "2026-09-24T21:40:11.000Z",
       "source": "Arbeitnow"
     },
     {
