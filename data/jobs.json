@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-09-25T16:22:08.491Z",
-  "total": 25,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-09-25T21:00:45.651Z",
+  "total": 22,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-software-engineer-computer-use-integrations-berlin-342698",
+      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
+      "company": "Recare Deutschland GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
+      "description": "Software Engineer – Backend (Computer Use &amp; Integrations) (m/w/d)Remote jobAbout RecareAs one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we de",
+      "tags": [
+        "Engineering",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T17:30:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-in-berlin-or-konstanz-251182",
+      "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
+      "company": "KNIME AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/knime-ag/full-stack-software-engineer-in-berlin-or-konstanz-251182",
+      "description": "MissionJoin KNIME in developing a state-of-the-art end-to-end AI and data science platform that helps thousands of professionals around the world to answer their data questions via one of the most reliable and transparent computation frameworks – KNIME workflows.Role OverviewAs a Full-Stack Software",
+      "tags": [
+        "full-stack",
+        "full stack",
+        "software engineering",
+        "software developement"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-25T17:09:16.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-backend-engineer-create-repository-management-160959",
       "title": "Backend Engineer, Create: Repository Management",
@@ -18,49 +50,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-engineer-leipzig-285098",
-      "title": "Fullstack Engineer (f/m/d)",
-      "company": "Spread Group",
-      "location": "Leipzig, Sachsen, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/fullstack-engineer-leipzig-285098",
-      "description": "Who We AreSpread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this sp",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T14:30:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-fixed-term-parental-leave-cover-leipzig-96540",
-      "title": "Software Engineer Backend (f/m/d) (Fixed-Term Parental Leave Cover)",
-      "company": "Spread Group",
-      "location": "Leipzig, Sachsen, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/spread-group/software-engineer-backend-fixed-term-parental-leave-cover-leipzig-96540",
-      "description": "Who We AreSpread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this sp",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T14:30:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-entwickler-in-vollzeit-berlin-lichtenberg-40090",
-      "title": "Fullstack-Entwickler/-in – Vollzeit (m/w/d)",
-      "company": "Schulze Marketing GmbH",
-      "location": "Berlin-Lichtenberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/fullstack-entwickler-in-vollzeit-berlin-lichtenberg-40090",
-      "description": "Wir suchen neue Mitarbeiter (m/w/d) im Bereich Fullstack-Entwicklung, die ihre Stärken gezielt einbringen und gemeinsam mit uns daran arbeiten, unser Unternehmen sowie die deutsche Industrie nachhaltig voranzubringen.Als Fullstack-Entwickler/-in entwickelst du digitale Anwendungen über Frontend, Bac",
-      "tags": [
-        "Information technology",
-        "high school or equivalent"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T13:20:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-full-stack-developer-ai-trainer-uk-london-315128",
       "title": "Full-Stack Developer - AI Trainer (UK)",
       "company": "Anyone Ai",
@@ -72,20 +61,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-25T12:40:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-web-backend-infrastructure-developer-dusseldorf-343674",
-      "title": "Web, Backend & Infrastructure Developer (m/w/d)",
-      "company": "_app:soluts/* GmbH",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/appsoluts-gmbh/web-backend-infrastructure-developer-dusseldorf-343674",
-      "description": "Backend ist dein Zuhause. Infrastruktur und ein Anteil Web kommen dazu – Langeweile? Fehlanzeige.\n👨🏾‍💻👩🏻‍💻 Hast du Lust drauf? Dann lies gerne weiter.\nAufgaben\nBackend (Schwerpunkt)\n\nAPIs und Monolithen mit Weboberfläche baust du – bei uns meist mit Ruby on Rails\nNode oder PHP? Kennst du auch,",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T11:30:33.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -116,20 +91,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-24T22:20:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-vo2-brand-experience-developpeur-fullstack-shopify-paris-france-23700",
-      "title": "[VO2 Brand Experience] - Développeur Fullstack Shopify",
-      "company": "VO2 Group",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-brand-experience-developpeur-fullstack-shopify-paris-france-23700",
-      "description": "🌟&nbsp;VO2 GROUP : Leader français indépendant en conseil Tech et DigitalEntre conseil stratégique et réalisation technologique, nous cultivons un esprit \"boutique\" : de l'excellence, de l'humain et une forte culture de l'innovation.Nous sommes présents à Paris, Montréal, Shanghai, New York et Genè",
-      "tags": [
-        "VO2 Brand Experience"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-24T13:24:05.000Z",
       "source": "Arbeitnow"
     },
     {
