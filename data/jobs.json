@@ -1,8 +1,137 @@
 {
-  "updatedAt": "2026-09-26T03:10:07.270Z",
-  "total": 22,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-26T10:41:50.335Z",
+  "total": 24,
+  "newSinceLastRun": 5,
   "jobs": [
+    {
+      "id": "arbeitnow-werkstudent-telematikinfrastruktur-ti-munchen-361906",
+      "title": "Werkstudent Telematikinfrastruktur (TI) (m/w/d)",
+      "company": "Meierhofer",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/werkstudent-telematikinfrastruktur-ti-munchen-361906",
+      "description": "Unsere StandorteWir suchen dich als Unterstützung an unserem Standort in MünchenDein zukünftiges TeamDu möchtest Gesundheits-IT nicht nur theoretisch kennenlernen, sondern praktisch mitgestalten? In unserer Produktentwicklung unterstützt du uns dabei, die Testinfrastruktur für die Telematikinfrastru",
+      "tags": [
+        "München",
+        "Informatik",
+        "Computer science",
+        "Software engineering",
+        "Softwarentwicklung",
+        "Fullstack development",
+        ".NET",
+        "C#",
+        "Medizininformatik student",
+        "Informatik student",
+        "wirtschaftsinformatik student",
+        "Werkstudent Telematikinfrastruktur",
+        "Werkstudent Produktentwicklung",
+        "Werkstudent Medizintechnik",
+        "Werkstudent Gesundheits-IT",
+        "Werkstudent Medizininformatik",
+        "Werkstudent Informatik München",
+        "Telematikinfrastruktur",
+        "TI-Testinfrastruktur",
+        "Kartenterminals",
+        "eHealth",
+        "Digital Health",
+        "Software für Kliniken"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-26T08:09:51.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-product-developer-berlin-401516",
+      "title": "Full Stack Product Developer (m/w/d)",
+      "company": "Tablemedia",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-401516",
+      "description": "Aufgaben  Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und unseren Redaktionen den Rücken freizuha",
+      "tags": [
+        "php",
+        "laravel",
+        "statamic",
+        "PostgreSQL",
+        "Livewire",
+        "html",
+        "css",
+        "javascript",
+        "RESTful APIs",
+        "Linux",
+        "frontend",
+        "backend",
+        "fullstack",
+        "product",
+        "productdevelopment"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-26T08:09:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-software-engineer-ai-native-development-garbsen-463913",
+      "title": "Fullstack Software Engineer (M/W/D) – AI-Native Development",
+      "company": "INSIDE M2M GmbH",
+      "location": "Garbsen, Niedersachsen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/fullstack-software-engineer-ai-native-development-garbsen-463913",
+      "description": "Was wir tunAls IoT Pioniere entwickeln wir mit mittlerweile über 40 Kollegen*innen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 500.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausgestattet.Unsere Kompetenz liegt in der Ent",
+      "tags": [
+        "Entwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-26T05:30:20.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-413825",
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-413825",
+      "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how su",
+      "tags": [
+        "backend",
+        "AI",
+        "LLM",
+        "product",
+        "product engineer",
+        "backend engineer",
+        "AI engineer"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-26T05:09:49.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-full-stack-backend-frontend-karlsruhe-347504",
+      "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
+      "company": "Prenode",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-347504",
+      "description": "Was wir bietenEine dynamische und ehrgeizige Umgebung, die dir eine steile Lernkurve und die Möglichkeit zum Wachstum garantiert.Eine flexible und moderne Arbeitskultur, die dir die Vorteile der heutigen digitalen Möglichkeiten und Tools bietet.Innovative Technologie und Herangehensweisen, die siche",
+      "tags": [
+        "Typescript",
+        "Python",
+        "React",
+        "Angular",
+        "IIoT",
+        "KI",
+        "AI",
+        "Azure",
+        "DevOps",
+        "Kubernetes",
+        "Terraform",
+        "Javascript",
+        "NodeJS",
+        "Full-Stack",
+        "Backend",
+        "Frontend",
+        "Docker",
+        "Event-Driven Architecture"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-26T05:09:40.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-frontend-ai-powered-store-manager-companion-nantes-loire-atlantique-277606",
       "title": "Software Engineer Frontend - AI-Powered Store Manager Companion (f/m/d)",
@@ -32,45 +161,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-quantitative-backend-developer-private-capital-analytics-platform-munchen-149960",
-      "title": "Quantitative Backend Developer (f/m/d) – Private Capital Analytics Platform",
-      "company": "Assetmetrix Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/assetmetrix-gmbh/quantitative-backend-developer-private-capital-analytics-platform-munchen-149960",
-      "description": "Your missionAs a Quantitative Researcher &amp; Methodology Specialist (f/m/d), you will develop innovative quantitative models for the private capital industry. You will identify new analytical approaches, validate their value, and actively shape the methodological evolution of our products. Your ta",
-      "tags": [
-        "Analytics",
-        "Private Capital",
-        "Alternative Investments",
-        "Private Equity",
-        "Analytics Engineering",
-        "Data Management",
-        "Quantitative Research",
-        "Modellentwicklung",
-        "Modellvalidierung",
-        "Research",
-        "Innovation"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T20:09:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-software-engineer-computer-use-integrations-berlin-342698",
-      "title": "Software Engineer (Computer Use & Integrations) (m/w/d)",
-      "company": "Recare Deutschland GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-computer-use-integrations-berlin-342698",
-      "description": "Software Engineer – Backend (Computer Use &amp; Integrations) (m/w/d)Remote jobAbout RecareAs one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we de",
-      "tags": [
-        "Engineering",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T17:30:39.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
       "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
       "company": "N2JSoft",
@@ -83,21 +173,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-25T07:30:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-agent-de-transit-air-export-roissy-en-france-78042",
-      "title": "Agent de Transit Air Export",
-      "company": "Nipponexpress",
-      "location": "Roissy-en-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/nipponexpress/agent-de-transit-air-export-roissy-en-france-78042",
-      "description": "Au sein de la division Air Export, vos missions en tant qu'agent de transit aérien export seront d'assurer la fiabilité et la productivité du transport de chaque expédition.Vous serez notamment en charge :- De réaliser des revues de contrat correspondantes- De contrôler des documents- Du traitement ",
-      "tags": [
-        "Import and Export",
-        "Nippon Express France S.A.S."
-      ],
-      "salary": null,
-      "postedAt": "2026-09-24T22:20:05.000Z",
       "source": "Arbeitnow"
     },
     {
