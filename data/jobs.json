@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-27T16:15:57.914Z",
-  "total": 21,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-27T20:44:59.436Z",
+  "total": 18,
+  "newSinceLastRun": 0,
   "jobs": [
     {
       "id": "arbeitnow-werkstudentin-web-developement-frontend-koln-412541",
@@ -15,20 +15,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-27T14:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-zurich-106740",
-      "title": "Frontend Engineer",
-      "company": "DeepJudge",
-      "location": "Zurich HQ",
-      "url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/frontend-engineer-zurich-106740",
-      "description": "About us:Founded by former Google search engineers with PhDs in AI from ETH Zurich, DeepJudge helps legal teams unlock and apply the knowledge inside their organizations through world-class enterprise search and AI infrastructure – enabling them to automate workflows, build knowledge-powered applica",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-27T11:40:14.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -90,34 +76,6 @@
       "salary": null,
       "postedAt": "2026-09-27T07:20:11+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-growth-london-443189",
-      "title": "Fullstack Engineer, Growth",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/fullstack-engineer-growth-london-443189",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
-      "tags": [
-        "Engineering (Consumer)"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-27T00:55:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-consumer-order-experience-london-441457",
-      "title": "Fullstack Engineer, Consumer Order Experience",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/fullstack-engineer-consumer-order-experience-london-441457",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
-      "tags": [
-        "Engineering (Consumer)"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-27T00:55:09.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-154087",
