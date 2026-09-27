@@ -1,20 +1,124 @@
 {
-  "updatedAt": "2026-09-26T20:34:04.746Z",
-  "total": 17,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-27T03:17:04.622Z",
+  "total": 22,
+  "newSinceLastRun": 7,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-backend-460878",
-      "title": "Software Engineer, Backend",
-      "company": "Sevenroomsuk",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sevenroomsuk/software-engineer-backend-460878",
-      "description": "&lt;h1&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h1&gt;\n&lt;p&gt;SevenRooms is a hospitality technology platform that powers restaurant operations and marketing, and was recently acquired by DoorDash! The SevenRooms product enables operators to automatically drive revenue &amp;amp; profitab",
+      "id": "arbeitnow-remote-software-engineer-backend-data-layer-495182",
+      "title": "Software Engineer, Backend - Data Layer",
+      "company": "Camunda",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-software-engineer-backend-data-layer-495182",
+      "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI fro",
       "tags": [
-        "351 In-Store R&D"
+        "Products"
       ],
       "salary": null,
-      "postedAt": "2026-09-26T15:55:08.000Z",
+      "postedAt": "2026-09-27T02:40:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-fullstack-developer-hamburg-405937",
+      "title": "Junior Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-405937",
+      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-27T02:09:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-hamburg-286032",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-286032",
+      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-27T02:09:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-core-team-hamburg-189180",
+      "title": "Engineering Manager (m/w/d) – Core Team",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-189180",
+      "description": "Deine AufgabenWir bauen die Software, mit der Mieterstromprojekte laufen: Zählerdaten rein, Abrechnung raus, und alles dazwischen. Das Core Team verantwortet das Betreiberportal, das Produkt, auf dem der laufende Betrieb unserer Kunden steht. Es ist unser fachlich tiefstes Team, und es wächst.Das Be",
+      "tags": [
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Core Team",
+        "Energiewirtschaft",
+        "Django",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-27T02:09:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-growth-london-443189",
+      "title": "Fullstack Engineer, Growth",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/fullstack-engineer-growth-london-443189",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
+      "tags": [
+        "Engineering (Consumer)"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-27T00:55:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-consumer-order-experience-london-441457",
+      "title": "Fullstack Engineer, Consumer Order Experience",
+      "company": "Deliveroo",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/fullstack-engineer-consumer-order-experience-london-441457",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
+      "tags": [
+        "Engineering (Consumer)"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-27T00:55:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-responsable-metrologie-transport-de-biologie-saint-ouen-214618",
+      "title": "Responsable Métrologie – Transport de Biologie H/F/X",
+      "company": "TopChrono",
+      "location": "Saint Ouen, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/responsable-metrologie-transport-de-biologie-saint-ouen-214618",
+      "description": "TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, adoptant une dynamique startup pour réin",
+      "tags": [
+        "Opérations"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-26T22:30:21.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -44,21 +148,6 @@
       "salary": null,
       "postedAt": "2026-09-25T20:54:07+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
-      "title": "Développeur fullstack confirmé H/F (C#, .Net, Angular)",
-      "company": "N2JSoft",
-      "location": "Poste à distance",
-      "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-65580",
-      "description": "À propos de N2JSoftN2JSoft est une Fintech B2B SaaS spécialisée dans la gestion des dépenses professionnelles.Fondée en 2015, elle compte aujourd’hui 20 000 clients et 1M utilisateurs dans 98 pays, faisant de N2F l’un des leaders du marché français.N2F simplifie la gestion des frais professionnels :",
-      "tags": [
-        "Dev",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T07:30:11.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-151493",
