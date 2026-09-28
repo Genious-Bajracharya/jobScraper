@@ -1,49 +1,223 @@
 {
-  "updatedAt": "2026-09-28T12:43:15.623Z",
-  "total": 22,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-09-28T22:52:36.959Z",
+  "total": 31,
+  "newSinceLastRun": 13,
   "jobs": [
     {
-      "id": "arbeitnow-junior-full-stack-developer-nextjs-berlin-284166",
-      "title": "Junior Full-Stack Developer Next.js",
-      "company": "Linear Service GmbH",
+      "id": "arbeitnow-fullstack-developer-london-194847",
+      "title": "Fullstack Developer",
+      "company": "Wehrtyou",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/fullstack-developer-london-194847",
+      "description": "&lt;p&gt;Fullstack Developers at HRT work either on our platform team (i.e. you work on infrastructure &amp;amp; tooling that supports all of our research &amp;amp; trading capabilities) or our acceleration team (i.e. you are aligned with a specific algo research &amp;amp; trading team). All of our ",
+      "tags": [
+        "PostTrade"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T21:55:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
+      "title": "Junior Fullstack Entwickler Fokus Next.js",
+      "company": "Attek Solutions GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/linear-service-gmbh/junior-full-stack-developer-nextjs-berlin-284166",
-      "description": "Seit der Übernahme durch die CHAPTERS Group AG im Jahr 2025 baut die Linear Service GmbH neben ihrem etablierten Kernsystem für Vereinsverwaltung und Buchhaltung ein komplett neues Cloud-Produkt auf. Das bestehende System bleibt – es läuft weiter und wird von unseren Kunden aus Vereinen, Verbänden u",
+      "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
+      "description": "Attek Solutions GmbH ist ein innovatives IT-Dienstleistungsunternehmen mit Sitz in Berlin. Mit unserem neuartigen Geschäftsmodell „Custom Software as a Service“ planen, entwickeln und betreiben wir moderne, sichere IT-Infrastrukturen und individuelle Anwendungen für unsere Kunden. Unser Ziel ist es,",
       "tags": [
-        "Software Development"
+        "Remote",
+        "Consulting",
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-28T11:30:28.000Z",
+      "postedAt": "2026-09-28T21:30:30.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-sap-junior-full-stack-developer-sap-hcm-sap-successfactors-sap-btp-frankfurt-am-main-1538",
-      "title": "SAP Junior Full Stack Developer (m/w/d) SAP HCM | SAP SuccessFactors | SAP BTP",
-      "company": "Insignion Management Consulting GmbH",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/insignion-management-consulting-gmbh/sap-junior-full-stack-developer-sap-hcm-sap-successfactors-sap-btp-frankfurt-am-main-1538",
-      "description": "Dein Einstieg in die SAP HR Tech Welt!\nDu willst nicht nur Code schreiben, sondern auch verstehen, wie HR-Prozesse in großen Unternehmen wirklich funktionieren?\nDann starte bei uns als SAP Junior Full Stack Developer und entwickle innovative Lösungen rund um:\n\nSAP Human Capital Management (HCM)\nSAP ",
+      "id": "arbeitnow-fullstack-entwickler-fokus-nextjs-berlin-156081",
+      "title": "Fullstack Entwickler Fokus Next.js",
+      "company": "Attek Solutions GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/fullstack-entwickler-fokus-nextjs-berlin-156081",
+      "description": "Attek Solutions GmbH ist ein innovatives IT-Dienstleistungsunternehmen mit Sitz in Berlin. Mit unserem neuartigen Geschäftsmodell „Custom Software as a Service“ planen, entwickeln und betreiben wir moderne, sichere IT-Infrastrukturen und individuelle Anwendungen für unsere Kunden. Unser Ziel ist es,",
       "tags": [
-        "SAP/ERP Consulting",
-        "Development"
+        "Remote",
+        "Consulting",
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-28T10:30:44.000Z",
+      "postedAt": "2026-09-28T21:30:30.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-professional-backend-developer-wurzburg-446800",
-      "title": "Professional Backend Developer",
-      "company": "Plunet GmbH",
-      "location": "Würzburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/plunet-gmbh/professional-backend-developer-wurzburg-446800",
-      "description": "Wer Du bist\nDu hast 3-5 Jahre Erfahrung im Java-Stack und beherrschst Spring Boot souverän. Du entwickelst komplexe Features eigenständig von der Konzeption bis zum Release, denkst analytisch und trägst aktiv zu Architekturentscheidungen bei. Du nutzt KI-Assistenz (z.B. GitHub Copilot, Cursor, ChatG",
+      "id": "arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
+      "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
+      "company": "Weekday 1",
+      "location": "Switzerland",
+      "url": "https://www.arbeitnow.ch/jobs/companies/weekday-1/remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
+      "description": "This role is for one of our clientsCompensation: $50 - $150 per hourWe're partnering with a leading AI research lab to build next-generation text-to-speech (TTS) systems capable of producing natural, expressive, and human-like voices. We are seeking&nbsp;Switzerland-based native Swiss German speaker",
       "tags": [
-        "Software Development"
+        "AI Training",
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-09-28T10:30:43.000Z",
+      "postedAt": "2026-09-28T20:20:20.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-germany-munich-230556",
+      "title": "Full Stack Developer",
+      "company": "Bookboost",
+      "location": "Germany - Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/bookboost/full-stack-developer-germany-munich-230556",
+      "description": "Your missionBookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.We have customers acros",
+      "tags": [
+        "SaaS",
+        "Hospitlaity tech",
+        "developer",
+        "engineer",
+        "full stack"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T20:09:35.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-react-nodejs-berlin-381084",
+      "title": "Full Stack Developer (React / Node.js) (m/f/d)",
+      "company": "Probis Software Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/probis-software-gmbh/full-stack-developer-react-nodejs-berlin-381084",
+      "description": "Who we arePROBIS Software GmbH is a dynamic PropTech start-up specializing in advanced cloud-based solutions for cost management processes in the real estate industry. Our flagship platform, PROBIS, delivers comprehensive financial project controlling across all project types and asset classes. From",
+      "tags": [
+        "Full Stack",
+        "Developer",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T20:09:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-softwareentwickler-frontend-angular-nurnberg-340182",
+      "title": "Softwareentwickler Frontend / Angular (m/w/d)",
+      "company": "Allgeier Inovar Gmbh",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/allgeier-inovar-gmbh/softwareentwickler-frontend-angular-nurnberg-340182",
+      "description": "Unser Set-UpDu möchtest nicht nur bestehenden Code weiterentwickeln, sondern auch technisch mitgestalten und eigene Ideen einbringen?Dann werde Teil unseres Entwicklerteams und arbeite an den Webclients unserer Digitalisierungsplattform metasonic®.Dein Schwerpunkt liegt auf der Entwicklung neuer Web",
+      "tags": [
+        "Angular",
+        "JavaScript",
+        "Frontend",
+        "Webclients",
+        "Softwarearchitektur",
+        "Scrum",
+        "KI",
+        "Produktentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T17:09:58.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-354322",
+      "title": "Werkstudent*in im Projektmanagement",
+      "company": "Doo",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-354322",
+      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
+      "tags": [
+        "Projektmanagement",
+        "CSS",
+        "HTML",
+        "Werkstudent",
+        "Product Consulting",
+        "JavaScript",
+        "Engineering",
+        "Make",
+        "Webentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T17:09:34.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-java-backend-developer-munchen-382319",
+      "title": "Java Backend Developer (m/w/d)",
+      "company": "Avelion Group",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-382319",
+      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
+      "tags": [
+        "java",
+        "java backend development",
+        "spring boot",
+        "softwareentwicklung",
+        "backend development",
+        "clean code",
+        "agile softwareentwicklung",
+        "software engineering",
+        "REST / Schnittstellenentwicklung",
+        "Informatik"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T17:09:25.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-camunda-stuttgart-486789",
+      "title": "Fullstack Developer Camunda (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/fullstack-developer-camunda-stuttgart-486789",
+      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\nAls Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvo",
+      "tags": [
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T15:30:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-developer-java-react-410879",
+      "title": "Full Stack Developer - Java & React (f/m/d)",
+      "company": "ecosio",
+      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-410879",
+      "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-in",
+      "tags": [
+        "Web App Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T14:55:45.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-multichannel-experience-244022",
+      "title": "Full Stack Developer, Multichannel Experience",
+      "company": "Sofitechsolutions",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sofitechsolutions/full-stack-developer-multichannel-experience-244022",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sofi.com/sofi-employee-applicant-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Employee Applicant Privacy Notice&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt",
+      "tags": [
+        "STS Debit and Credit Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T14:55:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-golang-berlin-313529",
+      "title": "Backend Engineer (Golang)",
+      "company": "AMBOSS",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/amboss/backend-engineer-golang-berlin-313529",
+      "description": "Hi! We are AMBOSS and we are looking for a Backend Engineer (Golang) to join our Shop team, and shape the future of medical education with us!About AMBOSSAMBOSS is a dynamic learning and clinical decision support tool committed to empowering physicians globally to deliver optimal care. Since our inc",
+      "tags": [
+        "Research & Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-28T14:40:07.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -86,20 +260,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T02:55:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-go-paris-312481",
-      "title": "Backend Engineer (Go)",
-      "company": "Prelude",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/prelude/backend-engineer-go-paris-312481",
-      "description": "About PreludePrelude is redefining how companies authenticate and onboard users - turning what's traditionally a cost center into a growth lever.Our flagship product lets businesses send OTP codes with the best price-to-conversion ratio on the market, dynamically selecting the most effective channel",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-27T10:40:07.000Z",
       "source": "Arbeitnow"
     },
     {
