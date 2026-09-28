@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-27T20:44:59.436Z",
-  "total": 18,
+  "updatedAt": "2026-09-28T03:14:14.186Z",
+  "total": 17,
   "newSinceLastRun": 0,
   "jobs": [
     {
@@ -15,24 +15,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-27T14:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-343268",
-      "title": "Werkstudent:in Fullstack Developer - ERP & Prozessautomatisierung (m/w/d)",
-      "company": "Welectron",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-343268",
-      "description": "Deine AufgabenDu unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend.Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js.Du hilfst dabei, Schnittstellen zwischen",
-      "tags": [
-        "software",
-        "embedded",
-        "go",
-        "backend",
-        "developer"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-27T11:09:30.000Z",
       "source": "Arbeitnow"
     },
     {
