@@ -1,33 +1,91 @@
 {
-  "updatedAt": "2026-09-29T03:51:57.790Z",
-  "total": 29,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-09-29T11:59:58.615Z",
+  "total": 27,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-409563",
-      "title": "Full-Stack Software Engineer (m/f/d)",
-      "company": "TWAICE",
-      "location": "Munich, Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-409563",
-      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "id": "arbeitnow-java-backend-entwickler-berlin-297390",
+      "title": "Java Backend Entwickler (m/w/d)",
+      "company": "Assecor GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/java-backend-entwickler-berlin-297390",
+      "description": "Deine Rolle bei uns\nAls Softwareentwickler:in bei Assecor entwickelst du qualitative und robuste Lösungen und bringst deine Expertise aktiv in ein crossfunktionales Team ein. Du arbeitest mit aktuellen Technologien, begleitest die Entwicklung qualitativ hochwertiger Anwendungen und übernimmst Verant",
       "tags": [
-        "Battery",
-        "Energy",
-        "SaaS",
-        "Backend",
-        "Frontend",
-        "Startup",
-        "Tech",
-        "AWS",
-        "Batteries",
-        "Software Development",
-        "BESS",
-        "Green Energy",
-        "Energy Transition"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-29T02:09:19.000Z",
+      "postedAt": "2026-09-29T10:30:45.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-london-gb-250982",
+      "title": "Backend Developer",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/backend-developer-london-gb-250982",
+      "description": "\nElectroverse is looking for a talented, passionate Software Engineer to join our team and help build&nbsp;the foundations of the global EV transition.\nAbout Octopus Electroverse\nWe’re making electric vehicle public charging simple, by building the giant, virtual charging platform of the future. In ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T09:25:16.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-head-of-finance-leitung-finanzen-frankfurt-323817",
+      "title": "Head of Finance/ Leitung Finanzen (m/f/d)",
+      "company": "PraxisEins",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/head-of-finance-leitung-finanzen-frankfurt-323817",
+      "description": "Es ist Zeit für die Praxis der Zukunft, werde Teil von PraxisEins! PraxisEins ist ein Healthcare Scale-up aus Frankfurt: Wir bauen Deutschlands führenden Primärversorger auf. Hierfür übernehmen wir Hausarztpraxen, digitalisieren diese mit eigener Software und kümmern uns aktiv um eine stetige Verbes",
+      "tags": [
+        "Zentrale"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T08:40:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-product-engineer-100-remote-germany-uk-ireland-berlin-280945",
+      "title": "Full Stack Product Engineer (100% Remote - Germany | UK | Ireland)",
+      "company": "Innocraft",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/full-stack-product-engineer-100-remote-germany-uk-ireland-berlin-280945",
+      "description": "Build analytics people can trust. Help define what analytics looks like in an AI-first world.\nMost analytics platforms ask organisations to trade control for insight.\nFor almost 20 years, Matomo has shown there is another way: powerful, transparent and trustworthy analytics that respects privacy, gi",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T08:24:42.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152060",
+      "title": "Developer Relations Engineer",
+      "company": "Supabase",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152060-developer-relations-engineer-2",
+      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T03:35:16+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152057",
+      "title": "Multigres Engineer",
+      "company": "Supabase",
+      "location": "Anywhere",
+      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
+      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to help ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T03:35:10+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-fullstack-developer-london-194847",
@@ -44,38 +102,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
-      "title": "Junior Fullstack Entwickler Fokus Next.js",
-      "company": "Attek Solutions GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/junior-fullstack-entwickler-fokus-nextjs-berlin-112090",
-      "description": "Attek Solutions GmbH ist ein innovatives IT-Dienstleistungsunternehmen mit Sitz in Berlin. Mit unserem neuartigen Geschäftsmodell „Custom Software as a Service“ planen, entwickeln und betreiben wir moderne, sichere IT-Infrastrukturen und individuelle Anwendungen für unsere Kunden. Unser Ziel ist es,",
-      "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T21:30:30.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-entwickler-fokus-nextjs-berlin-156081",
-      "title": "Fullstack Entwickler Fokus Next.js",
-      "company": "Attek Solutions GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/attek-solutions-gmbh/fullstack-entwickler-fokus-nextjs-berlin-156081",
-      "description": "Attek Solutions GmbH ist ein innovatives IT-Dienstleistungsunternehmen mit Sitz in Berlin. Mit unserem neuartigen Geschäftsmodell „Custom Software as a Service“ planen, entwickeln und betreiben wir moderne, sichere IT-Infrastrukturen und individuelle Anwendungen für unsere Kunden. Unser Ziel ist es,",
-      "tags": [
-        "Remote",
-        "Consulting",
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T21:30:30.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
       "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
       "company": "Weekday 1",
@@ -88,106 +114,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T20:20:20.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-germany-munich-230556",
-      "title": "Full Stack Developer",
-      "company": "Bookboost",
-      "location": "Germany - Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bookboost/full-stack-developer-germany-munich-230556",
-      "description": "Your missionBookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.We have customers acros",
-      "tags": [
-        "SaaS",
-        "Hospitlaity tech",
-        "developer",
-        "engineer",
-        "full stack"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T20:09:35.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-react-nodejs-berlin-381084",
-      "title": "Full Stack Developer (React / Node.js) (m/f/d)",
-      "company": "Probis Software Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/probis-software-gmbh/full-stack-developer-react-nodejs-berlin-381084",
-      "description": "Who we arePROBIS Software GmbH is a dynamic PropTech start-up specializing in advanced cloud-based solutions for cost management processes in the real estate industry. Our flagship platform, PROBIS, delivers comprehensive financial project controlling across all project types and asset classes. From",
-      "tags": [
-        "Full Stack",
-        "Developer",
-        "React"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T20:09:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-softwareentwickler-frontend-angular-nurnberg-340182",
-      "title": "Softwareentwickler Frontend / Angular (m/w/d)",
-      "company": "Allgeier Inovar Gmbh",
-      "location": "Nürnberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/allgeier-inovar-gmbh/softwareentwickler-frontend-angular-nurnberg-340182",
-      "description": "Unser Set-UpDu möchtest nicht nur bestehenden Code weiterentwickeln, sondern auch technisch mitgestalten und eigene Ideen einbringen?Dann werde Teil unseres Entwicklerteams und arbeite an den Webclients unserer Digitalisierungsplattform metasonic®.Dein Schwerpunkt liegt auf der Entwicklung neuer Web",
-      "tags": [
-        "Angular",
-        "JavaScript",
-        "Frontend",
-        "Webclients",
-        "Softwarearchitektur",
-        "Scrum",
-        "KI",
-        "Produktentwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T17:09:58.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-354322",
-      "title": "Werkstudent*in im Projektmanagement",
-      "company": "Doo",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-354322",
-      "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen",
-      "tags": [
-        "Projektmanagement",
-        "CSS",
-        "HTML",
-        "Werkstudent",
-        "Product Consulting",
-        "JavaScript",
-        "Engineering",
-        "Make",
-        "Webentwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T17:09:34.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-java-backend-developer-munchen-382319",
-      "title": "Java Backend Developer (m/w/d)",
-      "company": "Avelion Group",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/avelion-group/java-backend-developer-munchen-382319",
-      "description": "Wer wir sindMächtige Standard-Software wie SAP oder PLM hört oft genau dort auf, wo der eigentliche Wettbewerbsvorteil unserer Kunden beginnt. Wir bei 4Soft schließen diese Lücken mit hochgradig individuellen Clean-Core Speedboats.Als Teil der Avelion Gruppe mit rund 220 Mitarbeitenden verbinden wir",
-      "tags": [
-        "java",
-        "java backend development",
-        "spring boot",
-        "softwareentwicklung",
-        "backend development",
-        "clean code",
-        "agile softwareentwicklung",
-        "software engineering",
-        "REST / Schnittstellenentwicklung",
-        "Informatik"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T17:09:25.000Z",
       "source": "Arbeitnow"
     },
     {
