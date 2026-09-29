@@ -1,8 +1,34 @@
 {
-  "updatedAt": "2026-09-28T22:52:36.959Z",
-  "total": 31,
-  "newSinceLastRun": 13,
+  "updatedAt": "2026-09-29T03:51:57.790Z",
+  "total": 29,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-409563",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-409563",
+      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "tags": [
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T02:09:19.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-fullstack-developer-london-194847",
       "title": "Fullstack Developer",
@@ -165,34 +191,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-developer-camunda-stuttgart-486789",
-      "title": "Fullstack Developer Camunda (m/w/d)",
-      "company": "Collaboration Betters The World GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/fullstack-developer-camunda-stuttgart-486789",
-      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\nAls Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvo",
-      "tags": [
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T15:30:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-developer-java-react-410879",
-      "title": "Full Stack Developer - Java & React (f/m/d)",
-      "company": "ecosio",
-      "location": "Austria, Spain, UK, Italy, Hungary, Portugal, Croatia, Poland - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-410879",
-      "description": "&lt;div&gt;\n&lt;h2 class=&quot;title&quot;&gt;Company Description&lt;/h2&gt;\n&lt;/div&gt;\n&lt;div class=&quot;wysiwyg&quot;&gt;\n&lt;p&gt;ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-in",
-      "tags": [
-        "Web App Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T14:55:45.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-full-stack-developer-multichannel-experience-244022",
       "title": "Full Stack Developer, Multichannel Experience",
       "company": "Sofitechsolutions",
@@ -204,20 +202,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T14:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-golang-berlin-313529",
-      "title": "Backend Engineer (Golang)",
-      "company": "AMBOSS",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/amboss/backend-engineer-golang-berlin-313529",
-      "description": "Hi! We are AMBOSS and we are looking for a Backend Engineer (Golang) to join our Shop team, and shape the future of medical education with us!About AMBOSSAMBOSS is a dynamic learning and clinical decision support tool committed to empowering physicians globally to deliver optimal care. Since our inc",
-      "tags": [
-        "Research & Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T14:40:07.000Z",
       "source": "Arbeitnow"
     },
     {
