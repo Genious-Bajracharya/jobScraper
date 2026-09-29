@@ -1,62 +1,122 @@
 {
-  "updatedAt": "2026-09-29T11:59:58.615Z",
-  "total": 27,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-09-29T18:01:03.880Z",
+  "total": 28,
+  "newSinceLastRun": 8,
   "jobs": [
     {
-      "id": "arbeitnow-java-backend-entwickler-berlin-297390",
-      "title": "Java Backend Entwickler (m/w/d)",
-      "company": "Assecor GmbH",
+      "id": "arbeitnow-fullstack-developer-camunda-berlin-290137",
+      "title": "Fullstack Developer Camunda (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/assecor-gmbh/java-backend-entwickler-berlin-297390",
-      "description": "Deine Rolle bei uns\nAls Softwareentwickler:in bei Assecor entwickelst du qualitative und robuste Lösungen und bringst deine Expertise aktiv in ein crossfunktionales Team ein. Du arbeitest mit aktuellen Technologien, begleitest die Entwicklung qualitativ hochwertiger Anwendungen und übernimmst Verant",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/fullstack-developer-camunda-berlin-290137",
+      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\nAls Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvo",
       "tags": [
-        "Software Development"
+        "IT"
       ],
       "salary": null,
-      "postedAt": "2026-09-29T10:30:45.000Z",
+      "postedAt": "2026-09-29T16:00:39.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-developer-london-gb-250982",
-      "title": "Backend Developer",
-      "company": "Octopus Energy Group",
-      "location": "London (GB)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/backend-developer-london-gb-250982",
-      "description": "\nElectroverse is looking for a talented, passionate Software Engineer to join our team and help build&nbsp;the foundations of the global EV transition.\nAbout Octopus Electroverse\nWe’re making electric vehicle public charging simple, by building the giant, virtual charging platform of the future. In ",
+      "id": "arbeitnow-fullstack-engineer-munchen-345492",
+      "title": "Fullstack Engineer (m/w/d)",
+      "company": "ECOZA GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/fullstack-engineer-munchen-345492",
+      "description": "Wir suchen zum nächstmöglichen Zeitpunkt eine/n Fullstack Engineer (m/w/d) in Vollzeit für unseren Standort in München.Gehalt: 5.000 € brutto im MonatDeine AufgabenEntwicklung von KI-Anwendungen zur Unterstützung unserer BeraterAnbindung der KI-Anwendungen an unser Fachwissen und unsere KundendatenR",
       "tags": [
-        "Software Engineering"
+        "Consulting",
+        "associate's degree"
       ],
       "salary": null,
-      "postedAt": "2026-09-29T09:25:16.000Z",
+      "postedAt": "2026-09-29T15:20:10.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-head-of-finance-leitung-finanzen-frankfurt-323817",
-      "title": "Head of Finance/ Leitung Finanzen (m/f/d)",
-      "company": "PraxisEins",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/head-of-finance-leitung-finanzen-frankfurt-323817",
-      "description": "Es ist Zeit für die Praxis der Zukunft, werde Teil von PraxisEins! PraxisEins ist ein Healthcare Scale-up aus Frankfurt: Wir bauen Deutschlands führenden Primärversorger auf. Hierfür übernehmen wir Hausarztpraxen, digitalisieren diese mit eigener Software und kümmern uns aktiv um eine stetige Verbes",
-      "tags": [
-        "Zentrale"
-      ],
+      "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-441888",
+      "title": "Golang Backend Engineer, Financial Product Fraud",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
+      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Your",
+      "tags": [],
       "salary": null,
-      "postedAt": "2026-09-29T08:40:07.000Z",
+      "postedAt": "2026-09-29T14:45:25.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-product-engineer-100-remote-germany-uk-ireland-berlin-280945",
-      "title": "Full Stack Product Engineer (100% Remote - Germany | UK | Ireland)",
-      "company": "Innocraft",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/full-stack-product-engineer-100-remote-germany-uk-ireland-berlin-280945",
-      "description": "Build analytics people can trust. Help define what analytics looks like in an AI-first world.\nMost analytics platforms ask organisations to trade control for insight.\nFor almost 20 years, Matomo has shown there is another way: powerful, transparent and trustworthy analytics that respects privacy, gi",
+      "id": "arbeitnow-software-architect-fur-web-backend-und-plattformlosungen-de-munchen-353393",
+      "title": "Software Architect (m/f/d) für Web-, Backend- und Plattformlösungen",
+      "company": "Swissbit",
+      "location": "DE-München",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/software-architect-fur-web-backend-und-plattformlosungen-de-munchen-353393",
+      "description": "A Swissbit more you.Bei uns gestaltest du die Zukunft! Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir stärken die digitale und vernetzte Welt, indem wir Daten zuverlässig speichern und schützen. Für diese und viele weitere",
+      "tags": [
+        "Software Architecture",
+        "Web Architecture",
+        "Backend Development",
+        "API Design",
+        "Solution Architecture"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T14:09:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-front-end-focus-uk-64580",
+      "title": "Full Stack Engineer (Front-end Focus)",
+      "company": "Zoe",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/zoe/full-stack-engineer-front-end-focus-uk-64580",
+      "description": "🌱 About ZOEZOE is a gut health science company. We turn world-leading nutrition research into everyday products that help people feel healthier, including the ZOE app, our at-home Gut Health Test, Daily30+ and the Gut Health Bar. Our scientists run the largest nutrition study in the world, and the ",
+      "tags": [
+        "Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T12:40:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-working-student-full-stack-developer-nextjs-stuttgart-79721",
+      "title": "Working Student (m/f/d) Full-Stack Developer - Next.js",
+      "company": "CBAM Estimator GmbH",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/cbam-estimator-gmbh/working-student-full-stack-developer-nextjs-stuttgart-79721",
+      "description": "We are CBAM Estimator – a young SaaS company based in Stuttgart. Our mission is to help companies meet the requirements of the EU Carbon Border Adjustment Mechanism (CBAM) correctly, efficiently and at scale.\nTo do this, we build modern web platforms that let our customers analyze the impact, obliga",
+      "tags": [
+        "Remote",
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T12:30:28.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-software-engineer-indexing-zurich-240473",
+      "title": "Backend Software Engineer - Indexing",
+      "company": "DeepJudge",
+      "location": "Zurich HQ",
+      "url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/backend-software-engineer-indexing-zurich-240473",
+      "description": "About us:DeepJudge is Switzerland’s leading AI and ICT scale-up, transforming how law firms and legal departments access and leverage their knowledge. Founded by former Google search engineers with PhDs in AI from ETH Zurich, and backed by top-tier Silicon Valley investors, we are building the intel",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-29T08:24:42.000Z",
+      "postedAt": "2026-09-29T11:40:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-automation-engineer-wet-lab-munich-155745",
+      "title": "Automation Engineer, Wet Lab",
+      "company": "Differential.bio",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/differentialbio/automation-engineer-wet-lab-munich-155745",
+      "description": "Role summary:At Differential Bio, our mission is to unlock the potential of the bioeconomy by fixing how biological R&amp;D and scale-up are done.Today, bioprocess development is slow, expensive, and limited by the economics of lab hardware. A typical system runs 4, 8, or 24 bioreactors in parallel,",
+      "tags": [
+        "Lab Automation"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-29T11:40:05.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -88,20 +148,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-fullstack-developer-london-194847",
-      "title": "Fullstack Developer",
-      "company": "Wehrtyou",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wehrtyou/fullstack-developer-london-194847",
-      "description": "&lt;p&gt;Fullstack Developers at HRT work either on our platform team (i.e. you work on infrastructure &amp;amp; tooling that supports all of our research &amp;amp; trading capabilities) or our acceleration team (i.e. you are aligned with a specific algo research &amp;amp; trading team). All of our ",
-      "tags": [
-        "PostTrade"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T21:55:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
       "title": "Voice Actor: CX Agent Voice Cloning (Swiss German)",
       "company": "Weekday 1",
@@ -128,20 +174,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T14:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-vo2-finance-developpeur-fullstack-c-angular-paris-france-42191",
-      "title": "[VO2 Finance] - Développeur fullstack C# / angular",
-      "company": "VO2 Group",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-finance-developpeur-fullstack-c-angular-paris-france-42191",
-      "description": "🌟&nbsp;VO2 GROUP : Leader français indépendant en conseil Tech et DigitalEntre conseil stratégique et réalisation technologique, nous cultivons un esprit \"boutique\" : de l'excellence, de l'humain et une forte culture de l'innovation.Nous sommes présents à Paris, Montréal, Shanghai, New York et Genè",
-      "tags": [
-        "VO2 Finance"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T10:05:20.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -198,20 +230,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-27T07:20:11+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-154087",
-      "title": "OrioleDB Developer (AMER)",
-      "company": "Supabase",
-      "location": "LATAM,  Canada,  USA",
-      "url": "https://jobicy.com/jobs/154087-orioledb-developer-amer",
-      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role We're lo",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-25T20:54:07+00:00",
       "source": "Jobicy"
     },
     {
