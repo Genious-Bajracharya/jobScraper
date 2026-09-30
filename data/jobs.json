@@ -1,50 +1,117 @@
 {
-  "updatedAt": "2026-09-30T11:48:21.218Z",
-  "total": 22,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-09-30T17:28:47.528Z",
+  "total": 25,
+  "newSinceLastRun": 7,
   "jobs": [
     {
-      "id": "arbeitnow-junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
-      "title": "Junior Backend Developer (Python) (M/W/D) 20H Stellenbeschreibung Read Description Before",
-      "company": "uNaice GmbH",
-      "location": "Werther",
-      "url": "https://www.arbeitnow.com/jobs/companies/unaice-gmbh/junior-backend-developer-python-20h-stellenbeschreibung-read-description-before-werther-140541",
-      "description": "uNaice ist Pionier im Bereich der automatisierten Contentproduktion und automatisierten Datenaufbereitung und -anreicherung.\nWir entwickeln Kunden, die sich auf der Welle der Digitalisierung befinden. Unsere Kunden sind u.A. Top-Player im E-Commerce wie adidas, Wago, TUI, C&#x26;A, aber auch Verlage",
+      "id": "arbeitnow-engineering-manager-mobile-berlin-berlin-hannover-lower-saxony-munchen-bavaria-361735",
+      "title": "Engineering Manager - Mobile (f/m/d)",
+      "company": "Awin",
+      "location": "Berlin, Berlin; Hannover, Lower Saxony; München, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/awin/engineering-manager-mobile-berlin-berlin-hannover-lower-saxony-munchen-bavaria-361735",
+      "description": "&lt;p&gt;&lt;strong&gt;Purpose of Position&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for an Engineering Manager to lead Team Pegasus, responsible for the Awin Mobile App and its backend platform. Pegasus is part of the Publisher Tribe that builds the experiences publishers rely on every day: ",
       "tags": [
-        "Remote",
-        "Software Development"
+        "Product",
+        "Research & Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-30T10:00:42.000Z",
+      "postedAt": "2026-09-30T14:55:03.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-london-111691",
-      "title": "Full Stack Software Engineer",
-      "company": "Faculty",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/full-stack-software-engineer-london-111691",
-      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hyp",
-      "tags": [
-        "Public Services"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-30T06:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-developer-schwerpunkt-angular-nuremberg-264132",
-      "title": "Software Developer (m/w/d) - Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-264132",
-      "description": "Deine Rolle\nKomplexe Prozesse so in ein Frontend zu gießen, dass die Bedienung fast schon intuitiv Spaß macht – genau darum geht es bei uns. Als Software Developer mit Schwerpunkt Angular bist Du die treibende Kraft dafür, dass unsere Webanwendungen nicht nur technisch sauber ticken, sondern auch im",
+      "id": "arbeitnow-werkstudentin-full-stack-development-typescript-react-grunwald-180413",
+      "title": "Werkstudent:in Full-Stack Development (m/w/d) (TypeScript/React)",
+      "company": "Boot1 GmbH",
+      "location": "Grünwald",
+      "url": "https://www.arbeitnow.com/jobs/companies/boot1-gmbh/werkstudentin-full-stack-development-typescript-react-grunwald-180413",
+      "description": "Wir bringen Menschen in ganz Deutschland zum Bootsführerschein, und unsere Lernplattform ist das Herzstück dabei. Damit sie weiter wächst, suchen wir dich als Werkstudent:in.\nAufgaben\n\n\nDu entwickelst Features end-to-end: mit TypeScript, React und Next.js im Frontend und Node.js mit Prisma im Backen",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-30T06:00:33.000Z",
+      "postedAt": "2026-09-30T14:30:45.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-typescript-developer-react-nextjs-grunwald-176883",
+      "title": "Full-Stack TypeScript Developer (m/w/d) (React/Next.js)",
+      "company": "Boot1 GmbH",
+      "location": "Grünwald",
+      "url": "https://www.arbeitnow.com/jobs/companies/boot1-gmbh/full-stack-typescript-developer-react-nextjs-grunwald-176883",
+      "description": "Wir bringen Menschen in ganz Deutschland zum Bootsführerschein, und unsere Lernplattform ist das Herzstück dabei. Damit sie weiter wächst, suchen wir dich.\nAufgaben\n\n\nDu entwickelst Features end-to-end: mit TypeScript, React und Next.js im Frontend und Node.js mit Prisma im Backend.\n\n\nDu arbeitest a",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-30T14:30:44.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-internal-tools-automation-home-office-deutschland-178026",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "location": "Home Office Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-178026",
+      "description": "Gemeinsam großartig – werde Teil des Teams Du willst als Software Engineer mit Python, APIs und Automatisierungen an Lösungen arbeiten, die direkt im operativen Alltag eingesetzt werden? In dieser Rolle entwickelst du interne Tools, Services und Schnittstellen, übersetzt Anforderungen aus den Fachbe",
+      "tags": [
+        "Engineer",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Prototyp",
+        "MVP",
+        "FastAPI",
+        "Docker",
+        "CI",
+        "CD",
+        "Git",
+        "SQL"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-30T14:09:32.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-im-startup-hamburg-379214",
+      "title": "Full Stack Developer im StartUp (m/f/d)",
+      "company": "LiloPlus",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/liloplus/full-stack-developer-im-startup-hamburg-379214",
+      "description": "Wer wir sind &#x26; was Dich erwartet:\nUnser Ziel ist es, allen Kindern eine sorgenfreie(re) finanzielle Zukunft zu bieten und das von Beginn an!\nLilo unterstützt Eltern dabei, die finanzielle Vorsorge für die eigenen Kinder von Beginn abzusichern - digital, personalisiert &#x26; transparent. Unsere",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-30T13:30:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-ingenieur-logiciel-full-stacks-iot-h-f-saint-egreve-84270",
+      "title": "Ingénieur logiciel full stacks & IoT H/F",
+      "company": "Portalp",
+      "location": "Saint-Égrève, Auvergne-Rhône-Alpes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/portalp/ingenieur-logiciel-full-stacks-iot-h-f-saint-egreve-84270",
+      "description": "Vous souhaitez intervenir sur un projet technologique concret, au croisement du logiciel, de l'IoT, de la data et de l'intelligence artificielle ?Nous recherchons un(e) Ingénieur(e) Logiciel Full Stack &amp; IoT pour participer au développement et à l'évolution d'une plateforme permettant de collect",
+      "tags": [
+        "Informatique"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-30T13:30:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-154291",
+      "title": "Chief Technology Officer",
+      "company": "saas.group",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/154291-chief-technology-officer-4",
+      "description": "This role is part of our Prerender team, one of our largest brands at saas.group. Prerender is a dynamic rendering SaaS platform within the saas.group portfolio. Since 2017, we've revolutionized SEO practices by enabling search engines to crawl JavaScript-heavy sites seamlessly while preserving user",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-09-30T08:18:46+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-142139",
@@ -143,20 +210,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T14:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-347094",
-      "title": "Fullstack Software Engineer",
-      "company": "nozominetworks",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-software-engineer-347094",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting s",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T08:55:07.000Z",
       "source": "Arbeitnow"
     },
     {
