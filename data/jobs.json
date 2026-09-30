@@ -1,95 +1,21 @@
 {
-  "updatedAt": "2026-09-29T18:01:03.880Z",
-  "total": 28,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-09-30T03:40:12.101Z",
+  "total": 20,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-developer-camunda-berlin-290137",
-      "title": "Fullstack Developer Camunda (m/w/d)",
-      "company": "Collaboration Betters The World GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/fullstack-developer-camunda-berlin-290137",
-      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr.\nAls Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden Umfeld an anspruchsvo",
+      "id": "jobicy-154210",
+      "title": "Sr. Software Engineer (Backend)",
+      "company": "hims &#038; hers",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154210-sr-software-engineer-backend",
+      "description": "Hims &amp; Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatmen",
       "tags": [
-        "IT"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-29T16:00:39.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-munchen-345492",
-      "title": "Fullstack Engineer (m/w/d)",
-      "company": "ECOZA GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ecoza-gmbh/fullstack-engineer-munchen-345492",
-      "description": "Wir suchen zum nächstmöglichen Zeitpunkt eine/n Fullstack Engineer (m/w/d) in Vollzeit für unseren Standort in München.Gehalt: 5.000 € brutto im MonatDeine AufgabenEntwicklung von KI-Anwendungen zur Unterstützung unserer BeraterAnbindung der KI-Anwendungen an unser Fachwissen und unsere KundendatenR",
-      "tags": [
-        "Consulting",
-        "associate's degree"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T15:20:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-441888",
-      "title": "Golang Backend Engineer, Financial Product Fraud",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-441888",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Your",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-09-29T14:45:25.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-architect-fur-web-backend-und-plattformlosungen-de-munchen-353393",
-      "title": "Software Architect (m/f/d) für Web-, Backend- und Plattformlösungen",
-      "company": "Swissbit",
-      "location": "DE-München",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/software-architect-fur-web-backend-und-plattformlosungen-de-munchen-353393",
-      "description": "A Swissbit more you.Bei uns gestaltest du die Zukunft! Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir stärken die digitale und vernetzte Welt, indem wir Daten zuverlässig speichern und schützen. Für diese und viele weitere",
-      "tags": [
-        "Software Architecture",
-        "Web Architecture",
-        "Backend Development",
-        "API Design",
-        "Solution Architecture"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T14:09:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-front-end-focus-uk-64580",
-      "title": "Full Stack Engineer (Front-end Focus)",
-      "company": "Zoe",
-      "location": "UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zoe/full-stack-engineer-front-end-focus-uk-64580",
-      "description": "🌱 About ZOEZOE is a gut health science company. We turn world-leading nutrition research into everyday products that help people feel healthier, including the ZOE app, our at-home Gut Health Test, Daily30+ and the Gut Health Bar. Our scientists run the largest nutrition study in the world, and the ",
-      "tags": [
-        "Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T12:40:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-working-student-full-stack-developer-nextjs-stuttgart-79721",
-      "title": "Working Student (m/f/d) Full-Stack Developer - Next.js",
-      "company": "CBAM Estimator GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/cbam-estimator-gmbh/working-student-full-stack-developer-nextjs-stuttgart-79721",
-      "description": "We are CBAM Estimator – a young SaaS company based in Stuttgart. Our mission is to help companies meet the requirements of the EU Carbon Border Adjustment Mechanism (CBAM) correctly, efficiently and at scale.\nTo do this, we build modern web platforms that let our customers analyze the impact, obliga",
-      "tags": [
-        "Remote",
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T12:30:28.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-09-29T15:31:04+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-backend-software-engineer-indexing-zurich-240473",
@@ -103,20 +29,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-29T11:40:10.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-automation-engineer-wet-lab-munich-155745",
-      "title": "Automation Engineer, Wet Lab",
-      "company": "Differential.bio",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/differentialbio/automation-engineer-wet-lab-munich-155745",
-      "description": "Role summary:At Differential Bio, our mission is to unlock the potential of the bioeconomy by fixing how biological R&amp;D and scale-up are done.Today, bioprocess development is slow, expensive, and limited by the economics of lab hardware. A typical system runs 4, 8, or 24 bioreactors in parallel,",
-      "tags": [
-        "Lab Automation"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T11:40:05.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -188,20 +100,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T08:55:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
-      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
-      "company": "databricks",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/databricks/sr-forward-deployed-engineer-fde-fullstack-zurich-124736",
-      "description": "&lt;p&gt;CSQ427R397&lt;/p&gt;\n&lt;p&gt;As a Sr Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp;amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems",
-      "tags": [
-        "Professional Services Operations"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T02:55:15.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -415,33 +313,6 @@
       ],
       "salary": null,
       "postedAt": "2026-08-22T00:00:12+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136670",
-      "title": "Engineering Manager Thailand",
-      "company": "Bjak ",
-      "location": "Bangkok",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
-      "description": "About KIRAOur mission is to make money smart, reliable and within reach for everyone.In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.Today, we are expandin",
-      "tags": [
-        "exec",
-        "design",
-        "sys admin",
-        "front end",
-        "infosec",
-        "technical",
-        "dev",
-        "testing",
-        "finance",
-        "cloud",
-        "mobile",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-08-14T08:00:04+00:00",
       "source": "RemoteOK"
     },
     {
