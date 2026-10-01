@@ -1,113 +1,93 @@
 {
-  "updatedAt": "2026-10-01T03:45:49.910Z",
-  "total": 24,
+  "updatedAt": "2026-10-01T12:17:46.799Z",
+  "total": 23,
   "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-engineer-data-platforms-berlin-hq-454212",
-      "title": "Engineer - Data & Platforms (m/f/d)",
-      "company": "Bitcap",
-      "location": "Berlin HQ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-454212",
-      "description": "Your Role & How we workAs our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and altern",
+      "id": "arbeitnow-tech-talente-frontend-backend-fullstack-devops-munich-76765",
+      "title": "Tech-Talente: Frontend, Backend, Fullstack & DevOps",
+      "company": "bits&birds GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/tech-talente-frontend-backend-fullstack-devops-munich-76765",
+      "description": "Unser Kunde ist ein inhabergeführtes, profitables Unternehmen ohne Investoren im Rücken. Seit der Gründung 2011 ist die Gruppe kontinuierlich gewachsen: mit starken Marken, neuen Gesellschaften und zunehmender Internationalisierung. Heute arbeiten rund 40 Entwickler in sechs Teams daran, die digital",
       "tags": [
-        "data engineering",
-        "aws",
-        "python",
-        "backend engineering",
-        "data quality",
-        "sql",
-        "snowflake",
-        "databricks"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-10-01T02:09:20.000Z",
+      "postedAt": "2026-10-01T12:00:30.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-full-stack-software-engineer-angular-python-239791",
-      "title": "Full Stack Software Engineer (Angular/Python)",
-      "company": "Lobster Data Gmbh",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/lobster-data-gmbh/remote-full-stack-software-engineer-angular-python-239791",
-      "description": "Position Overview:This is a vacancy for a hybrid role with regular visits to our HQ in Tutzing, Germany or Amsterdam, the Netherlands. We encourage applications from all qualified candidates, regardless of gender identity. We are building out the cloud services around the Lobster Data Platform, and ",
-      "tags": [
-        "Full Stack Software Engineer",
-        "Angular",
-        "Python"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-01T02:09:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-337967",
-      "title": "Full-Stack Engineer",
-      "company": "Wheely",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/full-stack-engineer-london-337967",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deli",
-      "tags": [
-        "Frontend"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-01T00:55:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-berlin-413634",
-      "title": "Full Stack Engineer (m/f/d)",
-      "company": "Glassdollar",
+      "id": "arbeitnow-full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
+      "title": "Full Stack Software Engineer (Front-end focus) (m/f/d) | Berlin, Hybrid",
+      "company": "Airteam Aerial Intelligence GmbH",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/glassdollar/full-stack-engineer-berlin-413634",
-      "description": "TL;DRJoin GlassDollar and help build the system some of Europe's largest companies use to find, test, and adopt startup technology.We're looking for an engineer who wants considerably more responsibility than \"implement what's in the ticket\". You'll take an ambiguous problem, shape it together with ",
+      "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
+      "description": "Airteam is a fast-growing Berlin SaaS startup with an AI-powered cloud platform for roofers and solar planners. Our customers turn simple drone data into actionable 3D models and measurement reports. As a Full Stack Software Engineer with a front-end focus, you'll build the web applications that tak",
       "tags": [
-        "Full Stack Engineer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
-        "PostgreSQL"
+        "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-09-30T23:09:41.000Z",
+      "postedAt": "2026-10-01T10:00:32.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-werkstudent-telematikinfrastruktur-ti-munchen-56728",
-      "title": "Werkstudent Telematikinfrastruktur (TI) (m/w/d)",
-      "company": "Meierhofer",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/werkstudent-telematikinfrastruktur-ti-munchen-56728",
-      "description": "Unsere StandorteWir suchen dich als Unterstützung an unserem Standort in MünchenDein zukünftiges TeamDu möchtest Gesundheits-IT nicht nur theoretisch kennenlernen, sondern praktisch mitgestalten? In unserer Produktentwicklung unterstützt du uns dabei, die Testinfrastruktur für die Telematikinfrastru",
+      "id": "arbeitnow-backend-software-engineer-london-152656",
+      "title": "Backend Software Engineer",
+      "company": "Extrac.ai",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/extracai/backend-software-engineer-london-152656",
+      "description": "About ExTracExTrac is a decision intelligence company used by governments, defence organisations, financial institutions, and corporates operating in complex, fast-moving environments. Our capabilities fuse curated data sources, domain-specific AI, and deep human expertise to transform information o",
       "tags": [
-        "München",
-        "Informatik",
-        "Computer science",
-        "Software engineering",
-        "Softwarentwicklung",
-        "Fullstack development",
-        ".NET",
-        "C#",
-        "Medizininformatik student",
-        "Informatik student",
-        "wirtschaftsinformatik student",
-        "Werkstudent Telematikinfrastruktur",
-        "Werkstudent Produktentwicklung",
-        "Werkstudent Medizintechnik",
-        "Werkstudent Gesundheits-IT",
-        "Werkstudent Medizininformatik",
-        "Werkstudent Informatik München",
-        "Telematikinfrastruktur",
-        "TI-Testinfrastruktur",
-        "Kartenterminals",
-        "eHealth",
-        "Digital Health",
-        "Software für Kliniken"
+        "Product & Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-09-30T23:09:13.000Z",
+      "postedAt": "2026-10-01T09:40:04.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
+      "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
+      "company": "FastRocket GmbH",
+      "location": "Regen",
+      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-259249",
+      "description": "FastRocket GmbH, ein Softwareunternehmen mit Sitz in Regen, Deutschland, sucht einen Werkstudenten für IT-Systemadministration (m/w/d) in Teilzeit (10-28 Wochenstunden).\nWir sind spezialisiert auf die Entwicklung individueller Webanwendungen und mobiler Apps mit einem starken Hintergrund in Node.JS,",
+      "tags": [
+        "Remote",
+        "System and Network Administration"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-01T09:00:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-data-platform-engineer-london-80961",
+      "title": "Backend / Data Platform Engineer",
+      "company": "Foundational",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/backend-data-platform-engineer-london-80961",
+      "description": "Backend / Data Platform EngineerThis is a future role. We're building a shortlist now and will contact you when it opens.About usFoundational is building the most precise picture of Earth and orbit, using lasers fired from the ground. We call it ground truth for orbit.We design and run low-cost, aut",
+      "tags": [
+        "Software",
+        "Data & Astrodynamics"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-01T06:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152220",
+      "title": "Full Stack Engineer (Enterprise)",
+      "company": "Roboflow",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152220-full-stack-engineer-enterprise",
+      "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We’re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow sim",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-01T04:00:18+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "jobicy-154291",
@@ -164,34 +144,6 @@
       "salary": null,
       "postedAt": "2026-09-29T11:40:10.000Z",
       "source": "Arbeitnow"
-    },
-    {
-      "id": "jobicy-152060",
-      "title": "Developer Relations Engineer",
-      "company": "Supabase",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152060-developer-relations-engineer-2",
-      "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We’re lo",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T03:35:16+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152057",
-      "title": "Multigres Engineer",
-      "company": "Supabase",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
-      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We're looking for an engineer to help ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T03:35:10+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-remote-voice-actor-cx-agent-voice-cloning-swiss-german-switzerland-438891",
