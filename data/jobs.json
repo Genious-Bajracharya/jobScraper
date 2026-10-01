@@ -1,78 +1,34 @@
 {
-  "updatedAt": "2026-10-01T12:17:46.799Z",
-  "total": 23,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-10-01T22:15:30.629Z",
+  "total": 19,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-tech-talente-frontend-backend-fullstack-devops-munich-76765",
-      "title": "Tech-Talente: Frontend, Backend, Fullstack & DevOps",
-      "company": "bits&birds GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/tech-talente-frontend-backend-fullstack-devops-munich-76765",
-      "description": "Unser Kunde ist ein inhabergeführtes, profitables Unternehmen ohne Investoren im Rücken. Seit der Gründung 2011 ist die Gruppe kontinuierlich gewachsen: mit starken Marken, neuen Gesellschaften und zunehmender Internationalisierung. Heute arbeiten rund 40 Entwickler in sechs Teams daran, die digital",
+      "id": "arbeitnow-software-engineer-backend-munchen-6443",
+      "title": "Software Engineer, Backend (m/w/d)",
+      "company": "Claid",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/claid/software-engineer-backend-munchen-6443",
+      "description": "München · Vollzeit · Grundgehalt + VSOPClaid wächst. Wir suchen Fullstack- und Backend-Entwickler (m/w/d) für die nächste Stage.Wir entwickeln spezialisierte KI-Software für Deutschlands größte Insolvenzkanzleien.Timeline:September 2025: Pre-Seed-Runde in Höhe von 750.000 €Mai 2026: 80 % Month-over-",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-10-01T12:00:30.000Z",
+      "postedAt": "2026-10-01T19:30:29.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
-      "title": "Full Stack Software Engineer (Front-end focus) (m/f/d) | Berlin, Hybrid",
-      "company": "Airteam Aerial Intelligence GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/airteam-aerial-intelligence-gmbh/full-stack-software-engineer-front-end-focus-berlin-hybrid-458079",
-      "description": "Airteam is a fast-growing Berlin SaaS startup with an AI-powered cloud platform for roofers and solar planners. Our customers turn simple drone data into actionable 3D models and measurement reports. As a Full Stack Software Engineer with a front-end focus, you'll build the web applications that tak",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-01T10:00:32.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-software-engineer-london-152656",
-      "title": "Backend Software Engineer",
-      "company": "Extrac.ai",
+      "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-193711",
+      "title": "Golang Backend Engineer, Financial Product Fraud",
+      "company": "Deliveroo",
       "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/extracai/backend-software-engineer-london-152656",
-      "description": "About ExTracExTrac is a decision intelligence company used by governments, defence organisations, financial institutions, and corporates operating in complex, fast-moving environments. Our capabilities fuse curated data sources, domain-specific AI, and deep human expertise to transform information o",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-193711",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
       "tags": [
-        "Product & Engineering"
+        "Engineering (Trust)"
       ],
       "salary": null,
-      "postedAt": "2026-10-01T09:40:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudent-it-systemadministration-100-remote-regen-259249",
-      "title": "Werkstudent IT-Systemadministration (m/w/d) - 100% remote",
-      "company": "FastRocket GmbH",
-      "location": "Regen",
-      "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/werkstudent-it-systemadministration-100-remote-regen-259249",
-      "description": "FastRocket GmbH, ein Softwareunternehmen mit Sitz in Regen, Deutschland, sucht einen Werkstudenten für IT-Systemadministration (m/w/d) in Teilzeit (10-28 Wochenstunden).\nWir sind spezialisiert auf die Entwicklung individueller Webanwendungen und mobiler Apps mit einem starken Hintergrund in Node.JS,",
-      "tags": [
-        "Remote",
-        "System and Network Administration"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-01T09:00:39.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-data-platform-engineer-london-80961",
-      "title": "Backend / Data Platform Engineer",
-      "company": "Foundational",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/backend-data-platform-engineer-london-80961",
-      "description": "Backend / Data Platform EngineerThis is a future role. We're building a shortlist now and will contact you when it opens.About usFoundational is building the most precise picture of Earth and orbit, using lasers fired from the ground. We call it ground truth for orbit.We design and run low-cost, aut",
-      "tags": [
-        "Software",
-        "Data & Astrodynamics"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-01T06:40:12.000Z",
+      "postedAt": "2026-10-01T12:55:22.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -158,20 +114,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-28T20:20:20.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-multichannel-experience-244022",
-      "title": "Full Stack Developer, Multichannel Experience",
-      "company": "Sofitechsolutions",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sofitechsolutions/full-stack-developer-multichannel-experience-244022",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.sofi.com/sofi-employee-applicant-privacy-notice/&quot; target=&quot;_blank&quot;&gt;Employee Applicant Privacy Notice&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt",
-      "tags": [
-        "STS Debit and Credit Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-28T14:55:04.000Z",
       "source": "Arbeitnow"
     },
     {
