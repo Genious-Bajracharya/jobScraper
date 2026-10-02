@@ -1,133 +1,92 @@
 {
-  "updatedAt": "2026-10-02T17:18:53.334Z",
-  "total": 26,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-10-02T21:44:12.661Z",
+  "total": 20,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-professional-full-stack-engineer-php-go-flutter-customer-experience-berlin-68064",
-      "title": "Professional Full Stack Engineer – PHP/Go + Flutter (m/f/x)",
-      "company": "SIDES (SimplyDelivery GmbH)",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/professional-full-stack-engineer-php-go-flutter-customer-experience-berlin-68064",
-      "description": "Your mission\nAbout SIDES\nRestaurants are where people come together over good food. We build the technology that keeps them running.\nSIDES is the operating system for hospitality: POS, payments, delivery, kitchen tools, self-order terminals, apps and webshops on one platform. Thousands of restaurant",
+      "id": "arbeitnow-remote-java-entwicklerin-java-developer-backend-munster-325044",
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-325044",
+      "description": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert.Du möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versicherungen, arbeitest in agilen Teams und ha",
       "tags": [
-        "Software Development"
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-10-02T16:47:33.000Z",
+      "postedAt": "2026-10-02T20:30:04.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-professional-full-stack-engineer-php-go-frontend-backoffice-experience-berlin-104232",
-      "title": "Professional Full Stack Engineer – PHP/Go + Frontend (m/f/x)",
-      "company": "SIDES (SimplyDelivery GmbH)",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/professional-full-stack-engineer-php-go-frontend-backoffice-experience-berlin-104232",
-      "description": "Your mission\nAbout SIDES\nRestaurants are where people come together over good food. We build the technology that keeps them running.\nSIDES is the operating system for hospitality: POS, payments, delivery, kitchen tools, self-order terminals, apps and webshops on one platform. Thousands of restaurant",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T16:47:33.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-applied-ai-backend-engineer-dortmund-247309",
-      "title": "Applied AI & Backend Engineer (m/w/d)",
-      "company": "odacova UG (haftungsbeschränkt)",
-      "location": "Dortmund",
-      "url": "https://www.arbeitnow.com/jobs/companies/odacova-ug-haftungsbeschrankt/applied-ai-backend-engineer-dortmund-247309",
-      "description": "Über odacova\nodacova ist ein wachsendes B2B-Software-Startup mit Sitz in Dortmund. Wir entwickeln eine modulare Plattform, mit der Unternehmen individuelle Ernährungslösungen für ihre Mitarbeiter*innen umsetzen können – datenbasiert und praxisnah.\nZur Skalierung unserer markterprobten Lösung haben w",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T16:30:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-founding-engineer-berlin-427510",
-      "title": "Founding Engineer",
-      "company": "Treehouze",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/treehouze/founding-engineer-berlin-427510",
-      "description": "The RoleYou’ll work directly with the founders and take ownership of major parts of the product from idea to production.You will:Build and ship core product experiences end-to-end across mobile, backend and data.Turn ambiguous product problems and user needs into simple, pragmatic technical solution",
+      "id": "arbeitnow-stage-junior-fullstack-engineer-productivity-paris-46965",
+      "title": "STAGE - Junior Fullstack Engineer - Productivity",
+      "company": "Doctrine",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-productivity-paris-46965",
+      "description": "Notre mission ⚖️\n\nChez Doctrine, nous construisons le leader de l’IA juridique en Europe.\nNotre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement juridique avec un haut",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-02T15:30:40.000Z",
+      "postedAt": "2026-10-02T19:05:12.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
-      "title": "(Online) Dozent*in für IT-Administration & Cyber Security",
-      "company": "Syntax Institut",
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-371659",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/online-dozentin-fur-it-administration-cyber-security-berlin-443140",
-      "description": "ÜBER DAS SYNTAX INSTITUT (EINE MARKE VON BILDUNG FÜR MORGEN)\nDas Syntax Institut ist eine Marke von Bildung für Morgen und ein schnell wachsendes EdTech-Unternehmen aus Berlin, das von erfolgreichen Unternehmern gegründet wurde. Unsere Mission ist es, Menschen praxisnah für gefragte Berufe in der Te",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
+      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
       "tags": [
-        "Remote",
-        "Administration"
+        "Backend Engineer",
+        "Backend Developer",
+        "AI Agents",
+        "KI-Agenten",
+        "Agentic AI",
+        "LangGraph",
+        "LangChain",
+        "Multi-Agent-System",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "Vektorendatenbank",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-10-02T14:30:35.000Z",
+      "postedAt": "2026-10-02T17:09:36.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-132819",
-      "title": "Junior Full Stack Developer (All Genders)",
-      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "id": "arbeitnow-remote-ai-product-engineer-berlin-20956",
+      "title": "AI Product Engineer (m/w/d)",
+      "company": "Getpress Gmbh",
       "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-132819",
-      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-02T14:09:48.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-442037",
-      "title": "Frontend Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037",
-      "description": "Begeisterst du dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in deiner Karriere.\nWir, die TecFox GmbH, sind ein zukunftsorientiertes IT-Dienstleistungsunternehmen verwurzelt im ",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
+      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
       "tags": [
-        "Remote",
-        "Software Development"
+        "Backend Engineer",
+        "Backend Developer",
+        "AI Agents",
+        "KI-Agenten",
+        "Agentic AI",
+        "LangGraph",
+        "LangChain",
+        "Multi-Agent-System",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "Vektorendatenbank",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "Remote"
       ],
       "salary": null,
-      "postedAt": "2026-10-02T12:30:53.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-313955",
-      "title": "Fullstack Softwareentwickler (m/w/d)",
-      "company": "TecFox GmbH",
-      "location": "Braunschweig",
-      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-313955",
-      "description": "Du willst an zeitgemäßen Softwarelösungen mitwirken - von der Backend-Logik über Schnittstellen bis zur Benutzeroberfläche? Du bewegst dich sicher in skalierbaren Systemlandschaften und agilen Teamstrukturen? Dann bist du bei TecFox richtig aufgehoben.\nWir, die TecFox GmbH, sind ein zukunftsorientie",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T12:00:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
-      "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
-      "tags": [
-        "AI Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T09:55:09.000Z",
+      "postedAt": "2026-10-02T17:09:36.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -199,20 +158,6 @@
       "salary": null,
       "postedAt": "2026-09-30T08:18:46+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-backend-software-engineer-indexing-zurich-240473",
-      "title": "Backend Software Engineer - Indexing",
-      "company": "DeepJudge",
-      "location": "Zurich HQ",
-      "url": "https://www.arbeitnow.ch/jobs/companies/deepjudge/backend-software-engineer-indexing-zurich-240473",
-      "description": "About us:DeepJudge is Switzerland’s leading AI and ICT scale-up, transforming how law firms and legal departments access and leverage their knowledge. Founded by former Google search engineers with PhDs in AI from ETH Zurich, and backed by top-tier Silicon Valley investors, we are building the intel",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-29T11:40:10.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1137420",
