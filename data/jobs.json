@@ -1,34 +1,20 @@
 {
-  "updatedAt": "2026-10-01T22:15:30.629Z",
-  "total": 19,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-10-02T03:44:37.688Z",
+  "total": 18,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-backend-munchen-6443",
-      "title": "Software Engineer, Backend (m/w/d)",
-      "company": "Claid",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/claid/software-engineer-backend-munchen-6443",
-      "description": "München · Vollzeit · Grundgehalt + VSOPClaid wächst. Wir suchen Fullstack- und Backend-Entwickler (m/w/d) für die nächste Stage.Wir entwickeln spezialisierte KI-Software für Deutschlands größte Insolvenzkanzleien.Timeline:September 2025: Pre-Seed-Runde in Höhe von 750.000 €Mai 2026: 80 % Month-over-",
+      "id": "arbeitnow-stage-junior-fullstack-engineer-paris-331624",
+      "title": "STAGE - Junior Fullstack Engineer",
+      "company": "Doctrine",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
+      "description": "Notre mission ⚖️\n\nChez Doctrine, nous construisons le leader de l’IA juridique en Europe.\nNotre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement juridique avec un haut",
       "tags": [
-        "Software Development"
+        "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-01T19:30:29.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-193711",
-      "title": "Golang Backend Engineer, Financial Product Fraud",
-      "company": "Deliveroo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-193711",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, syst",
-      "tags": [
-        "Engineering (Trust)"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-01T12:55:22.000Z",
+      "postedAt": "2026-10-02T01:04:52.000Z",
       "source": "Arbeitnow"
     },
     {
