@@ -1,8 +1,121 @@
 {
-  "updatedAt": "2026-10-02T11:46:47.415Z",
-  "total": 22,
-  "newSinceLastRun": 7,
+  "updatedAt": "2026-10-02T17:18:53.334Z",
+  "total": 26,
+  "newSinceLastRun": 8,
   "jobs": [
+    {
+      "id": "arbeitnow-professional-full-stack-engineer-php-go-flutter-customer-experience-berlin-68064",
+      "title": "Professional Full Stack Engineer – PHP/Go + Flutter (m/f/x)",
+      "company": "SIDES (SimplyDelivery GmbH)",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/professional-full-stack-engineer-php-go-flutter-customer-experience-berlin-68064",
+      "description": "Your mission\nAbout SIDES\nRestaurants are where people come together over good food. We build the technology that keeps them running.\nSIDES is the operating system for hospitality: POS, payments, delivery, kitchen tools, self-order terminals, apps and webshops on one platform. Thousands of restaurant",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T16:47:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-professional-full-stack-engineer-php-go-frontend-backoffice-experience-berlin-104232",
+      "title": "Professional Full Stack Engineer – PHP/Go + Frontend (m/f/x)",
+      "company": "SIDES (SimplyDelivery GmbH)",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/professional-full-stack-engineer-php-go-frontend-backoffice-experience-berlin-104232",
+      "description": "Your mission\nAbout SIDES\nRestaurants are where people come together over good food. We build the technology that keeps them running.\nSIDES is the operating system for hospitality: POS, payments, delivery, kitchen tools, self-order terminals, apps and webshops on one platform. Thousands of restaurant",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T16:47:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-applied-ai-backend-engineer-dortmund-247309",
+      "title": "Applied AI & Backend Engineer (m/w/d)",
+      "company": "odacova UG (haftungsbeschränkt)",
+      "location": "Dortmund",
+      "url": "https://www.arbeitnow.com/jobs/companies/odacova-ug-haftungsbeschrankt/applied-ai-backend-engineer-dortmund-247309",
+      "description": "Über odacova\nodacova ist ein wachsendes B2B-Software-Startup mit Sitz in Dortmund. Wir entwickeln eine modulare Plattform, mit der Unternehmen individuelle Ernährungslösungen für ihre Mitarbeiter*innen umsetzen können – datenbasiert und praxisnah.\nZur Skalierung unserer markterprobten Lösung haben w",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T16:30:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-founding-engineer-berlin-427510",
+      "title": "Founding Engineer",
+      "company": "Treehouze",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/treehouze/founding-engineer-berlin-427510",
+      "description": "The RoleYou’ll work directly with the founders and take ownership of major parts of the product from idea to production.You will:Build and ship core product experiences end-to-end across mobile, backend and data.Turn ambiguous product problems and user needs into simple, pragmatic technical solution",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T15:30:40.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-online-dozentin-fur-it-administration-cyber-security-berlin-443140",
+      "title": "(Online) Dozent*in für IT-Administration & Cyber Security",
+      "company": "Syntax Institut",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/syntax-institut/online-dozentin-fur-it-administration-cyber-security-berlin-443140",
+      "description": "ÜBER DAS SYNTAX INSTITUT (EINE MARKE VON BILDUNG FÜR MORGEN)\nDas Syntax Institut ist eine Marke von Bildung für Morgen und ein schnell wachsendes EdTech-Unternehmen aus Berlin, das von erfolgreichen Unternehmern gegründet wurde. Unsere Mission ist es, Menschen praxisnah für gefragte Berufe in der Te",
+      "tags": [
+        "Remote",
+        "Administration"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T14:30:35.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-132819",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-132819",
+      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-02T14:09:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-softwareentwickler-braunschweig-442037",
+      "title": "Frontend Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037",
+      "description": "Begeisterst du dich für moderne Webanwendungen, gut strukturierte Software und leistungsfähige Single-Page-Applikationen? Dann ist TecFox vielleicht genau der richtige nächste Schritt in deiner Karriere.\nWir, die TecFox GmbH, sind ein zukunftsorientiertes IT-Dienstleistungsunternehmen verwurzelt im ",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T12:30:53.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-softwareentwickler-braunschweig-313955",
+      "title": "Fullstack Softwareentwickler (m/w/d)",
+      "company": "TecFox GmbH",
+      "location": "Braunschweig",
+      "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/fullstack-softwareentwickler-braunschweig-313955",
+      "description": "Du willst an zeitgemäßen Softwarelösungen mitwirken - von der Backend-Logik über Schnittstellen bis zur Benutzeroberfläche? Du bewegst dich sicher in skalierbaren Systemlandschaften und agilen Teamstrukturen? Dann bist du bei TecFox richtig aufgehoben.\nWir, die TecFox GmbH, sind ein zukunftsorientie",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T12:00:37.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-backend-engineer-ruby-ai-engineering-agent-foundations-385876",
       "title": "Backend Engineer (Ruby), AI Engineering: Agent Foundations",
@@ -18,48 +131,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-java-entwicklerin-java-developer-backend-munster-353503",
-      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
-      "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
-      "location": "Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/java-entwicklerin-java-developer-backend-munster-353503",
-      "description": "Software entwickeln ohne Agentur-Feeling. Software die funktioniert.\nDu möchtest moderne Java-Anwendungen entwickeln aber nicht in einem Umfeld arbeiten, in dem Tickets wichtiger sind als Menschen? Bei uns entwickelst du Backend-Lösungen für Banken und Versicherungen, arbeitest in agilen Teams und h",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T09:31:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-frontend-ux-mobile-legal-ai-munich-163261",
-      "title": "Fullstack Developer: Frontend, UX, Mobile - Legal AI (m/w/d)",
-      "company": "Silvernova GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/silvernova-gmbh/fullstack-developer-frontend-ux-mobile-legal-ai-munich-163261",
-      "description": "Silvernova ist in 15 Monaten von 0 auf 400+ Anwaltskanzleien gewachsen. Unsere Investoren sind hochkarätige VCs und Partner von renommierten Anwaltskanzleien wie YPOG, CMS und Neon.\nWir bieten einen KI-Associate an, der in der Akte des Anwalts denkt. Optimiert für komplexe Aktenarbeit in der Sachver",
-      "tags": [
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T09:31:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-techniker-ingenieur-versorgungstechnik-gebaude-energiemanagement-tga-oder-heizungstechnik-dusseldorf-446043",
-      "title": "Techniker / Ingenieur Versorgungstechnik, Gebäude- Energiemanagement, TGA oder Heizungstechnik (m/w/d)",
-      "company": "termios",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/termios/techniker-ingenieur-versorgungstechnik-gebaude-energiemanagement-tga-oder-heizungstechnik-dusseldorf-446043",
-      "description": "Wer wir sind\ntermios macht Heizen in Wohn- und Gewerbeimmobilien smarter und klimafreundlicher. Unser Thermostat spart spürbar Energie und hilft Asset Managern, Wohnungsunternehmen und Eigentümern, ihre ESG- und Net-Zero-Ziele zu erreichen.\nWir sind ein Startup - 2023 als Joint-Venture von mantro (C",
-      "tags": [
-        "Power Engineering and Environmental Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T09:00:28.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-154382",
       "title": "Backend Engineer - Music",
       "company": "Spotify",
@@ -72,21 +143,6 @@
       "salary": null,
       "postedAt": "2026-10-02T06:56:42+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-mobile-london-manchester-460876",
-      "title": "Engineering Manager - Mobile (f/m/d)",
-      "company": "Awin",
-      "location": "London; Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/awin/engineering-manager-mobile-london-manchester-460876",
-      "description": "&lt;p&gt;&lt;strong&gt;Purpose of Position&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We are looking for an Engineering Manager to lead Team Pegasus, responsible for the Awin Mobile App and its backend platform. Pegasus is part of the Publisher Tribe that builds the experiences publishers rely on every day: ",
-      "tags": [
-        "Product",
-        "Research & Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T06:55:16.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "arbeitnow-java-backend-entwickler-luzern-95490",
