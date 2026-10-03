@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-03T10:59:44.483Z",
-  "total": 16,
+  "updatedAt": "2026-10-03T15:36:16.176Z",
+  "total": 17,
   "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-junior-backend-developer-c-net-paris-113660",
+      "title": "Junior Backend Developer, C# .Net - Paris",
+      "company": "shifttechnology",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/junior-backend-developer-c-net-paris-113660",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resources, Shift provides pr",
+      "tags": [
+        "Technology - Software Engineering",
+        "Infrastructure",
+        "and Security"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T13:55:23.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-245781",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-245781",
+      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "tags": [
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T11:09:06.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-software-engineer-command-centre-frontend-ui-ux-zurich-339034",
       "title": "Software Engineer, Command Centre (Frontend & UI/UX)",
@@ -103,24 +145,6 @@
       ],
       "salary": null,
       "postedAt": "2026-09-23T00:00:04+00:00",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1137409",
-      "title": "Backend Software Engineer",
-      "company": "Airspace Link",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
-      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with Airspace Linkâs d...Please mention the",
-      "tags": [
-        "golang",
-        "dev",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "salary": null,
-      "postedAt": "2026-09-19T20:00:01+00:00",
       "source": "RemoteOK"
     },
     {
