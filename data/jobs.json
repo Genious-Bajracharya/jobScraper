@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-02T21:44:12.661Z",
-  "total": 20,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-03T03:29:33.064Z",
+  "total": 18,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-mechanical-engineer-robotics-berlin-303112",
+      "title": "Mechanical Engineer  | Robotics",
+      "company": "Cell Labs",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/cell-labs/mechanical-engineer-robotics-berlin-303112",
+      "description": "We build humanoid systems: full stack, from hardware and electronics to software and manufacturing, all in-house in Berlin.\nAt Cell Labs, we push the boundary of what robotics can achieve. Our goal is clear: to build systems that empower humans, not replace them. Our technology is already deployed w",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-02T23:00:25.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-java-entwicklerin-java-developer-backend-munster-325044",
       "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
@@ -32,64 +46,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-371659",
-      "title": "Backend Engineer - Agentic AI (m/w/d)",
-      "company": "Getpress Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-371659",
-      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
-      "tags": [
-        "Backend Engineer",
-        "Backend Developer",
-        "AI Agents",
-        "KI-Agenten",
-        "Agentic AI",
-        "LangGraph",
-        "LangChain",
-        "Multi-Agent-System",
-        "Python",
-        "TypeScript",
-        "PostgreSQL",
-        "Vektorendatenbank",
-        "RAG",
-        "Docker",
-        "Kubernetes",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T17:09:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-ai-product-engineer-berlin-20956",
-      "title": "AI Product Engineer (m/w/d)",
-      "company": "Getpress Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-20956",
-      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
-      "tags": [
-        "Backend Engineer",
-        "Backend Developer",
-        "AI Agents",
-        "KI-Agenten",
-        "Agentic AI",
-        "LangGraph",
-        "LangChain",
-        "Multi-Agent-System",
-        "Python",
-        "TypeScript",
-        "PostgreSQL",
-        "Vektorendatenbank",
-        "RAG",
-        "Docker",
-        "Kubernetes",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T17:09:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-154382",
       "title": "Backend Engineer - Music",
       "company": "Spotify",
@@ -115,20 +71,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-02T05:30:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-junior-fullstack-engineer-paris-331624",
-      "title": "STAGE - Junior Fullstack Engineer",
-      "company": "Doctrine",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-paris-331624",
-      "description": "Notre mission ⚖️\n\nChez Doctrine, nous construisons le leader de l’IA juridique en Europe.\nNotre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement juridique avec un haut",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T01:04:52.000Z",
       "source": "Arbeitnow"
     },
     {
