@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-03T15:36:16.176Z",
+  "updatedAt": "2026-10-03T20:30:28.968Z",
   "total": 17,
   "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "jobicy-154461",
+      "title": "PHP & React Software Engineer",
+      "company": "Enumerate",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
+      "description": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our exis",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T14:58:34+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-junior-backend-developer-c-net-paris-113660",
       "title": "Junior Backend Developer, C# .Net - Paris",
@@ -20,30 +34,18 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-245781",
-      "title": "Full-Stack Software Engineer (m/f/d)",
-      "company": "TWAICE",
-      "location": "Munich, Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-245781",
-      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "id": "jobicy-154447",
+      "title": "Backend Engineer",
+      "company": "Catawiki",
+      "location": "Netherlands",
+      "url": "https://jobicy.com/jobs/154447-backend-engineer-3",
+      "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each w",
       "tags": [
-        "Battery",
-        "Energy",
-        "SaaS",
-        "Backend",
-        "Frontend",
-        "Startup",
-        "Tech",
-        "AWS",
-        "Batteries",
-        "Software Development",
-        "BESS",
-        "Green Energy",
-        "Energy Transition"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-03T11:09:06.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-10-03T13:52:18+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-software-engineer-command-centre-frontend-ui-ux-zurich-339034",
@@ -71,20 +73,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-03T07:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-junior-fullstack-engineer-productivity-paris-46965",
-      "title": "STAGE - Junior Fullstack Engineer - Productivity",
-      "company": "Doctrine",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-productivity-paris-46965",
-      "description": "Notre mission ⚖️\n\nChez Doctrine, nous construisons le leader de l’IA juridique en Europe.\nNotre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement juridique avec un haut",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T19:05:12.000Z",
       "source": "Arbeitnow"
     },
     {
