@@ -1,8 +1,64 @@
 {
-  "updatedAt": "2026-10-04T16:20:17.437Z",
-  "total": 19,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-10-04T20:47:32.125Z",
+  "total": 22,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
+      "title": "Anwendungsarchitekt - Full-Stack Java/Spring, React, K8s (m/w/d)",
+      "company": "Auxilius.ai",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/auxiliusai/anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
+      "description": "Du wirst Teil eines KI-nativen Start-ups in einer frühen Entwicklungsphase, dessen Produkt seinen Product-Market-Fit bereits unter Beweis gestellt hat. Wir entwickeln modernste KI-Lösungen für Governance, Risikomanagement und Compliance (GRC) für Unternehmen weltweit.\nUnsere Kunden sind Auditoren, R",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T19:00:46.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-customer-care-team-lead-paris-289034",
+      "title": "Customer Care Team Lead",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-289034",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "Operations"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T16:40:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-customer-care-specialist-paris-309097",
+      "title": "Customer Care Specialist",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-309097",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "Operations"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T16:40:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpeur-full-stack-js-lyon-212212",
+      "title": "Développeur Full Stack JS",
+      "company": "Arkane Cloud",
+      "location": "Lyon",
+      "url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/developpeur-full-stack-js-lyon-212212",
+      "description": "Demain, notre console recevra des milliards de requêtes. Votre mission : faire en sorte qu’elle tienne, et qu’elle reste rapide. Arkane Cloud crée un poste de Développeur Full Stack, à 80 % back-end, pour bâtir une plateforme taillée pour la charge. Notre sociétéArkane Cloud est un Cloud Service Pro",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T16:40:06.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-software-engineer-in-berlin-or-konstanz-174646",
       "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
@@ -102,20 +158,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-03T08:40:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-full-stack-engineer-ai-security-paris-149930",
-      "title": "Junior Full Stack Engineer | AI & Security",
-      "company": "Escape",
-      "location": "Paris Office",
-      "url": "https://www.arbeitnow.fr/jobs/companies/escape/junior-full-stack-engineer-ai-security-paris-149930",
-      "description": "Junior Full-Stack Engineer (Product &amp; Platform) – Paris Office Location: Paris (75002), 2 days remote per weekCompany: Escape – Leading AI CybersecurityCompensation: 55-75k + 0.05% BSPCE (stock options)Our Team: 21 Engineers, 4 Technical Leads, 4 Squads About EscapeEscape is offensive security f",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-03T07:40:09.000Z",
       "source": "Arbeitnow"
     },
     {
