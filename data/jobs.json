@@ -1,8 +1,76 @@
 {
-  "updatedAt": "2026-10-03T20:30:28.968Z",
-  "total": 17,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-10-04T03:57:18.527Z",
+  "total": 20,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-software-architect-fur-web-backend-und-plattformlosungen-de-munchen-224789",
+      "title": "Software Architect (m/f/d) für Web-, Backend- und Plattformlösungen",
+      "company": "Swissbit",
+      "location": "DE-München",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/software-architect-fur-web-backend-und-plattformlosungen-de-munchen-224789",
+      "description": "A Swissbit more you.Bei uns gestaltest du die Zukunft! Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir stärken die digitale und vernetzte Welt, indem wir Daten zuverlässig speichern und schützen. Für diese und viele weitere",
+      "tags": [
+        "Software Architecture",
+        "Web Architecture",
+        "Backend Development",
+        "API Design",
+        "Solution Architecture"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T20:09:53.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-ai-developer-agentic-systems-berlin-47774",
+      "title": "Full-Stack AI Developer – Agentic Systems (m/f/d)",
+      "company": "autonomous-teaming",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/full-stack-ai-developer-agentic-systems-berlin-47774",
+      "description": "What we offerWork in an international, agile and ambitious team creating the future of autonomous systems.Grow your career in a expanding and ambitious engineering team.Build innovative products using state-of-the-art technologies in AI.Benefit from a steep learning curve and continuous development.",
+      "tags": [
+        "Typescript",
+        "Python",
+        "Multi Agent orchestration",
+        "RAG pipelines",
+        "Rust",
+        "Integrations",
+        "APIs",
+        "Frontend",
+        "Backend",
+        "AI workflows",
+        "AI agents",
+        "Data pipelines",
+        "Security",
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T20:09:46.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-ai-software-development-consultant-stuttgart-hybrid-65283",
+      "title": "AI Software Development Consultant (m/w/d)",
+      "company": "Invensity Group",
+      "location": "Stuttgart (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/invensity-group/ai-software-development-consultant-stuttgart-hybrid-65283",
+      "description": "WelcomeDo you want to develop AI applications that make a real difference in our clients’ day-to-day work? As an international technology consultancy, we support our clients in developing innovative solutions – from the initial idea through to deployment.Your contribution: You develop AI-powered sof",
+      "tags": [
+        "Programming",
+        "Software Engineering",
+        "Testing",
+        "Matlab/Simulink",
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++",
+        "C",
+        "Embedded Software"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T20:09:22.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-154461",
       "title": "PHP & React Software Engineer",
