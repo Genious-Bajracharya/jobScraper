@@ -1,8 +1,25 @@
 {
-  "updatedAt": "2026-10-04T11:41:37.949Z",
-  "total": 18,
+  "updatedAt": "2026-10-04T16:20:17.437Z",
+  "total": 19,
   "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-software-engineer-in-berlin-or-konstanz-174646",
+      "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
+      "company": "KNIME AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/knime-ag/full-stack-software-engineer-in-berlin-or-konstanz-174646",
+      "description": "MissionJoin KNIME in developing a state-of-the-art end-to-end AI and data science platform that helps thousands of professionals around the world to answer their data questions via one of the most reliable and transparent computation frameworks – KNIME workflows.Role OverviewAs a Full-Stack Software",
+      "tags": [
+        "full-stack",
+        "full stack",
+        "software engineering",
+        "software developement"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T11:09:20.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-maintenance-engineer-munich-387906",
       "title": "Remote Maintenance Engineer",
