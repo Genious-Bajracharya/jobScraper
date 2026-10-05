@@ -1,8 +1,49 @@
 {
-  "updatedAt": "2026-10-04T20:47:32.125Z",
+  "updatedAt": "2026-10-05T03:42:05.864Z",
   "total": 22,
-  "newSinceLastRun": 4,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-head-of-account-management-100-remote-b2b-berlin-94847",
+      "title": "Head of Account Management (m/w/d) - 100% Remote - B2B",
+      "company": "RealStudio GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-account-management-100-remote-b2b-berlin-94847",
+      "description": "Du hast Erfahrung im B2B-Account-Management, erkennst Wachstumspotenziale bei bestehenden Kunden und kannst daraus konkrete Abschlüsse machen?\nAls Head of Account Management bei RealStudio übernimmst du in Vollzeit die Verantwortung für unseren Backend-Umsatz: Du entwickelst bestehende Kundenbeziehu",
+      "tags": [
+        "Remote",
+        "Management",
+        "Team Leader"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T21:30:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-internal-tools-automation-freiburg-76484",
+      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+      "company": "Wattfox",
+      "location": "Freiburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
+      "description": "Gemeinsam großartig – werde Teil des Teams Du willst als Software Engineer mit Python, APIs und Automatisierungen an Lösungen arbeiten, die direkt im operativen Alltag eingesetzt werden? In dieser Rolle entwickelst du interne Tools, Services und Schnittstellen, übersetzt Anforderungen aus den Fachbe",
+      "tags": [
+        "Engineer",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Prototyp",
+        "MVP",
+        "FastAPI",
+        "Docker",
+        "CI",
+        "CD",
+        "Git",
+        "SQL"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-04T20:09:44.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
       "title": "Anwendungsarchitekt - Full-Stack Java/Spring, React, K8s (m/w/d)",
@@ -57,35 +98,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-04T16:40:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-in-berlin-or-konstanz-174646",
-      "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
-      "company": "KNIME AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/knime-ag/full-stack-software-engineer-in-berlin-or-konstanz-174646",
-      "description": "MissionJoin KNIME in developing a state-of-the-art end-to-end AI and data science platform that helps thousands of professionals around the world to answer their data questions via one of the most reliable and transparent computation frameworks – KNIME workflows.Role OverviewAs a Full-Stack Software",
-      "tags": [
-        "full-stack",
-        "full stack",
-        "software engineering",
-        "software developement"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T11:09:20.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-maintenance-engineer-munich-387906",
-      "title": "Remote Maintenance Engineer",
-      "company": "Personal data collected as part of the application process",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/remote-maintenance-engineer-munich-387906",
-      "description": "About the roleGauss Fusion is aiming to build the first commercial scale fusion power plant based on the stellarator concept and is seeking an experienced mechanical engineer to lead on development of the robotic maintenance approach.The fusion environment within the reactor is very aggressive, and ",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-04T08:09:37.000Z",
       "source": "Arbeitnow"
     },
     {
