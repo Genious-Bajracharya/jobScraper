@@ -1,61 +1,55 @@
 {
-  "updatedAt": "2026-10-05T03:42:05.864Z",
+  "updatedAt": "2026-10-05T13:24:24.670Z",
   "total": 22,
-  "newSinceLastRun": 2,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-head-of-account-management-100-remote-b2b-berlin-94847",
-      "title": "Head of Account Management (m/w/d) - 100% Remote - B2B",
-      "company": "RealStudio GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-account-management-100-remote-b2b-berlin-94847",
-      "description": "Du hast Erfahrung im B2B-Account-Management, erkennst Wachstumspotenziale bei bestehenden Kunden und kannst daraus konkrete Abschlüsse machen?\nAls Head of Account Management bei RealStudio übernimmst du in Vollzeit die Verantwortung für unseren Backend-Umsatz: Du entwickelst bestehende Kundenbeziehu",
-      "tags": [
-        "Remote",
-        "Management",
-        "Team Leader"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T21:30:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-internal-tools-automation-freiburg-76484",
-      "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
-      "company": "Wattfox",
-      "location": "Freiburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
-      "description": "Gemeinsam großartig – werde Teil des Teams Du willst als Software Engineer mit Python, APIs und Automatisierungen an Lösungen arbeiten, die direkt im operativen Alltag eingesetzt werden? In dieser Rolle entwickelst du interne Tools, Services und Schnittstellen, übersetzt Anforderungen aus den Fachbe",
-      "tags": [
-        "Engineer",
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "Prototyp",
-        "MVP",
-        "FastAPI",
-        "Docker",
-        "CI",
-        "CD",
-        "Git",
-        "SQL"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T20:09:44.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
-      "title": "Anwendungsarchitekt - Full-Stack Java/Spring, React, K8s (m/w/d)",
-      "company": "Auxilius.ai",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/auxiliusai/anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
-      "description": "Du wirst Teil eines KI-nativen Start-ups in einer frühen Entwicklungsphase, dessen Produkt seinen Product-Market-Fit bereits unter Beweis gestellt hat. Wir entwickeln modernste KI-Lösungen für Governance, Risikomanagement und Compliance (GRC) für Unternehmen weltweit.\nUnsere Kunden sind Auditoren, R",
+      "id": "arbeitnow-software-developer-schwerpunkt-angular-nuremberg-56674",
+      "title": "Software Developer (m/w/d) - Schwerpunkt Angular",
+      "company": "isento GmbH",
+      "location": "Nuremberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-56674",
+      "description": "Deine Rolle\nKomplexe Prozesse so in ein Frontend zu gießen, dass die Bedienung fast schon intuitiv Spaß macht – genau darum geht es bei uns. Als Software Developer mit Schwerpunkt Angular bist Du die treibende Kraft dafür, dass unsere Webanwendungen nicht nur technisch sauber ticken, sondern auch im",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-10-04T19:00:46.000Z",
+      "postedAt": "2026-10-05T11:30:33.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-77032",
+      "title": "Software Engineer Backend / KI (m/w/d) - verhandlungssicheres Deutsch erforderlich",
+      "company": "Intrafind Software Ag",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/intrafind-software-ag/software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-77032",
+      "description": "Deine AufgabenDu entwickelst Backend-Systeme und Microservices mit Java, Python oder Node.js.Du designst und implementierst RESTful APIs.Du integrierst relationale und NoSQL-Datenbanken.Du sorgst für Skalierbarkeit, Sicherheit und Performance deiner Services in der Cloud, auch bei lastintensiven Pro",
+      "tags": [
+        "verhandlungssichere Deutschkenntnisse"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-05T11:09:54.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineer-data-platforms-berlin-hq-118332",
+      "title": "Engineer - Data & Platforms (m/f/d)",
+      "company": "Bitcap",
+      "location": "Berlin HQ",
+      "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-118332",
+      "description": "Your Role & How we workAs our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and altern",
+      "tags": [
+        "data engineering",
+        "aws",
+        "python",
+        "backend engineering",
+        "data quality",
+        "sql",
+        "snowflake",
+        "databricks"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-05T08:09:37.000Z",
       "source": "Arbeitnow"
     },
     {
