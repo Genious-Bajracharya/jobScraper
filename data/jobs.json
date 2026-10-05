@@ -1,55 +1,34 @@
 {
-  "updatedAt": "2026-10-05T13:24:24.670Z",
-  "total": 22,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-10-05T23:37:57.872Z",
+  "total": 19,
+  "newSinceLastRun": 2,
   "jobs": [
     {
-      "id": "arbeitnow-software-developer-schwerpunkt-angular-nuremberg-56674",
-      "title": "Software Developer (m/w/d) - Schwerpunkt Angular",
-      "company": "isento GmbH",
-      "location": "Nuremberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-56674",
-      "description": "Deine Rolle\nKomplexe Prozesse so in ein Frontend zu gießen, dass die Bedienung fast schon intuitiv Spaß macht – genau darum geht es bei uns. Als Software Developer mit Schwerpunkt Angular bist Du die treibende Kraft dafür, dass unsere Webanwendungen nicht nur technisch sauber ticken, sondern auch im",
+      "id": "jobicy-154594",
+      "title": "1146 - Fullstack Engineer",
+      "company": "GoFasti",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/154594-1146-fullstack-engineer",
+      "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-proficient Mid Level Fullstack Engineer, based in LatAm, ",
       "tags": [
-        "Software Development"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-05T11:30:33.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-10-05T13:52:57+00:00",
+      "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-77032",
-      "title": "Software Engineer Backend / KI (m/w/d) - verhandlungssicheres Deutsch erforderlich",
-      "company": "Intrafind Software Ag",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/intrafind-software-ag/software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-77032",
-      "description": "Deine AufgabenDu entwickelst Backend-Systeme und Microservices mit Java, Python oder Node.js.Du designst und implementierst RESTful APIs.Du integrierst relationale und NoSQL-Datenbanken.Du sorgst für Skalierbarkeit, Sicherheit und Performance deiner Services in der Cloud, auch bei lastintensiven Pro",
+      "id": "arbeitnow-software-engineer-backend-agent-select-london-333907",
+      "title": "Software Engineer (Backend) - Agent Select",
+      "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/software-engineer-backend-agent-select-london-333907",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 4, 67);&quot;&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://www.rightmove.co.uk/careers/content/uploads/2026/09/Untitled-30-July-2026-at-10.03.05-3-8.png&quot; alt=&",
       "tags": [
-        "verhandlungssichere Deutschkenntnisse"
+        "Back-end"
       ],
       "salary": null,
-      "postedAt": "2026-10-05T11:09:54.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-engineer-data-platforms-berlin-hq-118332",
-      "title": "Engineer - Data & Platforms (m/f/d)",
-      "company": "Bitcap",
-      "location": "Berlin HQ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-118332",
-      "description": "Your Role & How we workAs our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and altern",
-      "tags": [
-        "data engineering",
-        "aws",
-        "python",
-        "backend engineering",
-        "data quality",
-        "sql",
-        "snowflake",
-        "databricks"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-05T08:09:37.000Z",
+      "postedAt": "2026-10-05T12:55:12.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -123,22 +102,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-junior-backend-developer-c-net-paris-113660",
-      "title": "Junior Backend Developer, C# .Net - Paris",
-      "company": "shifttechnology",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/junior-backend-developer-c-net-paris-113660",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resources, Shift provides pr",
-      "tags": [
-        "Technology - Software Engineering",
-        "Infrastructure",
-        "and Security"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-03T13:55:23.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-154447",
       "title": "Backend Engineer",
       "company": "Catawiki",
@@ -164,20 +127,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-03T08:40:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-java-backend-entwickler-luzern-95490",
-      "title": "Java Backend Entwickler",
-      "company": "Callista Group AG",
-      "location": "Luzern, Luzern, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
-      "description": "Für den Neubau eines Vollprüfsystems für Kostengutsprachen bei einem Kunden in einem Versicherungsunternehmen suchen wir einen Senior Backend Software Engineer. Das neue System soll der steigenden Anzahl und Komplexität von Gesuchen um Kostenübernahme gerecht werden. Als Teil eines neu zusammengeste",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-02T05:30:09.000Z",
       "source": "Arbeitnow"
     },
     {
