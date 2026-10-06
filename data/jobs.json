@@ -1,8 +1,84 @@
 {
-  "updatedAt": "2026-10-05T23:37:57.872Z",
-  "total": 19,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-10-06T04:30:07.172Z",
+  "total": 23,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-stage-junior-fullstack-engineer-jobexit-paris-140565",
+      "title": "STAGE - Junior Fullstack Engineer - Jobexit",
+      "company": "Doctrine",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-jobexit-paris-140565",
+      "description": "Notre mission ⚖️\n\nChez Doctrine, nous construisons le leader de l’IA juridique en Europe.\nNotre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement juridique avec un haut",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T01:25:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-fullstack-developer-hamburg-27740",
+      "title": "Junior Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-27740",
+      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-05T23:09:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-hamburg-387687",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-387687",
+      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-05T23:09:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-core-team-hamburg-55221",
+      "title": "Engineering Manager (m/w/d) – Core Team",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-55221",
+      "description": "Deine AufgabenWir bauen die Software, mit der Mieterstromprojekte laufen: Zählerdaten rein, Abrechnung raus, und alles dazwischen. Das Core Team verantwortet das Betreiberportal, das Produkt, auf dem der laufende Betrieb unserer Kunden steht. Es ist unser fachlich tiefstes Team, und es wächst.Das Be",
+      "tags": [
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Core Team",
+        "Energiewirtschaft",
+        "Django",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-05T23:09:39.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "jobicy-154594",
       "title": "1146 - Fullstack Engineer",
