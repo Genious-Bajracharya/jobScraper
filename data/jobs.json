@@ -1,35 +1,49 @@
 {
-  "updatedAt": "2026-10-06T12:38:20.137Z",
-  "total": 22,
+  "updatedAt": "2026-10-06T22:12:16.912Z",
+  "total": 17,
   "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-420550",
-      "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
-      "company": "primion Technology GmbH",
-      "location": "Remote job",
-      "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-420550",
-      "description": "Protect what matters.&nbsp;Primion Technology is a global solution provider and market leader in Converged Security Solutions and Workforce Management.&nbsp;For more than 30 years, we have supported around 4,000 satisfied customers worldwide who rely on our certified solutions every day. From consul",
+      "id": "arbeitnow-backend-engineer-platform-security-london-378536",
+      "title": "Backend Engineer - Platform Security",
+      "company": "Spotify",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/backend-engineer-platform-security-london-378536",
+      "description": "\nThe Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities nee",
       "tags": [
-        "R&D​",
-        "Remote"
+        "Platform"
       ],
       "salary": null,
-      "postedAt": "2026-10-06T08:30:19.000Z",
+      "postedAt": "2026-10-06T18:24:20.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-engineer-repeats-london-228278",
-      "title": "Backend Engineer - Repeats",
-      "company": "iwoca",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-repeats-london-228278",
-      "description": "Backend Engineer - RepeatsHybrid in London, United Kingdom (At least one day in office per week)We're looking for a backend engineer to join the Repeats team.You will work on the services that decide which repeat customers get a loan, at what price, and how much they can borrow. These sit at the hea",
+      "id": "jobicy-154726",
+      "title": "Backend Engineer, Core Technology",
+      "company": "Stripe",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154726-backend-engineer-core-technology",
+      "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the",
       "tags": [
-        "Software Engineering and Tech"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-06T03:40:11.000Z",
+      "postedAt": "2026-10-06T17:32:38+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
+      "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
+      "company": "Pipebuilders",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
+      "description": "Pipebuilders ist die erste Recruiting-Agentur Deutschlands für GTM Engineers. Für Startups und GTM-Agenturen besetzen wir Stellen für die AI-GTM-Talente von morgen. Als Consultative Recruiter arbeiten wir mit einem AI-Backend und einem Human-Frontend. Egal ob für diese Stelle oder erst nächstes Jahr",
+      "tags": [
+        "Remote",
+        "Business Operations"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T16:01:11.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -96,48 +110,6 @@
       "source": "Remotive"
     },
     {
-      "id": "arbeitnow-customer-care-team-lead-paris-289034",
-      "title": "Customer Care Team Lead",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-289034",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "Operations"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T16:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-customer-care-specialist-paris-309097",
-      "title": "Customer Care Specialist",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-309097",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "Operations"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T16:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developpeur-full-stack-js-lyon-212212",
-      "title": "Développeur Full Stack JS",
-      "company": "Arkane Cloud",
-      "location": "Lyon",
-      "url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/developpeur-full-stack-js-lyon-212212",
-      "description": "Demain, notre console recevra des milliards de requêtes. Votre mission : faire en sorte qu’elle tienne, et qu’elle reste rapide. Arkane Cloud crée un poste de Développeur Full Stack, à 80 % back-end, pour bâtir une plateforme taillée pour la charge. Notre sociétéArkane Cloud est un Cloud Service Pro",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T16:40:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-152499",
       "title": "Backend Engineer III",
       "company": "Monzo",
@@ -150,48 +122,6 @@
       "salary": null,
       "postedAt": "2026-10-04T04:35:17+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-154461",
-      "title": "PHP & React Software Engineer",
-      "company": "Enumerate",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
-      "description": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our exis",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-03T14:58:34+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-154447",
-      "title": "Backend Engineer",
-      "company": "Catawiki",
-      "location": "Netherlands",
-      "url": "https://jobicy.com/jobs/154447-backend-engineer-3",
-      "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each w",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-03T13:52:18+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-software-engineer-command-centre-frontend-ui-ux-zurich-339034",
-      "title": "Software Engineer, Command Centre (Frontend & UI/UX)",
-      "company": "Laelaps",
-      "location": "Zürich, Switzerland",
-      "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-command-centre-frontend-ui-ux-zurich-339034",
-      "description": "Our MissionAt Laelaps AI, we believe robotics is entering a transformative decade, much like the arrival of the internet. Advances in AI, cloud computing, and hardware are reshaping what autonomous systems can do. Our mission is to build the intelligent software that powers physical security in the ",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-03T08:40:06.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1137420",
