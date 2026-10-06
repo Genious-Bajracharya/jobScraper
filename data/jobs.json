@@ -1,8 +1,37 @@
 {
-  "updatedAt": "2026-10-06T04:30:07.172Z",
-  "total": 23,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-06T12:38:20.137Z",
+  "total": 22,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-fullstack-developer-system-modernization-strategic-delivery-420550",
+      "title": "Fullstack Developer (m/f/d) System Modernization & Strategic Delivery",
+      "company": "primion Technology GmbH",
+      "location": "Remote job",
+      "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/remote-fullstack-developer-system-modernization-strategic-delivery-420550",
+      "description": "Protect what matters.&nbsp;Primion Technology is a global solution provider and market leader in Converged Security Solutions and Workforce Management.&nbsp;For more than 30 years, we have supported around 4,000 satisfied customers worldwide who rely on our certified solutions every day. From consul",
+      "tags": [
+        "R&D​",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T08:30:19.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-repeats-london-228278",
+      "title": "Backend Engineer - Repeats",
+      "company": "iwoca",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/backend-engineer-repeats-london-228278",
+      "description": "Backend Engineer - RepeatsHybrid in London, United Kingdom (At least one day in office per week)We're looking for a backend engineer to join the Repeats team.You will work on the services that decide which repeat customers get a loan, at what price, and how much they can borrow. These sit at the hea",
+      "tags": [
+        "Software Engineering and Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T03:40:11.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-stage-junior-fullstack-engineer-jobexit-paris-140565",
       "title": "STAGE - Junior Fullstack Engineer - Jobexit",
@@ -15,68 +44,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-06T01:25:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-fullstack-developer-hamburg-27740",
-      "title": "Junior Fullstack Developer (m/w/d)",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-27740",
-      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
-      "tags": [
-        "ScaleUp",
-        "StartUp",
-        "Mieterstrom",
-        "Tenant Electricity",
-        "Software",
-        "Engineering",
-        "Entwickler",
-        "Fullstack"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-05T23:09:39.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-hamburg-387687",
-      "title": "Fullstack Developer (m/w/d)",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-387687",
-      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
-      "tags": [
-        "ScaleUp",
-        "StartUp",
-        "Mieterstrom",
-        "Tenant Electricity",
-        "Software",
-        "Engineering",
-        "Entwickler",
-        "Fullstack"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-05T23:09:39.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-core-team-hamburg-55221",
-      "title": "Engineering Manager (m/w/d) – Core Team",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-55221",
-      "description": "Deine AufgabenWir bauen die Software, mit der Mieterstromprojekte laufen: Zählerdaten rein, Abrechnung raus, und alles dazwischen. Das Core Team verantwortet das Betreiberportal, das Produkt, auf dem der laufende Betrieb unserer Kunden steht. Es ist unser fachlich tiefstes Team, und es wächst.Das Be",
-      "tags": [
-        "Mieterstrom",
-        "Tenant Electricity",
-        "Software",
-        "Core Team",
-        "Energiewirtschaft",
-        "Django",
-        "React"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-05T23:09:39.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -94,18 +61,39 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-software-engineer-backend-agent-select-london-333907",
-      "title": "Software Engineer (Backend) - Agent Select",
-      "company": "Legal Counsel - 12 month FTC at Rightmove Greenhouse",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/software-engineer-backend-agent-select-london-333907",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;color: rgb(0, 4, 67);&quot;&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://www.rightmove.co.uk/careers/content/uploads/2026/09/Untitled-30-July-2026-at-10.03.05-3-8.png&quot; alt=&",
+      "id": "remotive-2091149",
+      "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+      "company": "CodeForAI",
+      "location": "USA, UK, India, Australia, Ireland, New Zealand, Philippines, Pakistan, Singapore, Mexico",
+      "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149",
+      "description": "Who Should Apply\n \nWe are looking for developers from all technical backgrounds and language specializations. If you write clean code and understand software design, you are a fit:\n\n\nSoftware Engineers &amp; Computer Scientists specializing in algorithms, data structures, or system design.\n\n\nFull-St",
       "tags": [
-        "Back-end"
+        "api",
+        "backend",
+        "C",
+        "C#",
+        "C++",
+        "fullstack",
+        "go",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "security",
+        "sql",
+        "AI/ML",
+        "rust",
+        "NoSQL",
+        "Typescript ",
+        "debugging",
+        "scripting"
       ],
-      "salary": null,
-      "postedAt": "2026-10-05T12:55:12.000Z",
-      "source": "Arbeitnow"
+      "salary": "$45-$120/Hour",
+      "postedAt": "2026-10-05T05:15:43",
+      "source": "Remotive"
     },
     {
       "id": "arbeitnow-customer-care-team-lead-paris-289034",
