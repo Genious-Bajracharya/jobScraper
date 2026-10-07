@@ -1,18 +1,48 @@
 {
-  "updatedAt": "2026-10-07T03:56:04.656Z",
-  "total": 21,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-10-07T12:31:40.634Z",
+  "total": 19,
+  "newSinceLastRun": 3,
   "jobs": [
     {
-      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-196288",
-      "title": "Junior Full Stack Developer (All Genders)",
-      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
-      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
+      "id": "arbeitnow-junior-software-developer-munchen-239023",
+      "title": "Junior Software Developer - (m/w/d)",
+      "company": "HanseSecure GmbH",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-239023",
+      "description": "Backend, APIs, Automatisierung &amp; interne ToolsWir entwickeln interne Tools, API-Integrationen und Automatisierungen für IT-Security- und Beratungsprozesse.Dabei geht es nicht um Demo-Projekte oder Software für die Schublade, sondern um Lösungen, die im Alltag funktionieren: Daten verarbeiten, Sy",
+      "tags": [
+        "Internet and software",
+        "high school or equivalent"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-07T09:20:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-232578",
+      "title": "Platform Boosters - Backend Engineer (m/w/d)",
+      "company": "shopware AG",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
+      "description": "Shopware ist ein führendes E-Commerce-System, das Unternehmen weltweit dabei unterstützt, im digitalen Handel schnell und effizient zu skalieren. Als wegweisende Open-Source-Lösung wird Shopware bereits von einigen der größten europäischen Marken, Händlern und Herstellern im B2C- und B2B-Umfeld eing",
+      "tags": [
+        "Product",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-07T08:30:29.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-ai-infrastructure-platform-heidelberg-ger-191481",
+      "title": "Frontend Engineer — AI Infrastructure Platform",
+      "company": "Turbalance",
+      "location": "Heidelberg, GER",
+      "url": "https://www.arbeitnow.com/jobs/companies/turbalance/frontend-engineer-ai-infrastructure-platform-heidelberg-ger-191481",
+      "description": "Your profileWe are looking for a Senior Frontend Engineer to build the frontend of our AI infrastructure platform. Clients use our platform to access and operate two technical products, and the role is to make those products understandable, reliable, and powerful through high-quality frontend engine",
       "tags": [],
       "salary": null,
-      "postedAt": "2026-10-07T02:09:47.000Z",
+      "postedAt": "2026-10-07T08:09:59.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -27,26 +57,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-06T23:40:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-stuttgart-331661",
-      "title": "Full Stack Developer (m/w/d)",
-      "company": "Dehoga Baden-Württemberg",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-331661",
-      "description": "Wir suchenFür das Team Digitale Services an unserem Standort Stuttgart suchen wir einen Full Stack Developer (m/w/d) mit Schwerpunkt Web. Gemeinsam arbeiten wir an zahlreichen digitalen Projekten für den DEHOGA Baden-Württemberg. Hierzu gehören insbesondere der Aufbau einer modernen IT-Software-Land",
-      "tags": [
-        "Informatik",
-        "Entwickler",
-        "Projektmanagement",
-        "Programmieren",
-        "Skriptsprache",
-        "Webframework",
-        "Front- und Backend"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T23:09:54.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -75,20 +85,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-06T22:40:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-expression-of-interest-london-292199",
-      "title": "Expression of Interest",
-      "company": "Cosine",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cosine/expression-of-interest-london-292199",
-      "description": "Expression of Interest — Join CosineLondon, UKAbout CosineCosine is a UK-based AI lab building autonomous software engineering systems for organisations where reliability, security and control matter most. We develop the models, agent tooling, infrastructure and products that enable AI to tackle com",
-      "tags": [
-        "EOI"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T21:40:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -153,34 +149,6 @@
       "salary": "$45-$120/Hour",
       "postedAt": "2026-10-05T05:15:43",
       "source": "Remotive"
-    },
-    {
-      "id": "jobicy-152499",
-      "title": "Backend Engineer III",
-      "company": "Monzo",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/152499-backend-engineer-iii",
-      "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-04T04:35:17+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-154461",
-      "title": "PHP & React Software Engineer",
-      "company": "Enumerate",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
-      "description": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our exis",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-03T14:58:34+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remoteok-1137420",
