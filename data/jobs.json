@@ -1,48 +1,73 @@
 {
-  "updatedAt": "2026-10-07T12:31:40.634Z",
-  "total": 19,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-10-07T22:33:46.315Z",
+  "total": 18,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-junior-software-developer-munchen-239023",
-      "title": "Junior Software Developer - (m/w/d)",
-      "company": "HanseSecure GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/hansesecure-gmbh/junior-software-developer-munchen-239023",
-      "description": "Backend, APIs, Automatisierung &amp; interne ToolsWir entwickeln interne Tools, API-Integrationen und Automatisierungen für IT-Security- und Beratungsprozesse.Dabei geht es nicht um Demo-Projekte oder Software für die Schublade, sondern um Lösungen, die im Alltag funktionieren: Daten verarbeiten, Sy",
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-312986",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-312986",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
       "tags": [
-        "Internet and software",
-        "high school or equivalent"
+        "Engineering & Product"
       ],
       "salary": null,
-      "postedAt": "2026-10-07T09:20:11.000Z",
+      "postedAt": "2026-10-07T20:40:03.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-232578",
-      "title": "Platform Boosters - Backend Engineer (m/w/d)",
-      "company": "shopware AG",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-platform-boosters-backend-engineer-berlin-232578",
-      "description": "Shopware ist ein führendes E-Commerce-System, das Unternehmen weltweit dabei unterstützt, im digitalen Handel schnell und effizient zu skalieren. Als wegweisende Open-Source-Lösung wird Shopware bereits von einigen der größten europäischen Marken, Händlern und Herstellern im B2C- und B2B-Umfeld eing",
+      "id": "arbeitnow-full-stack-software-engineer-london-gb-431160",
+      "title": "Full Stack Software Engineer",
+      "company": "Octopus Energy Group",
+      "location": "London (GB)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/full-stack-software-engineer-london-gb-431160",
+      "description": "What we do. Electric Car Leasing Why we do it. Greener. Fairer. Future.We’re looking for a Senior Fullstack Software Engineer (Python and React) to join our product and engineering team building the systems that power our ability to revolutionize the electric car leasing industry.&nbsp;\n&nbsp;\nOur t",
       "tags": [
-        "Product",
-        "Remote"
+        "Product & Technology"
       ],
       "salary": null,
-      "postedAt": "2026-10-07T08:30:29.000Z",
+      "postedAt": "2026-10-07T18:05:03.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-frontend-engineer-ai-infrastructure-platform-heidelberg-ger-191481",
-      "title": "Frontend Engineer — AI Infrastructure Platform",
-      "company": "Turbalance",
-      "location": "Heidelberg, GER",
-      "url": "https://www.arbeitnow.com/jobs/companies/turbalance/frontend-engineer-ai-infrastructure-platform-heidelberg-ger-191481",
-      "description": "Your profileWe are looking for a Senior Frontend Engineer to build the frontend of our AI infrastructure platform. Clients use our platform to access and operate two technical products, and the role is to make those products understandable, reliable, and powerful through high-quality frontend engine",
-      "tags": [],
+      "id": "arbeitnow-full-stack-developer-germany-munich-93633",
+      "title": "Full Stack Developer",
+      "company": "Bookboost",
+      "location": "Germany - Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/bookboost/full-stack-developer-germany-munich-93633",
+      "description": "Your missionBookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.We have customers acros",
+      "tags": [
+        "SaaS",
+        "Hospitlaity tech",
+        "developer",
+        "engineer",
+        "full stack"
+      ],
       "salary": null,
-      "postedAt": "2026-10-07T08:09:59.000Z",
+      "postedAt": "2026-10-07T17:09:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-softwareentwickler-frontend-angular-nurnberg-181894",
+      "title": "Softwareentwickler Frontend / Angular (m/w/d)",
+      "company": "Allgeier Inovar Gmbh",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/allgeier-inovar-gmbh/softwareentwickler-frontend-angular-nurnberg-181894",
+      "description": "Unser Set-UpDu möchtest nicht nur bestehenden Code weiterentwickeln, sondern auch technisch mitgestalten und eigene Ideen einbringen?Dann werde Teil unseres Entwicklerteams und arbeite an den Webclients unserer Digitalisierungsplattform metasonic®.Dein Schwerpunkt liegt auf der Entwicklung neuer Web",
+      "tags": [
+        "Angular",
+        "JavaScript",
+        "Frontend",
+        "Webclients",
+        "Softwarearchitektur",
+        "Scrum",
+        "KI",
+        "Produktentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-07T17:09:21.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -57,34 +82,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-06T23:40:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-backend-paris-148559",
-      "title": "Product Engineer (Backend)",
-      "company": "Npv",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/npv/product-engineer-backend-paris-148559",
-      "description": "We're looking for a Product Engineer, Backend (Rust) to join White Circle, an AI Safety company building the safety, reliability, and optimization layer for AI systems through natural-language policies it automatically tests, enforces, and improves at scale. Backed by $70M (Series A) from top funds ",
-      "tags": [
-        "White Circle"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T22:40:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-typescript-platform-paris-243332",
-      "title": "Software Engineer (TypeScript) - Platform",
-      "company": "Vocca",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/software-engineer-typescript-platform-paris-243332",
-      "description": "Our team shared’s mission is deploy AI agents to transform how patients and doctors connectWe believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and professionals deserve better.Vocca builds AI voice agents that answer every call instantly",
-      "tags": [
-        "Product & Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T22:40:08.000Z",
       "source": "Arbeitnow"
     },
     {
