@@ -1,20 +1,94 @@
 {
-  "updatedAt": "2026-10-06T22:12:16.912Z",
-  "total": 17,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-10-07T03:56:04.656Z",
+  "total": 21,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-backend-engineer-platform-security-london-378536",
-      "title": "Backend Engineer - Platform Security",
-      "company": "Spotify",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/backend-engineer-platform-security-london-378536",
-      "description": "\nThe Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities nee",
+      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-196288",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-196288",
+      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-07T02:09:47.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-research-engineer-zurich-413492",
+      "title": "Research Engineer (m/f/d)",
+      "company": "Sereact GmbH",
+      "location": "Zurich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-413492",
+      "description": "Research Engineer, Manipulation Data &amp; Teleoperation — ZurichThis role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub.About SereactSereact is a Series B embodied-AI company. Cort",
       "tags": [
-        "Platform"
+        "Software"
       ],
       "salary": null,
-      "postedAt": "2026-10-06T18:24:20.000Z",
+      "postedAt": "2026-10-06T23:40:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-stuttgart-331661",
+      "title": "Full Stack Developer (m/w/d)",
+      "company": "Dehoga Baden-Württemberg",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/dehoga-baden-wurttemberg/full-stack-developer-stuttgart-331661",
+      "description": "Wir suchenFür das Team Digitale Services an unserem Standort Stuttgart suchen wir einen Full Stack Developer (m/w/d) mit Schwerpunkt Web. Gemeinsam arbeiten wir an zahlreichen digitalen Projekten für den DEHOGA Baden-Württemberg. Hierzu gehören insbesondere der Aufbau einer modernen IT-Software-Land",
+      "tags": [
+        "Informatik",
+        "Entwickler",
+        "Projektmanagement",
+        "Programmieren",
+        "Skriptsprache",
+        "Webframework",
+        "Front- und Backend"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T23:09:54.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-backend-paris-148559",
+      "title": "Product Engineer (Backend)",
+      "company": "Npv",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/npv/product-engineer-backend-paris-148559",
+      "description": "We're looking for a Product Engineer, Backend (Rust) to join White Circle, an AI Safety company building the safety, reliability, and optimization layer for AI systems through natural-language policies it automatically tests, enforces, and improves at scale. Backed by $70M (Series A) from top funds ",
+      "tags": [
+        "White Circle"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T22:40:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-typescript-platform-paris-243332",
+      "title": "Software Engineer (TypeScript) - Platform",
+      "company": "Vocca",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/vocca/software-engineer-typescript-platform-paris-243332",
+      "description": "Our team shared’s mission is deploy AI agents to transform how patients and doctors connectWe believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and professionals deserve better.Vocca builds AI voice agents that answer every call instantly",
+      "tags": [
+        "Product & Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T22:40:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-expression-of-interest-london-292199",
+      "title": "Expression of Interest",
+      "company": "Cosine",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cosine/expression-of-interest-london-292199",
+      "description": "Expression of Interest — Join CosineLondon, UKAbout CosineCosine is a UK-based AI lab building autonomous software engineering systems for organisations where reliability, security and control matter most. We develop the models, agent tooling, infrastructure and products that enable AI to tackle com",
+      "tags": [
+        "EOI"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-06T21:40:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -30,35 +104,6 @@
       "salary": null,
       "postedAt": "2026-10-06T17:32:38+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
-      "title": "Junior GTM Engineer - Deutsch C1 - 100% remote",
-      "company": "Pipebuilders",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/pipebuilders/junior-gtm-engineer-deutsch-c1-100-remote-munchen-145031",
-      "description": "Pipebuilders ist die erste Recruiting-Agentur Deutschlands für GTM Engineers. Für Startups und GTM-Agenturen besetzen wir Stellen für die AI-GTM-Talente von morgen. Als Consultative Recruiter arbeiten wir mit einem AI-Backend und einem Human-Frontend. Egal ob für diese Stelle oder erst nächstes Jahr",
-      "tags": [
-        "Remote",
-        "Business Operations"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T16:01:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-stage-junior-fullstack-engineer-jobexit-paris-140565",
-      "title": "STAGE - Junior Fullstack Engineer - Jobexit",
-      "company": "Doctrine",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/stage-junior-fullstack-engineer-jobexit-paris-140565",
-      "description": "Notre mission ⚖️\n\nChez Doctrine, nous construisons le leader de l’IA juridique en Europe.\nNotre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement juridique avec un haut",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T01:25:05.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-154594",
@@ -121,6 +166,20 @@
       ],
       "salary": null,
       "postedAt": "2026-10-04T04:35:17+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-154461",
+      "title": "PHP & React Software Engineer",
+      "company": "Enumerate",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/154461-php-react-software-engineer",
+      "description": "Enumerate is seeking a PHP &amp; React Software Engineer to help modernize our core product and platform systems across our software and payments ecosystem. We're building a new mobile application on PHP and React Native, and we're looking for an engineer who can help shape it while keeping our exis",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-03T14:58:34+00:00",
       "source": "Jobicy"
     },
     {
