@@ -1,102 +1,124 @@
 {
-  "updatedAt": "2026-10-08T04:09:12.744Z",
-  "total": 19,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-08T12:41:14.774Z",
+  "total": 21,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-fullstack-software-engineer-munchen-24903",
-      "title": "Fullstack Software Engineer (m/w/d)",
-      "company": "Rhein Nadel Automation Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-24903",
-      "description": "Wer wir sind  RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den ",
+      "id": "arbeitnow-frontend-ux-ui-engineer-dortmund-munster-46295",
+      "title": "Frontend / UX / UI Engineer (m/w/d)",
+      "company": "Its Gruppe",
+      "location": "Dortmund, Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/its-gruppe/frontend-ux-ui-engineer-dortmund-munster-46295",
+      "description": "Bei uns steht der Mensch im Mittelpunkt.Wir glauben fest daran, dass Vielfalt die Grundlage für Innovation und Erfolg ist. Deshalb fördern wir ein offenes, respektvolles Arbeitsumfeld, in dem sich jede Person unabhängig von Herkunft, Geschlecht, Alter, sexueller Orientierung oder individuellen Leben",
       "tags": [
-        "Python",
-        "Django",
-        "ORM-Tools",
-        "SQL",
-        "Javascript",
-        "React",
-        "Softwareentwickler",
-        "Software Developer",
-        "Prozessdigitalisierung",
-        "KI",
-        "Künstliche Intelligenz",
-        "AI",
-        "Physik-Simulationen",
-        "Docker"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T02:09:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-kotlin-java-berlin-38192",
-      "title": "Backend Engineer (m/f/d) - Kotlin / Java",
-      "company": "rebuy",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/rebuy/backend-engineer-kotlin-java-berlin-38192",
-      "description": "Ready to become part of the most important mission on this planet? We are rebuy, pioneers in the sustainable reuse of electronics and media, and we are looking for you! Our mission: to make circular living accessible to all, one transaction at a time. By giving products a second chance, we reduce re",
-      "tags": [
-        "Technology"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-07T23:30:19.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-engineer-developer-garbsen-390451",
-      "title": "Frontend Engineer, Developer (M/W/D)",
-      "company": "INSIDE M2M GmbH",
-      "location": "Garbsen, Niedersachsen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/frontend-engineer-developer-garbsen-390451",
-      "description": "Was wir tunAls IoT Pioniere entwickeln wir mit mittlerweile über 40 Kollegen*innen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 750.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausgestattet.Unsere Kompetenz liegt in der Ent",
-      "tags": [
-        "Entwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-07T23:30:19.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-44672",
-      "title": "Full-Stack Software Engineer (m/f/d)",
-      "company": "TWAICE",
-      "location": "Munich, Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-44672",
-      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
-      "tags": [
-        "Battery",
-        "Energy",
-        "SaaS",
-        "Backend",
         "Frontend",
-        "Startup",
-        "Tech",
-        "AWS",
-        "Batteries",
-        "Software Development",
-        "BESS",
-        "Green Energy",
-        "Energy Transition"
+        "UX",
+        "UI",
+        "Engineer",
+        "Designer*in",
+        "Web-Oberflächen",
+        "Münster",
+        "Dortmund",
+        "Softwareentwicklung"
       ],
       "salary": null,
-      "postedAt": "2026-10-07T23:09:26.000Z",
+      "postedAt": "2026-10-08T08:09:52.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-software-engineer-london-gb-431160",
-      "title": "Full Stack Software Engineer",
-      "company": "Octopus Energy Group",
-      "location": "London (GB)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/full-stack-software-engineer-london-gb-431160",
-      "description": "What we do. Electric Car Leasing Why we do it. Greener. Fairer. Future.We’re looking for a Senior Fullstack Software Engineer (Python and React) to join our product and engineering team building the systems that power our ability to revolutionize the electric car leasing industry.&nbsp;\n&nbsp;\nOur t",
+      "id": "arbeitnow-ai-software-development-consultant-stuttgart-hybrid-124521",
+      "title": "AI Software Development Consultant (m/w/d)",
+      "company": "Invensity Group",
+      "location": "Stuttgart (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/invensity-group/ai-software-development-consultant-stuttgart-hybrid-124521",
+      "description": "WelcomeDo you want to develop AI applications that make a real difference in our clients’ day-to-day work? As an international technology consultancy, we support our clients in developing innovative solutions – from the initial idea through to deployment.Your contribution: You develop AI-powered sof",
       "tags": [
-        "Product & Technology"
+        "Programming",
+        "Software Engineering",
+        "Testing",
+        "Matlab/Simulink",
+        "Python",
+        "Java",
+        "JavaScript",
+        "C++",
+        "C",
+        "Embedded Software"
       ],
       "salary": null,
-      "postedAt": "2026-10-07T18:05:03.000Z",
+      "postedAt": "2026-10-08T08:09:49.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-intern-6-months-327480",
+      "title": "Full stack Engineer Intern (6 months)",
+      "company": "shifttechnology",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/full-stack-engineer-intern-6-months-327480",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resources, Shift provides pr",
+      "tags": [
+        "Technology - Software Engineering",
+        "Infrastructure",
+        "and Security"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T07:55:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-backend-leaning-creativevoices-united-kingdom-269610",
+      "title": "Full-Stack Engineer (Backend Leaning) - CreativeVoices",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-backend-leaning-creativevoices-united-kingdom-269610",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T03:40:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-167706",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "Elevenlabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-167706",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T03:40:14.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-151461",
+      "title": "Product Engineer (Full Stack)",
+      "company": "Maze",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
+      "description": "Summary of the Role: As Product Engineer (Full Stack) at Maze, you'll be the technical force behind our customer-facing product experience, owning the complete stack from UI to API while moving at startup velocity. This is a unique opportunity to join as one of the early engineering team members of ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T03:35:26+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "jobicy-152707",
+      "title": "Fullstack Software Engineer - Core",
+      "company": "Dataiku",
+      "location": "France,  Germany,  Netherlands,  Spain,  UK",
+      "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
+      "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T03:30:21+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-research-engineer-zurich-413492",
