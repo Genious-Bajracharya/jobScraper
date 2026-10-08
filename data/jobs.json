@@ -1,95 +1,118 @@
 {
-  "updatedAt": "2026-10-08T12:41:14.774Z",
-  "total": 21,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-10-08T22:46:19.036Z",
+  "total": 22,
+  "newSinceLastRun": 8,
   "jobs": [
     {
-      "id": "arbeitnow-frontend-ux-ui-engineer-dortmund-munster-46295",
-      "title": "Frontend / UX / UI Engineer (m/w/d)",
-      "company": "Its Gruppe",
-      "location": "Dortmund, Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/its-gruppe/frontend-ux-ui-engineer-dortmund-munster-46295",
-      "description": "Bei uns steht der Mensch im Mittelpunkt.Wir glauben fest daran, dass Vielfalt die Grundlage für Innovation und Erfolg ist. Deshalb fördern wir ein offenes, respektvolles Arbeitsumfeld, in dem sich jede Person unabhängig von Herkunft, Geschlecht, Alter, sexueller Orientierung oder individuellen Leben",
+      "id": "arbeitnow-web-frontend-developer-all-genders-de-hamburg-363226",
+      "title": "Web Frontend Developer (all genders) DE",
+      "company": "BSI Software",
+      "location": "Hamburg, Hamburg, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-363226",
+      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung",
       "tags": [
-        "Frontend",
-        "UX",
-        "UI",
-        "Engineer",
-        "Designer*in",
-        "Web-Oberflächen",
-        "Münster",
-        "Dortmund",
-        "Softwareentwicklung"
+        "Produkt Entwicklung"
       ],
       "salary": null,
-      "postedAt": "2026-10-08T08:09:52.000Z",
+      "postedAt": "2026-10-08T20:51:10.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-ai-software-development-consultant-stuttgart-hybrid-124521",
-      "title": "AI Software Development Consultant (m/w/d)",
-      "company": "Invensity Group",
-      "location": "Stuttgart (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/invensity-group/ai-software-development-consultant-stuttgart-hybrid-124521",
-      "description": "WelcomeDo you want to develop AI applications that make a real difference in our clients’ day-to-day work? As an international technology consultancy, we support our clients in developing innovative solutions – from the initial idea through to deployment.Your contribution: You develop AI-powered sof",
-      "tags": [
-        "Programming",
-        "Software Engineering",
-        "Testing",
-        "Matlab/Simulink",
-        "Python",
-        "Java",
-        "JavaScript",
-        "C++",
-        "C",
-        "Embedded Software"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T08:09:49.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-intern-6-months-327480",
-      "title": "Full stack Engineer Intern (6 months)",
-      "company": "shifttechnology",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/full-stack-engineer-intern-6-months-327480",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resources, Shift provides pr",
-      "tags": [
-        "Technology - Software Engineering",
-        "Infrastructure",
-        "and Security"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T07:55:06.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-backend-leaning-creativevoices-united-kingdom-269610",
-      "title": "Full-Stack Engineer (Backend Leaning) - CreativeVoices",
-      "company": "Elevenlabs",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/full-stack-engineer-backend-leaning-creativevoices-united-kingdom-269610",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T03:40:14.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-167706",
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
       "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "Elevenlabs",
+      "company": "ElevenLabs",
       "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-167706",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
       "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
       "tags": [
         "Engineering & Product"
       ],
       "salary": null,
-      "postedAt": "2026-10-08T03:40:14.000Z",
+      "postedAt": "2026-10-08T20:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-154874",
+      "title": "QA Engineer (Anywhere in Europe)",
+      "company": "PadSplit",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
+      "description": "The Role We Need: PadSplit is hiring a QA Engineer to strengthen quality across our Marketplace pod, spanning Mobile (iOS/Android), Web, and backend Platform systems. As our product complexity increases, we need someone who can independently validate cross-platform user flows, reduce production risk",
+      "tags": [
+        "QA & Testing"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T19:08:01+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-commodities-united-kingdom-202132",
+      "title": "Backend Engineer - Commodities",
+      "company": "Kpler",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/backend-engineer-commodities-united-kingdom-202132",
+      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. \n&nbsp;\nSince our founding in 2014, we have",
+      "tags": [
+        "Engineering Commodities"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T18:05:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-full-stack-developer-leverkusen-431225",
+      "title": "Werkstudent Full Stack Developer (m/w/d)",
+      "company": "CURRENTA GRUPPE",
+      "location": "Leverkusen, Nordrhein-Westfalen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/currenta-gruppe/werkstudent-full-stack-developer-leverkusen-431225",
+      "description": "Die CURRENTA-Gruppe sucht Dich für die Business Line Analytik, Bildung &amp; Gesundheitsschutz.Als Werkstudent*in bist Du für folgende Aufgaben verantwortlich:Mitarbeit an spannenden Digitalisierungs- und Entwicklungsprojekten mit direktem Mehrwert für das UnternehmenEntwicklung und Weiterentwicklun",
+      "tags": [
+        "CUR - SIT - Analytik",
+        "Bildung & Gesundheitsschutz"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T17:30:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
+      "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
+      "company": "DEMV Systems Gmbh",
+      "location": "Homeoffice",
+      "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
+      "description": "Innerhalb des Teams gibt es folgende spannende Aufgaben:Weiterentwicklung unserer bestehenden, komplexen PHP-Anwendungen auf Basis von Symfony und LaravelIntegration externer SOAP- und REST-SchnittstellenKonzeption, Umsetzung und Dokumentation unserer eigenen REST-Schnittstellen via OpenAPIMitarbeit",
+      "tags": [
+        "IT",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T17:30:23.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developpeureuse-javascript-experimentee-lille-93668",
+      "title": "Développeur(euse) JavaScript expérimenté(e)",
+      "company": "SFEIR",
+      "location": "Lille",
+      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/developpeureuse-javascript-experimentee-lille-93668",
+      "description": "LILLE | AI-Native Group 🤖\nSharp Tech. Real Impact.\n🧠 Ce qu'on recherche chez toi\nTu n'as pas peur de :\n\n\nMaîtriser l'écosystème JavaScript moderne (React, Svelte, Node.js, Nest.js, Vue.js..),\n\n\nConcevoir des applications web à destination du grand public,\n\n\nArchitecturer des API REST robustes et d",
+      "tags": [
+        "Software"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T16:04:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-quality-training-manager-cergy-415802",
+      "title": "Quality & Training Manager",
+      "company": "Studapart",
+      "location": "Cergy, Val-d'Oise, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/studapart/quality-training-manager-cergy-415802",
+      "description": "We're on a mission to become the go-to destination for students across Europe to find a trusted home away from home. We make every step of the rental journey simple and seamless, so students can focus on what really matters: studying, exploring, and growing.\nWith HousingAnywhere, Kamernet, and Studa",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-08T15:45:32.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -135,34 +158,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "jobicy-154726",
-      "title": "Backend Engineer, Core Technology",
-      "company": "Stripe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154726-backend-engineer-core-technology",
-      "description": "Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T17:32:38+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-154594",
-      "title": "1146 - Fullstack Engineer",
-      "company": "GoFasti",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/154594-1146-fullstack-engineer",
-      "description": "We Make Remote Work Remarkable • TopTalent from LatAm Hello! We are GoFasti, a Talent-as-a-Service. GoFasti bridges the gap between world-class developers and designers from LatAm and first-class companies around the globe. We need an English-proficient Mid Level Fullstack Engineer, based in LatAm, ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-05T13:52:57+00:00",
-      "source": "Jobicy"
-    },
-    {
       "id": "remotive-2091149",
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "company": "CodeForAI",
@@ -198,11 +193,11 @@
       "source": "Remotive"
     },
     {
-      "id": "remoteok-1137420",
+      "id": "remoteok-1137410",
       "title": "Frontend Engineer",
       "company": "Bjak ",
-      "location": "Singapore",
-      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+      "location": "Ireland",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
       "description": "About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands",
       "tags": [
         "front end",
@@ -226,7 +221,7 @@
         "digital nomad"
       ],
       "salary": null,
-      "postedAt": "2026-09-23T00:00:04+00:00",
+      "postedAt": "2026-09-20T00:00:25+00:00",
       "source": "RemoteOK"
     },
     {
