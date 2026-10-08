@@ -1,20 +1,87 @@
 {
-  "updatedAt": "2026-10-07T22:33:46.315Z",
-  "total": 18,
+  "updatedAt": "2026-10-08T04:09:12.744Z",
+  "total": 19,
   "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-312986",
-      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-312986",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "id": "arbeitnow-fullstack-software-engineer-munchen-24903",
+      "title": "Fullstack Software Engineer (m/w/d)",
+      "company": "Rhein Nadel Automation Gmbh",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/rhein-nadel-automation-gmbh/fullstack-software-engineer-munchen-24903",
+      "description": "Wer wir sind  RNA Digital Solutions wurde 2016 als Industrial Tech Startup gegründet. Unsere Expertise liegt im Digitalen Maschinenbau und wir beschäftigen uns insbesondere mit der digitalen Auslegung und Herstellung automatisierter Zuführlösungen. In 2021 erfolgte der Anschluss des Startups an den ",
       "tags": [
-        "Engineering & Product"
+        "Python",
+        "Django",
+        "ORM-Tools",
+        "SQL",
+        "Javascript",
+        "React",
+        "Softwareentwickler",
+        "Software Developer",
+        "Prozessdigitalisierung",
+        "KI",
+        "Künstliche Intelligenz",
+        "AI",
+        "Physik-Simulationen",
+        "Docker"
       ],
       "salary": null,
-      "postedAt": "2026-10-07T20:40:03.000Z",
+      "postedAt": "2026-10-08T02:09:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-kotlin-java-berlin-38192",
+      "title": "Backend Engineer (m/f/d) - Kotlin / Java",
+      "company": "rebuy",
+      "location": "Berlin, Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/rebuy/backend-engineer-kotlin-java-berlin-38192",
+      "description": "Ready to become part of the most important mission on this planet? We are rebuy, pioneers in the sustainable reuse of electronics and media, and we are looking for you! Our mission: to make circular living accessible to all, one transaction at a time. By giving products a second chance, we reduce re",
+      "tags": [
+        "Technology"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-07T23:30:19.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-engineer-developer-garbsen-390451",
+      "title": "Frontend Engineer, Developer (M/W/D)",
+      "company": "INSIDE M2M GmbH",
+      "location": "Garbsen, Niedersachsen, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/frontend-engineer-developer-garbsen-390451",
+      "description": "Was wir tunAls IoT Pioniere entwickeln wir mit mittlerweile über 40 Kollegen*innen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 750.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausgestattet.Unsere Kompetenz liegt in der Ent",
+      "tags": [
+        "Entwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-07T23:30:19.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-44672",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-44672",
+      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "tags": [
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-07T23:09:26.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -29,45 +96,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-07T18:05:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-germany-munich-93633",
-      "title": "Full Stack Developer",
-      "company": "Bookboost",
-      "location": "Germany - Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bookboost/full-stack-developer-germany-munich-93633",
-      "description": "Your missionBookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.We have customers acros",
-      "tags": [
-        "SaaS",
-        "Hospitlaity tech",
-        "developer",
-        "engineer",
-        "full stack"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-07T17:09:48.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-softwareentwickler-frontend-angular-nurnberg-181894",
-      "title": "Softwareentwickler Frontend / Angular (m/w/d)",
-      "company": "Allgeier Inovar Gmbh",
-      "location": "Nürnberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/allgeier-inovar-gmbh/softwareentwickler-frontend-angular-nurnberg-181894",
-      "description": "Unser Set-UpDu möchtest nicht nur bestehenden Code weiterentwickeln, sondern auch technisch mitgestalten und eigene Ideen einbringen?Dann werde Teil unseres Entwicklerteams und arbeite an den Webclients unserer Digitalisierungsplattform metasonic®.Dein Schwerpunkt liegt auf der Entwicklung neuer Web",
-      "tags": [
-        "Angular",
-        "JavaScript",
-        "Frontend",
-        "Webclients",
-        "Softwarearchitektur",
-        "Scrum",
-        "KI",
-        "Produktentwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-07T17:09:21.000Z",
       "source": "Arbeitnow"
     },
     {
