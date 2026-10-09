@@ -1,20 +1,77 @@
 {
-  "updatedAt": "2026-10-08T22:46:19.036Z",
-  "total": 22,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-10-09T04:14:41.611Z",
+  "total": 21,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-web-frontend-developer-all-genders-de-hamburg-363226",
-      "title": "Web Frontend Developer (all genders) DE",
-      "company": "BSI Software",
-      "location": "Hamburg, Hamburg, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/bsi-software/web-frontend-developer-all-genders-de-hamburg-363226",
-      "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung",
+      "id": "arbeitnow-head-of-product-technology-ai-berlin-b-359435",
+      "title": "Head of Product & Technology (AI) (m/w/d)",
+      "company": "Piabo",
+      "location": "Berlin (B)",
+      "url": "https://www.arbeitnow.com/jobs/companies/piabo/head-of-product-technology-ai-berlin-b-359435",
+      "description": "Auf einen BlickArbeitsort: deutschlandweit oder in einem unserer Büros in München und BerlinArbeitsmodell: Remote deutschlandweit und zusätzlich bis zu drei Monate pro Jahr innerhalb Europas.Arbeitszeit: Vollzeit  Vertragsart: unbefristete FestanstellungVergütung: 120.000 - 150.000 Euro brutto pro J",
       "tags": [
-        "Produkt Entwicklung"
+        "Head of Product & Technology",
+        "AI Product Lead",
+        "AI Product Management",
+        "Technical Product Lead",
+        "Technical Product Management",
+        "Product Engineering",
+        "Applied AI",
+        "AI Engineering",
+        "Coding Agents",
+        "Technical Leadership",
+        "Python",
+        "IT Operations",
+        "TypeScript",
+        "Software Engineering",
+        "Product Owner"
       ],
       "salary": null,
-      "postedAt": "2026-10-08T20:51:10.000Z",
+      "postedAt": "2026-10-09T02:09:39.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
+      "title": "FullStack Software Engineer (Node.js / Vue.js)",
+      "company": "DiliTrust",
+      "location": "Paris - La Défense",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
+      "description": "Ready to be part of the Legal Tech revolution? Vision: As a leading software-as-a-service (SaaS) provider, Dilitrust is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate of ov",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T01:05:17.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-in-berlin-or-konstanz-305425",
+      "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
+      "company": "KNIME AG",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/knime-ag/full-stack-software-engineer-in-berlin-or-konstanz-305425",
+      "description": "MissionJoin KNIME in developing a state-of-the-art end-to-end AI and data science platform that helps thousands of professionals around the world to answer their data questions via one of the most reliable and transparent computation frameworks – KNIME workflows.Role OverviewAs a Full-Stack Software",
+      "tags": [
+        "full-stack",
+        "full stack",
+        "software engineering",
+        "software developement"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T23:29:07.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-maintenance-engineer-munich-42965",
+      "title": "Remote Maintenance Engineer",
+      "company": "Personal data collected as part of the application process",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/remote-maintenance-engineer-munich-42965",
+      "description": "About the roleGauss Fusion is aiming to build the first commercial scale fusion power plant based on the stellarator concept and is seeking an experienced mechanical engineer to lead on development of the robotic maintenance approach.The fusion environment within the reactor is very aggressive, and ",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-08T23:09:35.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -46,50 +103,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-backend-engineer-commodities-united-kingdom-202132",
-      "title": "Backend Engineer - Commodities",
-      "company": "Kpler",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/backend-engineer-commodities-united-kingdom-202132",
-      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. \n&nbsp;\nSince our founding in 2014, we have",
-      "tags": [
-        "Engineering Commodities"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T18:05:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudent-full-stack-developer-leverkusen-431225",
-      "title": "Werkstudent Full Stack Developer (m/w/d)",
-      "company": "CURRENTA GRUPPE",
-      "location": "Leverkusen, Nordrhein-Westfalen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/currenta-gruppe/werkstudent-full-stack-developer-leverkusen-431225",
-      "description": "Die CURRENTA-Gruppe sucht Dich für die Business Line Analytik, Bildung &amp; Gesundheitsschutz.Als Werkstudent*in bist Du für folgende Aufgaben verantwortlich:Mitarbeit an spannenden Digitalisierungs- und Entwicklungsprojekten mit direktem Mehrwert für das UnternehmenEntwicklung und Weiterentwicklun",
-      "tags": [
-        "CUR - SIT - Analytik",
-        "Bildung & Gesundheitsschutz"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T17:30:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
-      "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
-      "company": "DEMV Systems Gmbh",
-      "location": "Homeoffice",
-      "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-91987",
-      "description": "Innerhalb des Teams gibt es folgende spannende Aufgaben:Weiterentwicklung unserer bestehenden, komplexen PHP-Anwendungen auf Basis von Symfony und LaravelIntegration externer SOAP- und REST-SchnittstellenKonzeption, Umsetzung und Dokumentation unserer eigenen REST-Schnittstellen via OpenAPIMitarbeit",
-      "tags": [
-        "IT",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T17:30:23.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-developpeureuse-javascript-experimentee-lille-93668",
       "title": "Développeur(euse) JavaScript expérimenté(e)",
       "company": "SFEIR",
@@ -101,18 +114,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-08T16:04:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-quality-training-manager-cergy-415802",
-      "title": "Quality & Training Manager",
-      "company": "Studapart",
-      "location": "Cergy, Val-d'Oise, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/studapart/quality-training-manager-cergy-415802",
-      "description": "We're on a mission to become the go-to destination for students across Europe to find a trusted home away from home. We make every step of the rental journey simple and seamless, so students can focus on what really matters: studying, exploring, and growing.\nWith HousingAnywhere, Kamernet, and Studa",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-08T15:45:32.000Z",
       "source": "Arbeitnow"
     },
     {
