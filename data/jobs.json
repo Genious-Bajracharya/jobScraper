@@ -1,63 +1,134 @@
 {
-  "updatedAt": "2026-10-09T12:28:04.969Z",
-  "total": 22,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-10-09T22:09:08.893Z",
+  "total": 26,
+  "newSinceLastRun": 8,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-full-stack-backend-frontend-karlsruhe-461441",
-      "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
-      "company": "Prenode",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-461441",
-      "description": "Was wir bietenEine dynamische und ehrgeizige Umgebung, die dir eine steile Lernkurve und die Möglichkeit zum Wachstum garantiert.Eine flexible und moderne Arbeitskultur, die dir die Vorteile der heutigen digitalen Möglichkeiten und Tools bietet.Innovative Technologie und Herangehensweisen, die siche",
+      "id": "arbeitnow-ai-consultant-frankfurt-422512",
+      "title": "AI Consultant [m/w/d]",
+      "company": "GBC Group",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/gbc-group/ai-consultant-frankfurt-422512",
+      "description": "Wer wir sindDie GBC Group GmbH ist eine inhabergeführte IT-Unternehmensgruppe mit über 500 Mitarbeitenden an mehr als 10 Standorten in Deutschland. Nach dem Buy-and-Build-Prinzip vereinen wir 12 spezialisierte Tochtergesellschaften unter einem Dach, jede mit eigener Expertise und einer gemeinsamen V",
       "tags": [
-        "Typescript",
-        "Python",
-        "React",
-        "Angular",
-        "IIoT",
-        "KI",
         "AI",
-        "Azure",
-        "DevOps",
-        "Kubernetes",
-        "Terraform",
-        "Javascript",
-        "NodeJS",
-        "Full-Stack",
-        "Backend",
-        "Frontend",
-        "Docker",
-        "Event-Driven Architecture"
+        "KI",
+        "API",
+        "JSON",
+        "RAG",
+        "Agentic Workflows",
+        "Automatisierung",
+        "Python",
+        "JavaScript",
+        "LLM"
       ],
       "salary": null,
-      "postedAt": "2026-10-09T08:09:54.000Z",
+      "postedAt": "2026-10-09T20:09:54.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-remote-web-developer-all-genders-475933",
-      "title": "Web Developer (all genders)",
-      "company": "Contabo",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-475933",
-      "description": "Your creative fieldWe are looking for a full-time, permanent Web Developer (all genders) to start as soon as possible. We live remote-first within Germany, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.What make",
+      "id": "arbeitnow-software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
+      "title": "Software Engineer Backend / KI (m/w/d) - verhandlungssicheres Deutsch erforderlich",
+      "company": "Intrafind Software Ag",
+      "location": "München",
+      "url": "https://www.arbeitnow.com/jobs/companies/intrafind-software-ag/software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
+      "description": "Deine AufgabenDu entwickelst Backend-Systeme und Microservices mit Java, Python oder Node.js.Du designst und implementierst RESTful APIs.Du integrierst relationale und NoSQL-Datenbanken.Du sorgst für Skalierbarkeit, Sicherheit und Performance deiner Services in der Cloud, auch bei lastintensiven Pro",
       "tags": [
-        "Hosting",
-        "Hosting Company",
-        "IT",
-        "Tech Company",
-        "Tech",
-        "remote",
-        "hybrid",
-        "Software Development",
-        "Web Development",
-        "Data Center",
-        "Tech Stack",
-        "Developer",
-        "React"
+        "verhandlungssichere Deutschkenntnisse"
       ],
       "salary": null,
-      "postedAt": "2026-10-09T08:09:15.000Z",
+      "postedAt": "2026-10-09T20:09:27.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-data-factory-paris-paris-431050",
+      "title": "Full Stack Developer - Data Factory (f/m/d)",
+      "company": "Decathlontechnology",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-developer-data-factory-paris-paris-431050",
+      "description": "&lt;p&gt;&lt;strong&gt;L&#39;équipe Data Platform de DECATHLON recherche ses futur-e-s Développeur-se-s Full Stack basé·e·s à Lille/Paris.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.es Développeur·se·s&l",
+      "tags": [
+        "Data"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T19:55:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-142992",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-142992",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T19:40:02.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-119179",
+      "title": "Full Stack Engineer",
+      "company": "Lindus",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lindus/full-stack-engineer-london-119179",
+      "description": "🍊Our missionGreat science regularly stalls in the clinic,  not because the science is wrong, but because the company behind it lacks the capital, infrastructure, or focus to take it all the way through. Today’s clinical-stage biopharma model is broken, and as a result promising treatments never rea",
+      "tags": [
+        "Product and Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T18:40:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineer-data-platforms-berlin-hq-439123",
+      "title": "Engineer - Data & Platforms (m/f/d)",
+      "company": "Bitcap",
+      "location": "Berlin HQ",
+      "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-439123",
+      "description": "Your Role & How we workAs our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and altern",
+      "tags": [
+        "data engineering",
+        "aws",
+        "python",
+        "backend engineering",
+        "data quality",
+        "sql",
+        "snowflake",
+        "databricks"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T17:09:20.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-developer-munich-bavaria-439494",
+      "title": "Backend Developer",
+      "company": "Qwello.eu",
+      "location": "Munich, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/qwelloeu/backend-developer-munich-bavaria-439494",
+      "description": "Our mission at Qwello is to revolutionize the charging industry; we are committed to turning the world from combustion to electric. We design, build, and operate charging infrastructure for the public space. We excel in simplicity, user focus, and engineering excellence. We value diversity of though",
+      "tags": [
+        "Backend"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T17:04:57.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-ii-backend-london-51219",
+      "title": "Software Engineer-II  Backend",
+      "company": "Socure",
+      "location": "Hybrid - London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-51219",
+      "description": "Why Socure?Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every ",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T15:40:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -120,34 +191,6 @@
       "salary": null,
       "postedAt": "2026-10-09T02:55:10+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
-      "title": "FullStack Software Engineer (Node.js / Vue.js)",
-      "company": "DiliTrust",
-      "location": "Paris - La Défense",
-      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
-      "description": "Ready to be part of the Legal Tech revolution? Vision: As a leading software-as-a-service (SaaS) provider, Dilitrust is a global company dedicated to offering an integrated suite of legal and governance products. Our vision is to digitize legal departments worldwide. With an annual growth rate of ov",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T01:05:17.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
-      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T20:40:12.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-154874",
