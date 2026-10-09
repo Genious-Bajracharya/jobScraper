@@ -1,35 +1,125 @@
 {
-  "updatedAt": "2026-10-09T04:14:41.611Z",
-  "total": 21,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-09T12:28:04.969Z",
+  "total": 22,
+  "newSinceLastRun": 5,
   "jobs": [
     {
-      "id": "arbeitnow-head-of-product-technology-ai-berlin-b-359435",
-      "title": "Head of Product & Technology (AI) (m/w/d)",
-      "company": "Piabo",
-      "location": "Berlin (B)",
-      "url": "https://www.arbeitnow.com/jobs/companies/piabo/head-of-product-technology-ai-berlin-b-359435",
-      "description": "Auf einen BlickArbeitsort: deutschlandweit oder in einem unserer Büros in München und BerlinArbeitsmodell: Remote deutschlandweit und zusätzlich bis zu drei Monate pro Jahr innerhalb Europas.Arbeitszeit: Vollzeit  Vertragsart: unbefristete FestanstellungVergütung: 120.000 - 150.000 Euro brutto pro J",
+      "id": "arbeitnow-software-engineer-full-stack-backend-frontend-karlsruhe-461441",
+      "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
+      "company": "Prenode",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-461441",
+      "description": "Was wir bietenEine dynamische und ehrgeizige Umgebung, die dir eine steile Lernkurve und die Möglichkeit zum Wachstum garantiert.Eine flexible und moderne Arbeitskultur, die dir die Vorteile der heutigen digitalen Möglichkeiten und Tools bietet.Innovative Technologie und Herangehensweisen, die siche",
       "tags": [
-        "Head of Product & Technology",
-        "AI Product Lead",
-        "AI Product Management",
-        "Technical Product Lead",
-        "Technical Product Management",
-        "Product Engineering",
-        "Applied AI",
-        "AI Engineering",
-        "Coding Agents",
-        "Technical Leadership",
+        "Typescript",
         "Python",
-        "IT Operations",
-        "TypeScript",
-        "Software Engineering",
-        "Product Owner"
+        "React",
+        "Angular",
+        "IIoT",
+        "KI",
+        "AI",
+        "Azure",
+        "DevOps",
+        "Kubernetes",
+        "Terraform",
+        "Javascript",
+        "NodeJS",
+        "Full-Stack",
+        "Backend",
+        "Frontend",
+        "Docker",
+        "Event-Driven Architecture"
       ],
       "salary": null,
-      "postedAt": "2026-10-09T02:09:39.000Z",
+      "postedAt": "2026-10-09T08:09:54.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-web-developer-all-genders-475933",
+      "title": "Web Developer (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-475933",
+      "description": "Your creative fieldWe are looking for a full-time, permanent Web Developer (all genders) to start as soon as possible. We live remote-first within Germany, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.What make",
+      "tags": [
+        "Hosting",
+        "Hosting Company",
+        "IT",
+        "Tech Company",
+        "Tech",
+        "remote",
+        "hybrid",
+        "Software Development",
+        "Web Development",
+        "Data Center",
+        "Tech Stack",
+        "Developer",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T08:09:15.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-zurich-403786",
+      "title": "Full Stack Software Engineer",
+      "company": "Felfel",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/felfel/full-stack-software-engineer-zurich-403786",
+      "description": "IN SHORTAre you a versatile problem-solver who wants to write software that impacts the physical world? As a Full Stack Software Engineer (100%) in Zurich, you will be at the core of our operations, building systems that touch everything from warehouse automation to customer-facing smart fridges.YOU",
+      "tags": [
+        "Full-Stack Developer Zürich",
+        "Softwareentwickler Zürich",
+        "Kotlin Android Developer",
+        "Fullstack Entwickler",
+        "GraphQL",
+        "Logistics / Warehouse Software"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T08:09:11.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-mission-operations-services-toulouse-occitanie-204677",
+      "title": "Backend Engineer - Mission Operations Services",
+      "company": "Loftorbital",
+      "location": "Toulouse, Occitanie",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/backend-engineer-mission-operations-services-toulouse-occitanie-204677",
+      "description": "Loft Orbital is looking for a Backend Engineer to join our Mission Operations Services (MOS) team. MOS owns the backend services that let Loft operators and customers command, monitor, and automate our satellite fleet through Cockpit, our mission control system. You’ll help build and scale the micro",
+      "tags": [
+        "Cockpit"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T07:04:18.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-mobile-frontend-engineering-paris-55357",
+      "title": "Mobile frontend engineering",
+      "company": "Lucis",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/mobile-frontend-engineering-paris-55357",
+      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
+      "tags": [
+        "Product & tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T04:40:06.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152819",
+      "title": "Software Engineer, Data Integration",
+      "company": "Bayesian Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
+      "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engine",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T02:55:10+00:00",
+      "source": "Jobicy"
     },
     {
       "id": "arbeitnow-fullstack-software-engineer-nodejs-vuejs-paris-la-defense-182988",
@@ -43,35 +133,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-09T01:05:17.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-in-berlin-or-konstanz-305425",
-      "title": "Full-Stack Software Engineer (m/f/d) in Berlin or Konstanz",
-      "company": "KNIME AG",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/knime-ag/full-stack-software-engineer-in-berlin-or-konstanz-305425",
-      "description": "MissionJoin KNIME in developing a state-of-the-art end-to-end AI and data science platform that helps thousands of professionals around the world to answer their data questions via one of the most reliable and transparent computation frameworks – KNIME workflows.Role OverviewAs a Full-Stack Software",
-      "tags": [
-        "full-stack",
-        "full stack",
-        "software engineering",
-        "software developement"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T23:29:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-maintenance-engineer-munich-42965",
-      "title": "Remote Maintenance Engineer",
-      "company": "Personal data collected as part of the application process",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/personal-data-collected-as-part-of-the-application-process/remote-maintenance-engineer-munich-42965",
-      "description": "About the roleGauss Fusion is aiming to build the first commercial scale fusion power plant based on the stellarator concept and is seeking an experienced mechanical engineer to lead on development of the robotic maintenance approach.The fusion environment within the reactor is very aggressive, and ",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-08T23:09:35.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -103,20 +164,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-developpeureuse-javascript-experimentee-lille-93668",
-      "title": "Développeur(euse) JavaScript expérimenté(e)",
-      "company": "SFEIR",
-      "location": "Lille",
-      "url": "https://www.arbeitnow.fr/jobs/companies/sfeir/developpeureuse-javascript-experimentee-lille-93668",
-      "description": "LILLE | AI-Native Group 🤖\nSharp Tech. Real Impact.\n🧠 Ce qu'on recherche chez toi\nTu n'as pas peur de :\n\n\nMaîtriser l'écosystème JavaScript moderne (React, Svelte, Node.js, Nest.js, Vue.js..),\n\n\nConcevoir des applications web à destination du grand public,\n\n\nArchitecturer des API REST robustes et d",
-      "tags": [
-        "Software"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T16:04:05.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-151461",
       "title": "Product Engineer (Full Stack)",
       "company": "Maze",
@@ -143,20 +190,6 @@
       "salary": null,
       "postedAt": "2026-10-08T03:30:21+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-research-engineer-zurich-413492",
-      "title": "Research Engineer (m/f/d)",
-      "company": "Sereact GmbH",
-      "location": "Zurich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/sereact-gmbh/research-engineer-zurich-413492",
-      "description": "Research Engineer, Manipulation Data &amp; Teleoperation — ZurichThis role owns the data generation layer of Sereact's VLA stack: teleoperation systems and data collection infrastructure that feed Cortex, built from our Zurich research hub.About SereactSereact is a Series B embodied-AI company. Cort",
-      "tags": [
-        "Software"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-06T23:40:14.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remotive-2091149",
