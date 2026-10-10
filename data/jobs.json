@@ -1,8 +1,154 @@
 {
-  "updatedAt": "2026-10-10T03:59:47.166Z",
-  "total": 25,
-  "newSinceLastRun": 3,
+  "updatedAt": "2026-10-10T11:47:01.844Z",
+  "total": 29,
+  "newSinceLastRun": 8,
   "jobs": [
+    {
+      "id": "arbeitnow-engineering-manager-berlin-289104",
+      "title": "Engineering Manager",
+      "company": "Cosuno",
+      "location": "Berlin/Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/engineering-manager-berlin-289104",
+      "description": "Your missionAs Engineering Manager at Cosuno, you will lead a team of full stack engineers while staying deeply hands-on: you'll spend 60–80% of your time coding, reviewing, and shaping the architecture alongside your team. You are the kind of leader who elevates a team by example — writing code tha",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T08:40:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-london-183481",
+      "title": "Backend Engineer",
+      "company": "Wheely",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-london-183481",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deli",
+      "tags": [
+        "Backend"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T06:55:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-frontend-leaning-studio-united-kingdom-316378",
+      "title": "Fullstack Engineer (Frontend Leaning) - Studio",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/fullstack-engineer-frontend-leaning-studio-united-kingdom-316378",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T06:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-engineer-backend-leaning-flows-united-kingdom-392022",
+      "title": "Fullstack Engineer (Backend Leaning) - Flows",
+      "company": "Elevenlabs",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/fullstack-engineer-backend-leaning-flows-united-kingdom-392022",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T06:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-154382",
+      "title": "Backend Engineer - Music",
+      "company": "Spotify",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/154382-backend-engineer-music",
+      "description": "The Music Mission team owns Spotify's end to end proposition for music creators and the experiences they create for fans. The organization is dedicated to building tools and services to enable creation, promotion, expression, and monetization at scale. Our team makes music videos easy for fans to di",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T05:45:04+00:00",
+      "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-junior-fullstack-developer-hamburg-226260",
+      "title": "Junior Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-226260",
+      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T05:09:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-developer-hamburg-339702",
+      "title": "Fullstack Developer (m/w/d)",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-339702",
+      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
+      "tags": [
+        "ScaleUp",
+        "StartUp",
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Engineering",
+        "Entwickler",
+        "Fullstack"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T05:09:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-engineering-manager-core-team-hamburg-409647",
+      "title": "Engineering Manager (m/w/d) – Core Team",
+      "company": "Metergrid",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-409647",
+      "description": "Deine AufgabenWir bauen die Software, mit der Mieterstromprojekte laufen: Zählerdaten rein, Abrechnung raus, und alles dazwischen. Das Core Team verantwortet das Betreiberportal, das Produkt, auf dem der laufende Betrieb unserer Kunden steht. Es ist unser fachlich tiefstes Team, und es wächst.Das Be",
+      "tags": [
+        "Mieterstrom",
+        "Tenant Electricity",
+        "Software",
+        "Core Team",
+        "Energiewirtschaft",
+        "Django",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T05:09:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-152938",
+      "title": "Software Engineer, Backend",
+      "company": "Vercel",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/152938-software-engineer-backend",
+      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, securi",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T03:30:23+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
       "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
@@ -16,77 +162,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-10T00:30:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-forward-deployed-engineer-nurnberg-317360",
-      "title": "Forward Deployed Engineer (m/w/d)",
-      "company": "Nerdware",
-      "location": "Nürnberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/nerdware/forward-deployed-engineer-nurnberg-317360",
-      "description": "Deine AufgabenDu konzipierst und entwickelst KI-Lösungen vom ersten Prototyp bis in den Produktivbetrieb: LLM-Anwendungen, RAG-Pipelines, Agentic Workflows mit Tool-Integration.Du verantwortest Architektur und Umsetzung im Fullstack, vom Frontend bis zur Cloud-Infrastruktur auf AWS oder Azure.Du ber",
-      "tags": [
-        "AI",
-        "KI",
-        "Engineer",
-        "Software",
-        "Entwickler",
-        "Consulting",
-        "Agentic AI"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T23:09:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-retail-media-240947",
-      "title": "Full Stack Engineer: Retail Media",
-      "company": "Constructor",
-      "location": "Remote - EMEA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
-      "description": "About UsConstructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personali",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T21:40:07.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-ai-consultant-frankfurt-422512",
-      "title": "AI Consultant [m/w/d]",
-      "company": "GBC Group",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/gbc-group/ai-consultant-frankfurt-422512",
-      "description": "Wer wir sindDie GBC Group GmbH ist eine inhabergeführte IT-Unternehmensgruppe mit über 500 Mitarbeitenden an mehr als 10 Standorten in Deutschland. Nach dem Buy-and-Build-Prinzip vereinen wir 12 spezialisierte Tochtergesellschaften unter einem Dach, jede mit eigener Expertise und einer gemeinsamen V",
-      "tags": [
-        "AI",
-        "KI",
-        "API",
-        "JSON",
-        "RAG",
-        "Agentic Workflows",
-        "Automatisierung",
-        "Python",
-        "JavaScript",
-        "LLM"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T20:09:54.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
-      "title": "Software Engineer Backend / KI (m/w/d) - verhandlungssicheres Deutsch erforderlich",
-      "company": "Intrafind Software Ag",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/intrafind-software-ag/software-engineer-backend-ki-verhandlungssicheres-deutsch-erforderlich-munchen-154998",
-      "description": "Deine AufgabenDu entwickelst Backend-Systeme und Microservices mit Java, Python oder Node.js.Du designst und implementierst RESTful APIs.Du integrierst relationale und NoSQL-Datenbanken.Du sorgst für Skalierbarkeit, Sicherheit und Performance deiner Services in der Cloud, auch bei lastintensiven Pro",
-      "tags": [
-        "verhandlungssichere Deutschkenntnisse"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T20:09:27.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -118,34 +193,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-engineer-london-119179",
-      "title": "Full Stack Engineer",
-      "company": "Lindus",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lindus/full-stack-engineer-london-119179",
-      "description": "🍊Our missionGreat science regularly stalls in the clinic,  not because the science is wrong, but because the company behind it lacks the capital, infrastructure, or focus to take it all the way through. Today’s clinical-stage biopharma model is broken, and as a result promising treatments never rea",
-      "tags": [
-        "Product and Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T18:40:03.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ii-backend-london-51219",
-      "title": "Software Engineer-II  Backend",
-      "company": "Socure",
-      "location": "Hybrid - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/socure/software-engineer-ii-backend-london-51219",
-      "description": "Why Socure?Socure is building the identity trust infrastructure for the digital economy — verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every ",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T15:40:02.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-full-stack-software-engineer-zurich-403786",
       "title": "Full Stack Software Engineer",
       "company": "Felfel",
@@ -163,6 +210,36 @@
       "salary": null,
       "postedAt": "2026-10-09T08:09:11.000Z",
       "source": "Arbeitnow"
+    },
+    {
+      "id": "remoteok-1137474",
+      "title": "Product Design Lead",
+      "company": "Fuel50",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
+      "description": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and organisations take thei",
+      "tags": [
+        "design",
+        "saas",
+        "sys admin",
+        "front end",
+        "technical",
+        "marketing",
+        "dev",
+        "virtual assistant",
+        "javascript",
+        "css",
+        "html",
+        "microsoft",
+        "exec",
+        "senior",
+        "medical",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T08:00:04+00:00",
+      "source": "RemoteOK"
     },
     {
       "id": "jobicy-152819",
