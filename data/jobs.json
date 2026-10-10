@@ -1,8 +1,78 @@
 {
-  "updatedAt": "2026-10-10T16:50:19.249Z",
-  "total": 25,
-  "newSinceLastRun": 2,
+  "updatedAt": "2026-10-10T21:02:45.009Z",
+  "total": 27,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-product-engineer-backend-old-street-72196",
+      "title": "Product Engineer (Backend)",
+      "company": "Granola",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/granola/product-engineer-backend-old-street-72196",
+      "description": "Hey! We're team Granola 👋We're building a category-defining product, backed by a $125M Series C and used daily by teams at companies like Cursor, Vanta, and Linear. We started by making meeting notes better. Now we're turning every conversation a company has into context that people and agents can ",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T18:40:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-product-engineer-full-stack-old-street-31870",
+      "title": "Product Engineer (Full Stack)",
+      "company": "Granola",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/granola/product-engineer-full-stack-old-street-31870",
+      "description": "Hey! We're team Granola 👋  We're building a category-defining product, backed by a $125M Series C and used daily by teams at companies like Cursor, Vanta, and Linear. We started by making meeting notes better. Now we're turning every conversation a company has into context that people and agents ca",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T18:40:08.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-dozent-fachinformatiker-systemintegration-80178",
+      "title": "Dozent Fachinformatiker Systemintegration (m/w/d)",
+      "company": "Education Partners",
+      "location": "München (remote)",
+      "url": "https://www.arbeitnow.com/jobs/companies/education-partners/remote-dozent-fachinformatiker-systemintegration-80178",
+      "description": "Über uns - Developer AkademieWir suchen dich als Verstärkung unseres Teams als Dozent Fachinformatiker Systemintegration (m/w/d), der unsere Umschulungsteilnehmer auf ihrem Weg zum erfolgreichen IHK-Abschluss und in ihren Einstieg in die IT begleitet.Dein Arbeitgeber - die Developer Akademie:Wir sin",
+      "tags": [
+        "Fachinformatiker",
+        "Softwareentwickler",
+        "Frontend",
+        "Backend",
+        "Fullstack",
+        "Developer",
+        "Softwaredeveloper",
+        "Entwicklung",
+        "Mentoring",
+        "umschulung",
+        "systemintegration",
+        "system",
+        "integration"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T17:09:44.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-developer-stuttgart-156262",
+      "title": "Frontend Developer (m/w/d)",
+      "company": "Mway",
+      "location": "Stuttgart",
+      "url": "https://www.arbeitnow.com/jobs/companies/mway/frontend-developer-stuttgart-156262",
+      "description": "Your missionDo you enjoy building interfaces that people love to use? With Autarq, we are developing intelligent chat and workspace solutions on our own foundation that integrate AI into existing company systems in a GDPR-compliant way. As a Frontend Developer, you are responsible for what users see",
+      "tags": [
+        "Typescript",
+        "React",
+        "Svelte"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T17:09:02.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-full-stack-engineer-frontend-london-122942",
       "title": "Full-Stack Engineer (Frontend)",
@@ -33,34 +103,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-10T14:09:38.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-berlin-289104",
-      "title": "Engineering Manager",
-      "company": "Cosuno",
-      "location": "Berlin/Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/cosuno/engineering-manager-berlin-289104",
-      "description": "Your missionAs Engineering Manager at Cosuno, you will lead a team of full stack engineers while staying deeply hands-on: you'll spend 60–80% of your time coding, reviewing, and shaping the architecture alongside your team. You are the kind of leader who elevates a team by example — writing code tha",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T08:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-london-183481",
-      "title": "Backend Engineer",
-      "company": "Wheely",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wheely/backend-engineer-london-183481",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Wheely&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Wheely is redefining premium transportation across major cities in Europe, the US, and the Middle East. We blend cutting-edge technology with the craft of five-star chauffeuring to deli",
-      "tags": [
-        "Backend"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T06:55:12.000Z",
       "source": "Arbeitnow"
     },
     {
