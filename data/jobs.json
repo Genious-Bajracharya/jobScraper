@@ -1,8 +1,57 @@
 {
-  "updatedAt": "2026-10-09T22:09:08.893Z",
-  "total": 26,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-10-10T03:59:47.166Z",
+  "total": 25,
+  "newSinceLastRun": 3,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
+      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
+      "company": "Bling",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
+      "description": "Deine Mission\nWir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an echte Ownership: viel Freiheit, kurze Wege und die Chance, ein",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T00:30:36.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-forward-deployed-engineer-nurnberg-317360",
+      "title": "Forward Deployed Engineer (m/w/d)",
+      "company": "Nerdware",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/nerdware/forward-deployed-engineer-nurnberg-317360",
+      "description": "Deine AufgabenDu konzipierst und entwickelst KI-Lösungen vom ersten Prototyp bis in den Produktivbetrieb: LLM-Anwendungen, RAG-Pipelines, Agentic Workflows mit Tool-Integration.Du verantwortest Architektur und Umsetzung im Fullstack, vom Frontend bis zur Cloud-Infrastruktur auf AWS oder Azure.Du ber",
+      "tags": [
+        "AI",
+        "KI",
+        "Engineer",
+        "Software",
+        "Entwickler",
+        "Consulting",
+        "Agentic AI"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T23:09:03.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-retail-media-240947",
+      "title": "Full Stack Engineer: Retail Media",
+      "company": "Constructor",
+      "location": "Remote - EMEA",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-240947",
+      "description": "About UsConstructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personali",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-09T21:40:07.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-ai-consultant-frankfurt-422512",
       "title": "AI Consultant [m/w/d]",
@@ -83,41 +132,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-engineer-data-platforms-berlin-hq-439123",
-      "title": "Engineer - Data & Platforms (m/f/d)",
-      "company": "Bitcap",
-      "location": "Berlin HQ",
-      "url": "https://www.arbeitnow.com/jobs/companies/bitcap/engineer-data-platforms-berlin-hq-439123",
-      "description": "Your Role & How we workAs our Engineer - Data &amp; Platforms (m/f/d), you build and run the internal data products that our investment team, Quantitative Research and AI Engineering rely on every day: the pipelines, datasets, APIs and tools that turn a large and growing pool of financial and altern",
-      "tags": [
-        "data engineering",
-        "aws",
-        "python",
-        "backend engineering",
-        "data quality",
-        "sql",
-        "snowflake",
-        "databricks"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T17:09:20.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-developer-munich-bavaria-439494",
-      "title": "Backend Developer",
-      "company": "Qwello.eu",
-      "location": "Munich, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/qwelloeu/backend-developer-munich-bavaria-439494",
-      "description": "Our mission at Qwello is to revolutionize the charging industry; we are committed to turning the world from combustion to electric. We design, build, and operate charging infrastructure for the public space. We excel in simplicity, user focus, and engineering excellence. We value diversity of though",
-      "tags": [
-        "Backend"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T17:04:57.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "arbeitnow-software-engineer-ii-backend-london-51219",
       "title": "Software Engineer-II  Backend",
       "company": "Socure",
@@ -148,34 +162,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-09T08:09:11.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-engineer-mission-operations-services-toulouse-occitanie-204677",
-      "title": "Backend Engineer - Mission Operations Services",
-      "company": "Loftorbital",
-      "location": "Toulouse, Occitanie",
-      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/backend-engineer-mission-operations-services-toulouse-occitanie-204677",
-      "description": "Loft Orbital is looking for a Backend Engineer to join our Mission Operations Services (MOS) team. MOS owns the backend services that let Loft operators and customers command, monitor, and automate our satellite fleet through Cockpit, our mission control system. You’ll help build and scale the micro",
-      "tags": [
-        "Cockpit"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T07:04:18.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-mobile-frontend-engineering-paris-55357",
-      "title": "Mobile frontend engineering",
-      "company": "Lucis",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lucis/mobile-frontend-engineering-paris-55357",
-      "description": "Making preventive health the default for every human in Europe The missionAt Lucis, we believe healthcare should be preventive, not reactive. We’re building the OS for human longevity to help people add more healthy years to their lives. You can read more about who we are and how we work here. The r",
-      "tags": [
-        "Product & tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T04:40:06.000Z",
       "source": "Arbeitnow"
     },
     {
