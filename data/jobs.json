@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-10-10T11:47:01.844Z",
-  "total": 29,
-  "newSinceLastRun": 8,
+  "updatedAt": "2026-10-10T16:50:19.249Z",
+  "total": 25,
+  "newSinceLastRun": 2,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-engineer-frontend-london-122942",
+      "title": "Full-Stack Engineer (Frontend)",
+      "company": "Algo1",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-122942",
+      "description": "About UsAt algo1, we are reinventing one of the world's most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time, and makes an everyday experience less stressful, more personal, and more engaging.",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T15:40:12.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-306278",
+      "title": "Werkstudent:in Fullstack Developer - ERP & Prozessautomatisierung (m/w/d)",
+      "company": "Welectron",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-306278",
+      "description": "Deine AufgabenDu unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend.Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js.Du hilfst dabei, Schnittstellen zwischen",
+      "tags": [
+        "software",
+        "embedded",
+        "go",
+        "backend",
+        "developer"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T14:09:38.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-engineering-manager-berlin-289104",
       "title": "Engineering Manager",
@@ -32,34 +64,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-fullstack-engineer-frontend-leaning-studio-united-kingdom-316378",
-      "title": "Fullstack Engineer (Frontend Leaning) - Studio",
-      "company": "Elevenlabs",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/fullstack-engineer-frontend-leaning-studio-united-kingdom-316378",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T06:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-engineer-backend-leaning-flows-united-kingdom-392022",
-      "title": "Fullstack Engineer (Backend Leaning) - Flows",
-      "company": "Elevenlabs",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/fullstack-engineer-backend-leaning-flows-united-kingdom-392022",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T06:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-154382",
       "title": "Backend Engineer - Music",
       "company": "Spotify",
@@ -74,68 +78,6 @@
       "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-junior-fullstack-developer-hamburg-226260",
-      "title": "Junior Fullstack Developer (m/w/d)",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/junior-fullstack-developer-hamburg-226260",
-      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
-      "tags": [
-        "ScaleUp",
-        "StartUp",
-        "Mieterstrom",
-        "Tenant Electricity",
-        "Software",
-        "Engineering",
-        "Entwickler",
-        "Fullstack"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T05:09:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-developer-hamburg-339702",
-      "title": "Fullstack Developer (m/w/d)",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/fullstack-developer-hamburg-339702",
-      "description": "Deine AufgabenDu wirst Teil des Teams, das die Software baut, die ein Mieterstromprojekt von der ersten Anfrage bis zum laufenden Betrieb begleitet.Das Team wächst gerade in zwei Bereichen:Go-to-Market: Von der ersten Anfrage bis zum unterschriebenen Projekt. Anfragefunnel, Wirtschaftlichkeitsrechnu",
-      "tags": [
-        "ScaleUp",
-        "StartUp",
-        "Mieterstrom",
-        "Tenant Electricity",
-        "Software",
-        "Engineering",
-        "Entwickler",
-        "Fullstack"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T05:09:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-engineering-manager-core-team-hamburg-409647",
-      "title": "Engineering Manager (m/w/d) – Core Team",
-      "company": "Metergrid",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/metergrid/engineering-manager-core-team-hamburg-409647",
-      "description": "Deine AufgabenWir bauen die Software, mit der Mieterstromprojekte laufen: Zählerdaten rein, Abrechnung raus, und alles dazwischen. Das Core Team verantwortet das Betreiberportal, das Produkt, auf dem der laufende Betrieb unserer Kunden steht. Es ist unser fachlich tiefstes Team, und es wächst.Das Be",
-      "tags": [
-        "Mieterstrom",
-        "Tenant Electricity",
-        "Software",
-        "Core Team",
-        "Energiewirtschaft",
-        "Django",
-        "React"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T05:09:36.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-152938",
       "title": "Software Engineer, Backend",
       "company": "Vercel",
@@ -148,21 +90,6 @@
       "salary": null,
       "postedAt": "2026-10-10T03:30:23+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-full-stack-product-engineer-bling-schule-berlin-399408",
-      "title": "Full Stack Product Engineer (m/w/d) – Bling Schule",
-      "company": "Bling",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/bling/full-stack-product-engineer-bling-schule-berlin-399408",
-      "description": "Deine Mission\nWir bauen den ersten Payment-Dienstleister, mit dem Schulen und Kitas in Deutschland wirklich alles bargeldlos abwickeln können und suchen Verstärkung. Als Product Engineer im Bling Schule Team übernimmst du von Tag eins an echte Ownership: viel Freiheit, kurze Wege und die Chance, ein",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T00:30:36.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "arbeitnow-full-stack-developer-data-factory-paris-paris-431050",
