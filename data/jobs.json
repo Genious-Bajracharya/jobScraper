@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-11T17:35:38.639Z",
-  "total": 27,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-11T21:23:44.186Z",
+  "total": 28,
+  "newSinceLastRun": 1,
   "jobs": [
+    {
+      "id": "arbeitnow-remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
+      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
+      "company": "gitlab",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
+      "tags": [
+        "AI Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T18:55:13.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-analytics-engineer-london-362159",
       "title": "Analytics Engineer",
