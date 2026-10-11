@@ -1,8 +1,64 @@
 {
-  "updatedAt": "2026-10-11T11:59:22.852Z",
-  "total": 28,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-10-11T17:35:38.639Z",
+  "total": 27,
+  "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-analytics-engineer-london-362159",
+      "title": "Analytics Engineer",
+      "company": "Swap",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-362159",
+      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T15:40:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-automation-engineer-solihull-315390",
+      "title": "Automation Engineer",
+      "company": "Gymshark",
+      "location": "Solihull",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/automation-engineer-solihull-315390",
+      "description": "&lt;p&gt;&lt;strong&gt;OVERVIEW:&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We&#39;re looking for a frontend Automation Engineer to join our Quality Engineering (QE) team for our Mobile apps, helping us build and scale automated testing for our iOS and And",
+      "tags": [
+        "Tech: Tech Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T12:55:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-frontend-focus-karlsruhe-baden-wurttemberg-munchen-bavaria-131877",
+      "title": "Full Stack Engineer – Frontend Focus (m/f/d)",
+      "company": "Alpineeagle",
+      "location": "Karlsruhe, Baden-Württemberg, München, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/alpineeagle/full-stack-engineer-frontend-focus-karlsruhe-baden-wurttemberg-munchen-bavaria-131877",
+      "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;At Alpine Eagle,&amp;nbsp;we’re&amp;nbsp;building the future of counter-drone&amp;nbsp;defence.&amp;nbsp;We’re&amp;nbsp;a fast-growing, international deep-tech company working at the intersection of aerospace engineering,&amp;nbsp;defence&amp;nbsp;",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T11:55:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-embedded-systems-backend-all-genders-berlin-4798",
+      "title": "Software Engineer – Embedded Systems & Backend (All Genders)",
+      "company": "Skdse",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/skdse/software-engineer-embedded-systems-backend-all-genders-berlin-4798",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier d",
+      "tags": [
+        "Corp IT Core"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T11:55:08.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-backend-applied-ai-engineer-paris-478113",
       "title": "Backend & Applied AI Engineer",
@@ -29,90 +85,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-11T08:55:04.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-376827",
-      "title": "Backend Engineer - Agentic AI (m/w/d)",
-      "company": "Getpress Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
-      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
-      "tags": [
-        "Backend Engineer",
-        "Backend Developer",
-        "AI Agents",
-        "KI-Agenten",
-        "Agentic AI",
-        "LangGraph",
-        "LangChain",
-        "Multi-Agent-System",
-        "Python",
-        "TypeScript",
-        "PostgreSQL",
-        "Vektorendatenbank",
-        "RAG",
-        "Docker",
-        "Kubernetes",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T08:09:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-ai-product-engineer-berlin-488060",
-      "title": "AI Product Engineer (m/w/d)",
-      "company": "Getpress Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
-      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
-      "tags": [
-        "Backend Engineer",
-        "Backend Developer",
-        "AI Agents",
-        "KI-Agenten",
-        "Agentic AI",
-        "LangGraph",
-        "LangChain",
-        "Multi-Agent-System",
-        "Python",
-        "TypeScript",
-        "PostgreSQL",
-        "Vektorendatenbank",
-        "RAG",
-        "Docker",
-        "Kubernetes",
-        "Remote"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T08:09:37.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-299686",
-      "title": "Junior Full Stack Developer (All Genders)",
-      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-299686",
-      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-11T05:09:46.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-498997",
-      "title": "Junior Softwareentwickler Backend  / Cobol  Settlement Dev & Delivery (m/w/d)",
-      "company": "Objectway",
-      "location": "EBERSBERG",
-      "url": "https://www.arbeitnow.com/jobs/companies/objectway/junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-498997",
-      "description": "Aufbauend auf mehr als 30 Jahren Geschäftserfahrung ist Objectway ein internationaler Anbieter von Software für Vermögensverwaltung, Bankwesen und Asset Management, der seine Kunden in die Lage versetzt, sich den Herausforderungen der Zukunft zu stellen und gleichzeitig heute hervorragende Leistunge",
-      "tags": [
-        "SW Development & Delivery"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T05:05:15.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -279,20 +251,6 @@
       "salary": null,
       "postedAt": "2026-10-09T02:55:10+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
-      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T20:40:12.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-154874",
