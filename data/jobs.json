@@ -1,8 +1,50 @@
 {
-  "updatedAt": "2026-10-10T21:02:45.009Z",
-  "total": 27,
+  "updatedAt": "2026-10-11T03:34:31.097Z",
+  "total": 29,
   "newSinceLastRun": 4,
   "jobs": [
+    {
+      "id": "arbeitnow-responsable-metrologie-transport-de-biologie-saint-ouen-139503",
+      "title": "Responsable Métrologie – Transport de Biologie H/F/X",
+      "company": "TopChrono",
+      "location": "Saint Ouen, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/responsable-metrologie-transport-de-biologie-saint-ouen-139503",
+      "description": "TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, adoptant une dynamique startup pour réin",
+      "tags": [
+        "Opérations"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T22:30:16.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-charge-de-ressources-humaines-en-alternance-saint-ouen-416558",
+      "title": "Chargé de Ressources Humaines en alternance H/F/X",
+      "company": "TopChrono",
+      "location": "Saint Ouen, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/charge-de-ressources-humaines-en-alternance-saint-ouen-416558",
+      "description": "Rejoignez notre transformation !&nbsp;TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, ad",
+      "tags": [
+        "Ressources humaines"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T22:30:16.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-engineer-london-131242",
+      "title": "Full Stack Engineer",
+      "company": "Xyz Reality",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/full-stack-engineer-london-131242",
+      "description": "Build the technology behind the teams transforming constructionAt XYZ Reality, we’ve created the world’s first engineering-grade Augmented Reality solution for construction. Our product, The Atom, is used on major projects worldwide to bring designs to life on-site and help teams build more accurate",
+      "tags": [
+        "Platform"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T21:40:13.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-product-engineer-backend-old-street-72196",
       "title": "Product Engineer (Backend)",
@@ -74,38 +116,6 @@
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-full-stack-engineer-frontend-london-122942",
-      "title": "Full-Stack Engineer (Frontend)",
-      "company": "Algo1",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/algo1/full-stack-engineer-frontend-london-122942",
-      "description": "About UsAt algo1, we are reinventing one of the world's most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time, and makes an everyday experience less stressful, more personal, and more engaging.",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T15:40:12.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-306278",
-      "title": "Werkstudent:in Fullstack Developer - ERP & Prozessautomatisierung (m/w/d)",
-      "company": "Welectron",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/welectron/werkstudentin-fullstack-developer-erp-prozessautomatisierung-karlsruhe-306278",
-      "description": "Deine AufgabenDu unterstützt uns bei der Weiterentwicklung unserer Webshop-, ERP- und Warehouse-Tools – vom Frontend bis zum Backend.Du entwickelst gemeinsam mit unserem Team neue Funktionen mit Technologien wie React/Next.js, Vue/Nuxt, TypeScript und Node.js.Du hilfst dabei, Schnittstellen zwischen",
-      "tags": [
-        "software",
-        "embedded",
-        "go",
-        "backend",
-        "developer"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T14:09:38.000Z",
-      "source": "Arbeitnow"
-    },
-    {
       "id": "jobicy-154382",
       "title": "Backend Engineer - Music",
       "company": "Spotify",
@@ -134,6 +144,38 @@
       "source": "Jobicy"
     },
     {
+      "id": "remoteok-1137478",
+      "title": "Product Engineering Lead",
+      "company": "Tether Operations Limited",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
+      "description": "Join Tether and Shape the Future of Digital FinanceAt Tether, weâre not just building products, weâre pioneering a global financial revolution. Our cutting-edge solutions empower businessesâfrom exchanges and wallets to payment processors and ATMsâto seamlessly integrate reserve-backed token",
+      "tags": [
+        "design",
+        "bitcoin",
+        "react",
+        "exec",
+        "technical",
+        "recruiter",
+        "marketing",
+        "dev",
+        "virtual assistant",
+        "javascript",
+        "finance",
+        "education",
+        "cloud",
+        "api",
+        "mobile",
+        "ops",
+        "sys admin",
+        "engineer",
+        "digital nomad"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-10T00:00:05+00:00",
+      "source": "RemoteOK"
+    },
+    {
       "id": "arbeitnow-full-stack-developer-data-factory-paris-paris-431050",
       "title": "Full Stack Developer - Data Factory (f/m/d)",
       "company": "Decathlontechnology",
@@ -145,20 +187,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-09T19:55:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-142992",
-      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "ElevenLabs",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-142992",
-      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
-      "tags": [
-        "Engineering & Product"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T19:40:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -223,6 +251,20 @@
       "salary": null,
       "postedAt": "2026-10-09T02:55:10+00:00",
       "source": "Jobicy"
+    },
+    {
+      "id": "arbeitnow-remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+      "company": "ElevenLabs",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-creative-agents-323217",
+      "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deu",
+      "tags": [
+        "Engineering & Product"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-08T20:40:12.000Z",
+      "source": "Arbeitnow"
     },
     {
       "id": "jobicy-154874",
