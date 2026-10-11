@@ -1,8 +1,134 @@
 {
-  "updatedAt": "2026-10-11T03:34:31.097Z",
-  "total": 29,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-11T11:59:22.852Z",
+  "total": 28,
+  "newSinceLastRun": 6,
   "jobs": [
+    {
+      "id": "arbeitnow-backend-applied-ai-engineer-paris-478113",
+      "title": "Backend & Applied AI Engineer",
+      "company": "Resilience Care",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/backend-applied-ai-engineer-paris-478113",
+      "description": "🏨 The CompanyResilience Care, a leading player in remote medical monitoring and a partner in clinical research, is a French company founded in 2021 with a single mission: to provide better care.Our company offers remote monitoring solutions in oncology, gastroenterology and psychiatry, based on the",
+      "tags": [
+        "Tech"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T10:40:09.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-data-engineer-mendrisio-75224",
+      "title": "Fullstack Data Engineer",
+      "company": "nozominetworks",
+      "location": "Mendrisio",
+      "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting s",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T08:55:04.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-backend-engineer-agentic-ai-berlin-376827",
+      "title": "Backend Engineer - Agentic AI (m/w/d)",
+      "company": "Getpress Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-376827",
+      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
+      "tags": [
+        "Backend Engineer",
+        "Backend Developer",
+        "AI Agents",
+        "KI-Agenten",
+        "Agentic AI",
+        "LangGraph",
+        "LangChain",
+        "Multi-Agent-System",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "Vektorendatenbank",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T08:09:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-ai-product-engineer-berlin-488060",
+      "title": "AI Product Engineer (m/w/d)",
+      "company": "Getpress Gmbh",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-ai-product-engineer-berlin-488060",
+      "description": "Overviewgetpress entwickelt eine eigene KI-Agenten-Plattform (LangGraph, PostgreSQL, Next.js) für die PR-BrancheDer Servicemarkt, von Legal über Consulting bis hin zu Agenturen, steht vor der größten Transformation der Geschichte. Gleichzeitig wird der milliardenschwere PR-Markt im Zeitalter von AI-",
+      "tags": [
+        "Backend Engineer",
+        "Backend Developer",
+        "AI Agents",
+        "KI-Agenten",
+        "Agentic AI",
+        "LangGraph",
+        "LangChain",
+        "Multi-Agent-System",
+        "Python",
+        "TypeScript",
+        "PostgreSQL",
+        "Vektorendatenbank",
+        "RAG",
+        "Docker",
+        "Kubernetes",
+        "Remote"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T08:09:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-full-stack-developer-all-genders-berlin-299686",
+      "title": "Junior Full Stack Developer (All Genders)",
+      "company": "Seniovo GmbH - Ein Unternehmen der HORNBACH-Gruppe",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/seniovo-gmbh-ein-unternehmen-der-hornbach-gruppe/junior-full-stack-developer-all-genders-berlin-299686",
+      "description": "Deine AufgabenPflege, Konfiguration und Erweiterung unserer operativen Systeme (ZohoCRM, Desk, Books, Signund angrenzende Tools)Entwicklung von Automationen und Business-Logik mit Deluge, Python und JavaScript: Workflows, Functions, Client-Skripte und geplante JobsEntwicklung und Verbesserung LLM-ge",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-11T05:09:46.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-498997",
+      "title": "Junior Softwareentwickler Backend  / Cobol  Settlement Dev & Delivery (m/w/d)",
+      "company": "Objectway",
+      "location": "EBERSBERG",
+      "url": "https://www.arbeitnow.com/jobs/companies/objectway/junior-softwareentwickler-backend-cobol-settlement-dev-delivery-ebersberg-498997",
+      "description": "Aufbauend auf mehr als 30 Jahren Geschäftserfahrung ist Objectway ein internationaler Anbieter von Software für Vermögensverwaltung, Bankwesen und Asset Management, der seine Kunden in die Lage versetzt, sich den Herausforderungen der Zukunft zu stellen und gleichzeitig heute hervorragende Leistunge",
+      "tags": [
+        "SW Development & Delivery"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T05:05:15.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-145744",
+      "title": "Frontend Engineer React and AWS",
+      "company": "Numentica",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
+      "description": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong ",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T03:50:29+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-responsable-metrologie-transport-de-biologie-saint-ouen-139503",
       "title": "Responsable Métrologie – Transport de Biologie H/F/X",
@@ -29,90 +155,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-10T22:30:16.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-london-131242",
-      "title": "Full Stack Engineer",
-      "company": "Xyz Reality",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/full-stack-engineer-london-131242",
-      "description": "Build the technology behind the teams transforming constructionAt XYZ Reality, we’ve created the world’s first engineering-grade Augmented Reality solution for construction. Our product, The Atom, is used on major projects worldwide to bring designs to life on-site and help teams build more accurate",
-      "tags": [
-        "Platform"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T21:40:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-backend-old-street-72196",
-      "title": "Product Engineer (Backend)",
-      "company": "Granola",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/granola/product-engineer-backend-old-street-72196",
-      "description": "Hey! We're team Granola 👋We're building a category-defining product, backed by a $125M Series C and used daily by teams at companies like Cursor, Vanta, and Linear. We started by making meeting notes better. Now we're turning every conversation a company has into context that people and agents can ",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T18:40:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-product-engineer-full-stack-old-street-31870",
-      "title": "Product Engineer (Full Stack)",
-      "company": "Granola",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/granola/product-engineer-full-stack-old-street-31870",
-      "description": "Hey! We're team Granola 👋  We're building a category-defining product, backed by a $125M Series C and used daily by teams at companies like Cursor, Vanta, and Linear. We started by making meeting notes better. Now we're turning every conversation a company has into context that people and agents ca",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T18:40:08.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-dozent-fachinformatiker-systemintegration-80178",
-      "title": "Dozent Fachinformatiker Systemintegration (m/w/d)",
-      "company": "Education Partners",
-      "location": "München (remote)",
-      "url": "https://www.arbeitnow.com/jobs/companies/education-partners/remote-dozent-fachinformatiker-systemintegration-80178",
-      "description": "Über uns - Developer AkademieWir suchen dich als Verstärkung unseres Teams als Dozent Fachinformatiker Systemintegration (m/w/d), der unsere Umschulungsteilnehmer auf ihrem Weg zum erfolgreichen IHK-Abschluss und in ihren Einstieg in die IT begleitet.Dein Arbeitgeber - die Developer Akademie:Wir sin",
-      "tags": [
-        "Fachinformatiker",
-        "Softwareentwickler",
-        "Frontend",
-        "Backend",
-        "Fullstack",
-        "Developer",
-        "Softwaredeveloper",
-        "Entwicklung",
-        "Mentoring",
-        "umschulung",
-        "systemintegration",
-        "system",
-        "integration"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T17:09:44.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-developer-stuttgart-156262",
-      "title": "Frontend Developer (m/w/d)",
-      "company": "Mway",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/mway/frontend-developer-stuttgart-156262",
-      "description": "Your missionDo you enjoy building interfaces that people love to use? With Autarq, we are developing intelligent chat and workspace solutions on our own foundation that integrate AI into existing company systems in a GDPR-compliant way. As a Frontend Developer, you are responsible for what users see",
-      "tags": [
-        "Typescript",
-        "React",
-        "Svelte"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T17:09:02.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -174,20 +216,6 @@
       "salary": null,
       "postedAt": "2026-10-10T00:00:05+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-data-factory-paris-paris-431050",
-      "title": "Full Stack Developer - Data Factory (f/m/d)",
-      "company": "Decathlontechnology",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/full-stack-developer-data-factory-paris-paris-431050",
-      "description": "&lt;p&gt;&lt;strong&gt;L&#39;équipe Data Platform de DECATHLON recherche ses futur-e-s Développeur-se-s Full Stack basé·e·s à Lille/Paris.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Au cœur de l’entité Decathlon Digital, nous recherchons nos futur.es Développeur·se·s&l",
-      "tags": [
-        "Data"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T19:55:26.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "arbeitnow-full-stack-software-engineer-zurich-403786",
@@ -278,34 +306,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-08T19:08:01+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-151461",
-      "title": "Product Engineer (Full Stack)",
-      "company": "Maze",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
-      "description": "Summary of the Role: As Product Engineer (Full Stack) at Maze, you'll be the technical force behind our customer-facing product experience, owning the complete stack from UI to API while moving at startup velocity. This is a unique opportunity to join as one of the early engineering team members of ",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T03:35:26+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152707",
-      "title": "Fullstack Software Engineer - Core",
-      "company": "Dataiku",
-      "location": "France,  Germany,  Netherlands,  Spain,  UK",
-      "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
-      "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T03:30:21+00:00",
       "source": "Jobicy"
     },
     {
