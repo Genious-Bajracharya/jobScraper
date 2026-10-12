@@ -1,32 +1,20 @@
 {
-  "updatedAt": "2026-10-12T03:58:36.657Z",
-  "total": 32,
-  "newSinceLastRun": 5,
+  "updatedAt": "2026-10-12T14:13:53.900Z",
+  "total": 24,
+  "newSinceLastRun": 1,
   "jobs": [
     {
-      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-420771",
-      "title": "Full-Stack Software Engineer (m/f/d)",
-      "company": "TWAICE",
-      "location": "Munich, Hybrid",
-      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-420771",
-      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "id": "arbeitnow-graduate-software-engineer-london-342714",
+      "title": "Graduate Software Engineer",
+      "company": "Optiverus",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-342714",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be th",
       "tags": [
-        "Battery",
-        "Energy",
-        "SaaS",
-        "Backend",
-        "Frontend",
-        "Startup",
-        "Tech",
-        "AWS",
-        "Batteries",
-        "Software Development",
-        "BESS",
-        "Green Energy",
-        "Energy Transition"
+        "Software"
       ],
       "salary": null,
-      "postedAt": "2026-10-12T02:09:47.000Z",
+      "postedAt": "2026-10-12T09:55:15.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -47,60 +35,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-12T00:09:40.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-entwickler-munich-359972",
-      "title": "Fullstack Entwickler (m/w/d)",
-      "company": "ICT Digital Solutions",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-359972",
-      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Fullstack Entwickler (m/w/d) am Standort München oder hybrid.  \nDeine Aufgaben  \n\nEntwicklung von Webapplikationen im Full-Stack-Bereich.\nDesign und Implementierung von APIs (REST/GraphQL).\nMitarbeit an Architek",
-      "tags": [
-        "Remote",
-        "Software Development"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T22:30:48.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-germany-munich-401554",
-      "title": "Full Stack Developer",
-      "company": "Bookboost",
-      "location": "Germany - Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bookboost/full-stack-developer-germany-munich-401554",
-      "description": "Your missionBookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.We have customers acros",
-      "tags": [
-        "SaaS",
-        "Hospitlaity tech",
-        "developer",
-        "engineer",
-        "full stack"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T20:09:55.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-softwareentwickler-frontend-angular-nurnberg-36948",
-      "title": "Softwareentwickler Frontend / Angular (m/w/d)",
-      "company": "Allgeier Inovar Gmbh",
-      "location": "Nürnberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/allgeier-inovar-gmbh/softwareentwickler-frontend-angular-nurnberg-36948",
-      "description": "Unser Set-UpDu möchtest nicht nur bestehenden Code weiterentwickeln, sondern auch technisch mitgestalten und eigene Ideen einbringen?Dann werde Teil unseres Entwicklerteams und arbeite an den Webclients unserer Digitalisierungsplattform metasonic®.Dein Schwerpunkt liegt auf der Entwicklung neuer Web",
-      "tags": [
-        "Angular",
-        "JavaScript",
-        "Frontend",
-        "Webclients",
-        "Softwarearchitektur",
-        "Scrum",
-        "KI",
-        "Produktentwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T20:09:27.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -143,20 +77,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-11T12:55:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-engineer-frontend-focus-karlsruhe-baden-wurttemberg-munchen-bavaria-131877",
-      "title": "Full Stack Engineer – Frontend Focus (m/f/d)",
-      "company": "Alpineeagle",
-      "location": "Karlsruhe, Baden-Württemberg, München, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/alpineeagle/full-stack-engineer-frontend-focus-karlsruhe-baden-wurttemberg-munchen-bavaria-131877",
-      "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;At Alpine Eagle,&amp;nbsp;we’re&amp;nbsp;building the future of counter-drone&amp;nbsp;defence.&amp;nbsp;We’re&amp;nbsp;a fast-growing, international deep-tech company working at the intersection of aerospace engineering,&amp;nbsp;defence&amp;nbsp;",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T11:55:09.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -339,34 +259,6 @@
       "source": "RemoteOK"
     },
     {
-      "id": "jobicy-152819",
-      "title": "Software Engineer, Data Integration",
-      "company": "Bayesian Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152819-software-engineer-data-integration",
-      "description": "Software Engineer, Data Integration In Brief We're a rapidly growing startup on a mission to make healthcare proactive by empowering physicians, nurses, and care team members with real-time data to save lives. Join us in transforming healthcare from reactive to proactive. You’ll spearhead the engine",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T02:55:10+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-154874",
-      "title": "QA Engineer (Anywhere in Europe)",
-      "company": "PadSplit",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
-      "description": "The Role We Need: PadSplit is hiring a QA Engineer to strengthen quality across our Marketplace pod, spanning Mobile (iOS/Android), Web, and backend Platform systems. As our product complexity increases, we need someone who can independently validate cross-platform user flows, reduce production risk",
-      "tags": [
-        "QA & Testing"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-08T19:08:01+00:00",
-      "source": "Jobicy"
-    },
-    {
       "id": "remotive-2091149",
       "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
       "company": "CodeForAI",
@@ -434,36 +326,6 @@
       "source": "RemoteOK"
     },
     {
-      "id": "remotive-2091141",
-      "title": "Frontend Web Application Developer",
-      "company": "KoboToolbox",
-      "location": "USA, Canada, Argentina, Mexico, Peru",
-      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
-      "description": "Location: RemoteAvailability: 35-40 hours per weekWorking hours: US East business hoursReporting to: Lead developer\nKoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per week, for a commitment of at least 1 year. A",
-      "tags": [
-        "api",
-        "django",
-        "docker",
-        "frontend",
-        "git",
-        "python",
-        "react",
-        "security",
-        "video",
-        "AI/ML",
-        "documentation",
-        "Typescript ",
-        "web applications",
-        "backbone",
-        "diversity",
-        "REST",
-        "insurance"
-      ],
-      "salary": "$90k - $105k",
-      "postedAt": "2026-09-18T16:43:22",
-      "source": "Remotive"
-    },
-    {
       "id": "remoteok-1137399",
       "title": "AI agent engineer",
       "company": "Sticker Mule",
@@ -504,38 +366,6 @@
       "salary": null,
       "postedAt": "2026-09-15T00:00:26+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "remotive-1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies ",
-      "location": "Worldwide",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to",
-      "tags": [
-        "CSS",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "MySQL",
-        "startup",
-        "responsive",
-        "themes",
-        "bootstrap",
-        "insurance",
-        "jQuery",
-        "Ajax"
-      ],
-      "salary": "$35,3k- $52k",
-      "postedAt": "2026-09-11T20:16:48",
-      "source": "Remotive"
     },
     {
       "id": "remoteok-1137062",
