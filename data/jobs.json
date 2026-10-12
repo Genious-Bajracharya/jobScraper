@@ -1,8 +1,108 @@
 {
-  "updatedAt": "2026-10-11T21:23:44.186Z",
-  "total": 28,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-10-12T03:58:36.657Z",
+  "total": 32,
+  "newSinceLastRun": 5,
   "jobs": [
+    {
+      "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-420771",
+      "title": "Full-Stack Software Engineer (m/f/d)",
+      "company": "TWAICE",
+      "location": "Munich, Hybrid",
+      "url": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-420771",
+      "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence,",
+      "tags": [
+        "Battery",
+        "Energy",
+        "SaaS",
+        "Backend",
+        "Frontend",
+        "Startup",
+        "Tech",
+        "AWS",
+        "Batteries",
+        "Software Development",
+        "BESS",
+        "Green Energy",
+        "Energy Transition"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T02:09:47.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-developer-graduate-london-297219",
+      "title": "Developer (Graduate)",
+      "company": "Native Design",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/native-design/developer-graduate-london-297219",
+      "description": "Your missionAbout NativeNative designs products that get made. Since 1997 we've worked across the US, Europe and Asia for the companies that take the object seriously: Bowers &amp; Wilkins, Bang &amp; Olufsen, Audi, Coloplast, Baxter, Bentley, HP and others we can't name yet. Along the way we've col",
+      "tags": [
+        "developer",
+        "software",
+        "full stack developer",
+        "frond end develper",
+        "back end developer",
+        "software engineer",
+        "graduate developer"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T00:09:40.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-fullstack-entwickler-munich-359972",
+      "title": "Fullstack Entwickler (m/w/d)",
+      "company": "ICT Digital Solutions",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/ict-digital-solutions/fullstack-entwickler-munich-359972",
+      "description": "Zur Verstärkung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen engagierten Fullstack Entwickler (m/w/d) am Standort München oder hybrid.  \nDeine Aufgaben  \n\nEntwicklung von Webapplikationen im Full-Stack-Bereich.\nDesign und Implementierung von APIs (REST/GraphQL).\nMitarbeit an Architek",
+      "tags": [
+        "Remote",
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T22:30:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-germany-munich-401554",
+      "title": "Full Stack Developer",
+      "company": "Bookboost",
+      "location": "Germany - Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/bookboost/full-stack-developer-germany-munich-401554",
+      "description": "Your missionBookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence.We have customers acros",
+      "tags": [
+        "SaaS",
+        "Hospitlaity tech",
+        "developer",
+        "engineer",
+        "full stack"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T20:09:55.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-softwareentwickler-frontend-angular-nurnberg-36948",
+      "title": "Softwareentwickler Frontend / Angular (m/w/d)",
+      "company": "Allgeier Inovar Gmbh",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/allgeier-inovar-gmbh/softwareentwickler-frontend-angular-nurnberg-36948",
+      "description": "Unser Set-UpDu möchtest nicht nur bestehenden Code weiterentwickeln, sondern auch technisch mitgestalten und eigene Ideen einbringen?Dann werde Teil unseres Entwicklerteams und arbeite an den Webclients unserer Digitalisierungsplattform metasonic®.Dein Schwerpunkt liegt auf der Entwicklung neuer Web",
+      "tags": [
+        "Angular",
+        "JavaScript",
+        "Frontend",
+        "Webclients",
+        "Softwarearchitektur",
+        "Scrum",
+        "KI",
+        "Produktentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-11T20:09:27.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
       "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
@@ -57,20 +157,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-11T11:55:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-embedded-systems-backend-all-genders-berlin-4798",
-      "title": "Software Engineer – Embedded Systems & Backend (All Genders)",
-      "company": "Skdse",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/skdse/software-engineer-embedded-systems-backend-all-genders-berlin-4798",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt; font-family: helvetica, arial, sans-serif;&quot;&gt;At Stark, we forge the future of European and national security through cutting-edge, AI-driven technology and unmatched engineering precision. As a premier d",
-      "tags": [
-        "Corp IT Core"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T11:55:08.000Z",
       "source": "Arbeitnow"
     },
     {
