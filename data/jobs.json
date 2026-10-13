@@ -1,228 +1,95 @@
 {
-  "updatedAt": "2026-10-13T00:03:31.014Z",
-  "total": 25,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-10-13T13:24:09.504Z",
+  "total": 16,
+  "newSinceLastRun": 4,
   "jobs": [
     {
-      "id": "arbeitnow-software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
-      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
-      "company": "Doctolib",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
-      "description": "&lt;h1&gt;&lt;strong&gt;Software Engineering Intern - Fullstack (x/f/m)&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Set a new pulse for healthcare!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Software Engineering Intern&lt;/strong&gt; to join the &lt;strong&gt;Enginee",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-12T20:55:26.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-full-stack-developer-ki-legaltech-leipzig-294478",
-      "title": "Full Stack Developer (m/w/d) | KI & LegalTech",
-      "company": "fairforce.one",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/fairforceone/full-stack-developer-ki-legaltech-leipzig-294478",
-      "description": "Gestalte mit uns die Zukunft der KI-gestützten Rechtsberatungfairforce ist der LegalTech-Pionier mit Sitz in Leipzig. Seit 2017 digitalisieren wir Rechtsdienstleistung für Verbraucher und globale Brands. Unser Team wächst – und damit auch unsere Architektur. Um unsere Deployment-Frequenz zu erhöhen,",
+      "id": "arbeitnow-rust-softwareentwickler-fur-ai-coding-osnabruck-481162",
+      "title": "Rust-Softwareentwickler (m/w/d) für AI Coding",
+      "company": "Domainprofi GmbH",
+      "location": "Osnabrück",
+      "url": "https://www.arbeitnow.com/jobs/companies/domainprofi-gmbh/rust-softwareentwickler-fur-ai-coding-osnabruck-481162",
+      "description": "Ihre AufgabenRust-Entwicklung mit KI-Unterstützung: Konzeption, Entwicklung und Wartung unserer Backend-Systeme mit Fokus auf Rust. Sie nutzen KI-Tools intensiv als \"Pair Programmer\", um extrem performante und sichere Softwarearchitekturen zu bauen.System- & Infrastrukturmanagement: Sicherer und rou",
       "tags": [
         "Software Development"
       ],
       "salary": null,
-      "postedAt": "2026-10-12T17:30:53.000Z",
+      "postedAt": "2026-10-13T11:30:59.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-software-engineering-intern-fullstack-paris-paris-paris-352989",
-      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
-      "company": "Doctolib",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineering-intern-fullstack-paris-paris-paris-352989",
-      "description": "&lt;h1&gt;&lt;strong&gt;Software Engineering Intern - Fullstack (x/f/m)&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Set a new pulse for healthcare!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Software Engineering Intern&lt;/strong&gt; to join the &lt;strong&gt;Enginee",
+      "id": "arbeitnow-backend-java-engineer-381957",
+      "title": "Backend Java Engineer",
+      "company": "Airship",
+      "location": "On-site",
+      "url": "https://www.arbeitnow.fr/jobs/companies/airship/backend-java-engineer-381957",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Airship&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Airship is trusted by world’s leading brands such as Alaska Airlines, BBC and The Home Depot to drive revenue growth and customer loyalty with exceptional cross-channel customer experien",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-12T16:55:10.000Z",
+      "postedAt": "2026-10-13T10:55:04.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-software-architect-fur-web-backend-und-plattformlosungen-de-munchen-421109",
-      "title": "Software Architect (m/f/d) für Web-, Backend- und Plattformlösungen",
-      "company": "Swissbit",
-      "location": "DE-München",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/software-architect-fur-web-backend-und-plattformlosungen-de-munchen-421109",
-      "description": "A Swissbit more you.Bei uns gestaltest du die Zukunft! Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir stärken die digitale und vernetzte Welt, indem wir Daten zuverlässig speichern und schützen. Für diese und viele weitere",
+      "id": "jobicy-155189",
+      "title": "Full Stack Engineer",
+      "company": "infisical",
+      "location": "Brazil,  Canada,  Europe,  USA",
+      "url": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
+      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
       "tags": [
-        "Software Architecture",
-        "Web Architecture",
-        "Backend Development",
-        "API Design",
-        "Solution Architecture"
+        "Software Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-12T14:09:52.000Z",
-      "source": "Arbeitnow"
+      "postedAt": "2026-10-13T09:45:53+00:00",
+      "source": "Jobicy"
     },
     {
-      "id": "arbeitnow-full-stack-ai-developer-agentic-systems-berlin-116018",
-      "title": "Full-Stack AI Developer – Agentic Systems (m/f/d)",
-      "company": "autonomous-teaming",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/full-stack-ai-developer-agentic-systems-berlin-116018",
-      "description": "What we offerWork in an international, agile and ambitious team creating the future of autonomous systems.Grow your career in a expanding and ambitious engineering team.Build innovative products using state-of-the-art technologies in AI.Benefit from a steep learning curve and continuous development.",
-      "tags": [
-        "Typescript",
-        "Python",
-        "Multi Agent orchestration",
-        "RAG pipelines",
-        "Rust",
-        "Integrations",
-        "APIs",
-        "Frontend",
-        "Backend",
-        "AI workflows",
-        "AI agents",
-        "Data pipelines",
-        "Security",
-        "IT"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-12T14:09:45.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-frontend-ux-ui-engineer-dortmund-munster-251419",
-      "title": "Frontend / UX / UI Engineer (m/w/d)",
-      "company": "Its Gruppe",
-      "location": "Dortmund, Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/its-gruppe/frontend-ux-ui-engineer-dortmund-munster-251419",
-      "description": "Bei uns steht der Mensch im Mittelpunkt.Wir glauben fest daran, dass Vielfalt die Grundlage für Innovation und Erfolg ist. Deshalb fördern wir ein offenes, respektvolles Arbeitsumfeld, in dem sich jede Person unabhängig von Herkunft, Geschlecht, Alter, sexueller Orientierung oder individuellen Leben",
-      "tags": [
-        "Frontend",
-        "UX",
-        "UI",
-        "Engineer",
-        "Designer*in",
-        "Web-Oberflächen",
-        "Münster",
-        "Dortmund",
-        "Softwareentwicklung"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-12T14:09:23.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-graduate-software-engineer-london-342714",
-      "title": "Graduate Software Engineer",
-      "company": "Optiverus",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/optiverus/graduate-software-engineer-london-342714",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p data-renderer-start-pos=&quot;1&quot; data-local-id=&quot;126eb7d5a283&quot;&gt;As a Graduate Software Engineer, your work is mission-critical at our firm. You will work on solutions that enable us to react to markets at lightning-fast speeds. Your work will be th",
-      "tags": [
-        "Software"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-12T09:55:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-backend-applied-ai-engineer-paris-478113",
-      "title": "Backend & Applied AI Engineer",
-      "company": "Resilience Care",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/resilience-care/backend-applied-ai-engineer-paris-478113",
-      "description": "🏨 The CompanyResilience Care, a leading player in remote medical monitoring and a partner in clinical research, is a French company founded in 2021 with a single mission: to provide better care.Our company offers remote monitoring solutions in oncology, gastroenterology and psychiatry, based on the",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T10:40:09.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-fullstack-data-engineer-mendrisio-75224",
-      "title": "Fullstack Data Engineer",
-      "company": "nozominetworks",
-      "location": "Mendrisio",
-      "url": "https://www.arbeitnow.ch/jobs/companies/nozominetworks/fullstack-data-engineer-mendrisio-75224",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Now is an amazing time to join Nozomi Networks as we build the future of OT and IoT cybersecurity.&lt;/p&gt;\n&lt;p&gt;We defend some of the world’s largest organizations and critical infrastructure in more than 68 countries and we’re just getting s",
+      "id": "arbeitnow-full-stack-software-engineer-control-plane-the-netherlands-226061",
+      "title": "Full Stack Software Engineer - Control Plane",
+      "company": "Clickhouse",
+      "location": "The Netherlands",
+      "url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/full-stack-software-engineer-control-plane-the-netherlands-226061",
+      "description": "NOTE: This position can be remote in any EMEA country ClickHouse has a hiring presence.We are hiring talented Full Stack Software Engineers for our Control Plane team.The team focuses on great user experience, seamless, automated, and scalable cloud infrastructure deployment, and lifecycle managemen",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-11T08:55:04.000Z",
+      "postedAt": "2026-10-13T00:40:15.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "jobicy-145744",
-      "title": "Frontend Engineer React and AWS",
-      "company": "Numentica",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws",
-      "description": "This is a remote position. Onsite/ Hybrid/ Remote: Remote (EST Work Hours) Duration: ​12 Months to start with Rate Range: Upto $80/hr W2 or $88/hr C2C Work Authorization: GC, USC, H1B All valid EADs except OPT, CPT Must Have: 5+ years of professional front-end software development experience Strong ",
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Worldwide",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to",
       "tags": [
-        "Software Engineering"
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL",
+        "startup",
+        "responsive",
+        "themes",
+        "bootstrap",
+        "insurance",
+        "jQuery",
+        "Ajax"
       ],
-      "salary": null,
-      "postedAt": "2026-10-11T03:50:29+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-responsable-metrologie-transport-de-biologie-saint-ouen-139503",
-      "title": "Responsable Métrologie – Transport de Biologie H/F/X",
-      "company": "TopChrono",
-      "location": "Saint Ouen, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/responsable-metrologie-transport-de-biologie-saint-ouen-139503",
-      "description": "TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, adoptant une dynamique startup pour réin",
-      "tags": [
-        "Opérations"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T22:30:16.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-charge-de-ressources-humaines-en-alternance-saint-ouen-416558",
-      "title": "Chargé de Ressources Humaines en alternance H/F/X",
-      "company": "TopChrono",
-      "location": "Saint Ouen, Île-de-France, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/charge-de-ressources-humaines-en-alternance-saint-ouen-416558",
-      "description": "Rejoignez notre transformation !&nbsp;TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, ad",
-      "tags": [
-        "Ressources humaines"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T22:30:16.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "jobicy-154382",
-      "title": "Backend Engineer - Music",
-      "company": "Spotify",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/154382-backend-engineer-music",
-      "description": "The Music Mission team owns Spotify's end to end proposition for music creators and the experiences they create for fans. The organization is dedicated to building tools and services to enable creation, promotion, expression, and monetization at scale. Our team makes music videos easy for fans to di",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T05:45:04+00:00",
-      "source": "Jobicy"
-    },
-    {
-      "id": "jobicy-152938",
-      "title": "Software Engineer, Backend",
-      "company": "Vercel",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152938-software-engineer-backend",
-      "description": "About Vercel: Vercel is the agentic infrastructure company. We free people and agents to ship what’s next. For more than a decade, Vercel has shaped how the web is built. As the team behind Next.js, v0, and AI SDK, we create products that help builders move from idea to production with speed, securi",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-10T03:30:23+00:00",
-      "source": "Jobicy"
+      "salary": "$35,3k- $52k",
+      "postedAt": "2026-10-11T20:17:27",
+      "source": "Remotive"
     },
     {
       "id": "remoteok-1137478",
@@ -355,14 +222,14 @@
     },
     {
       "id": "remoteok-1137399",
-      "title": "AI agent engineer",
+      "title": "SI agent engineer",
       "company": "Sticker Mule",
       "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack.We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers.Work performedIden",
+      "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
+      "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and super intelligence in one stack.We're hiring an engineer to build, run and manage a team of SI agents to help us innovate faster, improve performance, and better serve customers.Wo",
       "tags": [
-        "ai",
         "golang",
+        "ai",
         "javascript",
         "typescript"
       ],
