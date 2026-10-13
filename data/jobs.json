@@ -1,8 +1,117 @@
 {
-  "updatedAt": "2026-10-12T14:13:53.900Z",
-  "total": 24,
-  "newSinceLastRun": 1,
+  "updatedAt": "2026-10-13T00:03:31.014Z",
+  "total": 25,
+  "newSinceLastRun": 6,
   "jobs": [
+    {
+      "id": "arbeitnow-software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
+      "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+      "company": "Doctolib",
+      "location": "Berlin, Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/doctolib/software-engineer-intern-fullstack-berlin-berlin-berlin-159834",
+      "description": "&lt;h1&gt;&lt;strong&gt;Software Engineering Intern - Fullstack (x/f/m)&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Set a new pulse for healthcare!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Software Engineering Intern&lt;/strong&gt; to join the &lt;strong&gt;Enginee",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T20:55:26.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-developer-ki-legaltech-leipzig-294478",
+      "title": "Full Stack Developer (m/w/d) | KI & LegalTech",
+      "company": "fairforce.one",
+      "location": "Leipzig",
+      "url": "https://www.arbeitnow.com/jobs/companies/fairforceone/full-stack-developer-ki-legaltech-leipzig-294478",
+      "description": "Gestalte mit uns die Zukunft der KI-gestützten Rechtsberatungfairforce ist der LegalTech-Pionier mit Sitz in Leipzig. Seit 2017 digitalisieren wir Rechtsdienstleistung für Verbraucher und globale Brands. Unser Team wächst – und damit auch unsere Architektur. Um unsere Deployment-Frequenz zu erhöhen,",
+      "tags": [
+        "Software Development"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T17:30:53.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineering-intern-fullstack-paris-paris-paris-352989",
+      "title": "Software Engineering Intern - Fullstack (x/f/m) - Paris",
+      "company": "Doctolib",
+      "location": "Paris, Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineering-intern-fullstack-paris-paris-paris-352989",
+      "description": "&lt;h1&gt;&lt;strong&gt;Software Engineering Intern - Fullstack (x/f/m)&lt;/strong&gt;&lt;/h1&gt;\n&lt;h2&gt;&lt;strong&gt;Set a new pulse for healthcare!&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We are looking for a &lt;strong&gt;Software Engineering Intern&lt;/strong&gt; to join the &lt;strong&gt;Enginee",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T16:55:10.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-architect-fur-web-backend-und-plattformlosungen-de-munchen-421109",
+      "title": "Software Architect (m/f/d) für Web-, Backend- und Plattformlösungen",
+      "company": "Swissbit",
+      "location": "DE-München",
+      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/software-architect-fur-web-backend-und-plattformlosungen-de-munchen-421109",
+      "description": "A Swissbit more you.Bei uns gestaltest du die Zukunft! Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir stärken die digitale und vernetzte Welt, indem wir Daten zuverlässig speichern und schützen. Für diese und viele weitere",
+      "tags": [
+        "Software Architecture",
+        "Web Architecture",
+        "Backend Development",
+        "API Design",
+        "Solution Architecture"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T14:09:52.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-ai-developer-agentic-systems-berlin-116018",
+      "title": "Full-Stack AI Developer – Agentic Systems (m/f/d)",
+      "company": "autonomous-teaming",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/full-stack-ai-developer-agentic-systems-berlin-116018",
+      "description": "What we offerWork in an international, agile and ambitious team creating the future of autonomous systems.Grow your career in a expanding and ambitious engineering team.Build innovative products using state-of-the-art technologies in AI.Benefit from a steep learning curve and continuous development.",
+      "tags": [
+        "Typescript",
+        "Python",
+        "Multi Agent orchestration",
+        "RAG pipelines",
+        "Rust",
+        "Integrations",
+        "APIs",
+        "Frontend",
+        "Backend",
+        "AI workflows",
+        "AI agents",
+        "Data pipelines",
+        "Security",
+        "IT"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T14:09:45.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-frontend-ux-ui-engineer-dortmund-munster-251419",
+      "title": "Frontend / UX / UI Engineer (m/w/d)",
+      "company": "Its Gruppe",
+      "location": "Dortmund, Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/its-gruppe/frontend-ux-ui-engineer-dortmund-munster-251419",
+      "description": "Bei uns steht der Mensch im Mittelpunkt.Wir glauben fest daran, dass Vielfalt die Grundlage für Innovation und Erfolg ist. Deshalb fördern wir ein offenes, respektvolles Arbeitsumfeld, in dem sich jede Person unabhängig von Herkunft, Geschlecht, Alter, sexueller Orientierung oder individuellen Leben",
+      "tags": [
+        "Frontend",
+        "UX",
+        "UI",
+        "Engineer",
+        "Designer*in",
+        "Web-Oberflächen",
+        "Münster",
+        "Dortmund",
+        "Softwareentwicklung"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-12T14:09:23.000Z",
+      "source": "Arbeitnow"
+    },
     {
       "id": "arbeitnow-graduate-software-engineer-london-342714",
       "title": "Graduate Software Engineer",
@@ -15,68 +124,6 @@
       ],
       "salary": null,
       "postedAt": "2026-10-12T09:55:15.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-developer-graduate-london-297219",
-      "title": "Developer (Graduate)",
-      "company": "Native Design",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/native-design/developer-graduate-london-297219",
-      "description": "Your missionAbout NativeNative designs products that get made. Since 1997 we've worked across the US, Europe and Asia for the companies that take the object seriously: Bowers &amp; Wilkins, Bang &amp; Olufsen, Audi, Coloplast, Baxter, Bentley, HP and others we can't name yet. Along the way we've col",
-      "tags": [
-        "developer",
-        "software",
-        "full stack developer",
-        "frond end develper",
-        "back end developer",
-        "software engineer",
-        "graduate developer"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-12T00:09:40.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
-      "title": "Backend Engineer (Python),AI Engineering: Agent Foundations",
-      "company": "gitlab",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-pythonai-engineering-agent-foundations-499521",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 5",
-      "tags": [
-        "AI Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T18:55:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-analytics-engineer-london-362159",
-      "title": "Analytics Engineer",
-      "company": "Swap",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/analytics-engineer-london-362159",
-      "description": "About SwapSwap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience.Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intelligent workflows, and u",
-      "tags": [
-        "Tech"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T15:40:13.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-automation-engineer-solihull-315390",
-      "title": "Automation Engineer",
-      "company": "Gymshark",
-      "location": "Solihull",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gymshark/automation-engineer-solihull-315390",
-      "description": "&lt;p&gt;&lt;strong&gt;OVERVIEW:&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;We&#39;re looking for a frontend Automation Engineer to join our Quality Engineering (QE) team for our Mobile apps, helping us build and scale automated testing for our iOS and And",
-      "tags": [
-        "Tech: Tech Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-11T12:55:09.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -208,25 +255,6 @@
       "salary": null,
       "postedAt": "2026-10-10T00:00:05+00:00",
       "source": "RemoteOK"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-zurich-403786",
-      "title": "Full Stack Software Engineer",
-      "company": "Felfel",
-      "location": "Zürich",
-      "url": "https://www.arbeitnow.ch/jobs/companies/felfel/full-stack-software-engineer-zurich-403786",
-      "description": "IN SHORTAre you a versatile problem-solver who wants to write software that impacts the physical world? As a Full Stack Software Engineer (100%) in Zurich, you will be at the core of our operations, building systems that touch everything from warehouse automation to customer-facing smart fridges.YOU",
-      "tags": [
-        "Full-Stack Developer Zürich",
-        "Softwareentwickler Zürich",
-        "Kotlin Android Developer",
-        "Fullstack Entwickler",
-        "GraphQL",
-        "Logistics / Warehouse Software"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-09T08:09:11.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remoteok-1137474",
