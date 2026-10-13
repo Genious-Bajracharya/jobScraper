@@ -1,34 +1,113 @@
 {
-  "updatedAt": "2026-10-13T13:24:09.504Z",
-  "total": 16,
-  "newSinceLastRun": 4,
+  "updatedAt": "2026-10-13T22:13:30.795Z",
+  "total": 19,
+  "newSinceLastRun": 6,
   "jobs": [
     {
-      "id": "arbeitnow-rust-softwareentwickler-fur-ai-coding-osnabruck-481162",
-      "title": "Rust-Softwareentwickler (m/w/d) für AI Coding",
-      "company": "Domainprofi GmbH",
-      "location": "Osnabrück",
-      "url": "https://www.arbeitnow.com/jobs/companies/domainprofi-gmbh/rust-softwareentwickler-fur-ai-coding-osnabruck-481162",
-      "description": "Ihre AufgabenRust-Entwicklung mit KI-Unterstützung: Konzeption, Entwicklung und Wartung unserer Backend-Systeme mit Fokus auf Rust. Sie nutzen KI-Tools intensiv als \"Pair Programmer\", um extrem performante und sichere Softwarearchitekturen zu bauen.System- & Infrastrukturmanagement: Sicherer und rou",
+      "id": "arbeitnow-software-engineer-full-stack-backend-frontend-karlsruhe-117112",
+      "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
+      "company": "Prenode",
+      "location": "Karlsruhe",
+      "url": "https://www.arbeitnow.com/jobs/companies/prenode/software-engineer-full-stack-backend-frontend-karlsruhe-117112",
+      "description": "Was wir bietenEine dynamische und ehrgeizige Umgebung, die dir eine steile Lernkurve und die Möglichkeit zum Wachstum garantiert.Eine flexible und moderne Arbeitskultur, die dir die Vorteile der heutigen digitalen Möglichkeiten und Tools bietet.Innovative Technologie und Herangehensweisen, die siche",
       "tags": [
-        "Software Development"
+        "Typescript",
+        "Python",
+        "React",
+        "Angular",
+        "IIoT",
+        "KI",
+        "AI",
+        "Azure",
+        "DevOps",
+        "Kubernetes",
+        "Terraform",
+        "Javascript",
+        "NodeJS",
+        "Full-Stack",
+        "Backend",
+        "Frontend",
+        "Docker",
+        "Event-Driven Architecture"
       ],
       "salary": null,
-      "postedAt": "2026-10-13T11:30:59.000Z",
+      "postedAt": "2026-10-13T20:09:39.000Z",
       "source": "Arbeitnow"
     },
     {
-      "id": "arbeitnow-backend-java-engineer-381957",
-      "title": "Backend Java Engineer",
-      "company": "Airship",
-      "location": "On-site",
-      "url": "https://www.arbeitnow.fr/jobs/companies/airship/backend-java-engineer-381957",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Airship&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Airship is trusted by world’s leading brands such as Alaska Airlines, BBC and The Home Depot to drive revenue growth and customer loyalty with exceptional cross-channel customer experien",
+      "id": "arbeitnow-remote-backend-engineer-400498",
+      "title": "Backend Engineer",
+      "company": "Duna",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
+      "description": "At Duna, we see the company as the second product we’re building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work.Our mission is to redefine identity for the global economy. We’re backed by world-class investors includin",
       "tags": [
         "Engineering"
       ],
       "salary": null,
-      "postedAt": "2026-10-13T10:55:04.000Z",
+      "postedAt": "2026-10-13T17:40:48.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-remote-web-developer-all-genders-321019",
+      "title": "Web Developer (all genders)",
+      "company": "Contabo",
+      "location": "Remote (Germany)",
+      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-321019",
+      "description": "Your creative fieldWe are looking for a full-time, permanent Web Developer (all genders) to start as soon as possible. We live remote-first within Germany, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.What make",
+      "tags": [
+        "Hosting",
+        "Hosting Company",
+        "IT",
+        "Tech Company",
+        "Tech",
+        "remote",
+        "hybrid",
+        "Software Development",
+        "Web Development",
+        "Data Center",
+        "Tech Stack",
+        "Developer",
+        "React"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-13T17:09:51.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-229491",
+      "title": "Golang Backend Engineer, Financial Product Fraud",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
+      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Your",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-13T14:45:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-ii-backend-subscriptions-london-116177",
+      "title": "Software Engineer II (Backend) - Subscriptions",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-backend-subscriptions-london-116177",
+      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Soft",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-13T14:45:31.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-software-engineer-ii-backend-home-page-merchandising-platform-london-229764",
+      "title": "Software Engineer II (Backend) - Home Page & Merchandising Platform",
+      "company": "Deliveroo ",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-backend-home-page-merchandising-platform-london-229764",
+      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Join",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-13T14:45:31.000Z",
       "source": "Arbeitnow"
     },
     {
@@ -44,20 +123,6 @@
       "salary": null,
       "postedAt": "2026-10-13T09:45:53+00:00",
       "source": "Jobicy"
-    },
-    {
-      "id": "arbeitnow-full-stack-software-engineer-control-plane-the-netherlands-226061",
-      "title": "Full Stack Software Engineer - Control Plane",
-      "company": "Clickhouse",
-      "location": "The Netherlands",
-      "url": "https://www.arbeitnow.nl/jobs/companies/clickhouse/full-stack-software-engineer-control-plane-the-netherlands-226061",
-      "description": "NOTE: This position can be remote in any EMEA country ClickHouse has a hiring presence.We are hiring talented Full Stack Software Engineers for our Control Plane team.The team focuses on great user experience, seamless, automated, and scalable cloud infrastructure deployment, and lifecycle managemen",
-      "tags": [
-        "Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-13T00:40:15.000Z",
-      "source": "Arbeitnow"
     },
     {
       "id": "remotive-1680495",
