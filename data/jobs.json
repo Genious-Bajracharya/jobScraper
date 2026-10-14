@@ -1,8 +1,123 @@
 {
-  "updatedAt": "2026-10-13T22:13:30.795Z",
-  "total": 19,
-  "newSinceLastRun": 6,
+  "updatedAt": "2026-10-14T03:14:52.684Z",
+  "total": 22,
+  "newSinceLastRun": 8,
   "jobs": [
+    {
+      "id": "arbeitnow-responsable-metrologie-transport-de-biologie-saint-ouen-180286",
+      "title": "Responsable Métrologie – Transport de Biologie H/F/X",
+      "company": "TopChrono",
+      "location": "Saint Ouen, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/responsable-metrologie-transport-de-biologie-saint-ouen-180286",
+      "description": "TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, adoptant une dynamique startup pour réin",
+      "tags": [
+        "Opérations"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-14T01:30:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-charge-de-ressources-humaines-en-alternance-saint-ouen-451729",
+      "title": "Chargé de Ressources Humaines en alternance H/F/X",
+      "company": "TopChrono",
+      "location": "Saint Ouen, Île-de-France, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/topchrono/charge-de-ressources-humaines-en-alternance-saint-ouen-451729",
+      "description": "Rejoignez notre transformation !&nbsp;TopChrono, leader historique de la livraison express et du dernier kilomètre, entre dans une nouvelle ère ! Face aux mutations du secteur (explosion du e-commerce, ubérisation, nouvelles technologies), nous avons entrepris un vaste chantier de transformation, ad",
+      "tags": [
+        "Ressources humaines"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-14T01:30:22.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-werkstudent-im-verkauf-mode-und-bekleidung-berlin-108100",
+      "title": "Werkstudent (m/w/d) im Verkauf Mode und Bekleidung",
+      "company": "KULT | OLYMP & HADES",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/kult-olymp-hades/werkstudent-im-verkauf-mode-und-bekleidung-berlin-108100",
+      "description": "Studenten gesucht!!Fashion ist deine Passion? Du sprühst vor Kreativität und arbeitest gerne mit Menschen?Dann suchen WIR genau DICH für unsere Filiale!In unseren Filialen OLYMP &amp; HADES sowie KULT erlebst Du die Vielfalt angesagter Styles und arbeitest mit aufstrebenden Newcomern und Labels zusa",
+      "tags": [],
+      "salary": null,
+      "postedAt": "2026-10-13T23:30:05.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-software-engineer-zurich-191106",
+      "title": "Full Stack Software Engineer",
+      "company": "Felfel",
+      "location": "Zürich",
+      "url": "https://www.arbeitnow.ch/jobs/companies/felfel/full-stack-software-engineer-zurich-191106",
+      "description": "IN SHORTAre you a versatile problem-solver who wants to write software that impacts the physical world? As a Full Stack Software Engineer (100%) in Zurich, you will be at the core of our operations, building systems that touch everything from warehouse automation to customer-facing smart fridges.YOU",
+      "tags": [
+        "Full-Stack Developer Zürich",
+        "Softwareentwickler Zürich",
+        "Kotlin Android Developer",
+        "Fullstack Entwickler",
+        "GraphQL",
+        "Logistics / Warehouse Software"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-13T23:09:34.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-full-stack-product-developer-berlin-269884",
+      "title": "Full Stack Product Developer (m/w/d)",
+      "company": "Tablemedia",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-269884",
+      "description": "Aufgaben  Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und unseren Redaktionen den Rücken freizuha",
+      "tags": [
+        "php",
+        "laravel",
+        "statamic",
+        "PostgreSQL",
+        "Livewire",
+        "html",
+        "css",
+        "javascript",
+        "RESTful APIs",
+        "Linux",
+        "frontend",
+        "backend",
+        "fullstack",
+        "product",
+        "productdevelopment"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-13T23:09:13.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "arbeitnow-backend-engineer-intern-6-months-starting-february-2027-paris-31675",
+      "title": "Backend Engineer Intern (6 months starting February 2027)",
+      "company": "Equativ",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/equativ/backend-engineer-intern-6-months-starting-february-2027-paris-31675",
+      "description": "\n👫 About the team\nAt Equativ, we’re on a mission to develop advertising technologies that empower our customers to reach their digital business goals. This means that we rely on massively scalable, widely distributed, highly available, and efficient software systems; the platform deals with over 6 ",
+      "tags": [
+        "Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-13T22:25:37.000Z",
+      "source": "Arbeitnow"
+    },
+    {
+      "id": "jobicy-155238",
+      "title": "Backend Engineer",
+      "company": "Catawiki",
+      "location": "Portugal",
+      "url": "https://jobicy.com/jobs/155238-backend-engineer-4",
+      "description": "At Catawiki, every day brings the extraordinary! Whether it’s Daniel Ricciardo’s Formula 1 Car, a Woolly Mammoth’s Skeleton, Lady Gaga's Jumpsuit or Usain Bolt’s running shoe, we encounter exceptional objects every day. We’re a one-of-a-kind marketplace for buying and selling special objects. Each w",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-13T20:24:03+00:00",
+      "source": "Jobicy"
+    },
     {
       "id": "arbeitnow-software-engineer-full-stack-backend-frontend-karlsruhe-117112",
       "title": "Software Engineer: Full-Stack, Backend, Frontend (m/w/d)",
@@ -35,6 +150,20 @@
       "source": "Arbeitnow"
     },
     {
+      "id": "jobicy-155231",
+      "title": "Full Stack Web Engineer",
+      "company": "Fueled",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/155231-full-stack-web-engineer",
+      "description": "Location: Remote – Latin America (Open to applicants located anywhere in the LATAM region) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New Y",
+      "tags": [
+        "Software Engineering"
+      ],
+      "salary": null,
+      "postedAt": "2026-10-13T20:08:23+00:00",
+      "source": "Jobicy"
+    },
+    {
       "id": "arbeitnow-remote-backend-engineer-400498",
       "title": "Backend Engineer",
       "company": "Duna",
@@ -47,82 +176,6 @@
       "salary": null,
       "postedAt": "2026-10-13T17:40:48.000Z",
       "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-remote-web-developer-all-genders-321019",
-      "title": "Web Developer (all genders)",
-      "company": "Contabo",
-      "location": "Remote (Germany)",
-      "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-web-developer-all-genders-321019",
-      "description": "Your creative fieldWe are looking for a full-time, permanent Web Developer (all genders) to start as soon as possible. We live remote-first within Germany, but you have the freedom to choose whether you want to work hybrid or completely on-site due to your proximity to one of our locations.What make",
-      "tags": [
-        "Hosting",
-        "Hosting Company",
-        "IT",
-        "Tech Company",
-        "Tech",
-        "remote",
-        "hybrid",
-        "Software Development",
-        "Web Development",
-        "Data Center",
-        "Tech Stack",
-        "Developer",
-        "React"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-13T17:09:51.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-229491",
-      "title": "Golang Backend Engineer, Financial Product Fraud",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/golang-backend-engineer-financial-product-fraud-london-229491",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Your",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-13T14:45:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ii-backend-subscriptions-london-116177",
-      "title": "Software Engineer II (Backend) - Subscriptions",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-backend-subscriptions-london-116177",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Soft",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-13T14:45:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "arbeitnow-software-engineer-ii-backend-home-page-merchandising-platform-london-229764",
-      "title": "Software Engineer II (Backend) - Home Page & Merchandising Platform",
-      "company": "Deliveroo ",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-backend-home-page-merchandising-platform-london-229764",
-      "description": "Our Global Structure\nDeliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Join",
-      "tags": [],
-      "salary": null,
-      "postedAt": "2026-10-13T14:45:31.000Z",
-      "source": "Arbeitnow"
-    },
-    {
-      "id": "jobicy-155189",
-      "title": "Full Stack Engineer",
-      "company": "infisical",
-      "location": "Brazil,  Canada,  Europe,  USA",
-      "url": "https://jobicy.com/jobs/155189-full-stack-engineer-3",
-      "description": "Infisical is the open source security infrastructure platform that engineers use for secrets management, certificates, and privileged access management. We help developers and organizations securely manage billions of secrets every month including application configuration, database credentials, cer",
-      "tags": [
-        "Software Engineering"
-      ],
-      "salary": null,
-      "postedAt": "2026-10-13T09:45:53+00:00",
-      "source": "Jobicy"
     },
     {
       "id": "remotive-1680495",
